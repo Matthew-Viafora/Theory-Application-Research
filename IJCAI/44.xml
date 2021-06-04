@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="755992">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"socinf2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">126.94</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18207075">:facetid:toc:db/conf/ijcai/socinf2016.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="1842164">
+<info><authors><author pid="178/8576">Varun Gangal</author><author pid="69/2281">Balaraman Ravindran</author><author pid="56/3378">Ramasuri Narayanam</author></authors><title>HEMI - Hyperedge Majority Influence Maximization.</title><venue>SocInf@IJCAI</venue><pages>38-47</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GangalRN16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GangalRN16</url></info>
+<url>URL#1842164</url>
+</hit>
+<hit score="1" id="1842216">
+<info><authors><author pid="19/10690">Jan Hauffa</author><author pid="67/9508">Benjamin Koster</author><author pid="94/10009">Florian Hartl</author><author pid="134/8346">Valeria Köllhofer</author><author pid="09/5335">Georg Groh</author></authors><title>Mining Twitter for an Explanatory Model of Social Influence.</title><venue>SocInf@IJCAI</venue><pages>3-14</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HauffaKHKG16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HauffaKHKG16</url></info>
+<url>URL#1842216</url>
+</hit>
+<hit score="1" id="1842231">
+<info><authors><author pid="24/6824">Ke Hu</author><author pid="80/4579">Xiangyang Li</author><author pid="184/6544">Chaotian Wu</author></authors><title>Cold Start Purchase Prediction with Budgets Constraints.</title><venue>SocInf@IJCAI</venue><pages>68-80</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HuLW16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_InvPaper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HuLW16</url></info>
+<url>URL#1842231</url>
+</hit>
+<hit score="1" id="1842328">
+<info><authors><author pid="120/9595">Panagiotis Liakos</author><author pid="116/4764">Katia Papakonstantinopoulou</author><author pid="117/5970">Michael Sioutis</author><author pid="82/4401">Konstantinos Tsakalozos</author><author pid="d/AlexDelis">Alex Delis</author></authors><title>Pinpointing Influence in Pinterest.</title><venue>SocInf@IJCAI</venue><pages>26-37</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiakosPSTD16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LiakosPSTD16</url></info>
+<url>URL#1842328</url>
+</hit>
+<hit score="1" id="1842400">
+<info><authors><author pid="48/8757">Pankaj Mishra</author><author pid="116/9348">Rafik Hadfi</author><author pid="24/1535">Takayuki Ito</author></authors><title>Social Influence Analysis based on Facial Emotions.</title><venue>SocInf@IJCAI</venue><pages>15-25</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MishraHI16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MishraHI16</url></info>
+<url>URL#1842400</url>
+</hit>
+<hit score="1" id="1842501">
+<info><authors><author pid="80/9102">Bei Shi</author><author pid="96/133">Hao Wei</author></authors><title>Location Based Services Recommendation with Budget Constraints.</title><venue>SocInf@IJCAI</venue><pages>48-56</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShiW16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_InvPaper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShiW16</url></info>
+<url>URL#1842501</url>
+</hit>
+<hit score="1" id="1842648">
+<info><authors><author pid="178/7287">Yichen Yao</author><author pid="35/1665">Zhongjie Li</author></authors><title>Cold-Start Solution for Entity Shop Recommender Systems using Online Sales Records.</title><venue>SocInf@IJCAI</venue><pages>57-67</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YaoL16</key><ee>http://ceur-ws.org/Vol-1622/SocInf2016_InvPaper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/YaoL16</url></info>
+<url>URL#1842648</url>
+</hit>
+<hit score="1" id="1911970">
+<info><authors><author pid="88/301">Marcelo Gabriel Armentano</author><author pid="41/7836">Ariel Monteserin</author><author pid="t/JieTang">Jie Tang 0001</author><author pid="58/9344">Virginia Yannibelli</author></authors><title>Proceedings of the 2nd International Workshop on Social Influence Analysis co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, New York, USA, July 9, 2016.</title><venue>SocInf@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1622</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/ijcai/2016socinf</key><ee>http://ceur-ws.org/Vol-1622</ee><url>https://dblp.org/rec/conf/ijcai/2016socinf</url></info>
+<url>URL#1911970</url>
+</hit>
+</hits>
+</result>

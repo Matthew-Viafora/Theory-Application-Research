@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="756677">:facetid:toc:db\"/\"conf\"/\"atal\"/\"coin2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">127.23</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="18185863">:facetid:toc:db/conf/atal/coin2015.bht</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="1" id="1910792">
+<info><authors><author pid="d/VDignum">Virginia Dignum</author><author pid="35/4809">Pablo Noriega</author><author pid="40/4752">Murat Sensoy</author><author pid="s/JSSichman">Jaime Simão Sichman</author></authors><title>Coordination, Organizations, Institutions, and Normes in Agent Systems XI - COIN 2015 International Workshops, COIN@AAMAS, Istanbul, Turkey, May 4, 2015, COIN@IJCAI, Buenos Aires, Argentina, July 26, 2015, Revised Selected Papers</title><venue>COIN@AAMAS/IJCAI</venue><venue>Lecture Notes in Computer Science</venue><volume>9628</volume><publisher>Springer</publisher><year>2016</year><type>Editorship</type><key>conf/atal/2015coin</key><doi>10.1007/978-3-319-42691-4</doi><ee>https://doi.org/10.1007/978-3-319-42691-4</ee><url>https://dblp.org/rec/conf/atal/2015coin</url></info>
+<url>URL#1910792</url>
+</hit>
+<hit score="1" id="2066835">
+<info><authors><author pid="54/10574-2">Luca Gasparini 0002</author><author pid="23/1018">Timothy J. Norman</author><author pid="40/6032">Martin J. Kollingbaum</author><author pid="01/5394">Liang Chen</author><author pid="m/JJCMeyer">John-Jules Ch. Meyer</author></authors><title>CÒIR - Verifying Normative Specifications of Complex Systems.</title><venue>COIN@AAMAS/IJCAI</venue><pages>134-153</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/0002NKCM15</key><doi>10.1007/978-3-319-42691-4_8</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_8</ee><url>https://dblp.org/rec/conf/atal/0002NKCM15</url></info>
+<url>URL#2066835</url>
+</hit>
+<hit score="1" id="2066842">
+<info><authors><author pid="16/4203">Huib Aldewereld</author><author pid="d/VDignum">Virginia Dignum</author><author pid="32/3960">Wamberto Weber Vasconcelos</author></authors><title>Reasoning with Group Norms in Software Agent Organisations.</title><venue>COIN@AAMAS/IJCAI</venue><pages>1-21</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/AldewereldDV15</key><doi>10.1007/978-3-319-42691-4_1</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_1</ee><url>https://dblp.org/rec/conf/atal/AldewereldDV15</url></info>
+<url>URL#2066842</url>
+</hit>
+<hit score="1" id="2066900">
+<info><authors><author pid="96/1517">Cristiano Castelfranchi</author></authors><title>A Cognitive Framing for Norm Change.</title><venue>COIN@AAMAS/IJCAI</venue><pages>22-41</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/Castelfranchi15a</key><doi>10.1007/978-3-319-42691-4_2</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_2</ee><url>https://dblp.org/rec/conf/atal/Castelfranchi15a</url></info>
+<url>URL#2066900</url>
+</hit>
+<hit score="1" id="2066906">
+<info><authors><author pid="97/18">Federico Cerutti</author><author pid="06/7119">Christopher Burnett</author><author pid="93/2933">Nir Oren</author></authors><title>Representative Agents and the Cold Start Problem in Contract Negotiation.</title><venue>COIN@AAMAS/IJCAI</venue><pages>42-58</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/CeruttiBO15</key><doi>10.1007/978-3-319-42691-4_3</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_3</ee><url>https://dblp.org/rec/conf/atal/CeruttiBO15</url></info>
+<url>URL#2066906</url>
+</hit>
+<hit score="1" id="2066908">
+<info><authors><author pid="182/9951">Stephan Chang</author><author pid="10/985">Felipe Meneguzzi</author></authors><title>Simulating Normative Behaviour in Multi-agent Environments Using Monitoring Artefacts.</title><venue>COIN@AAMAS/IJCAI</venue><pages>59-77</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/ChangM15</key><doi>10.1007/978-3-319-42691-4_4</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_4</ee><url>https://dblp.org/rec/conf/atal/ChangM15</url></info>
+<url>URL#2066908</url>
+</hit>
+<hit score="1" id="2066927">
+<info><authors><author pid="28/5577">Daniel D. Corkill</author><author pid="131/5173">Daniel Garant</author><author pid="l/VRLesser">Victor R. Lesser</author></authors><title>Exploring the Effectiveness of Agent Organizations.</title><venue>COIN@AAMAS/IJCAI</venue><pages>78-97</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/CorkillGL15</key><doi>10.1007/978-3-319-42691-4_5</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_5</ee><url>https://dblp.org/rec/conf/atal/CorkillGL15</url></info>
+<url>URL#2066927</url>
+</hit>
+<hit score="1" id="2066946">
+<info><authors><author pid="d/VDignum">Virginia Dignum</author></authors><title>Mind as a Service - Building Socially Intelligent Agents.</title><venue>COIN@AAMAS/IJCAI</venue><pages>119-133</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/Dignum15</key><doi>10.1007/978-3-319-42691-4_7</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_7</ee><url>https://dblp.org/rec/conf/atal/Dignum15</url></info>
+<url>URL#2066946</url>
+</hit>
+<hit score="1" id="2067021">
+<info><authors><author pid="156/6590">Marzieh Jahanbazi</author><author pid="55/10462">Christopher Frantz</author><author pid="50/3046">Maryam Purvis</author><author pid="05/2508">Martin K. Purvis</author></authors><title>The Role of Knowledge Keepers in an Artificial Primitive Human Society - An Agent-Based Approach.</title><venue>COIN@AAMAS/IJCAI</venue><pages>154-172</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/JahanbaziFPP15</key><doi>10.1007/978-3-319-42691-4_9</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_9</ee><url>https://dblp.org/rec/conf/atal/JahanbaziFPP15</url></info>
+<url>URL#2067021</url>
+</hit>
+<hit score="1" id="2067025">
+<info><authors><author pid="32/7018">Jie Jiang</author><author pid="16/4203">Huib Aldewereld</author></authors><title>Modeling and Detecting Norm Conflicts in Regulated Organizations.</title><venue>COIN@AAMAS/IJCAI</venue><pages>173-190</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/JiangA15</key><doi>10.1007/978-3-319-42691-4_10</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_10</ee><url>https://dblp.org/rec/conf/atal/JiangA15</url></info>
+<url>URL#2067025</url>
+</hit>
+<hit score="1" id="2067028">
+<info><authors><author pid="11/11086">Dave de Jonge</author><author pid="s/CarlesSierra">Carles Sierra</author></authors><title>SIMPLE - A Language for the Specification of Protocols, Similar to Natural Language.</title><venue>COIN@AAMAS/IJCAI</venue><pages>98-118</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/JongeS15</key><doi>10.1007/978-3-319-42691-4_6</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_6</ee><url>https://dblp.org/rec/conf/atal/JongeS15</url></info>
+<url>URL#2067028</url>
+</hit>
+<hit score="1" id="2067038">
+<info><authors><author pid="147/6721">Thomas Christopher King</author><author pid="05/2053-1">Tingting Li 0001</author><author pid="87/885">Marina De Vos</author><author pid="41/631">Catholijn M. Jonker</author><author pid="05/6896">Julian A. Padget</author><author pid="r/MBvRiemsdijk">M. Birna van Riemsdijk</author></authors><title>Revising Institutions Governed by Institutions for Compliant Regulations.</title><venue>COIN@AAMAS/IJCAI</venue><pages>191-208</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/KingLVJPR15</key><doi>10.1007/978-3-319-42691-4_11</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_11</ee><url>https://dblp.org/rec/conf/atal/KingLVJPR15</url></info>
+<url>URL#2067038</url>
+</hit>
+<hit score="1" id="2067053">
+<info><authors><author pid="118/4502">Jiaqi Li</author><author pid="10/985">Felipe Meneguzzi</author><author pid="11/2749">Moser Silva Fagundes</author><author pid="81/6813">Brian Logan</author></authors><title>Reinforcement Learning of Normative Monitoring Intensities.</title><venue>COIN@AAMAS/IJCAI</venue><pages>209-223</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/LiMFL15</key><doi>10.1007/978-3-319-42691-4_12</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_12</ee><url>https://dblp.org/rec/conf/atal/LiMFL15</url></info>
+<url>URL#2067053</url>
+</hit>
+<hit score="1" id="2067054">
+<info><authors><author pid="182/9939">Sirui Li</author><author pid="182/9999">Weixing Sun</author><author pid="64/2748">Tim Miller</author></authors><title>Communication in Human-Agent Teams for Tasks with Joint Action.</title><venue>COIN@AAMAS/IJCAI</venue><pages>224-241</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/LiSM15</key><doi>10.1007/978-3-319-42691-4_13</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_13</ee><url>https://dblp.org/rec/conf/atal/LiSM15</url></info>
+<url>URL#2067054</url>
+</hit>
+<hit score="1" id="2067073">
+<info><authors><author pid="48/438">James Marchant</author><author pid="68/2220">Nathan Griffiths</author></authors><title>Manipulating Conventions in a Particle-Based Topology.</title><venue>COIN@AAMAS/IJCAI</venue><pages>242-261</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/MarchantG15</key><doi>10.1007/978-3-319-42691-4_14</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_14</ee><url>https://dblp.org/rec/conf/atal/MarchantG15</url></info>
+<url>URL#2067073</url>
+</hit>
+<hit score="1" id="2067077">
+<info><authors><author pid="35/1126">Leandro Soriano Marcolino</author><author pid="04/1895">Haifeng Xu</author><author pid="151/0124">David Jason Gerber</author><author pid="182/9917">Boian Kolev</author><author pid="182/9949">Samori Price</author><author pid="165/4982">Evangelos Pantazis</author><author pid="67/2667">Milind Tambe</author></authors><title>Multi-agent Team Formation for Design Problems.</title><venue>COIN@AAMAS/IJCAI</venue><pages>354-375</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/MarcolinoXGKPPT15</key><doi>10.1007/978-3-319-42691-4_20</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_20</ee><url>https://dblp.org/rec/conf/atal/MarcolinoXGKPPT15</url></info>
+<url>URL#2067077</url>
+</hit>
+<hit score="1" id="2067095">
+<info><authors><author pid="170/3541">Yuki Miyashita</author><author pid="134/4000">Masashi Hayano</author><author pid="78/1202">Toshiharu Sugawara</author></authors><title>Formation of Association Structures Based on Reciprocity and Their Performance in Allocation Problems.</title><venue>COIN@AAMAS/IJCAI</venue><pages>262-281</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/MiyashitaHS15</key><doi>10.1007/978-3-319-42691-4_15</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_15</ee><url>https://dblp.org/rec/conf/atal/MiyashitaHS15</url></info>
+<url>URL#2067095</url>
+</hit>
+<hit score="1" id="2067101">
+<info><authors><author pid="70/1862">Christian J. Muise</author><author pid="d/FrankDignum">Frank Dignum</author><author pid="44/8399">Paolo Felli</author><author pid="64/2748-1">Tim Miller 0001</author><author pid="53/1321">Adrian R. Pearce</author><author pid="41/4303">Liz Sonenberg</author></authors><title>Towards Team Formation via Automated Planning.</title><venue>COIN@AAMAS/IJCAI</venue><pages>282-299</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/MuiseDFMPS15</key><doi>10.1007/978-3-319-42691-4_16</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_16</ee><url>https://dblp.org/rec/conf/atal/MuiseDFMPS15</url></info>
+<url>URL#2067101</url>
+</hit>
+<hit score="1" id="2067124">
+<info><authors><author pid="142/9000">Christos Parizas</author><author pid="06/2115">Geeth de Mel</author><author pid="p/AlunDPreece">Alun D. Preece</author><author pid="40/4752">Murat Sensoy</author><author pid="93/6458">Seraphin B. Calo</author><author pid="70/8184">Tien Pham</author></authors><title>Interest-Based Negotiation for Policy-Regulated Asset Sharing.</title><venue>COIN@AAMAS/IJCAI</venue><pages>300-319</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/ParizasMPSCP15</key><doi>10.1007/978-3-319-42691-4_17</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_17</ee><url>https://dblp.org/rec/conf/atal/ParizasMPSCP15</url></info>
+<url>URL#2067124</url>
+</hit>
+<hit score="1" id="2067165">
+<info><authors><author pid="130/2941">Tiago Luiz Schmitz</author><author pid="h/JomiFredHubner">Jomi Fred Hübner</author></authors><title>An Empirical Evaluation of the Huginn Constrained Norm-Aware BDI Reasoner.</title><venue>COIN@AAMAS/IJCAI</venue><pages>320-334</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/SchmitzH15</key><doi>10.1007/978-3-319-42691-4_18</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_18</ee><url>https://dblp.org/rec/conf/atal/SchmitzH15</url></info>
+<url>URL#2067165</url>
+</hit>
+<hit score="1" id="2067171">
+<info><authors><author pid="153/5557">Zohreh Shams</author><author pid="87/885">Marina De Vos</author><author pid="05/6896">Julian A. Padget</author><author pid="32/3960">Wamberto Weber Vasconcelos</author></authors><title>Implementation of Normative Practical Reasoning with Durative Actions.</title><venue>COIN@AAMAS/IJCAI</venue><pages>335-353</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/ShamsVPV15</key><doi>10.1007/978-3-319-42691-4_19</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_19</ee><url>https://dblp.org/rec/conf/atal/ShamsVPV15</url></info>
+<url>URL#2067171</url>
+</hit>
+<hit score="1" id="2067195">
+<info><authors><author pid="147/6773">Bas Testerink</author><author pid="63/716">Nils Bulling</author><author pid="d/MehdiDastani">Mehdi Dastani</author></authors><title>Security and Robustness for Collaborative Monitors.</title><venue>COIN@AAMAS/IJCAI</venue><pages>376-395</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/TesterinkBD15a</key><doi>10.1007/978-3-319-42691-4_21</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_21</ee><url>https://dblp.org/rec/conf/atal/TesterinkBD15a</url></info>
+<url>URL#2067195</url>
+</hit>
+<hit score="1" id="2067198">
+<info><authors><author pid="14/6686-1">Matthew Thompson 0001</author><author pid="05/6896">Julian A. Padget</author><author pid="80/89">Steve Battle</author></authors><title>An Interactive, Generative Punch and Judy Show Using Institutions, ASP and Emotional Agents.</title><venue>COIN@AAMAS/IJCAI</venue><pages>396-417</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/ThompsonPB15</key><doi>10.1007/978-3-319-42691-4_22</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_22</ee><url>https://dblp.org/rec/conf/atal/ThompsonPB15</url></info>
+<url>URL#2067198</url>
+</hit>
+<hit score="1" id="2067234">
+<info><authors><author pid="182/9888">Vahid Yazdanpanah</author><author pid="d/MehdiDastani">Mehdi Dastani</author></authors><title>Quantified Degrees of Group Responsibility.</title><venue>COIN@AAMAS/IJCAI</venue><pages>418-436</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/atal/YazdanpanahD15</key><doi>10.1007/978-3-319-42691-4_23</doi><ee>https://doi.org/10.1007/978-3-319-42691-4_23</ee><url>https://dblp.org/rec/conf/atal/YazdanpanahD15</url></info>
+<url>URL#2067234</url>
+</hit>
+</hits>
+</result>

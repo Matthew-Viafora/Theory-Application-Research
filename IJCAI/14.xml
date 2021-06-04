@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="752351">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"att2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">118.77</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="18206989">:facetid:toc:db/conf/ijcai/att2018.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="1181075">
+<info><authors><author pid="81/1376">Marco Lippi 0001</author><author pid="90/6532">Marco Mamei</author><author pid="54/3140">Franco Zambonelli</author></authors><title>Predict Cellular Network Traffic with Markov Logic.</title><venue>ATT@IJCAI</venue><pages>9-14</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0001MZ18</key><ee>http://ceur-ws.org/Vol-2129/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0001MZ18</url></info>
+<url>URL#1181075</url>
+</hit>
+<hit score="1" id="1181106">
+<info><authors><author pid="70/8611">Elvio Gilberto Amparore</author><author pid="98/4241">Marco Beccuti</author><author pid="90/5426">Marco Botta</author><author pid="d/SDonatelli">Susanna Donatelli</author><author pid="86/3866">Fabio Tango</author></authors><title>Adaptive Artificial Co-pilot as Enabler for Autonomous Vehicles and Intelligent Transportation Systems.</title><venue>ATT@IJCAI</venue><pages>70-77</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AmparoreBBDT18</key><ee>http://ceur-ws.org/Vol-2129/paper19.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AmparoreBBDT18</url></info>
+<url>URL#1181106</url>
+</hit>
+<hit score="1" id="1181131">
+<info><authors><author pid="223/1870">Mohamed Batran</author><author pid="223/1878">Mariano Gregorio Mejia</author><author pid="132/3830">Yoshihide Sekimoto</author><author pid="00/2937">Ryosuke Shibasaki</author></authors><title>Inference of Human Spatiotemporal Mobility in Greater Maputo by Mobile Phone Big Data Mining.</title><venue>ATT@IJCAI</venue><pages>1-8</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BatranMSS18</key><ee>http://ceur-ws.org/Vol-2129/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BatranMSS18</url></info>
+<url>URL#1181131</url>
+</hit>
+<hit score="1" id="1181150">
+<info><authors><author pid="162/5030">Arpita Biswas</author><author pid="g/RGopalakrishnan">Ragavendran Gopalakrishnan</author><author pid="53/2762">Theja Tulabandhula</author><author pid="165/4127">Asmita Metrewar</author><author pid="31/11267">Koyel Mukherjee</author><author pid="200/2283">Raja Subramaniam Thangaraj</author></authors><title>Impact of Detour-Aware Policies on Maximizing Profit in Ridesharing.</title><venue>ATT@IJCAI</venue><pages>78-85</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BiswasGTMMT18</key><ee>http://ceur-ws.org/Vol-2129/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BiswasGTMMT18</url></info>
+<url>URL#1181150</url>
+</hit>
+<hit score="1" id="1181253">
+<info><authors><author pid="129/7626">Luca Crociani</author><author pid="00/247">Gregor Lämmel</author><author pid="19/1650">Giuseppe Vizzari</author><author pid="13/5210">Stefania Bandini</author></authors><title>Learning Obervables of a Multi-scale Simulation System of Urban Traffic.</title><venue>ATT@IJCAI</venue><pages>40-48</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CrocianiLVB18</key><ee>http://ceur-ws.org/Vol-2129/paper18.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CrocianiLVB18</url></info>
+<url>URL#1181253</url>
+</hit>
+<hit score="1" id="1181333">
+<info><authors><author pid="206/1469">Nir Fulman</author><author pid="38/1957">Itzhak Benenson</author></authors><title>Agent-based Modeling for Transportation Planning - A Method for Estimating Parking Search Time Based on Demand and Supply.</title><venue>ATT@IJCAI</venue><pages>31-39</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FulmanB18</key><ee>http://ceur-ws.org/Vol-2129/paper15.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FulmanB18</url></info>
+<url>URL#1181333</url>
+</hit>
+<hit score="1" id="1181369">
+<info><authors><author pid="32/1597">Andreas Gregoriades</author><author pid="87/7274">Maria Pampaka</author></authors><title>Evaluating a custom-made agent-based driving simulator.</title><venue>ATT@IJCAI</venue><pages>15-23</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GregoriadesP18</key><ee>http://ceur-ws.org/Vol-2129/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GregoriadesP18</url></info>
+<url>URL#1181369</url>
+</hit>
+<hit score="1" id="1181452">
+<info><authors><author pid="09/10041">Shota Ishikawa</author><author pid="92/6784">Sachiyo Arai</author></authors><title>Learning Cooperative Policy among Self-Driving Vehicles to Relieve Traffic Jams.</title><venue>ATT@IJCAI</venue><pages>63-69</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IshikawaA18</key><ee>http://ceur-ws.org/Vol-2129/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/IshikawaA18</url></info>
+<url>URL#1181452</url>
+</hit>
+<hit score="1" id="1181487">
+<info><authors><author pid="124/2508">Nadin Kökciyan</author><author pid="129/1089">Mustafa Erdogan</author><author pid="223/1869">Tuna Han Salih Meral</author><author pid="31/4750">Pinar Yolum</author></authors><title>Privacy-Preserving Intersection Management for Autonomous Vehicles.</title><venue>ATT@IJCAI</venue><pages>49-56</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KokciyanEMY18</key><ee>http://ceur-ws.org/Vol-2129/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KokciyanEMY18</url></info>
+<url>URL#1181487</url>
+</hit>
+<hit score="1" id="1181668">
+<info><authors><author pid="223/1893">Ryo Nishida</author><author pid="43/6715">Masaki Onishi</author><author pid="77/2163">Koichi Hashimoto</author></authors><title>Multiple Destinations Pedestrian Model using an Improved Social Force Model.</title><venue>ATT@IJCAI</venue><pages>24-30</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NishidaOH18</key><ee>http://ceur-ws.org/Vol-2129/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/NishidaOH18</url></info>
+<url>URL#1181668</url>
+</hit>
+<hit score="1" id="1181754">
+<info><authors><author pid="223/1904">Mark Schutera</author><author pid="188/9544">Niklas Goby</author><author pid="90/1401">Dirk Neumann 0001</author><author pid="92/3161">Markus Reischl</author></authors><title>Transfer Learning versus Multiagent Learning regarding Distributed Decision-Making in Highway Traffic.</title><venue>ATT@IJCAI</venue><pages>57-62</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SchuteraG0R18</key><ee>http://ceur-ws.org/Vol-2129/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SchuteraG0R18</url></info>
+<url>URL#1181754</url>
+</hit>
+<hit score="1" id="1181766">
+<info><authors><author pid="223/1911">Megan Shearer</author><author pid="w/MichaelPWellman">Michael P. Wellman</author></authors><title>Incentivizing Rider Time-Shift in a Multi-Leg Public Transportation System.</title><venue>ATT@IJCAI</venue><pages>86-93</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShearerW18</key><ee>http://ceur-ws.org/Vol-2129/paper11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShearerW18</url></info>
+<url>URL#1181766</url>
+</hit>
+<hit score="1" id="1253766">
+<info><authors><author pid="b/AnaLCBazzan">Ana Lúcia C. Bazzan</author><author pid="129/7626">Luca Crociani</author><author pid="77/723">Ivana Dusparic</author><author pid="o/SaschaOssowski">Sascha Ossowski</author></authors><title>Proceedings of the Tenth International Workshop on Agents in Traffic and Transportation (ATT 2018) co-located with with the Federated Artificial Intelligence Meeting, including ECAI/IJCAI, AAMAS and ICML 2018 conferences (FAIM 2018), Stockholm, Sweden, July 14, 2018.</title><venue>ATT@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2129</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018att</key><ee>http://ceur-ws.org/Vol-2129</ee><url>https://dblp.org/rec/conf/ijcai/2018att</url></info>
+<url>URL#1253766</url>
+</hit>
+</hits>
+</result>

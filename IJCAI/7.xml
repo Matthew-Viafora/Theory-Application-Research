@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="751098">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"fca4ai2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">137.53</time>
+<completions total="1" computed="1" sent="1">
+<c sc="9" dc="9" oc="9" id="18207007">:facetid:toc:db/conf/ijcai/fca4ai2019.bht</c>
+</completions>
+<hits total="9" computed="9" sent="9" first="0">
+<hit score="1" id="459766">
+<info><authors><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author><author pid="79/6633">Sebastian Rudolph</author></authors><title>Proceedings of the 7th International Workshop &quot;What can FCA do for Artificial Intelligence&quot;? co-located with International Joint Conference on Artificial Intelligence, FCA4AI@IJCAI 2019, Macao, China, August 10, 2019.</title><venue>FCA4AI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2529</volume><publisher>CEUR-WS.org</publisher><year>2020</year><type>Editorship</type><key>conf/ijcai/2019fca4ai</key><ee>http://ceur-ws.org/Vol-2529</ee><url>https://dblp.org/rec/conf/ijcai/2019fca4ai</url></info>
+<url>URL#459766</url>
+</hit>
+<hit score="1" id="802450">
+<info><authors><author pid="30/5842">C. Anantaram</author><author pid="261/0376">Mouli Rastogi</author><author pid="222/7855">Mrinal Rawat</author><author pid="216/9153">Pratik Saini</author></authors><title>Enabling Natural Language Analytics over Relational Data Using Formal Concept Analysis.</title><venue>FCA4AI@IJCAI</venue><pages>7-18</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AnantaramRRS19</key><ee>http://ceur-ws.org/Vol-2529/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AnantaramRRS19</url></info>
+<url>URL#802450</url>
+</hit>
+<hit score="1" id="802671">
+<info><authors><author pid="261/0305">Alexey V. Galatenko</author><author pid="208/8931">Stepan A. Nersisyan</author><author pid="45/10894">Vera V. Pankratieva</author></authors><title>Clustering of Biomedical Data Using the Greedy Clustering Algorithm Based on Interval Pattern Concepts.</title><venue>FCA4AI@IJCAI</venue><pages>65-74</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalatenkoNP19</key><ee>http://ceur-ws.org/Vol-2529/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalatenkoNP19</url></info>
+<url>URL#802671</url>
+</hit>
+<hit score="1" id="802672">
+<info><authors><author pid="137/3611">Boris Galitsky</author><author pid="140/3022">Dmitry I. Ilvovsky</author></authors><title>Validating Correctness of Textual Explanation with Complete Discourse Trees.</title><venue>FCA4AI@IJCAI</venue><pages>29-38</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalitskyI19</key><ee>http://ceur-ws.org/Vol-2529/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalitskyI19</url></info>
+<url>URL#802672</url>
+</hit>
+<hit score="1" id="802673">
+<info><authors><author pid="137/3611">Boris Galitsky</author><author pid="140/3022">Dmitry I. Ilvovsky</author></authors><title>Least General Generalization of the Linguistic Structures.</title><venue>FCA4AI@IJCAI</venue><pages>39-44</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalitskyI19a</key><ee>http://ceur-ws.org/Vol-2529/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalitskyI19a</url></info>
+<url>URL#802673</url>
+</hit>
+<hit score="1" id="802700">
+<info><authors><author pid="261/0052">Elizaveta F. Goncharova</author><author pid="51/2300">Sergei O. Kuznetsov</author></authors><title>Increasing the Efficiency of Packet Classifiers with Closed Descriptions.</title><venue>FCA4AI@IJCAI</venue><pages>75-86</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GoncharovaK19</key><ee>http://ceur-ws.org/Vol-2529/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GoncharovaK19</url></info>
+<url>URL#802700</url>
+</hit>
+<hit score="1" id="803074">
+<info><authors><author pid="134/8636">Andrei Rodin</author><author pid="261/0299">Serge Kovalyov</author></authors><title>Truth and Justification in Knowledge Representation.</title><venue>FCA4AI@IJCAI</venue><pages>45-56</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RodinK19</key><ee>http://ceur-ws.org/Vol-2529/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RodinK19</url></info>
+<url>URL#803074</url>
+</hit>
+<hit score="1" id="803085">
+<info><authors><author pid="97/8100">Amit Sangroya</author><author pid="30/5842">C. Anantaram</author><author pid="222/7855">Mrinal Rawat</author><author pid="261/0376">Mouli Rastogi</author></authors><title>Using Formal Concept Analysis to Explain Black Box Deep Learning Classification Models.</title><venue>FCA4AI@IJCAI</venue><pages>19-26</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SangroyaARR19</key><ee>http://ceur-ws.org/Vol-2529/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SangroyaARR19</url></info>
+<url>URL#803085</url>
+</hit>
+<hit score="1" id="803199">
+<info><authors><author pid="73/5995">Dmitry V. Vinogradov</author></authors><title>FCA-based Approach to Machine Learning.</title><venue>FCA4AI@IJCAI</venue><pages>57-64</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Vinogradov19</key><ee>http://ceur-ws.org/Vol-2529/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Vinogradov19</url></info>
+<url>URL#803199</url>
+</hit>
+</hits>
+</result>

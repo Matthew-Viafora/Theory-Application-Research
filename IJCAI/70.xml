@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="757291">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"itwp2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">135.73</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18207054">:facetid:toc:db/conf/ijcai/itwp2011.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="3231104">
+<info><authors><author pid="123/9666">Oznur Kirmemis Alkan</author><author pid="s/PinarSenkul">Pinar Senkul</author></authors><title>IntWEB - An AI-Based Approach for Adaptive Web.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlkanS11</key><ee>http://ceur-ws.org/Vol-756/paper08.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlkanS11</url></info>
+<url>URL#3231104</url>
+</hit>
+<hit score="1" id="3231116">
+<info><authors><author pid="88/301">Marcelo Gabriel Armentano</author><author pid="69/4188">Daniela Godoy</author><author pid="47/3034">Analía A. Amandi</author></authors><title>A Topology-Based Approach for Followees Recommendation in Twitter.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ArmentanoGA11</key><ee>http://ceur-ws.org/Vol-756/paper03.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ArmentanoGA11</url></info>
+<url>URL#3231116</url>
+</hit>
+<hit score="1" id="3231145">
+<info><authors><author pid="89/5422">Fabian Bohnert</author><author pid="z/IngridZukerman">Ingrid Zukerman</author><author pid="76/5309">David W. Albrecht</author><author pid="65/4863">Timothy Baldwin</author></authors><title>Modelling and Predicting Movements of Museum Visitors - A Simulation Framework for Assessing the Impact of Sensor Noise on Model Performance.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BohnertZAB11</key><ee>http://ceur-ws.org/Vol-756/paper07.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BohnertZAB11</url></info>
+<url>URL#3231145</url>
+</hit>
+<hit score="1" id="3231250">
+<info><authors><author pid="35/6880">Mouzhi Ge</author><author pid="89/8778">Fatih Gedikli</author><author pid="j/DietmarJannach">Dietmar Jannach</author></authors><title>Placing High-Diversity Items in Top-N Recommendation Lists.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GeGJ11</key><ee>http://ceur-ws.org/Vol-756/paper09.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GeGJ11</url></info>
+<url>URL#3231250</url>
+</hit>
+<hit score="1" id="3231285">
+<info><authors><author pid="80/10817">Behnam Hajian</author><author pid="27/2616">Tony White</author></authors><title>Measuring Semantic Similarity using a Multi-Tree Model.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HajianW11</key><ee>http://ceur-ws.org/Vol-756/paper01.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HajianW11</url></info>
+<url>URL#3231285</url>
+</hit>
+<hit score="1" id="3231290">
+<info><authors><author pid="04/7710">Negar Hariri</author><author pid="01/4475">Bamshad Mobasher</author><author pid="58/2337">Robin Burke</author><author pid="97/8630">Yong Zheng</author></authors><title>Context-Aware Recommendation Based On Review Mining.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HaririMBZ11</key><ee>http://ceur-ws.org/Vol-756/paper04.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HaririMBZ11</url></info>
+<url>URL#3231290</url>
+</hit>
+<hit score="1" id="3231472">
+<info><authors><author pid="71/7413">Alan Said</author><author pid="43/1487">Ernesto William De Luca</author><author pid="a/SahinAlbayrak">Sahin Albayrak</author></authors><title>Using Social and Pseudo Social Networks for Improved Recommendation Quality.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SaidLA11</key><ee>http://ceur-ws.org/Vol-756/paper06.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SaidLA11</url></info>
+<url>URL#3231472</url>
+</hit>
+<hit score="1" id="3231528">
+<info><authors><author pid="76/6477">Paolo Viappiani</author><author pid="z/SandraZilles">Sandra Zilles</author><author pid="h/HowardJHamilton">Howard J. Hamilton</author><author pid="10/3411">Craig Boutilier</author></authors><title>A Bayesian Concept Learning Approach to Crowdsourcing.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ViappianiZHB11</key><ee>http://ceur-ws.org/Vol-756/paper05.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ViappianiZHB11</url></info>
+<url>URL#3231528</url>
+</hit>
+<hit score="1" id="3231543">
+<info><authors><author pid="77/3850">Christian Wartena</author><author pid="83/8578">Wout Slakhorst</author><author pid="43/5504">Martin Wibbels</author><author pid="69/6339">Zeno Gantner</author><author pid="72/8024">Christoph Freudenthaler</author><author pid="68/11509">Chris Newell</author><author pid="s/LarsSchmidtThieme">Lars Schmidt-Thieme</author></authors><title>Keyword-Based TV Program Recommendation.</title><venue>ITWP@IJCAI</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WartenaSWGFNS11</key><ee>http://ceur-ws.org/Vol-756/paper02.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WartenaSWGFNS11</url></info>
+<url>URL#3231543</url>
+</hit>
+<hit score="1" id="3290328">
+<info><authors><author pid="a/SarabjotSAnand">Sarabjot Singh Anand</author><author pid="j/DietmarJannach">Dietmar Jannach</author></authors><title>Proceedings of the 9th Workshop on Intelligent Techniques for Web Personalization &amp; Recommender Systems, ITWP@IJCAI 2011, Barcelona, Spain, July 16, 2011</title><venue>ITWP@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>756</volume><publisher>CEUR-WS.org</publisher><year>2011</year><type>Editorship</type><key>conf/ijcai/2011itwp</key><ee>http://ceur-ws.org/Vol-756</ee><url>https://dblp.org/rec/conf/ijcai/2011itwp</url></info>
+<url>URL#3290328</url>
+</hit>
+</hits>
+</result>

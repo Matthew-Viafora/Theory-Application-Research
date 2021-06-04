@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="755231">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"khd2017\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">121.29</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18207056">:facetid:toc:db/conf/ijcai/khd2017.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="1526497">
+<info><authors><author pid="34/7187">Yoke Yie Chen</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="171/6186">Jenny Hall</author><author pid="214/8079">Kate Stephen</author><author pid="214/7775">Amanda Croall</author><author pid="214/8067">Jacky MacMillan</author><author pid="214/8050">Lesley Murray</author><author pid="214/7843">Geoff Wilcock</author><author pid="181/4518">Sandra MacRury</author></authors><title>Designing a Personalised Case-Based Recommender System for Mobile Self-Management of Diabetes During Exercise.</title><venue>KHD@IJCAI</venue><pages>7-12</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenWMHSCMMWM17</key><ee>http://ceur-ws.org/Vol-1891/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenWMHSCMMWM17</url></info>
+<url>URL#1526497</url>
+</hit>
+<hit score="1" id="1526510">
+<info><authors><author pid="214/7982">Beatris Mariell Choo</author><author pid="214/7882">Ana Margarita Talicol</author><author pid="214/7768">Elaine Jhon Panganiban</author><author pid="190/7909">Ethel Chua Joy Ong</author></authors><title>Use of Tethered Virtual Reality Headsets in Exposure Therapy for Agoraphobia and Social Phobia.</title><venue>KHD@IJCAI</venue><pages>20-24</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChooTPO17</key><ee>http://ceur-ws.org/Vol-1891/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChooTPO17</url></info>
+<url>URL#1526510</url>
+</hit>
+<hit score="1" id="1526871">
+<info><authors><author pid="61/7942">Phuoc Nguyen</author><author pid="55/2269">Truyen Tran 0001</author><author pid="81/1984">Svetha Venkatesh</author></authors><title>Deep Learning to Attend to Risk in ICU.</title><venue>KHD@IJCAI</venue><pages>25-29</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Nguyen0V17</key><ee>http://ceur-ws.org/Vol-1891/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Nguyen0V17</url></info>
+<url>URL#1526871</url>
+</hit>
+<hit score="1" id="1526887">
+<info><authors><author pid="214/8022">Christopher Ormandy</author><author pid="55/6241">Zina M. Ibrahim</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>Learning Patient Similarity Using Joint Distributed Embeddings of Treatment and Diagnoses.</title><venue>KHD@IJCAI</venue><pages>30-35</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OrmandyID17</key><ee>http://ceur-ws.org/Vol-1891/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OrmandyID17</url></info>
+<url>URL#1526887</url>
+</hit>
+<hit score="1" id="1526940">
+<info><authors><author pid="54/2885">Jonathan Rubin</author><author pid="00/6243">Rui Abreu 0001</author><author pid="98/1165">Anurag Ganguli</author><author pid="00/7441">Saigopal Nelaturi</author><author pid="15/7140">Ion Matei</author><author pid="26/8762">Kumar Sricharan</author></authors><title>Recognizing Abnormal Heart Sounds Using Deep Learning.</title><venue>KHD@IJCAI</venue><pages>13-19</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RubinAGNMS17</key><ee>http://ceur-ws.org/Vol-1891/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RubinAGNMS17</url></info>
+<url>URL#1526940</url>
+</hit>
+<hit score="1" id="1527073">
+<info><authors><author pid="39/721">Hui Wang</author><author pid="47/5830">Quan Sun</author><author pid="40/8710">Anika Oellrich</author><author pid="99/6255">Honghan Wu</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>The psycho-env corpus - research articles annotated for knowledge discovery on correlating mental diseases and environmental factors.</title><venue>KHD@IJCAI</venue><pages>36-40</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WangSOWD17</key><ee>http://ceur-ws.org/Vol-1891/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WangSOWD17</url></info>
+<url>URL#1527073</url>
+</hit>
+<hit score="1" id="1527225">
+<info><authors><author pid="22/2544">Jia Zhu</author><author pid="166/5153">Yuzhi Liang</author><author pid="03/2933">Changqin Huang</author><author pid="02/1640-7">Min Yang 0007</author><author pid="67/4008-5">Jing Xiao 0005</author><author pid="01/2880-1">Yong Tang 0001</author></authors><title>A Novel Approach for Adverse Events Detection.</title><venue>KHD@IJCAI</venue><pages>41-45</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhuLHYXT17</key><ee>http://ceur-ws.org/Vol-1891/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhuLHYXT17</url></info>
+<url>URL#1527225</url>
+</hit>
+<hit score="1" id="1596149">
+<info><authors><author pid="55/6241">Zina M. Ibrahim</author><author pid="99/6255">Honghan Wu</author><author pid="03/6214">Kerstin Bach</author><author pid="51/5120">Richard J. B. Dobson</author><author pid="186/9095">Spiros C. Denaxas</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="88/10847">Sadiq Sani</author></authors><title>Proceedings of the 2nd International Workshop on Knowledge Discovery in Healthcare Data Co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>KDH@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1891</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017khd</key><ee>http://ceur-ws.org/Vol-1891</ee><url>https://dblp.org/rec/conf/ijcai/2017khd</url></info>
+<url>URL#1596149</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="756008">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"att2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">123.24</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18206988">:facetid:toc:db/conf/ijcai/att2016.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="1842113">
+<info><authors><author pid="129/7626">Luca Crociani</author><author pid="19/1650">Giuseppe Vizzari</author><author pid="13/5210">Stefania Bandini</author></authors><title>Conflicting Tendencies in Pedestrian Wayfinding Decisions - a Multi-Agent Model Encompassing Proxemics and Imitation.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CrocianiVB16</key><ee>http://ceur-ws.org/Vol-1678/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CrocianiVB16</url></info>
+<url>URL#1842113</url>
+</hit>
+<hit score="1" id="1842125">
+<info><authors><author pid="162/5112">Sophie L. Dennisen</author><author pid="m/JPMuller">Jörg P. Müller</author></authors><title>Iterative Committee Elections for Collective Decision-Making in a Ride-Sharing Application.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DennisenM16</key><ee>http://ceur-ws.org/Vol-1678/paper15.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DennisenM16</url></info>
+<url>URL#1842125</url>
+</hit>
+<hit score="1" id="1842156">
+<info><authors><author pid="49/10092">Alberto Fernández-Isabel</author><author pid="f/RubenFuentes">Rubén Fuentes-Fernández</author></authors><title>Model-Driven Engineering of Simulations for Smart Roads.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Fernandez-Isabel16</key><ee>http://ceur-ws.org/Vol-1678/paper20.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Fernandez-Isabel16</url></info>
+<url>URL#1842156</url>
+</hit>
+<hit score="1" id="1842195">
+<info><authors><author pid="156/3611">Ricardo Grunitzki</author><author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author></authors><title>Combining Car-to-Infrastructure Communication and Multi-Agent Reinforcement Learning in Route Choice.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GrunitzkiB16</key><ee>http://ceur-ws.org/Vol-1678/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GrunitzkiB16</url></info>
+<url>URL#1842195</url>
+</hit>
+<hit score="1" id="1842366">
+<info><authors><author pid="13/7269">Marin Lujak</author><author pid="25/5858">Stefano Giordani</author><author pid="o/SaschaOssowski">Sascha Ossowski</author></authors><title>An Architecture for Safe Evacuation Route Recommendation in Smart Spaces.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LujakGO16</key><ee>http://ceur-ws.org/Vol-1678/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LujakGO16</url></info>
+<url>URL#1842366</url>
+</hit>
+<hit score="1" id="1842388">
+<info><authors><author pid="24/5865">Reshef Meir</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>When are Marginal Congestion Tolls Optimal?</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MeirP16</key><ee>http://ceur-ws.org/Vol-1678/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MeirP16</url></info>
+<url>URL#1842388</url>
+</hit>
+<hit score="1" id="1842451">
+<info><authors><author pid="185/4038">Alberto Pozanco</author><author pid="37/3253">Susana Fernández</author><author pid="05/2730">Daniel Borrajo</author></authors><title>Urban Traffic Control Assisted by AI Planning and Relational Learning.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PozancoFB16</key><ee>http://ceur-ws.org/Vol-1678/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PozancoFB16</url></info>
+<url>URL#1842451</url>
+</hit>
+<hit score="1" id="1842461">
+<info><authors><author pid="133/2299">Gabriel de Oliveira Ramos</author><author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author></authors><title>On Estimating Action Regret and Learning From It in Route Choice.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RamosB16</key><ee>http://ceur-ws.org/Vol-1678/paper18.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RamosB16</url></info>
+<url>URL#1842461</url>
+</hit>
+<hit score="1" id="1842462">
+<info><authors><author pid="151/3605">Jeffery Raphael</author><author pid="s/ElizabethSklar">Elizabeth I. Sklar</author><author pid="71/6449">Simon Maskell</author></authors><title>An Empirical Investigation of Adaptive Traffic Control Parameters.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RaphaelSM16</key><ee>http://ceur-ws.org/Vol-1678/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RaphaelSM16</url></info>
+<url>URL#1842462</url>
+</hit>
+<hit score="1" id="1842494">
+<info><authors><author pid="73/9853">Guni Sharon</author><author pid="135/6336">Josiah Hanna</author><author pid="183/0474">Tarun Rambha</author><author pid="123/1013">Michael Albert</author><author pid="s/PeterStone">Peter Stone</author><author pid="50/8776">Stephen D. Boyles</author></authors><title>Delta-Tolling - Adaptive Tolling for Optimizing Traffic Throughput.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SharonHRASB16</key><ee>http://ceur-ws.org/Vol-1678/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SharonHRASB16</url></info>
+<url>URL#1842494</url>
+</hit>
+<hit score="1" id="1842524">
+<info><authors><author pid="164/9050">Fernando Stefanello</author><author pid="75/3139">Bruno Castro da Silva</author><author pid="b/AnaLCBazzan">Ana L. C. Bazzan</author></authors><title>Using Topological Statistics to Bias and Accelerate Route Choice - Preliminary Findings in Synthetic and Real-World Road Networks.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/StefanelloSB16</key><ee>http://ceur-ws.org/Vol-1678/paper11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/StefanelloSB16</url></info>
+<url>URL#1842524</url>
+</hit>
+<hit score="1" id="1842606">
+<info><authors><author pid="152/3493">Bruno Rocha Werberich</author><author pid="152/3479">Carlos Oliva Pretto</author><author pid="152/3483">Helena Beatriz Bettella Cybis</author></authors><title>Pedestrians&apos; Route Choice Model for Shopping Behavior.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WerberichPC16</key><ee>http://ceur-ws.org/Vol-1678/paper14.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WerberichPC16</url></info>
+<url>URL#1842606</url>
+</hit>
+<hit score="1" id="1842618">
+<info><authors><author pid="185/4044">Qingting Wu</author><author pid="71/3182">Yiming Wang</author><author pid="25/2249">Zhijie Yin</author><author pid="185/3905">Hongyu Deng</author><author pid="49/3738">Cheng Wu</author></authors><title>A Novel Approach of Cognitive Base Station with Dynamic Spectrum Management for High-Speed Rail.</title><venue>ATT@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WuWYDW16</key><ee>http://ceur-ws.org/Vol-1678/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WuWYDW16</url></info>
+<url>URL#1842618</url>
+</hit>
+<hit score="1" id="1911965">
+<info><authors><author pid="b/AnaLCBazzan">Ana Lúcia C. Bazzan</author><author pid="k/FranziskaKlugl">Franziska Klügl</author><author pid="o/SaschaOssowski">Sascha Ossowski</author><author pid="19/1650">Giuseppe Vizzari</author></authors><title>Proceedings of the Ninth International Workshop on Agents in Traffic and Transportation (ATT 2016) co-located with the 25th International Joint Conference On Artificial Intelligence (IJCAI 2016), New York, USA, July 10, 2016.</title><venue>ATT@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1678</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/ijcai/2016att</key><ee>https://nbn-resolving.org/urn:nbn:de:0074-1678-2</ee><url>https://dblp.org/rec/conf/ijcai/2016att</url></info>
+<url>URL#1911965</url>
+</hit>
+</hits>
+</result>

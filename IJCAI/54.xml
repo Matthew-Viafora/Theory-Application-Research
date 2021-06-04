@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="756559">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"flinai2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">0.51</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18207008">:facetid:toc:db/conf/ijcai/flinai2015.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="2145255">
+<info><authors><author pid="33/5611-2">Stefan Schiffer 0002</author><author pid="23/4712">Alexander Ferrein</author></authors><title>Decision-Theoretic Planning with Linguistic Terms in Golog.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0002F15</key><ee>http://ceur-ws.org/Vol-1424/Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0002F15</url></info>
+<url>URL#2145255</url>
+</hit>
+<hit score="1" id="2145383">
+<info><authors><author pid="167/5224">Matheus Cardoso</author><author pid="47/4322">Angelo C. Loula</author><author pid="57/3105">Giovanni Pires</author></authors><title>Building a Fuzzy System for Opinion Classification Across Different Domains.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CardosoMP15</key><ee>http://ceur-ws.org/Vol-1424/Paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CardosoMP15</url></info>
+<url>URL#2145383</url>
+</hit>
+<hit score="1" id="2145687">
+<info><authors><author pid="00/3543">Jirí Mockor</author></authors><title>Fuzzy Logic Models in some Categories.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Mockor15</key><ee>http://ceur-ws.org/Vol-1424/Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Mockor15</url></info>
+<url>URL#2145687</url>
+</hit>
+<hit score="1" id="2145722">
+<info><authors><author pid="167/5076">Juan S. Patino-Callejas</author><author pid="167/5231">Krisna Y. Espinosa-Ayala</author><author pid="65/3339">Juan Carlos Figueroa García</author></authors><title>Type-2 Fuzzy Uncertainty in Goal Programming.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Patino-Callejas15</key><ee>http://ceur-ws.org/Vol-1424/Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Patino-Callejas15</url></info>
+<url>URL#2145722</url>
+</hit>
+<hit score="1" id="2145744">
+<info><authors><author pid="76/6916">Ana Lucía Dai Pra</author><author pid="143/5077">Lucía Isabel Passoni</author></authors><title>Rough-Fuzzy Granularity in the Study of Optical Phenomena.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PraP15</key><ee>http://ceur-ws.org/Vol-1424/Paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PraP15</url></info>
+<url>URL#2145744</url>
+</hit>
+<hit score="1" id="2145759">
+<info><authors><author pid="02/1540">Anca Ralescu</author><author pid="33/1668">Isabelle Bloch</author><author pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author></authors><title>Preliminary Study Towards a Fuzzy Model for Visual Attention.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RalescuBC15</key><ee>http://ceur-ws.org/Vol-1424/Paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RalescuBC15</url></info>
+<url>URL#2145759</url>
+</hit>
+<hit score="1" id="2145792">
+<info><authors><author pid="146/9428">Pakizar Shamoi</author><author pid="05/4240">Atsushi Inoue</author><author pid="16/653">Hiroharu Kawanaka</author></authors><title>Deep Color Semantics for E-commerce Content-based Image Retrieval.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShamoiIK15</key><ee>http://ceur-ws.org/Vol-1424/Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShamoiIK15</url></info>
+<url>URL#2145792</url>
+</hit>
+<hit score="1" id="2213398">
+<info><authors><author pid="01/2014">Irene Díaz</author><author pid="02/1540">Anca Ralescu</author><author pid="33/5611-2">Stefan Schiffer 0002</author></authors><title>Proceedings of the Workshop on Fuzzy Logic in AI, FLinAI 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25, 2015.</title><venue>FLinAI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1424</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015flinai</key><ee>http://ceur-ws.org/Vol-1424</ee><url>https://dblp.org/rec/conf/ijcai/2015flinai</url></info>
+<url>URL#2213398</url>
+</hit>
+</hits>
+</result>
