@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<proceedings key="conf/nips/2019demo" mdate="2020-12-10">
+<editor>Hugo Jair Escalante</editor>
+<editor>Raia Hadsell</editor>
+<title>NeurIPS 2019 Competition and Demonstration Track, 8-14 December 2019, Vancouver, Canada. Revised selected papers.</title>
+<booktitle>Proceedings of Machine Learning Research</booktitle>
+<publisher>PMLR</publisher>
+<year>2019</year>
+<series href="db/series/jmlr/index.html">Proceedings of Machine Learning Research</series>
+<volume>123</volume>
+<ee type="oa">http://proceedings.mlr.press/v123/</ee>
+<url>db/conf/nips/demo2020.html</url>
+</proceedings></dblp>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<proceedings key="conf/nips/2015fe" mdate="2019-05-29">
+<title>Proceedings of the 1st Workshop on Feature Extraction: Modern Questions and Challenges, FE 2015, co-located with the 29th Annual Conference on Neural Information Processing Systems (NIPS 2015), Montreal, Canada, December 11-12, 2015.</title>
+<booktitle>FE@NIPS</booktitle>
+<year>2015</year>
+<publisher>JMLR.org</publisher>
+<series href="db/series/jmlr/index.html">JMLR Workshop and Conference Proceedings</series>
+<volume>44</volume>
+<ee type="oa">http://proceedings.mlr.press/v44/</ee>
+<url>db/conf/nips/fe2015.html</url>
+</proceedings></dblp>

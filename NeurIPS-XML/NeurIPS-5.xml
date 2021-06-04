@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<proceedings key="conf/nips/2019ml4h" mdate="2020-06-19">
+<editor>Adrian V. Dalca</editor>
+<editor>Matthew B. A. McDermott</editor>
+<editor>Emily Alsentzer</editor>
+<editor>Samuel G. Finlayson</editor>
+<editor>Michael Oberst</editor>
+<editor>Fabian Falck</editor>
+<editor>Brett K. Beaulieu-Jones</editor>
+<title>Machine Learning for Health Workshop, ML4H@NeurIPS 2019, Vancouver, BC, Canada, 13 December 2019</title>
+<booktitle>ML4H@NeurIPS</booktitle>
+<year>2019</year>
+<publisher>PMLR</publisher>
+<series href="db/series/jmlr/index.html">Proceedings of Machine Learning Research</series>
+<volume>116</volume>
+<ee type="oa">http://proceedings.mlr.press/v116/</ee>
+<url>db/conf/nips/ml4h2019.html</url>
+</proceedings></dblp>
