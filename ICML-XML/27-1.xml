@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="710488">:facetid:toc:db\"/\"conf\"/\"icml\"/\"icml2010\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">132.06</time>
+<completions total="1" computed="1" sent="1">
+<c sc="160" dc="160" oc="160" id="18204062">:facetid:toc:db/conf/icml/icml2010.bht</c>
+</completions>
+<hits total="160" computed="160" sent="160" first="0">
+<hit score="1" id="3450437">
+<info><authors><author pid="38/4315">Chid Apté</author></authors><title>The Role of Machine Learning in Business Optimization.</title><venue>ICML</venue><pages>1-2</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Apte10</key><ee>https://icml.cc/Conferences/2010/papers/903.pdf</ee><url>https://dblp.org/rec/conf/icml/Apte10</url></info>
+<url>URL#3450437</url>
+</hit>
+<hit score="1" id="3450438">
+<info><authors><author pid="78/2352">Arthur U. Asuncion</author><author pid="61/3234-1">Qiang Liu 0001</author><author pid="39/1313">Alexander T. Ihler</author><author pid="s/PadhraicSmyth">Padhraic Smyth</author></authors><title>Particle Filtered MCMC-MLE with Connections to Contrastive Divergence.</title><venue>ICML</venue><pages>47-54</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/AsuncionLIS10</key><ee>https://icml.cc/Conferences/2010/papers/246.pdf</ee><url>https://dblp.org/rec/conf/icml/AsuncionLIS10</url></info>
+<url>URL#3450438</url>
+</hit>
+<hit score="1" id="3450439">
+<info><authors><author pid="09/8412">Rémi Bardenet</author><author pid="k/BalazsKegl">Balázs Kégl</author></authors><title>Surrogating the surrogate - accelerating Gaussian-process-based global optimization with a mixture cross-entropy algorithm.</title><venue>ICML</venue><pages>55-62</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BardenetK10</key><ee>https://icml.cc/Conferences/2010/papers/297.pdf</ee><url>https://dblp.org/rec/conf/icml/BardenetK10</url></info>
+<url>URL#3450439</url>
+</hit>
+<hit score="1" id="3450440">
+<info><authors><author pid="99/8411">Nicholas Bartlett</author><author pid="93/8411">David Pfau</author><author pid="44/4750">Frank D. Wood</author></authors><title>Forgetting Counts - Constant Memory Inference for a Dependent Hierarchical Pitman-Yor Process.</title><venue>ICML</venue><pages>63-70</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BartlettPW10</key><ee>https://icml.cc/Conferences/2010/papers/549.pdf</ee><url>https://dblp.org/rec/conf/icml/BartlettPW10</url></info>
+<url>URL#3450440</url>
+</hit>
+<hit score="1" id="3450441">
+<info><authors><author pid="90/2736">Sahely Bhadra</author><author pid="64/6249">Sourangshu Bhattacharya</author><author pid="b/CBhattacharyya">Chiranjib Bhattacharyya</author><author pid="178/3524">Aharon Ben-Tal</author></authors><title>Robust Formulations for Handling Uncertainty in Kernel Matrices.</title><venue>ICML</venue><pages>71-78</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BhadraBBB10</key><ee>https://icml.cc/Conferences/2010/papers/268.pdf</ee><url>https://dblp.org/rec/conf/icml/BhadraBBB10</url></info>
+<url>URL#3450441</url>
+</hit>
+<hit score="1" id="3450442">
+<info><authors><author pid="67/500">Mustafa Bilgic 0001</author><author pid="63/2590">Lilyana Mihalkova</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Active Learning for Networked Data.</title><venue>ICML</venue><pages>79-86</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BilgicMG10</key><ee>https://icml.cc/Conferences/2010/papers/544.pdf</ee><url>https://dblp.org/rec/conf/icml/BilgicMG10</url></info>
+<url>URL#3450442</url>
+</hit>
+<hit score="1" id="3450443">
+<info><authors><author pid="86/1910">David M. Blei</author><author pid="33/1711">Peter I. Frazier</author></authors><title>Distance dependent Chinese restaurant processes.</title><venue>ICML</venue><pages>87-94</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BleiF10</key><ee>https://icml.cc/Conferences/2010/papers/551.pdf</ee><url>https://dblp.org/rec/conf/icml/BleiF10</url></info>
+<url>URL#3450443</url>
+</hit>
+<hit score="1" id="3450444">
+<info><authors><author pid="64/6336">Gianluca Bontempi</author><author pid="22/11036-1">Patrick E. Meyer 0001</author></authors><title>Causal filter selection in microarray data.</title><venue>ICML</venue><pages>95-102</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BontempiM10</key><ee>https://icml.cc/Conferences/2010/papers/78.pdf</ee><url>https://dblp.org/rec/conf/icml/BontempiM10</url></info>
+<url>URL#3450444</url>
+</hit>
+<hit score="1" id="3450445">
+<info><authors><author pid="49/4572">Antoine Bordes</author><author pid="79/3983">Nicolas Usunier</author><author pid="29/6977">Jason Weston</author></authors><title>Label Ranking under Ambiguous Supervision for Learning Semantic Correspondences.</title><venue>ICML</venue><pages>103-110</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BordesUW10</key><ee>https://icml.cc/Conferences/2010/papers/331.pdf</ee><url>https://dblp.org/rec/conf/icml/BordesUW10</url></info>
+<url>URL#3450445</url>
+</hit>
+<hit score="1" id="3450446">
+<info><authors><author pid="60/5680">Y-Lan Boureau</author><author pid="p/JeanPonce">Jean Ponce</author><author pid="l/YannLeCun">Yann LeCun</author></authors><title>A Theoretical Analysis of Feature Pooling in Visual Recognition.</title><venue>ICML</venue><pages>111-118</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BoureauPL10</key><ee>https://icml.cc/Conferences/2010/papers/638.pdf</ee><url>https://dblp.org/rec/conf/icml/BoureauPL10</url></info>
+<url>URL#3450446</url>
+</hit>
+<hit score="1" id="3450447">
+<info><authors><author pid="39/5987">Bruno Bouzy</author><author pid="79/1334">Marc Métivier</author></authors><title>Multi-agent Learning Experiments on Repeated Matrix Games.</title><venue>ICML</venue><pages>119-126</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BouzyM10</key><ee>https://icml.cc/Conferences/2010/papers/76.pdf</ee><url>https://dblp.org/rec/conf/icml/BouzyM10</url></info>
+<url>URL#3450447</url>
+</hit>
+<hit score="1" id="3450448">
+<info><authors><author pid="21/1442">Joseph K. Bradley</author><author pid="38/769">Carlos Guestrin</author></authors><title>Learning Tree Conditional Random Fields.</title><venue>ICML</venue><pages>127-134</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BradleyG10</key><ee>https://icml.cc/Conferences/2010/papers/586.pdf</ee><url>https://dblp.org/rec/conf/icml/BradleyG10</url></info>
+<url>URL#3450448</url>
+</hit>
+<hit score="1" id="3450449">
+<info><authors><author pid="b/NaderHBshouty">Nader H. Bshouty</author><author pid="66/5275">Philip M. Long</author></authors><title>Finding Planted Partitions in Nearly Linear Time using Arrested Spectral Clustering.</title><venue>ICML</venue><pages>135-142</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/BshoutyL10</key><ee>https://icml.cc/Conferences/2010/papers/119.pdf</ee><url>https://dblp.org/rec/conf/icml/BshoutyL10</url></info>
+<url>URL#3450449</url>
+</hit>
+<hit score="1" id="3450450">
+<info><authors><author pid="69/4876">Róbert Busa-Fekete</author><author pid="k/BalazsKegl">Balázs Kégl</author></authors><title>Fast boosting using adversarial bandits.</title><venue>ICML</venue><pages>143-150</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Busa-FeketeK10</key><ee>https://icml.cc/Conferences/2010/papers/263.pdf</ee><url>https://dblp.org/rec/conf/icml/Busa-FeketeK10</url></info>
+<url>URL#3450450</url>
+</hit>
+<hit score="1" id="3450451">
+<info><authors><author pid="79/8411">Kevin Robert Canini</author><author pid="89/8411">Mikhail M. Shashkov</author><author pid="34/4472">Thomas L. Griffiths</author></authors><title>Modeling Transfer Learning in Human Categorization with the Hierarchical Dirichlet Process.</title><venue>ICML</venue><pages>151-158</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CaniniSG10</key><ee>https://icml.cc/Conferences/2010/papers/180.pdf</ee><url>https://dblp.org/rec/conf/icml/CaniniSG10</url></info>
+<url>URL#3450451</url>
+</hit>
+<hit score="1" id="3450452">
+<info><authors><author pid="17/1169-1">Bin Cao 0001</author><author pid="71/5490">Nathan Nan Liu</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Transfer Learning for Collective Link Prediction in Multiple Heterogenous Domains.</title><venue>ICML</venue><pages>159-166</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CaoLY10</key><ee>https://icml.cc/Conferences/2010/papers/505.pdf</ee><url>https://dblp.org/rec/conf/icml/CaoLY10</url></info>
+<url>URL#3450452</url>
+</hit>
+<hit score="1" id="3450453">
+<info><authors><author pid="23/5257">Miguel Á. Carreira-Perpiñán</author></authors><title>The Elastic Embedding Algorithm for Dimensionality Reduction.</title><venue>ICML</venue><pages>167-174</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Carreira-Perpinan10</key><ee>https://icml.cc/Conferences/2010/papers/123.pdf</ee><url>https://dblp.org/rec/conf/icml/Carreira-Perpinan10</url></info>
+<url>URL#3450453</url>
+</hit>
+<hit score="1" id="3450454">
+<info><authors><author pid="c/NicoloCesaBianchi">Nicolò Cesa-Bianchi</author><author pid="56/5759">Claudio Gentile</author><author pid="43/1187">Fabio Vitale</author><author pid="82/8411">Giovanni Zappella</author></authors><title>Random Spanning Trees and the Prediction of Weighted Graphs.</title><venue>ICML</venue><pages>175-182</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Cesa-BianchiGVZ10</key><ee>https://icml.cc/Conferences/2010/papers/298.pdf</ee><url>https://dblp.org/rec/conf/icml/Cesa-BianchiGVZ10</url></info>
+<url>URL#3450454</url>
+</hit>
+<hit score="1" id="3450455">
+<info><authors><author pid="c/NicoloCesaBianchi">Nicolò Cesa-Bianchi</author><author pid="95/2750">Shai Shalev-Shwartz</author><author pid="12/5897">Ohad Shamir</author></authors><title>Efficient Learning with Partially Observed Attributes.</title><venue>ICML</venue><pages>183-190</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Cesa-BianchiSS10</key><ee>https://icml.cc/Conferences/2010/papers/319.pdf</ee><url>https://dblp.org/rec/conf/icml/Cesa-BianchiSS10</url></info>
+<url>URL#3450455</url>
+</hit>
+<hit score="1" id="3450456">
+<info><authors><author pid="46/127">Doran Chakraborty</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Convergence, Targeted Optimality, and Safety in Multiagent Learning.</title><venue>ICML</venue><pages>191-198</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ChakrabortyS10</key><ee>https://icml.cc/Conferences/2010/papers/453.pdf</ee><url>https://dblp.org/rec/conf/icml/ChakrabortyS10</url></info>
+<url>URL#3450456</url>
+</hit>
+<hit score="1" id="3450457">
+<info><authors><author pid="69/4618">Ming-Wei Chang</author><author pid="37/44">Vivek Srikumar</author><author pid="38/3382">Dan Goldwasser</author><author pid="r/DanRoth">Dan Roth</author></authors><title>Structured Output Learning with Indirect Supervision.</title><venue>ICML</venue><pages>199-206</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ChangSGR10</key><ee>https://icml.cc/Conferences/2010/papers/522.pdf</ee><url>https://dblp.org/rec/conf/icml/ChangSGR10</url></info>
+<url>URL#3450457</url>
+</hit>
+<hit score="1" id="3450458">
+<info><authors><author pid="95/7441">Yutian Chen</author><author pid="16/2286">Max Welling</author></authors><title>Dynamical Products of Experts for Modeling Financial Time Series.</title><venue>ICML</venue><pages>207-214</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ChenW10</key><ee>https://icml.cc/Conferences/2010/papers/175.pdf</ee><url>https://dblp.org/rec/conf/icml/ChenW10</url></info>
+<url>URL#3450458</url>
+</hit>
+<hit score="1" id="3450459">
+<info><authors><author pid="66/2635">Weiwei Cheng</author><author pid="91/3569">Krzysztof Dembczynski</author><author pid="h/EykeHullermeier">Eyke Hüllermeier</author></authors><title>Label Ranking Methods based on the Plackett-Luce Model.</title><venue>ICML</venue><pages>215-222</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ChengDH10</key><ee>https://icml.cc/Conferences/2010/papers/353.pdf</ee><url>https://dblp.org/rec/conf/icml/ChengDH10</url></info>
+<url>URL#3450459</url>
+</hit>
+<hit score="1" id="3450460">
+<info><authors><author pid="66/2635">Weiwei Cheng</author><author pid="91/3569">Krzysztof Dembczynski</author><author pid="h/EykeHullermeier">Eyke Hüllermeier</author></authors><title>Graded Multilabel Classification - The Ordinal Case.</title><venue>ICML</venue><pages>223-230</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ChengDH10a</key><ee>https://icml.cc/Conferences/2010/papers/596.pdf</ee><url>https://dblp.org/rec/conf/icml/ChengDH10a</url></info>
+<url>URL#3450460</url>
+</hit>
+<hit score="1" id="3450461">
+<info><authors><author pid="c/MichaelHCoen">Michael H. Coen</author><author pid="01/8412">M. Hidayath Ansari</author><author pid="01/8160">Nathanael Fillmore</author></authors><title>Comparing Clusterings in Space.</title><venue>ICML</venue><pages>231-238</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CoenAF10</key><ee>https://icml.cc/Conferences/2010/papers/642.pdf</ee><url>https://dblp.org/rec/conf/icml/CoenAF10</url></info>
+<url>URL#3450461</url>
+</hit>
+<hit score="1" id="3450462">
+<info><authors><author pid="77/5783">Corinna Cortes</author><author pid="03/5448">Mehryar Mohri</author><author pid="97/4479">Afshin Rostamizadeh</author></authors><title>Two-Stage Learning Kernel Algorithms.</title><venue>ICML</venue><pages>239-246</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CortesMR10</key><ee>https://icml.cc/Conferences/2010/papers/125.pdf</ee><url>https://dblp.org/rec/conf/icml/CortesMR10</url></info>
+<url>URL#3450462</url>
+</hit>
+<hit score="1" id="3450463">
+<info><authors><author pid="77/5783">Corinna Cortes</author><author pid="03/5448">Mehryar Mohri</author><author pid="97/4479">Afshin Rostamizadeh</author></authors><title>Generalization Bounds for Learning Kernels.</title><venue>ICML</venue><pages>247-254</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CortesMR10a</key><ee>https://icml.cc/Conferences/2010/papers/179.pdf</ee><url>https://dblp.org/rec/conf/icml/CortesMR10a</url></info>
+<url>URL#3450463</url>
+</hit>
+<hit score="1" id="3450464">
+<info><authors><author pid="30/5745">Fabrizio Costa</author><author pid="44/7045">Kurt De Grave</author></authors><title>Fast Neighborhood Subgraph Pairwise Distance Kernel.</title><venue>ICML</venue><pages>255-262</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CostaG10</key><ee>https://icml.cc/Conferences/2010/papers/347.pdf</ee><url>https://dblp.org/rec/conf/icml/CostaG10</url></info>
+<url>URL#3450464</url>
+</hit>
+<hit score="1" id="3450465">
+<info><authors><author pid="28/6899">Mark Joseph Cummins</author><author pid="79/1187-1">Paul M. Newman</author></authors><title>FAB-MAP - Appearance-Based Place Recognition and Mapping using a Learned Visual Vocabulary Model.</title><venue>ICML</venue><pages>3-10</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/CumminsN10</key><ee>https://icml.cc/Conferences/2010/papers/906.pdf</ee><url>https://dblp.org/rec/conf/icml/CumminsN10</url></info>
+<url>URL#3450465</url>
+</hit>
+<hit score="1" id="3450466">
+<info><authors><author pid="33/2479">Sajib Dasgupta</author><author pid="67/3142">Vincent Ng</author></authors><title>Mining Clustering Dimensions.</title><venue>ICML</venue><pages>263-270</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DasguptaN10</key><ee>https://icml.cc/Conferences/2010/papers/582.pdf</ee><url>https://dblp.org/rec/conf/icml/DasguptaN10</url></info>
+<url>URL#3450466</url>
+</hit>
+<hit score="1" id="3450467">
+<info><authors><author pid="d/JesseDavis">Jesse Davis</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Bottom-Up Learning of Markov Network Structure.</title><venue>ICML</venue><pages>271-278</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DavisD10</key><ee>https://icml.cc/Conferences/2010/papers/537.pdf</ee><url>https://dblp.org/rec/conf/icml/DavisD10</url></info>
+<url>URL#3450467</url>
+</hit>
+<hit score="1" id="3450468">
+<info><authors><author pid="91/3569">Krzysztof Dembczynski</author><author pid="66/2635">Weiwei Cheng</author><author pid="h/EykeHullermeier">Eyke Hüllermeier</author></authors><title>Bayes Optimal Multilabel Classification via Probabilistic Classifier Chains.</title><venue>ICML</venue><pages>279-286</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DembczynskiCH10</key><ee>https://icml.cc/Conferences/2010/papers/589.pdf</ee><url>https://dblp.org/rec/conf/icml/DembczynskiCH10</url></info>
+<url>URL#3450468</url>
+</hit>
+<hit score="1" id="3450469">
+<info><authors><author pid="21/6526">Thomas Deselaers</author><author pid="16/3608">Vittorio Ferrari</author></authors><title>A Conditional Random Field for Multiple-Instance Learning.</title><venue>ICML</venue><pages>287-294</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DeselaersF10</key><ee>https://icml.cc/Conferences/2010/papers/87.pdf</ee><url>https://dblp.org/rec/conf/icml/DeselaersF10</url></info>
+<url>URL#3450469</url>
+</hit>
+<hit score="1" id="3450470">
+<info><authors><author pid="78/8700">Joshua V. Dillon</author><author pid="22/6780">Krishnakumar Balasubramanian</author><author pid="31/4315">Guy Lebanon</author></authors><title>Asymptotic Analysis of Generative Semi-Supervised Learning.</title><venue>ICML</venue><pages>295-302</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DillonBL10</key><ee>https://icml.cc/Conferences/2010/papers/107.pdf</ee><url>https://dblp.org/rec/conf/icml/DillonBL10</url></info>
+<url>URL#3450470</url>
+</hit>
+<hit score="1" id="3450471">
+<info><authors><author pid="95/8411">Monica Dinculescu</author><author pid="p/DoinaPrecup">Doina Precup</author></authors><title>Approximate Predictive Representations of Partially Observable Systems.</title><venue>ICML</venue><pages>895-902</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DinculescuP10</key><ee>https://icml.cc/Conferences/2010/papers/588.pdf</ee><url>https://dblp.org/rec/conf/icml/DinculescuP10</url></info>
+<url>URL#3450471</url>
+</hit>
+<hit score="1" id="3450472">
+<info><authors><author pid="96/8411">Frank Dondelinger</author><author pid="38/8891">Sophie Lèbre</author><author pid="34/5134">Dirk Husmeier</author></authors><title>Heterogeneous Continuous Dynamic Bayesian Networks with Flexible Structure and Inter-Time Segment Information Sharing.</title><venue>ICML</venue><pages>303-310</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DondelingerLH10</key><ee>https://icml.cc/Conferences/2010/papers/286.pdf</ee><url>https://dblp.org/rec/conf/icml/DondelingerLH10</url></info>
+<url>URL#3450472</url>
+</hit>
+<hit score="1" id="3450473">
+<info><authors><author pid="48/8284">Carlton Downey</author><author pid="88/3374">Scott Sanner</author></authors><title>Temporal Difference Bayesian Model Averaging - A Bayesian Perspective on Adapting Lambda.</title><venue>ICML</venue><pages>311-318</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DowneyS10</key><ee>https://icml.cc/Conferences/2010/papers/295.pdf</ee><url>https://dblp.org/rec/conf/icml/DowneyS10</url></info>
+<url>URL#3450473</url>
+</hit>
+<hit score="1" id="3450474">
+<info><authors><author pid="66/4867">Gregory Druck</author><author pid="m/AndrewMcCallum">Andrew McCallum</author></authors><title>High-Performance Semi-Supervised Learning using Discriminatively Constrained Generative Models.</title><venue>ICML</venue><pages>319-326</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DruckM10</key><ee>https://icml.cc/Conferences/2010/papers/643.pdf</ee><url>https://dblp.org/rec/conf/icml/DruckM10</url></info>
+<url>URL#3450474</url>
+</hit>
+<hit score="1" id="3450475">
+<info><authors><author pid="41/439">John C. Duchi</author><author pid="05/2961">Lester W. Mackey</author><author pid="j/MichaelIJordan">Michael I. Jordan</author></authors><title>On the Consistency of Ranking Algorithms.</title><venue>ICML</venue><pages>327-334</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/DuchiMJ10</key><ee>https://icml.cc/Conferences/2010/papers/421.pdf</ee><url>https://dblp.org/rec/conf/icml/DuchiMJ10</url></info>
+<url>URL#3450475</url>
+</hit>
+<hit score="1" id="3450476">
+<info><authors><author pid="86/2026">Tal El-Hay</author><author pid="07/8412">Ido Cohn</author><author pid="86/249">Nir Friedman</author><author pid="33/3008">Raz Kupferman</author></authors><title>Continuous-Time Belief Propagation.</title><venue>ICML</venue><pages>343-350</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/El-HayCFK10</key><ee>https://icml.cc/Conferences/2010/papers/378.pdf</ee><url>https://dblp.org/rec/conf/icml/El-HayCFK10</url></info>
+<url>URL#3450476</url>
+</hit>
+<hit score="1" id="3450477">
+<info><authors><author pid="50/2846">Lev Faivishevsky</author><author pid="65/6574">Jacob Goldberger</author></authors><title>Nonparametric Information Theoretic Clustering Algorithm.</title><venue>ICML</venue><pages>351-358</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/FaivishevskyG10</key><ee>https://icml.cc/Conferences/2010/papers/168.pdf</ee><url>https://dblp.org/rec/conf/icml/FaivishevskyG10</url></info>
+<url>URL#3450477</url>
+</hit>
+<hit score="1" id="3450478">
+<info><authors><author pid="72/5291">Pedro F. Felzenszwalb</author><author pid="89/7658">Ross B. Girshick</author><author pid="m/DavidAMcAllester">David A. McAllester</author><author pid="49/488">Deva Ramanan</author></authors><title>Discriminative Latent Variable Models for Object Detection.</title><venue>ICML</venue><pages>11-12</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/FelzenszwalbGMR10</key><ee>https://icml.cc/Conferences/2010/papers/907.pdf</ee><url>https://dblp.org/rec/conf/icml/FelzenszwalbGMR10</url></info>
+<url>URL#3450478</url>
+</hit>
+<hit score="1" id="3450479">
+<info><authors><author pid="43/727">Romaric Gaudel</author><author pid="s/MicheleSebag">Michèle Sebag</author></authors><title>Feature Selection as a One-Player Game.</title><venue>ICML</venue><pages>359-366</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GaudelS10</key><ee>https://icml.cc/Conferences/2010/papers/247.pdf</ee><url>https://dblp.org/rec/conf/icml/GaudelS10</url></info>
+<url>URL#3450479</url>
+</hit>
+<hit score="1" id="3450480">
+<info><authors><author pid="21/2556">Matan Gavish</author><author pid="53/4192">Boaz Nadler</author><author pid="32/648">Ronald R. Coifman</author></authors><title>Multiscale Wavelets on Trees, Graphs and High Dimensional Data - Theory and Applications to Semi Supervised Learning.</title><venue>ICML</venue><pages>367-374</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GavishNC10</key><ee>https://icml.cc/Conferences/2010/papers/137.pdf</ee><url>https://dblp.org/rec/conf/icml/GavishNC10</url></info>
+<url>URL#3450480</url>
+</hit>
+<hit score="1" id="3450481">
+<info><authors><author pid="35/5761">Sean Gerrish</author><author pid="86/1910">David M. Blei</author></authors><title>A Language-based Approach to Measuring Scholarly Impact.</title><venue>ICML</venue><pages>375-382</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GerrishB10</key><ee>https://icml.cc/Conferences/2010/papers/384.pdf</ee><url>https://dblp.org/rec/conf/icml/GerrishB10</url></info>
+<url>URL#3450481</url>
+</hit>
+<hit score="1" id="3450482">
+<info><authors><author pid="82/609">Noam Goldberg</author><author pid="96/3911">Jonathan Eckstein</author></authors><title>Boosting Classifiers with Tightened L0-Relaxation Penalties.</title><venue>ICML</venue><pages>383-390</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GoldbergE10</key><ee>https://icml.cc/Conferences/2010/papers/23.pdf</ee><url>https://dblp.org/rec/conf/icml/GoldbergE10</url></info>
+<url>URL#3450482</url>
+</hit>
+<hit score="1" id="3450483">
+<info><authors><author pid="38/1187">Ryan Gomes</author><author pid="87/1831-1">Andreas Krause 0001</author></authors><title>Budgeted Nonparametric Learning from Data Streams.</title><venue>ICML</venue><pages>391-398</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GomesK10</key><ee>https://icml.cc/Conferences/2010/papers/433.pdf</ee><url>https://dblp.org/rec/conf/icml/GomesK10</url></info>
+<url>URL#3450483</url>
+</hit>
+<hit score="1" id="3450484">
+<info><authors><author pid="g/ThoreGraepel">Thore Graepel</author><author pid="30/2370">Joaquin Quiñonero Candela</author><author pid="55/7445">Thomas Borchert</author><author pid="h/RalfHerbrich">Ralf Herbrich</author></authors><title>Web-Scale Bayesian Click-Through rate Prediction for Sponsored Search Advertising in Microsoft&apos;s Bing Search Engine.</title><venue>ICML</venue><pages>13-20</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GraepelCBH10</key><ee>https://icml.cc/Conferences/2010/papers/901.pdf</ee><url>https://dblp.org/rec/conf/icml/GraepelCBH10</url></info>
+<url>URL#3450484</url>
+</hit>
+<hit score="1" id="3450485">
+<info><authors><author pid="51/7660">Karol Gregor</author><author pid="l/YannLeCun">Yann LeCun</author></authors><title>Learning Fast Approximations of Sparse Coding.</title><venue>ICML</venue><pages>399-406</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GregorL10</key><ee>https://icml.cc/Conferences/2010/papers/449.pdf</ee><url>https://dblp.org/rec/conf/icml/GregorL10</url></info>
+<url>URL#3450485</url>
+</hit>
+<hit score="1" id="3450486">
+<info><authors><author pid="02/8412">Alexander Grubb</author><author pid="65/2021">J. Andrew Bagnell</author></authors><title>Boosted Backpropagation Learning for Training Deep Modular Networks.</title><venue>ICML</venue><pages>407-414</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GrubbB10</key><ee>https://icml.cc/Conferences/2010/papers/451.pdf</ee><url>https://dblp.org/rec/conf/icml/GrubbB10</url></info>
+<url>URL#3450486</url>
+</hit>
+<hit score="1" id="3450487">
+<info><authors><author pid="64/6229">Andrew Guillory</author><author pid="b/JeffABilmes">Jeff A. Bilmes</author></authors><title>Interactive Submodular Set Cover.</title><venue>ICML</venue><pages>415-422</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/GuilloryB10</key><ee>https://icml.cc/Conferences/2010/papers/436.pdf</ee><url>https://dblp.org/rec/conf/icml/GuilloryB10</url></info>
+<url>URL#3450487</url>
+</hit>
+<hit score="1" id="3450488">
+<info><authors><author pid="05/8412">Bharath Hariharan</author><author pid="z/LihiZelnikManor">Lihi Zelnik-Manor</author><author pid="v/SVNVishwanathan">S. V. N. Vishwanathan</author><author pid="07/918">Manik Varma</author></authors><title>Large Scale Max-Margin Multi-Label Classification with Priors.</title><venue>ICML</venue><pages>423-430</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HariharanZVV10</key><ee>https://icml.cc/Conferences/2010/papers/344.pdf</ee><url>https://dblp.org/rec/conf/icml/HariharanZVV10</url></info>
+<url>URL#3450488</url>
+</hit>
+<hit score="1" id="3450489">
+<info><authors><author pid="45/101">Abhay Harpale</author><author pid="25/1666">Yiming Yang</author></authors><title>Active Learning for Multi-Task Adaptive Filtering.</title><venue>ICML</venue><pages>431-438</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HarpaleY10</key><ee>https://icml.cc/Conferences/2010/papers/620.pdf</ee><url>https://dblp.org/rec/conf/icml/HarpaleY10</url></info>
+<url>URL#3450489</url>
+</hit>
+<hit score="1" id="3450490">
+<info><authors><author pid="07/4433">Matthew D. Hoffman</author><author pid="86/1910">David M. Blei</author><author pid="33/6929">Perry R. Cook</author></authors><title>Bayesian Nonparametric Matrix Factorization for Recorded Music.</title><venue>ICML</venue><pages>439-446</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HoffmanBC10</key><ee>https://icml.cc/Conferences/2010/papers/523.pdf</ee><url>https://dblp.org/rec/conf/icml/HoffmanBC10</url></info>
+<url>URL#3450490</url>
+</hit>
+<hit score="1" id="3450491">
+<info><authors><author pid="09/4857">Jean Honorio</author><author pid="s/DimitrisSamaras">Dimitris Samaras</author></authors><title>Multi-Task Learning of Gaussian Graphical Models.</title><venue>ICML</venue><pages>447-454</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HonorioS10</key><ee>https://icml.cc/Conferences/2010/papers/35.pdf</ee><url>https://dblp.org/rec/conf/icml/HonorioS10</url></info>
+<url>URL#3450491</url>
+</hit>
+<hit score="1" id="3450492">
+<info><authors><author pid="55/2421">Jonathan Huang</author><author pid="38/769">Carlos Guestrin</author></authors><title>Learning Hierarchical Riffle Independent Groupings from Rankings.</title><venue>ICML</venue><pages>455-462</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HuangG10</key><ee>https://icml.cc/Conferences/2010/papers/605.pdf</ee><url>https://dblp.org/rec/conf/icml/HuangG10</url></info>
+<url>URL#3450492</url>
+</hit>
+<hit score="1" id="3450493">
+<info><authors><author pid="64/622">Martial Hue</author><author pid="v/JPVert">Jean-Philippe Vert</author></authors><title>On learning with kernels for unordered pairs.</title><venue>ICML</venue><pages>463-470</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/HueV10</key><ee>https://icml.cc/Conferences/2010/papers/520.pdf</ee><url>https://dblp.org/rec/conf/icml/HueV10</url></info>
+<url>URL#3450493</url>
+</hit>
+<hit score="1" id="3450494">
+<info><authors><author pid="17/4402">Martin Jaggi</author><author pid="89/1683">Marek Sulovský</author></authors><title>A Simple Algorithm for Nuclear Norm Regularized Problems.</title><venue>ICML</venue><pages>471-478</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/JaggiS10</key><ee>https://icml.cc/Conferences/2010/papers/196.pdf</ee><url>https://dblp.org/rec/conf/icml/JaggiS10</url></info>
+<url>URL#3450494</url>
+</hit>
+<hit score="1" id="3450495">
+<info><authors><author pid="17/6280">Dominik Janzing</author><author pid="66/1138">Patrik O. Hoyer</author><author pid="97/119">Bernhard Schölkopf</author></authors><title>Telling cause from effect based on high-dimensional observations.</title><venue>ICML</venue><pages>479-486</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/JanzingHS10</key><ee>https://icml.cc/Conferences/2010/papers/576.pdf</ee><url>https://dblp.org/rec/conf/icml/JanzingHS10</url></info>
+<url>URL#3450495</url>
+</hit>
+<hit score="1" id="3450496">
+<info><authors><author pid="68/8398">Rodolphe Jenatton</author><author pid="49/6555">Julien Mairal</author><author pid="84/818">Guillaume Obozinski</author><author pid="b/FrancisRBach">Francis R. Bach</author></authors><title>Proximal Methods for Sparse Hierarchical Dictionary Learning.</title><venue>ICML</venue><pages>487-494</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/JenattonMOB10</key><ee>https://icml.cc/Conferences/2010/papers/416.pdf</ee><url>https://dblp.org/rec/conf/icml/JenattonMOB10</url></info>
+<url>URL#3450496</url>
+</hit>
+<hit score="1" id="3450497">
+<info><authors><author pid="84/6405">Shuiwang Ji</author><author pid="32/1213-7">Wei Xu 0007</author><author pid="98/2604-7">Ming Yang 0007</author><author pid="y/KaiYu">Kai Yu 0001</author></authors><title>3D Convolutional Neural Networks for Human Action Recognition.</title><venue>ICML</venue><pages>495-502</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/JiXYY10</key><ee>https://icml.cc/Conferences/2010/papers/100.pdf</ee><url>https://dblp.org/rec/conf/icml/JiXYY10</url></info>
+<url>URL#3450497</url>
+</hit>
+<hit score="1" id="3450498">
+<info><authors><author pid="99/3320">Vladimir Jojic</author><author pid="89/1569">Stephen Gould</author><author pid="k/DaphneKoller">Daphne Koller</author></authors><title>Accelerated dual decomposition for MAP inference.</title><venue>ICML</venue><pages>503-510</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/JojicGK10</key><ee>https://icml.cc/Conferences/2010/papers/628.pdf</ee><url>https://dblp.org/rec/conf/icml/JojicGK10</url></info>
+<url>URL#3450498</url>
+</hit>
+<hit score="1" id="3450499">
+<info><authors><author pid="16/4410">Shivaram Kalyanakrishnan</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Efficient Selection of Multiple Bandit Arms - Theory and Practice.</title><venue>ICML</venue><pages>511-518</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KalyanakrishnanS10</key><ee>https://icml.cc/Conferences/2010/papers/410.pdf</ee><url>https://dblp.org/rec/conf/icml/KalyanakrishnanS10</url></info>
+<url>URL#3450499</url>
+</hit>
+<hit score="1" id="3450500">
+<info><authors><author pid="18/4985">Dongmin Kim</author><author pid="90/930">Suvrit Sra</author><author pid="d/InderjitSDhillon">Inderjit S. Dhillon</author></authors><title>A scalable trust-region algorithm with application to mixed-norm regression.</title><venue>ICML</venue><pages>519-526</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KimSD10</key><ee>https://icml.cc/Conferences/2010/papers/562.pdf</ee><url>https://dblp.org/rec/conf/icml/KimSD10</url></info>
+<url>URL#3450500</url>
+</hit>
+<hit score="1" id="3450501">
+<info><authors><author pid="57/7027">Minyoung Kim</author><author pid="d/FernandoDelaTorre">Fernando De la Torre</author></authors><title>Local Minima Embedding.</title><venue>ICML</venue><pages>527-534</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KimT10</key><ee>https://icml.cc/Conferences/2010/papers/374.pdf</ee><url>https://dblp.org/rec/conf/icml/KimT10</url></info>
+<url>URL#3450501</url>
+</hit>
+<hit score="1" id="3450502">
+<info><authors><author pid="57/7027">Minyoung Kim</author><author pid="d/FernandoDelaTorre">Fernando De la Torre</author></authors><title>Gaussian Processes Multiple Instance Learning.</title><venue>ICML</venue><pages>535-542</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KimT10a</key><ee>https://icml.cc/Conferences/2010/papers/412.pdf</ee><url>https://dblp.org/rec/conf/icml/KimT10a</url></info>
+<url>URL#3450502</url>
+</hit>
+<hit score="1" id="3450503">
+<info><authors><author pid="90/1816">Seyoung Kim</author><author pid="36/3855">Eric P. Xing</author></authors><title>Tree-Guided Group Lasso for Multi-Task Regression with Structured Sparsity.</title><venue>ICML</venue><pages>543-550</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KimX10</key><ee>https://icml.cc/Conferences/2010/papers/352.pdf</ee><url>https://dblp.org/rec/conf/icml/KimX10</url></info>
+<url>URL#3450503</url>
+</hit>
+<hit score="1" id="3450504">
+<info><authors><author pid="74/2264">Stanley Kok</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Learning Markov Logic Networks Using Structural Motifs.</title><venue>ICML</venue><pages>551-558</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KokD10</key><ee>https://icml.cc/Conferences/2010/papers/502.pdf</ee><url>https://dblp.org/rec/conf/icml/KokD10</url></info>
+<url>URL#3450504</url>
+</hit>
+<hit score="1" id="3450505">
+<info><authors><author pid="08/7068">Mladen Kolar</author><author pid="80/8411">Ankur P. Parikh</author><author pid="36/3855">Eric P. Xing</author></authors><title>On Sparse Nonparametric Conditional Covariance Selection.</title><venue>ICML</venue><pages>559-566</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KolarPX10</key><ee>https://icml.cc/Conferences/2010/papers/197.pdf</ee><url>https://dblp.org/rec/conf/icml/KolarPX10</url></info>
+<url>URL#3450505</url>
+</hit>
+<hit score="1" id="3450506">
+<info><authors><author pid="87/1831-1">Andreas Krause 0001</author><author pid="70/5301">Volkan Cevher</author></authors><title>Submodular Dictionary Selection for Sparse Representation.</title><venue>ICML</venue><pages>567-574</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KrauseC10</key><ee>https://icml.cc/Conferences/2010/papers/366.pdf</ee><url>https://dblp.org/rec/conf/icml/KrauseC10</url></info>
+<url>URL#3450506</url>
+</hit>
+<hit score="1" id="3450507">
+<info><authors><author pid="16/8758">Krishnamurthy Dvijotham</author><author pid="50/1996">Emanuel Todorov</author></authors><title>Inverse Optimal Control with Linearly-Solvable MDPs.</title><venue>ICML</venue><pages>335-342</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KrishnamurthyT10</key><ee>https://icml.cc/Conferences/2010/papers/571.pdf</ee><url>https://dblp.org/rec/conf/icml/KrishnamurthyT10</url></info>
+<url>URL#3450507</url>
+</hit>
+<hit score="1" id="3450508">
+<info><authors><author pid="43/3732">Brian Kulis</author><author pid="68/4020">Peter L. Bartlett</author></authors><title>Implicit Online Learning.</title><venue>ICML</venue><pages>575-582</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/KulisB10</key><ee>https://icml.cc/Conferences/2010/papers/429.pdf</ee><url>https://dblp.org/rec/conf/icml/KulisB10</url></info>
+<url>URL#3450508</url>
+</hit>
+<hit score="1" id="3450509">
+<info><authors><author pid="11/4164-1">Tobias Lang 0001</author><author pid="t/MarcToussaint">Marc Toussaint</author></authors><title>Probabilistic Backward and Forward Reasoning in Stochastic Relational Worlds.</title><venue>ICML</venue><pages>583-590</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LangT10</key><ee>https://icml.cc/Conferences/2010/papers/77.pdf</ee><url>https://dblp.org/rec/conf/icml/LangT10</url></info>
+<url>URL#3450509</url>
+</hit>
+<hit score="1" id="3450510">
+<info><authors><author pid="11/8412">Nathan Lay</author><author pid="59/3600">Adrian Barbu</author></authors><title>Supervised Aggregation of Classifiers using Artificial Prediction Markets.</title><venue>ICML</venue><pages>591-598</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LayB10</key><ee>https://icml.cc/Conferences/2010/papers/99.pdf</ee><url>https://dblp.org/rec/conf/icml/LayB10</url></info>
+<url>URL#3450510</url>
+</hit>
+<hit score="1" id="3450511">
+<info><authors><author pid="36/321">Alessandro Lazaric</author><author pid="88/6389">Mohammad Ghavamzadeh</author></authors><title>Bayesian Multi-Task Reinforcement Learning.</title><venue>ICML</venue><pages>599-606</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LazaricG10</key><ee>https://icml.cc/Conferences/2010/papers/269.pdf</ee><url>https://dblp.org/rec/conf/icml/LazaricG10</url></info>
+<url>URL#3450511</url>
+</hit>
+<hit score="1" id="3450512">
+<info><authors><author pid="36/321">Alessandro Lazaric</author><author pid="88/6389">Mohammad Ghavamzadeh</author><author pid="69/6815">Rémi Munos</author></authors><title>Analysis of a Classification-based Policy Iteration Algorithm.</title><venue>ICML</venue><pages>607-614</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LazaricGM10</key><ee>https://icml.cc/Conferences/2010/papers/303.pdf</ee><url>https://dblp.org/rec/conf/icml/LazaricGM10</url></info>
+<url>URL#3450512</url>
+</hit>
+<hit score="1" id="3450513">
+<info><authors><author pid="36/321">Alessandro Lazaric</author><author pid="88/6389">Mohammad Ghavamzadeh</author><author pid="69/6815">Rémi Munos</author></authors><title>Finite-Sample Analysis of LSTD.</title><venue>ICML</venue><pages>615-622</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LazaricGM10a</key><ee>https://icml.cc/Conferences/2010/papers/598.pdf</ee><url>https://dblp.org/rec/conf/icml/LazaricGM10a</url></info>
+<url>URL#3450513</url>
+</hit>
+<hit score="1" id="3450514">
+<info><authors><author pid="274/5445">Mu Li</author><author pid="k/JamesTinYauKwok">James T. Kwok</author><author pid="09/3116">Bao-Liang Lu</author></authors><title>Making Large-Scale Nyström Approximation Possible.</title><venue>ICML</venue><pages>631-638</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiKL10</key><ee>https://icml.cc/Conferences/2010/papers/242.pdf</ee><url>https://dblp.org/rec/conf/icml/LiKL10</url></info>
+<url>URL#3450514</url>
+</hit>
+<hit score="1" id="3450515">
+<info><authors><author pid="81/8411">Liuyang Li</author><author pid="15/4829">Barnabás Póczos</author><author pid="62/567">Csaba Szepesvári</author><author pid="g/RussellGreiner">Russell Greiner</author></authors><title>Budgeted Distribution Learning of Belief Net Parameters.</title><venue>ICML</venue><pages>879-886</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiPSG10</key><ee>https://icml.cc/Conferences/2010/papers/406.pdf</ee><url>https://dblp.org/rec/conf/icml/LiPSG10</url></info>
+<url>URL#3450515</url>
+</hit>
+<hit score="1" id="3450516">
+<info><authors><author pid="04/1701">Percy Liang</author><author pid="j/MichaelIJordan">Michael I. Jordan</author><author pid="22/1139">Dan Klein</author></authors><title>Learning Programs - A Hierarchical Bayesian Approach.</title><venue>ICML</venue><pages>639-646</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiangJK10</key><ee>https://icml.cc/Conferences/2010/papers/568.pdf</ee><url>https://dblp.org/rec/conf/icml/LiangJK10</url></info>
+<url>URL#3450516</url>
+</hit>
+<hit score="1" id="3450517">
+<info><authors><author pid="04/1701">Percy Liang</author><author pid="50/3633">Nati Srebro</author></authors><title>On the Interaction between Norm and Dimensionality - Multiple Regimes in Learning.</title><venue>ICML</venue><pages>647-654</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiangS10</key><ee>https://icml.cc/Conferences/2010/papers/601.pdf</ee><url>https://dblp.org/rec/conf/icml/LiangS10</url></info>
+<url>URL#3450517</url>
+</hit>
+<hit score="1" id="3450518">
+<info><authors><author pid="43/652">Frank Lin</author><author pid="c/WWCohen">William W. Cohen</author></authors><title>Power Iteration Clustering.</title><venue>ICML</venue><pages>655-662</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LinC10</key><ee>https://icml.cc/Conferences/2010/papers/387.pdf</ee><url>https://dblp.org/rec/conf/icml/LinC10</url></info>
+<url>URL#3450518</url>
+</hit>
+<hit score="1" id="3450519">
+<info><authors><author pid="49/3283-5">Wei Liu 0005</author><author pid="15/1384">Junfeng He</author><author pid="c/ShihFuChang">Shih-Fu Chang</author></authors><title>Large Graph Construction for Scalable Semi-Supervised Learning.</title><venue>ICML</venue><pages>679-686</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiuHC10</key><ee>https://icml.cc/Conferences/2010/papers/16.pdf</ee><url>https://dblp.org/rec/conf/icml/LiuHC10</url></info>
+<url>URL#3450519</url>
+</hit>
+<hit score="1" id="3450520">
+<info><authors><author pid="07/3768">Guangcan Liu</author><author pid="l/ZhouchenLin">Zhouchen Lin</author><author pid="43/5685-1">Yong Yu 0001</author></authors><title>Robust Subspace Segmentation by Low-Rank Representation.</title><venue>ICML</venue><pages>663-670</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiuLY10</key><ee>https://icml.cc/Conferences/2010/papers/521.pdf</ee><url>https://dblp.org/rec/conf/icml/LiuLY10</url></info>
+<url>URL#3450520</url>
+</hit>
+<hit score="1" id="3450521">
+<info><authors><author pid="l/YanLiu2">Yan Liu 0002</author><author pid="71/1974">Alexandru Niculescu-Mizil</author><author pid="06/274">Aurelie C. Lozano</author><author pid="72/2700">Yong Lu</author></authors><title>Learning Temporal Causal Graphs for Relational Time-Series Analysis.</title><venue>ICML</venue><pages>687-694</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiuNLL10</key><ee>https://icml.cc/Conferences/2010/papers/235.pdf</ee><url>https://dblp.org/rec/conf/icml/LiuNLL10</url></info>
+<url>URL#3450521</url>
+</hit>
+<hit score="1" id="3450522">
+<info><authors><author pid="32/4560">Hairong Liu</author><author pid="y/ShuichengYan">Shuicheng Yan</author></authors><title>Robust Graph Mode Seeking by Graph Shift.</title><venue>ICML</venue><pages>671-678</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LiuY10</key><ee>https://icml.cc/Conferences/2010/papers/132.pdf</ee><url>https://dblp.org/rec/conf/icml/LiuY10</url></info>
+<url>URL#3450522</url>
+</hit>
+<hit score="1" id="3450523">
+<info><authors><author pid="l/DanielJLizotte">Daniel J. Lizotte</author><author pid="71/5161">Michael H. Bowling</author><author pid="05/3845">Susan A. Murphy</author></authors><title>Efficient Reinforcement Learning with Multiple Reward Functions for Randomized Controlled Trial Analysis.</title><venue>ICML</venue><pages>695-702</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LizotteBM10</key><ee>https://icml.cc/Conferences/2010/papers/464.pdf</ee><url>https://dblp.org/rec/conf/icml/LizotteBM10</url></info>
+<url>URL#3450523</url>
+</hit>
+<hit score="1" id="3450524">
+<info><authors><author pid="66/5275">Philip M. Long</author><author pid="s/RAServedio">Rocco A. Servedio</author></authors><title>Restricted Boltzmann Machines are Hard to Approximately Evaluate or Simulate.</title><venue>ICML</venue><pages>703-710</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/LongS10</key><ee>https://icml.cc/Conferences/2010/papers/115.pdf</ee><url>https://dblp.org/rec/conf/icml/LongS10</url></info>
+<url>URL#3450524</url>
+</hit>
+<hit score="1" id="3450525">
+<info><authors><author pid="05/2961">Lester W. Mackey</author><author pid="06/7944">David J. Weiss</author><author pid="j/MichaelIJordan">Michael I. Jordan</author></authors><title>Mixed Membership Matrix Factorization.</title><venue>ICML</venue><pages>711-718</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MackeyWJ10</key><ee>https://icml.cc/Conferences/2010/papers/553.pdf</ee><url>https://dblp.org/rec/conf/icml/MackeyWJ10</url></info>
+<url>URL#3450525</url>
+</hit>
+<hit score="1" id="3450526">
+<info><authors><author pid="90/5292">Hamid Reza Maei</author><author pid="62/567">Csaba Szepesvári</author><author pid="71/2542">Shalabh Bhatnagar</author><author pid="48/6070">Richard S. Sutton</author></authors><title>Toward Off-Policy Learning Control with Function Approximation.</title><venue>ICML</venue><pages>719-726</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MaeiSBS10</key><ee>https://icml.cc/Conferences/2010/papers/627.pdf</ee><url>https://dblp.org/rec/conf/icml/MaeiSBS10</url></info>
+<url>URL#3450526</url>
+</hit>
+<hit score="1" id="3450527">
+<info><authors><author pid="20/455">M. M. Hassan Mahmud</author></authors><title>Constructing States for Reinforcement Learning.</title><venue>ICML</venue><pages>727-734</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Mahmud10</key><ee>https://icml.cc/Conferences/2010/papers/593.pdf</ee><url>https://dblp.org/rec/conf/icml/Mahmud10</url></info>
+<url>URL#3450527</url>
+</hit>
+<hit score="1" id="3450528">
+<info><authors><author pid="12/8412">James Martens</author></authors><title>Deep learning via Hessian-free optimization.</title><venue>ICML</venue><pages>735-742</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Martens10</key><ee>https://icml.cc/Conferences/2010/papers/458.pdf</ee><url>https://dblp.org/rec/conf/icml/Martens10</url></info>
+<url>URL#3450528</url>
+</hit>
+<hit score="1" id="3450529">
+<info><authors><author pid="12/8412">James Martens</author></authors><title>Learning the Linear Dynamical System with ASOS.</title><venue>ICML</venue><pages>743-750</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Martens10a</key><ee>https://icml.cc/Conferences/2010/papers/532.pdf</ee><url>https://dblp.org/rec/conf/icml/Martens10a</url></info>
+<url>URL#3450529</url>
+</hit>
+<hit score="1" id="3450530">
+<info><authors><author pid="36/8127">Mahdokht Masaeli</author><author pid="02/271">Glenn Fung</author><author pid="24/6000">Jennifer G. Dy</author></authors><title>From Transformation-Based Dimensionality Reduction to Feature Selection.</title><venue>ICML</venue><pages>751-758</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MasaeliFD10</key><ee>https://icml.cc/Conferences/2010/papers/333.pdf</ee><url>https://dblp.org/rec/conf/icml/MasaeliFD10</url></info>
+<url>URL#3450530</url>
+</hit>
+<hit score="1" id="3450531">
+<info><authors><author pid="16/3011">Hamed Masnadi-Shirazi</author><author pid="78/4806">Nuno Vasconcelos</author></authors><title>Risk minimization, probability elicitation, and cost-sensitive SVMs.</title><venue>ICML</venue><pages>759-766</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Masnadi-ShiraziV10</key><ee>https://icml.cc/Conferences/2010/papers/376.pdf</ee><url>https://dblp.org/rec/conf/icml/Masnadi-ShiraziV10</url></info>
+<url>URL#3450531</url>
+</hit>
+<hit score="1" id="3450532">
+<info><authors><author pid="29/3483">Julian J. McAuley</author><author pid="58/6867">Tibério S. Caetano</author></authors><title>Exploiting Data-Independence for Fast Belief-Propagation.</title><venue>ICML</venue><pages>767-774</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/McAuleyC10</key><ee>https://icml.cc/Conferences/2010/papers/202.pdf</ee><url>https://dblp.org/rec/conf/icml/McAuleyC10</url></info>
+<url>URL#3450532</url>
+</hit>
+<hit score="1" id="3450533">
+<info><authors><author pid="23/7058">Brian McFee</author><author pid="22/2368">Gert R. G. Lanckriet</author></authors><title>Metric Learning to Rank.</title><venue>ICML</venue><pages>775-782</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/McFeeL10</key><ee>https://icml.cc/Conferences/2010/papers/504.pdf</ee><url>https://dblp.org/rec/conf/icml/McFeeL10</url></info>
+<url>URL#3450533</url>
+</hit>
+<hit score="1" id="3450534">
+<info><authors><author pid="91/8411">Ofer Meshi</author><author pid="12/673">David A. Sontag</author><author pid="j/TommiJaakkola">Tommi S. Jaakkola</author><author pid="08/4162">Amir Globerson</author></authors><title>Learning Efficiently with Approximate Inference via Dual Losses.</title><venue>ICML</venue><pages>783-790</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MeshiSJG10</key><ee>https://icml.cc/Conferences/2010/papers/587.pdf</ee><url>https://dblp.org/rec/conf/icml/MeshiSJG10</url></info>
+<url>URL#3450534</url>
+</hit>
+<hit score="1" id="3450535">
+<info><authors><author pid="29/7048">Martin Renqiang Min</author><author pid="53/2650">Laurens van der Maaten</author><author pid="01/7116">Zineng Yuan</author><author pid="b/AJBonner">Anthony J. Bonner</author><author pid="32/3360">Zhaolei Zhang</author></authors><title>Deep Supervised t-Distributed Embedding.</title><venue>ICML</venue><pages>791-798</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MinMYBZ10</key><ee>https://icml.cc/Conferences/2010/papers/149.pdf</ee><url>https://dblp.org/rec/conf/icml/MinMYBZ10</url></info>
+<url>URL#3450535</url>
+</hit>
+<hit score="1" id="3450536">
+<info><authors><author pid="36/1501">Tetsuro Morimura</author><author pid="35/1228">Masashi Sugiyama</author><author pid="27/4448">Hisashi Kashima</author><author pid="75/2801">Hirotaka Hachiya</author><author pid="28/1895">Toshiyuki Tanaka</author></authors><title>Nonparametric Return Distribution Approximation for Reinforcement Learning.</title><venue>ICML</venue><pages>799-806</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/MorimuraSKHT10</key><ee>https://icml.cc/Conferences/2010/papers/652.pdf</ee><url>https://dblp.org/rec/conf/icml/MorimuraSKHT10</url></info>
+<url>URL#3450536</url>
+</hit>
+<hit score="1" id="3450537">
+<info><authors><author pid="20/5283">Vinod Nair</author><author pid="10/3248">Geoffrey E. Hinton</author></authors><title>Rectified Linear Units Improve Restricted Boltzmann Machines.</title><venue>ICML</venue><pages>807-814</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/NairH10</key><ee>https://icml.cc/Conferences/2010/papers/432.pdf</ee><url>https://dblp.org/rec/conf/icml/NairH10</url></info>
+<url>URL#3450537</url>
+</hit>
+<hit score="1" id="3450538">
+<info><authors><author pid="97/6115">Shinichi Nakajima</author><author pid="35/1228">Masashi Sugiyama</author></authors><title>Implicit Regularization in Variational Bayesian Matrix Factorization.</title><venue>ICML</venue><pages>815-822</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/NakajimaS10</key><ee>https://icml.cc/Conferences/2010/papers/518.pdf</ee><url>https://dblp.org/rec/conf/icml/NakajimaS10</url></info>
+<url>URL#3450538</url>
+</hit>
+<hit score="1" id="3450539">
+<info><authors><author pid="85/3290">Sahand N. Negahban</author><author pid="48/6396">Martin J. Wainwright</author></authors><title>Estimation of (near) low-rank matrices with noise and high-dimensional scaling.</title><venue>ICML</venue><pages>823-830</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/NegahbanW10</key><ee>https://icml.cc/Conferences/2010/papers/195.pdf</ee><url>https://dblp.org/rec/conf/icml/NegahbanW10</url></info>
+<url>URL#3450539</url>
+</hit>
+<hit score="1" id="3450540">
+<info><authors><author pid="83/8411">Donglin Niu</author><author pid="24/6000">Jennifer G. Dy</author><author pid="j/MichaelIJordan">Michael I. Jordan</author></authors><title>Multiple Non-Redundant Spectral Clustering Views.</title><venue>ICML</venue><pages>831-838</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/NiuDJ10</key><ee>https://icml.cc/Conferences/2010/papers/342.pdf</ee><url>https://dblp.org/rec/conf/icml/NiuDJ10</url></info>
+<url>URL#3450540</url>
+</hit>
+<hit score="1" id="3450541">
+<info><authors><author pid="o/SantiagoOntanon">Santiago Ontañón</author><author pid="p/EnricPlaza">Enric Plaza</author></authors><title>Multiagent Inductive Learning - an Argumentation-based Approach.</title><venue>ICML</venue><pages>839-846</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/OntanonP10</key><ee>https://icml.cc/Conferences/2010/papers/284.pdf</ee><url>https://dblp.org/rec/conf/icml/OntanonP10</url></info>
+<url>URL#3450541</url>
+</hit>
+<hit score="1" id="3450542">
+<info><authors><author pid="97/7035">John W. Paisley</author><author pid="17/8412">Aimee K. Zaas</author><author pid="19/8412">Christopher W. Woods</author><author pid="10/8412">Geoffrey S. Ginsburg</author><author pid="23/2168">Lawrence Carin</author></authors><title>A Stick-Breaking Construction of the Beta Process.</title><venue>ICML</venue><pages>847-854</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/PaisleyZWGC10</key><ee>https://icml.cc/Conferences/2010/papers/371.pdf</ee><url>https://dblp.org/rec/conf/icml/PaisleyZWGC10</url></info>
+<url>URL#3450542</url>
+</hit>
+<hit score="1" id="3450543">
+<info><authors><author pid="02/3202">Constantinos Panagiotakopoulos</author><author pid="87/3685">Petroula Tsampouka</author></authors><title>The Margin Perceptron with Unlearning.</title><venue>ICML</venue><pages>855-862</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/PanagiotakopoulosT10</key><ee>https://icml.cc/Conferences/2010/papers/176.pdf</ee><url>https://dblp.org/rec/conf/icml/PanagiotakopoulosT10</url></info>
+<url>URL#3450543</url>
+</hit>
+<hit score="1" id="3450544">
+<info><authors><author pid="19/3579">David Pardoe</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Boosting for Regression Transfer.</title><venue>ICML</venue><pages>863-870</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/PardoeS10</key><ee>https://icml.cc/Conferences/2010/papers/330.pdf</ee><url>https://dblp.org/rec/conf/icml/PardoeS10</url></info>
+<url>URL#3450544</url>
+</hit>
+<hit score="1" id="3450545">
+<info><authors><author pid="41/6546">Marek Petrik</author><author pid="37/142">Gavin Taylor</author><author pid="26/4670">Ronald Parr</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author></authors><title>Feature Selection Using Regularization in Approximate Linear Programs for Markov Decision Processes.</title><venue>ICML</venue><pages>871-878</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/PetrikTPZ10</key><ee>https://icml.cc/Conferences/2010/papers/52.pdf</ee><url>https://dblp.org/rec/conf/icml/PetrikTPZ10</url></info>
+<url>URL#3450545</url>
+</hit>
+<hit score="1" id="3450546">
+<info><authors><author pid="86/8411">Leonard K. M. Poon</author><author pid="z/NevinLianwenZhang">Nevin Lianwen Zhang</author><author pid="69/510">Tao Chen</author><author pid="67/6649-6">Yi Wang 0006</author></authors><title>Variable Selection in Model-Based Clustering - To Do or To Facilitate.</title><venue>ICML</venue><pages>887-894</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/PoonZCW10</key><ee>https://icml.cc/Conferences/2010/papers/26.pdf</ee><url>https://dblp.org/rec/conf/icml/PoonZCW10</url></info>
+<url>URL#3450546</url>
+</hit>
+<hit score="1" id="3450547">
+<info><authors><author pid="61/5162">Christopher Raphael</author></authors><title>Music Plus One and Machine Learning.</title><venue>ICML</venue><pages>21-28</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Raphael10</key><ee>https://icml.cc/Conferences/2010/papers/904.pdf</ee><url>https://dblp.org/rec/conf/icml/Raphael10</url></info>
+<url>URL#3450547</url>
+</hit>
+<hit score="1" id="3450548">
+<info><authors><author pid="43/1726">Joseph Reisinger</author><author pid="18/8412">Austin Waters</author><author pid="57/8399">Bryan Silverthorn</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Spherical Topic Models.</title><venue>ICML</venue><pages>903-910</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ReisingerWSM10</key><ee>https://icml.cc/Conferences/2010/papers/45.pdf</ee><url>https://dblp.org/rec/conf/icml/ReisingerWSM10</url></info>
+<url>URL#3450548</url>
+</hit>
+<hit score="1" id="3450549">
+<info><authors><author pid="91/954">Nicolas Le Roux</author><author pid="f/AndrewWFitzgibbon">Andrew W. Fitzgibbon</author></authors><title>A fast natural Newton method.</title><venue>ICML</venue><pages>623-630</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/RouxF10</key><ee>https://icml.cc/Conferences/2010/papers/438.pdf</ee><url>https://dblp.org/rec/conf/icml/RouxF10</url></info>
+<url>URL#3450549</url>
+</hit>
+<hit score="1" id="3450550">
+<info><authors><author pid="26/4352-1">Stefan Rüping 0001</author></authors><title>SVM Classifier Estimation from Group Probabilities.</title><venue>ICML</venue><pages>911-918</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Ruping10</key><ee>https://icml.cc/Conferences/2010/papers/223.pdf</ee><url>https://dblp.org/rec/conf/icml/Ruping10</url></info>
+<url>URL#3450550</url>
+</hit>
+<hit score="1" id="3450551">
+<info><authors><author pid="84/1607">Daniil Ryabko</author></authors><title>Clustering processes.</title><venue>ICML</venue><pages>919-926</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Ryabko10</key><ee>https://icml.cc/Conferences/2010/papers/279.pdf</ee><url>https://dblp.org/rec/conf/icml/Ryabko10</url></info>
+<url>URL#3450551</url>
+</hit>
+<hit score="1" id="3450552">
+<info><authors><author pid="47/3220">Yunus Saatci</author><author pid="116/2308">Ryan D. Turner</author><author pid="83/5440">Carl Edward Rasmussen</author></authors><title>Gaussian Process Change Point Models.</title><venue>ICML</venue><pages>927-934</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SaatciTR10</key><ee>https://icml.cc/Conferences/2010/papers/170.pdf</ee><url>https://dblp.org/rec/conf/icml/SaatciTR10</url></info>
+<url>URL#3450552</url>
+</hit>
+<hit score="1" id="3450553">
+<info><authors><author pid="43/5716">Jun Sakuma</author><author pid="85/7066">Hiromi Arai</author></authors><title>Online Prediction with Privacy.</title><venue>ICML</venue><pages>935-942</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SakumaA10</key><ee>https://icml.cc/Conferences/2010/papers/259.pdf</ee><url>https://dblp.org/rec/conf/icml/SakumaA10</url></info>
+<url>URL#3450553</url>
+</hit>
+<hit score="1" id="3450554">
+<info><authors><author pid="62/5884">Ruslan Salakhutdinov</author></authors><title>Learning Deep Boltzmann Machines using Adaptive MCMC.</title><venue>ICML</venue><pages>943-950</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Salakhutdinov10</key><ee>https://icml.cc/Conferences/2010/papers/441.pdf</ee><url>https://dblp.org/rec/conf/icml/Salakhutdinov10</url></info>
+<url>URL#3450554</url>
+</hit>
+<hit score="1" id="3450555">
+<info><authors><author pid="62/3712">Christoph Sawade</author><author pid="26/2421">Niels Landwehr</author><author pid="b/SteffenBickel">Steffen Bickel</author><author pid="s/TobiasScheffer">Tobias Scheffer</author></authors><title>Active Risk Estimation.</title><venue>ICML</venue><pages>951-958</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SawadeLBS10</key><ee>https://icml.cc/Conferences/2010/papers/285.pdf</ee><url>https://dblp.org/rec/conf/icml/SawadeLBS10</url></info>
+<url>URL#3450555</url>
+</hit>
+<hit score="1" id="3450556">
+<info><authors><author pid="88/216">Bruno Scherrer</author></authors><title>Should one compute the Temporal Difference fix point or minimize the Bellman Residual? The unified oblique projection view.</title><venue>ICML</venue><pages>959-966</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Scherrer10</key><ee>https://icml.cc/Conferences/2010/papers/654.pdf</ee><url>https://dblp.org/rec/conf/icml/Scherrer10</url></info>
+<url>URL#3450556</url>
+</hit>
+<hit score="1" id="3450557">
+<info><authors><author pid="43/5832">Matthias W. Seeger</author></authors><title>Gaussian Covariance and Scalable Variational Inference.</title><venue>ICML</venue><pages>967-974</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Seeger10</key><ee>https://icml.cc/Conferences/2010/papers/311.pdf</ee><url>https://dblp.org/rec/conf/icml/Seeger10</url></info>
+<url>URL#3450557</url>
+</hit>
+<hit score="1" id="3450558">
+<info><authors><author pid="94/7124">Ali H. Shoeb</author><author pid="g/JohnVGuttag">John V. Guttag</author></authors><title>Application of Machine Learning To Epileptic Seizure Detection.</title><venue>ICML</venue><pages>975-982</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ShoebG10</key><ee>https://icml.cc/Conferences/2010/papers/493.pdf</ee><url>https://dblp.org/rec/conf/icml/ShoebG10</url></info>
+<url>URL#3450558</url>
+</hit>
+<hit score="1" id="3450559">
+<info><authors><author pid="91/4014">Aleksandrs Slivkins</author><author pid="28/1966">Filip Radlinski</author><author pid="g/SreenivasGollapudi">Sreenivas Gollapudi</author></authors><title>Learning optimally diverse rankings over large document collections.</title><venue>ICML</venue><pages>983-990</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SlivkinsRG10</key><ee>https://icml.cc/Conferences/2010/papers/446.pdf</ee><url>https://dblp.org/rec/conf/icml/SlivkinsRG10</url></info>
+<url>URL#3450559</url>
+</hit>
+<hit score="1" id="3450560">
+<info><authors><author pid="65/5397">Benjamin Snyder</author><author pid="b/ReginaBarzilay">Regina Barzilay</author></authors><title>Climbing the Tower of Babel - Unsupervised Multilingual Learning.</title><venue>ICML</venue><pages>29-36</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SnyderB10</key><ee>https://icml.cc/Conferences/2010/papers/905.pdf</ee><url>https://dblp.org/rec/conf/icml/SnyderB10</url></info>
+<url>URL#3450560</url>
+</hit>
+<hit score="1" id="3450561">
+<info><authors><author pid="94/3481">Le Song</author><author pid="27/1803">Byron Boots</author><author pid="49/1353">Sajid M. Siddiqi</author><author pid="41/487">Geoffrey J. Gordon</author><author pid="s/AlexanderJSmola">Alexander J. Smola</author></authors><title>Hilbert Space Embeddings of Hidden Markov Models.</title><venue>ICML</venue><pages>991-998</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SongSGS10</key><ee>https://icml.cc/Conferences/2010/papers/495.pdf</ee><url>https://dblp.org/rec/conf/icml/SongSGS10</url></info>
+<url>URL#3450561</url>
+</hit>
+<hit score="1" id="3450562">
+<info><authors><author pid="56/3627">Sören Sonnenburg</author><author pid="60/1691">Vojtech Franc</author></authors><title>COFFIN - A Computational Framework for Linear SVMs.</title><venue>ICML</venue><pages>999-1006</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SonnenburgF10</key><ee>https://icml.cc/Conferences/2010/papers/280.pdf</ee><url>https://dblp.org/rec/conf/icml/SonnenburgF10</url></info>
+<url>URL#3450562</url>
+</hit>
+<hit score="1" id="3450563">
+<info><authors><author pid="45/7118">Jonathan Sorg</author><author pid="09/3058">Satinder P. Singh</author><author pid="12/590">Richard L. Lewis</author></authors><title>Internal Rewards Mitigate Agent Boundedness.</title><venue>ICML</venue><pages>1007-1014</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SorgSL10</key><ee>https://icml.cc/Conferences/2010/papers/442.pdf</ee><url>https://dblp.org/rec/conf/icml/SorgSL10</url></info>
+<url>URL#3450563</url>
+</hit>
+<hit score="1" id="3450564">
+<info><authors><author pid="83/7661">Niranjan Srinivas</author><author pid="87/1831-1">Andreas Krause 0001</author><author pid="s/SMKakade">Sham M. Kakade</author><author pid="43/5832">Matthias W. Seeger</author></authors><title>Gaussian Process Optimization in the Bandit Setting - No Regret and Experimental Design.</title><venue>ICML</venue><pages>1015-1022</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SrinivasKKS10</key><ee>https://icml.cc/Conferences/2010/papers/422.pdf</ee><url>https://dblp.org/rec/conf/icml/SrinivasKKS10</url></info>
+<url>URL#3450564</url>
+</hit>
+<hit score="1" id="3450565">
+<info><authors><author pid="54/4517">Zeeshan Syed</author><author pid="87/8411">Ilan Rubinfeld</author></authors><title>Unsupervised Risk Stratification in Clinical Datasets - Identifying Patients at Risk of Rare Outcomes.</title><venue>ICML</venue><pages>1023-1030</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SyedR10</key><ee>https://icml.cc/Conferences/2010/papers/310.pdf</ee><url>https://dblp.org/rec/conf/icml/SyedR10</url></info>
+<url>URL#3450565</url>
+</hit>
+<hit score="1" id="3450566">
+<info><authors><author pid="51/6034">Istvan Szita</author><author pid="62/567">Csaba Szepesvári</author></authors><title>Model-based reinforcement learning with nearly tight exploration complexity bounds.</title><venue>ICML</venue><pages>1031-1038</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SzitaS10</key><ee>https://icml.cc/Conferences/2010/papers/546.pdf</ee><url>https://dblp.org/rec/conf/icml/SzitaS10</url></info>
+<url>URL#3450566</url>
+</hit>
+<hit score="1" id="3450567">
+<info><authors><author pid="22/6733">Arthur Szlam</author><author pid="95/378">Xavier Bresson</author></authors><title>Total Variation, Cheeger Cuts.</title><venue>ICML</venue><pages>1039-1046</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/SzlamB10</key><ee>https://icml.cc/Conferences/2010/papers/233.pdf</ee><url>https://dblp.org/rec/conf/icml/SzlamB10</url></info>
+<url>URL#3450567</url>
+</hit>
+<hit score="1" id="3450568">
+<info><authors><author pid="49/2007">Mingkui Tan</author><author pid="58/6810-33">Li Wang 0033</author><author pid="35/5873">Ivor W. Tsang</author></authors><title>Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets.</title><venue>ICML</venue><pages>1047-1054</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/TanWT10</key><ee>https://icml.cc/Conferences/2010/papers/227.pdf</ee><url>https://dblp.org/rec/conf/icml/TanWT10</url></info>
+<url>URL#3450568</url>
+</hit>
+<hit score="1" id="3450569">
+<info><authors><author pid="04/8412">Yichuan Tang</author><author pid="68/8">Chris Eliasmith</author></authors><title>Deep networks for robust visual recognition.</title><venue>ICML</venue><pages>1055-1062</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/TangE10</key><ee>https://icml.cc/Conferences/2010/papers/370.pdf</ee><url>https://dblp.org/rec/conf/icml/TangE10</url></info>
+<url>URL#3450569</url>
+</hit>
+<hit score="1" id="3450570">
+<info><authors><author pid="39/1941">Mamadou Thiao</author><author pid="118/3775">Pham Dinh Tao</author><author pid="a/LeThiHoaiAn">Le Thi Hoai An</author></authors><title>A DC Programming Approach for Sparse Eigenvalue Problem.</title><venue>ICML</venue><pages>1063-1070</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ThiaoTA10</key><ee>https://icml.cc/Conferences/2010/papers/359.pdf</ee><url>https://dblp.org/rec/conf/icml/ThiaoTA10</url></info>
+<url>URL#3450570</url>
+</hit>
+<hit score="1" id="3450571">
+<info><authors><author pid="90/7599">Christophe Thiery</author><author pid="88/216">Bruno Scherrer</author></authors><title>Least-Squares Policy Iteration - Bias-Variance Trade-off in Control Problems.</title><venue>ICML</venue><pages>1071-1078</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ThieryS10</key><ee>https://icml.cc/Conferences/2010/papers/336.pdf</ee><url>https://dblp.org/rec/conf/icml/ThieryS10</url></info>
+<url>URL#3450571</url>
+</hit>
+<hit score="1" id="3450572">
+<info><authors><author pid="08/8412">Daniel Ting</author><author pid="90/3799">Ling Huang</author><author pid="j/MichaelIJordan">Michael I. Jordan</author></authors><title>An Analysis of the Convergence of Graph Laplacians.</title><venue>ICML</venue><pages>1079-1086</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/TingHJ10</key><ee>https://icml.cc/Conferences/2010/papers/554.pdf</ee><url>https://dblp.org/rec/conf/icml/TingHJ10</url></info>
+<url>URL#3450572</url>
+</hit>
+<hit score="1" id="3450573">
+<info><authors><author pid="50/2945">Ryota Tomioka</author><author pid="08/312">Taiji Suzuki</author><author pid="35/1228">Masashi Sugiyama</author><author pid="27/4448">Hisashi Kashima</author></authors><title>A Fast Augmented Lagrangian Algorithm for Learning Low-Rank Matrices.</title><venue>ICML</venue><pages>1087-1094</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/TomiokaSSK10</key><ee>https://icml.cc/Conferences/2010/papers/556.pdf</ee><url>https://dblp.org/rec/conf/icml/TomiokaSSK10</url></info>
+<url>URL#3450573</url>
+</hit>
+<hit score="1" id="3450574">
+<info><authors><author pid="14/8412">Han-Hsing Tu</author><author pid="10/3718">Hsuan-Tien Lin</author></authors><title>One-sided Support Vector Regression for Multiclass Cost-sensitive Classification.</title><venue>ICML</venue><pages>1095-1102</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/TuL10</key><ee>https://icml.cc/Conferences/2010/papers/207.pdf</ee><url>https://dblp.org/rec/conf/icml/TuL10</url></info>
+<url>URL#3450574</url>
+</hit>
+<hit score="1" id="3450575">
+<info><authors><author pid="61/2182">David Vickrey</author><author pid="31/7450">Cliff Chiung-Yu Lin</author><author pid="k/DaphneKoller">Daphne Koller</author></authors><title>Non-Local Contrastive Objectives.</title><venue>ICML</venue><pages>1103-1110</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/VickreyLK10</key><ee>https://icml.cc/Conferences/2010/papers/592.pdf</ee><url>https://dblp.org/rec/conf/icml/VickreyLK10</url></info>
+<url>URL#3450575</url>
+</hit>
+<hit score="1" id="3450576">
+<info><authors><author pid="13/8412">Julia E. Vogt</author><author pid="94/8411">Sandhya Prabhakaran</author><author pid="36/1644">Thomas J. Fuchs</author><author pid="23/1185-1">Volker Roth 0001</author></authors><title>The Translation-invariant Wishart-Dirichlet Process for Clustering Distance Data.</title><venue>ICML</venue><pages>1111-1118</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/VogtPFR10</key><ee>https://icml.cc/Conferences/2010/papers/248.pdf</ee><url>https://dblp.org/rec/conf/icml/VogtPFR10</url></info>
+<url>URL#3450576</url>
+</hit>
+<hit score="1" id="3450577">
+<info><authors><author pid="90/6261">Thomas J. Walsh</author><author pid="19/8399">Kaushik Subramanian</author><author pid="l/MLLittman">Michael L. Littman</author><author pid="34/2772">Carlos Diuk</author></authors><title>Generalizing Apprenticeship Learning across Hypothesis Classes.</title><venue>ICML</venue><pages>1119-1126</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WalshSLD10</key><ee>https://icml.cc/Conferences/2010/papers/475.pdf</ee><url>https://dblp.org/rec/conf/icml/WalshSLD10</url></info>
+<url>URL#3450577</url>
+</hit>
+<hit score="1" id="3450578">
+<info><authors><author pid="04/6982">Zhuang Wang</author><author pid="74/6961">Koby Crammer</author><author pid="13/5776">Slobodan Vucetic</author></authors><title>Multi-Class Pegasos on a Budget.</title><venue>ICML</venue><pages>1143-1150</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WangCV10</key><ee>https://icml.cc/Conferences/2010/papers/569.pdf</ee><url>https://dblp.org/rec/conf/icml/WangCV10</url></info>
+<url>URL#3450578</url>
+</hit>
+<hit score="1" id="3450579">
+<info><authors><author pid="w/JunWang6">Jun Wang 0006</author><author pid="66/6804">Sanjiv Kumar</author><author pid="c/ShihFuChang">Shih-Fu Chang</author></authors><title>Sequential Projection Learning for Hashing with Compact Codes.</title><venue>ICML</venue><pages>1127-1134</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WangKC10</key><ee>https://icml.cc/Conferences/2010/papers/178.pdf</ee><url>https://dblp.org/rec/conf/icml/WangKC10</url></info>
+<url>URL#3450579</url>
+</hit>
+<hit score="1" id="3450580">
+<info><authors><author pid="35/7092-28">Wei Wang 0028</author><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>A New Analysis of Co-Training.</title><venue>ICML</venue><pages>1135-1142</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WangZ10</key><ee>https://icml.cc/Conferences/2010/papers/275.pdf</ee><url>https://dblp.org/rec/conf/icml/WangZ10</url></info>
+<url>URL#3450580</url>
+</hit>
+<hit score="1" id="3450581">
+<info><authors><author pid="87/3383">Sinead Williamson</author><author pid="w/ChongWang2">Chong Wang 0002</author><author pid="32/4403">Katherine A. Heller</author><author pid="86/1910">David M. Blei</author></authors><title>The IBP Compound Dirichlet Process and its Application to Focused Topic Modeling.</title><venue>ICML</venue><pages>1151-1158</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WilliamsonWHB10</key><ee>https://icml.cc/Conferences/2010/papers/397.pdf</ee><url>https://dblp.org/rec/conf/icml/WilliamsonWHB10</url></info>
+<url>URL#3450581</url>
+</hit>
+<hit score="1" id="3450582">
+<info><authors><author pid="59/4107">Xindong Wu 0001</author><author pid="52/2586">Kui Yu</author><author pid="w/HaoWang-8">Hao Wang 0008</author><author pid="59/622-3">Wei Ding 0003</author></authors><title>Online Streaming Feature Selection.</title><venue>ICML</venue><pages>1159-1166</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WuYWD10</key><ee>https://icml.cc/Conferences/2010/papers/238.pdf</ee><url>https://dblp.org/rec/conf/icml/WuYWD10</url></info>
+<url>URL#3450582</url>
+</hit>
+<hit score="1" id="3450583">
+<info><authors><author pid="98/8411">Michael Wunder</author><author pid="l/MLLittman">Michael L. Littman</author><author pid="82/5111">Monica Babes</author></authors><title>Classes of Multiagent Q-learning Dynamics with epsilon-greedy Exploration.</title><venue>ICML</venue><pages>1167-1174</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/WunderLB10</key><ee>https://icml.cc/Conferences/2010/papers/191.pdf</ee><url>https://dblp.org/rec/conf/icml/WunderLB10</url></info>
+<url>URL#3450583</url>
+</hit>
+<hit score="1" id="3450584">
+<info><authors><author pid="32/1213-12">Wei Xu 0012</author><author pid="90/3799">Ling Huang</author><author pid="90/5133">Armando Fox</author><author pid="p/DAPatterson">David A. Patterson</author><author pid="j/MichaelIJordan">Michael I. Jordan</author></authors><title>Detecting Large-Scale System Problems by Mining Console Logs.</title><venue>ICML</venue><pages>37-46</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/XuHFPJ10</key><ee>https://icml.cc/Conferences/2010/papers/902.pdf</ee><url>https://dblp.org/rec/conf/icml/XuHFPJ10</url></info>
+<url>URL#3450584</url>
+</hit>
+<hit score="1" id="3450585">
+<info><authors><author pid="68/1538">Zenglin Xu</author><author pid="j/RongJin">Rong Jin</author><author pid="63/3939">Haiqin Yang</author><author pid="k/IrwinKing">Irwin King</author><author pid="l/MichaelRLyu">Michael R. Lyu</author></authors><title>Simple and Efficient Multiple Kernel Learning by Group Lasso.</title><venue>ICML</venue><pages>1175-1182</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/XuJYKL10</key><ee>https://icml.cc/Conferences/2010/papers/540.pdf</ee><url>https://dblp.org/rec/conf/icml/XuJYKL10</url></info>
+<url>URL#3450585</url>
+</hit>
+<hit score="1" id="3450586">
+<info><authors><author pid="62/3960-3">Feng Yan 0003</author><author pid="57/2210">Yuan (Alan) Qi</author></authors><title>Sparse Gaussian Process Regression via L1 Penalization.</title><venue>ICML</venue><pages>1183-1190</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/YanQ10</key><ee>https://icml.cc/Conferences/2010/papers/636.pdf</ee><url>https://dblp.org/rec/conf/icml/YanQ10</url></info>
+<url>URL#3450586</url>
+</hit>
+<hit score="1" id="3450587">
+<info><authors><author pid="56/7047">Tianbao Yang</author><author pid="j/RongJin">Rong Jin</author><author pid="j/AnilKJain">Anil K. Jain 0001</author></authors><title>Learning from Noisy Side Information by Generalized Maximum Entropy Model.</title><venue>ICML</venue><pages>1199-1206</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/YangJJ10</key><ee>https://icml.cc/Conferences/2010/papers/117.pdf</ee><url>https://dblp.org/rec/conf/icml/YangJJ10</url></info>
+<url>URL#3450587</url>
+</hit>
+<hit score="1" id="3450588">
+<info><authors><author pid="63/3939">Haiqin Yang</author><author pid="68/1538">Zenglin Xu</author><author pid="k/IrwinKing">Irwin King</author><author pid="l/MichaelRLyu">Michael R. Lyu</author></authors><title>Online Learning for Group Lasso.</title><venue>ICML</venue><pages>1191-1198</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/YangXKL10</key><ee>https://icml.cc/Conferences/2010/papers/473.pdf</ee><url>https://dblp.org/rec/conf/icml/YangXKL10</url></info>
+<url>URL#3450588</url>
+</hit>
+<hit score="1" id="3450589">
+<info><authors><author pid="47/3140">Huizhen Yu</author></authors><title>Convergence of Least Squares Temporal Difference Methods Under General Conditions.</title><venue>ICML</venue><pages>1207-1214</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/Yu10</key><ee>https://icml.cc/Conferences/2010/papers/187.pdf</ee><url>https://dblp.org/rec/conf/icml/Yu10</url></info>
+<url>URL#3450589</url>
+</hit>
+<hit score="1" id="3450590">
+<info><authors><author pid="y/KaiYu">Kai Yu 0001</author><author pid="07/4227-1">Tong Zhang 0001</author></authors><title>Improved Local Coordinate Coding using Local Tangents.</title><venue>ICML</venue><pages>1215-1222</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/YuZ10</key><ee>https://icml.cc/Conferences/2010/papers/454.pdf</ee><url>https://dblp.org/rec/conf/icml/YuZ10</url></info>
+<url>URL#3450590</url>
+</hit>
+<hit score="1" id="3450591">
+<info><authors><author pid="64/6544-10">Yi Zhang 0010</author><author pid="38/247">Jeff G. Schneider</author></authors><title>Projection Penalties - Dimension Reduction without Loss.</title><venue>ICML</venue><pages>1223-1230</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ZhangS10</key><ee>https://icml.cc/Conferences/2010/papers/481.pdf</ee><url>https://dblp.org/rec/conf/icml/ZhangS10</url></info>
+<url>URL#3450591</url>
+</hit>
+<hit score="1" id="3450592">
+<info><authors><author pid="84/8411">Peilin Zhao</author><author pid="h/StevenCHHoi">Steven C. H. Hoi</author></authors><title>OTL - A Framework of Online Transfer Learning.</title><venue>ICML</venue><pages>1231-1238</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ZhaoH10</key><ee>https://icml.cc/Conferences/2010/papers/219.pdf</ee><url>https://dblp.org/rec/conf/icml/ZhaoH10</url></info>
+<url>URL#3450592</url>
+</hit>
+<hit score="1" id="3450593">
+<info><authors><author pid="z/XiaojinZhu">Xiaojin Zhu 0001</author><author pid="16/8412">Bryan R. Gibson</author><author pid="88/8411">Kwang-Sung Jun</author><author pid="25/7229">Timothy T. Rogers</author><author pid="92/8411">Joseph Harrison</author><author pid="59/3249">Chuck Kalish</author></authors><title>Cognitive Models of Test-Item Effects in Human Category Learning.</title><venue>ICML</venue><pages>1247-1254</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ZhuGJRHK10</key><ee>https://icml.cc/Conferences/2010/papers/468.pdf</ee><url>https://dblp.org/rec/conf/icml/ZhuGJRHK10</url></info>
+<url>URL#3450593</url>
+</hit>
+<hit score="1" id="3450594">
+<info><authors><author pid="50/2644-1">Jun Zhu 0001</author><author pid="36/3855">Eric P. Xing</author></authors><title>Conditional Topic Random Fields.</title><venue>ICML</venue><pages>1239-1246</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ZhuX10</key><ee>https://icml.cc/Conferences/2010/papers/420.pdf</ee><url>https://dblp.org/rec/conf/icml/ZhuX10</url></info>
+<url>URL#3450594</url>
+</hit>
+<hit score="1" id="3450595">
+<info><authors><author pid="39/10481">Brian D. Ziebart</author><author pid="65/2021">J. Andrew Bagnell</author><author pid="04/4652">Anind K. Dey</author></authors><title>Modeling Interaction via the Principle of Maximum Causal Entropy.</title><venue>ICML</venue><pages>1255-1262</pages><year>2010</year><type>Conference and Workshop Papers</type><key>conf/icml/ZiebartBD10</key><ee>https://icml.cc/Conferences/2010/papers/28.pdf</ee><url>https://dblp.org/rec/conf/icml/ZiebartBD10</url></info>
+<url>URL#3450595</url>
+</hit>
+<hit score="1" id="3518788">
+<info><authors><author pid="f/JohannesFurnkranz">Johannes Fürnkranz</author><author pid="j/ThorstenJoachims">Thorsten Joachims</author></authors><title>Proceedings of the 27th International Conference on Machine Learning (ICML-10), June 21-24, 2010, Haifa, Israel</title><venue>ICML</venue><publisher>Omnipress</publisher><year>2010</year><type>Editorship</type><key>conf/icml/2010</key><url>https://dblp.org/rec/conf/icml/2010</url></info>
+<url>URL#3518788</url>
+</hit>
+</hits>
+</result>
