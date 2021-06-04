@@ -17,3 +17,6 @@ ________________________________________
 - All paper information from 2010-2020 ICML conference in XML files 
 - XML files in folder are organized as "(conference number)"
 - Since we want to use only theoritcal data from ICML, I was unsure if we wanted to use all of the files of certain conferences that had multiple. If there is a "-1" in the file name, there are multiple files from that year, so we should review which file(s) to use
+
+**parsing.py:**
+- Python script to parse XML files for specified fields
