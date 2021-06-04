@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="751580">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"affcomp2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">125.15</time>
+<completions total="1" computed="1" sent="1">
+<c sc="6" dc="6" oc="6" id="18206973">:facetid:toc:db/conf/ijcai/affcomp2019.bht</c>
+</completions>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="802749">
+<info><authors><author pid="23/6392">Jennifer Healey</author></authors><title>Sequential Dependence and Non-linearity in Affective Responses - a Skin Conductance Example.</title><venue>AffComp@IJCAI</venue><pages>1-8</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Healey19</key><ee>http://proceedings.mlr.press/v122/healey20a.html</ee><url>https://dblp.org/rec/conf/ijcai/Healey19</url></info>
+<url>URL#802749</url>
+</hit>
+<hit score="1" id="802877">
+<info><authors><author pid="249/5679">Mihee Lee</author><author pid="53/21">Ognjen Rudovic</author><author pid="98/2506">Vladimir Pavlovic</author><author pid="p/MajaPantic">Maja Pantic</author></authors><title>Sequential Dependence and Non-linearity in Affective Responses - a Skin Conductance Example.</title><venue>AffComp@IJCAI</venue><pages>9-27</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LeeRPP19</key><ee>http://proceedings.mlr.press/v122/lee20a.html</ee><url>https://dblp.org/rec/conf/ijcai/LeeRPP19</url></info>
+<url>URL#802877</url>
+</hit>
+<hit score="1" id="803013">
+<info><authors><author pid="280/4604">Yui Niibori</author><author pid="24/6178-1">Shigang Li 0001</author></authors><title>Measuring Two-People Communication from Omnidirectional Video.</title><venue>AffComp@IJCAI</venue><pages>28-35</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NiiboriL19</key><ee>http://proceedings.mlr.press/v122/niibori20a.html</ee><url>https://dblp.org/rec/conf/ijcai/NiiboriL19</url></info>
+<url>URL#803013</url>
+</hit>
+<hit score="1" id="803123">
+<info><authors><author pid="151/2153">Moumita Sinha</author><author pid="23/6392">Jennifer Healey</author><author pid="203/9041">Faran Ahmad</author><author pid="19/4180">Varun Gupta</author><author pid="52/6987">Niloy Ganguly</author></authors><title>Persuasion - What Jane Austin Would Have Written.</title><venue>AffComp@IJCAI</venue><pages>36-43</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SinhaHAGG19</key><ee>http://proceedings.mlr.press/v122/sinha20a.html</ee><url>https://dblp.org/rec/conf/ijcai/SinhaHAGG19</url></info>
+<url>URL#803123</url>
+</hit>
+<hit score="1" id="803180">
+<info><authors><author pid="226/2038">Suraj Tripathi</author><author pid="243/3421">Abhiram Ramesh</author><author pid="29/1698">Abhay Kumar</author><author pid="219/8397">Chirag Singh</author><author pid="213/7999">Promod Yenigalla</author></authors><title>Learning Discriminative Features using Center Loss and Reconstruction as Regularizer for Speech Emotion Recognition.</title><venue>AffComp@IJCAI</venue><pages>44-53</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TripathiRKSY19</key><ee>http://proceedings.mlr.press/v122/tripathi20a.html</ee><url>https://dblp.org/rec/conf/ijcai/TripathiRKSY19</url></info>
+<url>URL#803180</url>
+</hit>
+<hit score="1" id="877656">
+<info><authors><author pid="22/6109">William Hsu</author></authors><title>Workshop on Artificial Intelligence in Affective Computing, AffComp@IJCAI 2019, 10 August 2019, Macao, China</title><venue>AffComp@IJCAI</venue><venue>Proceedings of Machine Learning Research</venue><volume>122</volume><publisher>PMLR</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2019affcomp</key><ee>http://proceedings.mlr.press/v122/</ee><url>https://dblp.org/rec/conf/ijcai/2019affcomp</url></info>
+<url>URL#877656</url>
+</hit>
+</hits>
+</result>

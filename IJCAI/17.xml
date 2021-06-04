@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="752465">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"fca4ai2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">131.53</time>
+<completions total="1" computed="1" sent="1">
+<c sc="12" dc="12" oc="12" id="18207006">:facetid:toc:db/conf/ijcai/fca4ai2018.bht</c>
+</completions>
+<hits total="12" computed="12" sent="12" first="0">
+<hit score="1" id="1181129">
+<info><authors><author pid="04/4157">Nelly Barbot</author><author pid="58/5644">Laurent Miclet</author><author pid="p/HenriPrade">Henri Prade</author></authors><title>Relational Proportions Between Objects and Attributes.</title><venue>FCA4AI@IJCAI</venue><pages>33-44</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BarbotMP18</key><ee>http://ceur-ws.org/Vol-2149/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BarbotMP18</url></info>
+<url>URL#1181129</url>
+</hit>
+<hit score="1" id="1181169">
+<info><authors><author pid="200/9135">Lucas Bourneuf</author></authors><title>An Answer Set Programming Environment for High-Level Specification and Visualization of FCA.</title><venue>FCA4AI@IJCAI</venue><pages>9-20</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Bourneuf18</key><ee>http://ceur-ws.org/Vol-2149/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Bourneuf18</url></info>
+<url>URL#1181169</url>
+</hit>
+<hit score="1" id="1181201">
+<info><authors><author pid="206/6128">Célia Châtel</author><author pid="60/3608">François Brucker</author><author pid="17/865">Pascal Préa</author></authors><title>Binary Lattices.</title><venue>FCA4AI@IJCAI</venue><pages>93-104</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChatelBP18</key><ee>http://ceur-ws.org/Vol-2149/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChatelBP18</url></info>
+<url>URL#1181201</url>
+</hit>
+<hit score="1" id="1181334">
+<info><authors><author pid="183/4066">Tobias Gäbel-Hökenschnieder</author><author pid="183/3948">Thorsten Pfeiffer</author><author pid="92/1584">Stefan E. Schmidt</author></authors><title>Generalized Metrics with Applications to Ratings and Formal Concept Analysis.</title><venue>FCA4AI@IJCAI</venue><pages>81-92</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Gabel-Hokenschnieder18</key><ee>http://ceur-ws.org/Vol-2149/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Gabel-Hokenschnieder18</url></info>
+<url>URL#1181334</url>
+</hit>
+<hit score="1" id="1181457">
+<info><authors><author pid="201/5140">Christian Jäkel</author><author pid="92/1584">Stefan E. Schmidt</author></authors><title>Rectangle and Square Coverings of Tolerance Spaces and Their Direct Product.</title><venue>FCA4AI@IJCAI</venue><pages>57-68</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JakelS18</key><ee>http://ceur-ws.org/Vol-2149/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/JakelS18</url></info>
+<url>URL#1181457</url>
+</hit>
+<hit score="1" id="1181469">
+<info><authors><author pid="222/9587">Nyoman Juniarta</author><author pid="28/3653">Víctor Codocedo</author><author pid="90/3960">Miguel Couceiro</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>Biclustering Based on FCA and Partition Pattern Structures for Recommendation Systems.</title><venue>FCA4AI@IJCAI</venue><pages>105-116</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JuniartaCCN18</key><ee>http://ceur-ws.org/Vol-2149/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/JuniartaCCN18</url></info>
+<url>URL#1181469</url>
+</hit>
+<hit score="1" id="1181494">
+<info><authors><author pid="67/574">Jens Kötters</author><author pid="e/PWEklund">Peter W. Eklund</author></authors><title>The Theory and Practice of Coupling Formal Concept Analysis to Relational Databases.</title><venue>FCA4AI@IJCAI</venue><pages>69-80</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KottersandE18</key><ee>http://ceur-ws.org/Vol-2149/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KottersandE18</url></info>
+<url>URL#1181494</url>
+</hit>
+<hit score="1" id="1181501">
+<info><authors><author pid="224/2560">Vladimir Kursitys</author><author pid="21/5524">Dmitry I. Ignatov</author></authors><title>Understanding Collaborative Filtering with Galois Connections.</title><venue>FCA4AI@IJCAI</venue><pages>127-143</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KursitysI18</key><ee>http://ceur-ws.org/Vol-2149/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KursitysI18</url></info>
+<url>URL#1181501</url>
+</hit>
+<hit score="1" id="1181615">
+<info><authors><author pid="173/3606">Tatiana P. Makhalova</author><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>MDL for FCA - Is There a Place for Background Knowledge?</title><venue>FCA4AI@IJCAI</venue><pages>45-56</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MakhalovaKN18</key><ee>http://ceur-ws.org/Vol-2149/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MakhalovaKN18</url></info>
+<url>URL#1181615</url>
+</hit>
+<hit score="1" id="1181650">
+<info><authors><author pid="201/5112">Pierre Monnin</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author><author pid="82/4513">Adrien Coulet</author></authors><title>Combining Concept Annotation and Pattern Structures for Guiding Ontology Mapping.</title><venue>FCA4AI@IJCAI</venue><pages>117-126</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MonninNC18</key><ee>http://ceur-ws.org/Vol-2149/paper11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MonninNC18</url></info>
+<url>URL#1181650</url>
+</hit>
+<hit score="1" id="1181728">
+<info><authors><author pid="187/4414">Justine Reynaud</author><author pid="27/2056">Yannick Toussaint</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>Three Approaches for Mining Definitions from Relational Data in the Web of Data.</title><venue>FCA4AI@IJCAI</venue><pages>21-32</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ReynaudTN18</key><ee>http://ceur-ws.org/Vol-2149/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ReynaudTN18</url></info>
+<url>URL#1181728</url>
+</hit>
+<hit score="1" id="1253768">
+<info><authors><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author><author pid="79/6633">Sebastian Rudolph</author></authors><title>Proceedings of the 6th International Workshop &quot;What can FCA do for Artificial Intelligence&quot;? co-located with International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence (IJCAI/ECAI 2018), Stockholm, Sweden, July 13, 2018.</title><venue>FCA4AI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2149</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018fca4ai</key><ee>http://ceur-ws.org/Vol-2149</ee><url>https://dblp.org/rec/conf/ijcai/2018fca4ai</url></info>
+<url>URL#1253768</url>
+</hit>
+</hits>
+</result>

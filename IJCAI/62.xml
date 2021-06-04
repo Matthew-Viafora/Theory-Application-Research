@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="757040">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"udm2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">124.00</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="18207077">:facetid:toc:db/conf/ijcai/udm2013.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="2715710">
+<info><authors><author pid="129/2335">Ezilda Almeida</author><author pid="10/4139">Carlos Abreu Ferreira</author><author pid="g/JGama">João Gama 0001</author></authors><title>Learning Model Rules From High-Speed Data Streams.</title><venue>UDM@IJCAI</venue><pages>10</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlmeidaFG13</key><ee>http://ceur-ws.org/Vol-1088/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlmeidaFG13</url></info>
+<url>URL#2715710</url>
+</hit>
+<hit score="1" id="2715816">
+<info><authors><author pid="54/3488-1">Wei Fan 0001</author></authors><title>NIM - Scalable Distributed Stream Processing System on Mobile Network Data.</title><venue>UDM@IJCAI</venue><pages>3</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Fan13</key><ee>http://ceur-ws.org/Vol-1088/invited2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Fan13</url></info>
+<url>URL#2715816</url>
+</hit>
+<hit score="1" id="2715818">
+<info><authors><author pid="18/7544">Wentao Fan</author><author pid="43/2204">Nizar Bouguila</author></authors><title>Visual Scenes Clustering Using Variational Incremental Learning of Infinite Generalized Dirichlet Mixture Models.</title><venue>UDM@IJCAI</venue><pages>24</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FanB13a</key><ee>http://ceur-ws.org/Vol-1088/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FanB13a</url></info>
+<url>URL#2715818</url>
+</hit>
+<hit score="1" id="2715857">
+<info><authors><author pid="58/7118">William Groves</author><author pid="66/9168">Ernesto Nunes</author><author pid="g/MariaLGini">Maria L. Gini</author></authors><title>Predicting Globally and Locally - A Comparison of Methods for Vehicle Trajectory Prediction.</title><venue>UDM@IJCAI</venue><pages>5</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GrovesNG13</key><ee>http://ceur-ws.org/Vol-1088/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GrovesNG13</url></info>
+<url>URL#2715857</url>
+</hit>
+<hit score="1" id="2715884">
+<info><authors><author pid="125/4303">Marius Hoffmann</author><author pid="64/5523">Michael Mock</author><author pid="23/6304-1">Michael May 0001</author></authors><title>Road-quality Classification and Bump Detection with Bicycle-Mounted Smartphones.</title><venue>UDM@IJCAI</venue><pages>39</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HoffmannMM13</key><ee>http://ceur-ws.org/Vol-1088/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HoffmannMM13</url></info>
+<url>URL#2715884</url>
+</hit>
+<hit score="1" id="2715996">
+<info><authors><author pid="116/5176">Luís Moreira-Matias</author><author pid="69/6427">Ricardo Fernandes</author><author pid="g/JGama">João Gama 0001</author><author pid="85/401">Michel Ferreira</author><author pid="04/6180">João Mendes-Moreira</author><author pid="85/5515">Luís Damas</author></authors><title>On Recommending Urban Hotspots to Find Our Next Passenger.</title><venue>UDM@IJCAI</venue><pages>17</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Moreira-MatiasFGFMD13</key><ee>http://ceur-ws.org/Vol-1088/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Moreira-MatiasFGFMD13</url></info>
+<url>URL#2715996</url>
+</hit>
+<hit score="1" id="2716089">
+<info><authors><author pid="181/2757-3">Bruno Silva 0003</author><author pid="15/2515">Luís Cavique</author><author pid="78/5858">Nuno Cavalheiro Marques</author></authors><title>Simulating Price Interactions by Mining Multivariate Financial Time Series.</title><venue>UDM@IJCAI</venue><pages>44</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SilvaCM13</key><ee>http://ceur-ws.org/Vol-1088/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SilvaCM13</url></info>
+<url>URL#2716089</url>
+</hit>
+<hit score="1" id="2716090">
+<info><authors><author pid="181/2757-3">Bruno Silva 0003</author><author pid="78/5858">Nuno Cavalheiro Marques</author></authors><title>Ubiquitous Self-Organizing Maps.</title><venue>UDM@IJCAI</venue><pages>54</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SilvaM13</key><ee>http://ceur-ws.org/Vol-1088/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SilvaM13</url></info>
+<url>URL#2716090</url>
+</hit>
+<hit score="1" id="2716101">
+<info><authors><author pid="27/5877">Olga Streibel</author><author pid="138/0461">Lars Wißler</author><author pid="t/RobertTolksdorf">Robert Tolksdorf</author><author pid="69/5578">Danilo Montesi</author></authors><title>Trend Template - Mining Trends With a Semi-formal Trend Model.</title><venue>UDM@IJCAI</venue><pages>49</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/StreibelWTM13</key><ee>http://ceur-ws.org/Vol-1088/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/StreibelWTM13</url></info>
+<url>URL#2716101</url>
+</hit>
+<hit score="1" id="2716127">
+<info><authors><author pid="207/4101">Harold Vasquez Chavarria</author><author pid="s/LuisEnriqueSucar">Luis Enrique Sucar</author><author pid="86/2693">Hugo Jair Escalante</author></authors><title>Simultaneous Segmentation and Recognition of Gestures for Human-Machine Interaction.</title><venue>UDM@IJCAI</venue><pages>29</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VasquezSE13</key><ee>http://ceur-ws.org/Vol-1088/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/VasquezSE13</url></info>
+<url>URL#2716127</url>
+</hit>
+<hit score="1" id="2716133">
+<info><authors><author pid="87/674">Daniel Villatoro</author><author pid="138/0501">Jordi Aranda</author><author pid="51/8779">Marc Planagumà</author><author pid="90/9824">Rafael Giménez</author><author pid="60/2773">Marc Torrent-Moreno</author></authors><title>Cicerone - Design of a Real-Time Area Knowledge-Enhanced Venue Recommender.</title><venue>UDM@IJCAI</venue><pages>34</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VillatoroAPGT13</key><ee>http://ceur-ws.org/Vol-1088/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/VillatoroAPGT13</url></info>
+<url>URL#2716133</url>
+</hit>
+<hit score="1" id="2716226">
+<info><authors><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>Exploiting Label Relationship in Multi-Label Learning.</title><venue>UDM@IJCAI</venue><pages>1</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Zhou13</key><ee>http://ceur-ws.org/Vol-1088/invited1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Zhou13</url></info>
+<url>URL#2716226</url>
+</hit>
+<hit score="1" id="2781160">
+<info><authors><author pid="g/JGama">João Gama 0001</author><author pid="23/6304-1">Michael May 0001</author><author pid="78/5858">Nuno Cavalheiro Marques</author><author pid="71/2978-1">Paulo Cortez 0001</author><author pid="10/4139">Carlos Abreu Ferreira</author></authors><title>Proceedings of the 3rd Workshop on Ubiquitous Data Mining co-located with the 23rd International Joint Conference on Artificial Intelligence (IJCAI 2013), Beijing, China, August 3, 2013.</title><venue>UDM@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1088</volume><publisher>CEUR-WS.org</publisher><year>2013</year><type>Editorship</type><key>conf/ijcai/2013udm</key><ee>http://ceur-ws.org/Vol-1088</ee><url>https://dblp.org/rec/conf/ijcai/2013udm</url></info>
+<url>URL#2781160</url>
+</hit>
+</hits>
+</result>

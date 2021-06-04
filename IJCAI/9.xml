@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="751174">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"lacatoda2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">120.36</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="18207062">:facetid:toc:db/conf/ijcai/lacatoda2019.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="802459">
+<info><authors><author pid="198/8718">Kyohei Atarashi</author><author pid="249/4906">Akimi Moriyama</author><author pid="11/1423">Satoshi Oyama</author><author pid="09/4875">Masahito Kurihara</author></authors><title>A Personalized Affect Response Model for Online News Articles.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>5-10</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AtarashiMOK19</key><ee>http://ceur-ws.org/Vol-2452/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AtarashiMOK19</url></info>
+<url>URL#802459</url>
+</hit>
+<hit score="1" id="802584">
+<info><authors><author pid="222/7893">Aishwarya Chhabra</author><author pid="216/9153">Pratik Saini</author><author pid="30/5842">Chandrasekhar Anantaram</author></authors><title>Extracting Dialog Structure and Latent Beliefs from Dialog Corpus.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>30-34</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChhabraSA19</key><ee>http://ceur-ws.org/Vol-2452/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChhabraSA19</url></info>
+<url>URL#802584</url>
+</hit>
+<hit score="1" id="802653">
+<info><authors><author pid="132/6938">Rodolfo A. Fiorini</author></authors><title>New Approach to Computational Cognition and Predicative Competence.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>45-51</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Fiorini19</key><ee>http://ceur-ws.org/Vol-2452/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Fiorini19</url></info>
+<url>URL#802653</url>
+</hit>
+<hit score="1" id="802812">
+<info><authors><author pid="62/119">Kristiina Jokinen</author></authors><title>Dialogues with Socially Aware Robot Agents - Knowledge and Reasoning Using Natural Language.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>65</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Jokinen19</key><ee>http://ceur-ws.org/Vol-2452/inivited1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Jokinen19</url></info>
+<url>URL#802812</url>
+</hit>
+<hit score="1" id="802833">
+<info><authors><author pid="59/1654">Yasutomo Kimura</author><author pid="37/7956">Hideyuki Shibuki</author><author pid="13/7566">Hokuto Ototake</author><author pid="62/2395">Yuzu Uchida</author><author pid="32/7961">Keiichi Takamaru</author><author pid="162/8203">Kotaro Sakamoto</author><author pid="24/4586">Madoka Ishioroshi</author><author pid="90/785">Teruko Mitamura</author><author pid="40/4968">Noriko Kando</author></authors><title>Influence of Classifiers and Encoders on Argument Classification in Japanese Assembly Minutes.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>19-23</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KimuraSOUTSIMK19</key><ee>http://ceur-ws.org/Vol-2452/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KimuraSOUTSIMK19</url></info>
+<url>URL#802833</url>
+</hit>
+<hit score="1" id="802900">
+<info><authors><author pid="43/4804">Da Li</author><author pid="17/3493">Rafal Rzepka</author><author pid="77/3761">Michal Ptaszynski</author><author pid="02/2443">Kenji Araki</author></authors><title>Emoji-Aware Attention-based Bi-directional GRU Network Model for Chinese Sentiment Analysis.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>11-18</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiRPA19</key><ee>http://ceur-ws.org/Vol-2452/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LiRPA19</url></info>
+<url>URL#802900</url>
+</hit>
+<hit score="1" id="803002">
+<info><authors><author pid="38/5755">Dagmar Monett</author><author pid="249/4857">Luisa Hoge</author><author pid="248/4255">Colin W. P. Lewis</author></authors><title>Cognitive Biases Undermine Consensus on Definitions of Intelligence and Limit Understanding.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>52-59</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MonettHL19</key><ee>http://ceur-ws.org/Vol-2452/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MonettHL19</url></info>
+<url>URL#803002</url>
+</hit>
+<hit score="1" id="803115">
+<info><authors><author pid="249/5009">Daiki Shirafuji</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>Debate Outcome Prediction using Automatic Persuasiveness Evaluation and Counterargument Relations.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>24-29</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShirafujiRA19</key><ee>http://ceur-ws.org/Vol-2452/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShirafujiRA19</url></info>
+<url>URL#803115</url>
+</hit>
+<hit score="1" id="803157">
+<info><authors><author pid="249/5064">Patrycja Swieczkowska</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>A Convolutional Neural Network For Ranking Advice Quality In Texts For A Motivational Dialogue System.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>35-44</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SwieczkowskaRA19</key><ee>http://ceur-ws.org/Vol-2452/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SwieczkowskaRA19</url></info>
+<url>URL#803157</url>
+</hit>
+<hit score="1" id="803160">
+<info><authors><author pid="249/5001">Sho Takishita</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>Implicit Knowledge Completion Using Relevance Calculation of Distributed Word Representations.</title><venue>LaCATODA/BtG@IJCAI</venue><pages>60-64</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TakishitaRA19</key><ee>http://ceur-ws.org/Vol-2452/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TakishitaRA19</url></info>
+<url>URL#803160</url>
+</hit>
+<hit score="1" id="877660">
+<info><authors><author pid="f/UlrichFurbach">Ulrich Furbach</author><author pid="48/415">Steffen Hölldobler</author><author pid="98/813">Marco Ragni</author><author pid="17/3493">Rafal Rzepka</author><author pid="33/4876">Claudia Schon</author><author pid="56/2838">Jordi Vallverdú</author><author pid="226/5131">Andre Wlodarczyk</author></authors><title>Joint Proceedings of the Workshops on Linguistic and Cognitive Approaches to Dialog Agents (LaCATODA 2019) and on Bridging the Gap Between Human and Automated Reasoning (BtG 2019) co-located with 28th International Joint Conference on Artificial Intelligence (IJCAI 2019), Macao, China, August 12, 2019.</title><venue>LaCATODA/BtG@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2452</volume><publisher>CEUR-WS.org</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2019lacatoda</key><ee>http://ceur-ws.org/Vol-2452</ee><url>https://dblp.org/rec/conf/ijcai/2019lacatoda</url></info>
+<url>URL#877660</url>
+</hit>
+</hits>
+</result>
