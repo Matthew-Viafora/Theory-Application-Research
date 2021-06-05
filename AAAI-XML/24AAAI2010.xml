@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="988301">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"aaai2010\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">138.13</time>
+<completions total="1" computed="1" sent="1">
+<c sc="314" dc="314" oc="314" id="18182339">:facetid:toc:db/conf/aaai/aaai2010.bht</c>
+</completions>
+<hits total="314" computed="314" sent="314" first="0">
+<hit score="1" id="3393624">
+<info><authors><author pid="16/7560">Muhammad Aurangzeb Ahmad</author><author pid="80/8832">David A. Huffaker</author><author pid="02/736">Jing Wang</author><author pid="47/2814">Jeffrey William Treem</author><author pid="98/6734">Marshall Scott Poole</author><author pid="s/JaideepSrivastava">Jaideep Srivastava</author></authors><title>GTPA - A Generative Model For Online Mentor-Apprentice Networks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AhmadHWTPS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1729</ee><url>https://dblp.org/rec/conf/aaai/AhmadHWTPS10</url></info>
+<url>URL#3393624</url>
+</hit>
+<hit score="1" id="3393626">
+<info><authors><author pid="89/2427">Alon Altman</author><author pid="k/RDKleinberg">Robert Kleinberg</author></authors><title>Nonmanipulable Randomized Tournament Selections.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AltmanK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1703</ee><url>https://dblp.org/rec/conf/aaai/AltmanK10</url></info>
+<url>URL#3393626</url>
+</hit>
+<hit score="1" id="3393627">
+<info><authors><author pid="10/3254">Christopher Amato</author><author pid="b/BBonet">Blai Bonet</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author></authors><title>Finite-State Controllers Based on Mealy Machines for Centralized and Decentralized POMDPs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AmatoBZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1865</ee><url>https://dblp.org/rec/conf/aaai/AmatoBZ10</url></info>
+<url>URL#3393627</url>
+</hit>
+<hit score="1" id="3393628">
+<info><authors><author pid="48/8399">Saeed Amizadeh</author><author pid="54/4898">Milos Hauskrecht</author></authors><title>Latent Variable Model for Learning in Pairwise Markov Networks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AmizadehH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1894</ee><url>https://dblp.org/rec/conf/aaai/AmizadehH10</url></info>
+<url>URL#3393628</url>
+</hit>
+<hit score="1" id="3393629">
+<info><authors><author pid="32/2567">Carlos Ansótegui</author><author pid="20/2857">Maria Luisa Bonet</author><author pid="57/6743">Jordi Levy</author></authors><title>A New Algorithm for Weighted Partial MaxSAT.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AnsoteguiBL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1774</ee><url>https://dblp.org/rec/conf/aaai/AnsoteguiBL10</url></info>
+<url>URL#3393629</url>
+</hit>
+<hit score="1" id="3393630">
+<info><authors><author pid="88/3432">Ignacio Araya</author><author pid="55/2812">Gilles Trombettoni</author><author pid="39/6105">Bertrand Neveu</author></authors><title>Exploiting Monotonicity in Interval Constraint Propagation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ArayaTN10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1699</ee><url>https://dblp.org/rec/conf/aaai/ArayaTN10</url></info>
+<url>URL#3393630</url>
+</hit>
+<hit score="1" id="3393632">
+<info><authors><author pid="65/6588">Alessandro Artale</author><author pid="09/3547">Roman Kontchakov</author><author pid="58/3023">Vladislav Ryzhikov</author><author pid="z/MZakharyaschev">Michael Zakharyaschev</author></authors><title>Past and Future of DL-Lite.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ArtaleKRZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1608</ee><url>https://dblp.org/rec/conf/aaai/ArtaleKRZ10</url></info>
+<url>URL#3393632</url>
+</hit>
+<hit score="1" id="3393633">
+<info><authors><author pid="69/2126">Itai Ashlagi</author><author pid="t/MosheTennenholtz">Moshe Tennenholtz</author><author pid="92/4269">Aviv Zohar</author></authors><title>Competing Schedulers.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AshlagiTZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1818</ee><url>https://dblp.org/rec/conf/aaai/AshlagiTZ10</url></info>
+<url>URL#3393633</url>
+</hit>
+<hit score="1" id="3393634">
+<info><authors><author pid="85/7265">Vernon Asuncion</author><author pid="73/6980">Fangzhen Lin</author><author pid="04/3348-3">Yan Zhang 0003</author><author pid="01/1901-13">Yi Zhou 0013</author></authors><title>Ordered Completion for First-Order Logic Programs on Finite Structures.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AsuncionLZZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1796</ee><url>https://dblp.org/rec/conf/aaai/AsuncionLZZ10</url></info>
+<url>URL#3393634</url>
+</hit>
+<hit score="1" id="3393636">
+<info><authors><author pid="35/2541">Gilles Audemard</author><author pid="61/6509">George Katsirelos</author><author pid="90/5314">Laurent Simon</author></authors><title>A Restriction of Extended Resolution for Clause Learning SAT Solvers.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AudemardKS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1811</ee><url>https://dblp.org/rec/conf/aaai/AudemardKS10</url></info>
+<url>URL#3393636</url>
+</hit>
+<hit score="1" id="3393637">
+<info><authors><author pid="78/3148">Javad Azimi</author><author pid="74/882">Xiaoli Z. Fern</author><author pid="49/6764">Alan Fern</author><author pid="74/8399">Elizabeth Burrows</author><author pid="79/8399">Frank Chaplen</author><author pid="75/8399">Yanzhen Fan</author><author pid="29/5010">Hong Liu</author><author pid="11/8399">Jun Jaio</author><author pid="32/8399">Rebecca Schaller</author></authors><title>Myopic Policies for Budgeted Optimization with Constrained Experiments.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AzimiFFBCFLJS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1724</ee><url>https://dblp.org/rec/conf/aaai/AzimiFFBCFLJS10</url></info>
+<url>URL#3393637</url>
+</hit>
+<hit score="1" id="3393638">
+<info><authors><author pid="70/2671">Yoram Bachrach</author><author pid="50/4920">Nadja Betzler</author><author pid="58/2379">Piotr Faliszewski</author></authors><title>Probabilistic Possible Winner Determination.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BachrachBF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1692</ee><url>https://dblp.org/rec/conf/aaai/BachrachBF10</url></info>
+<url>URL#3393638</url>
+</hit>
+<hit score="1" id="3393639">
+<info><authors><author pid="70/2671">Yoram Bachrach</author><author pid="24/5865">Reshef Meir</author><author pid="48/3867">Kyomin Jung</author><author pid="94/248">Pushmeet Kohli</author></authors><title>Coalitional Structure Generation in Skill Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BachrachMJK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1760</ee><url>https://dblp.org/rec/conf/aaai/BachrachMJK10</url></info>
+<url>URL#3393639</url>
+</hit>
+<hit score="1" id="3393641">
+<info><authors><author pid="18/6694">Bikramjit Banerjee</author><author pid="36/7391">Landon Kraemer</author><author pid="42/444">Jeremy Lyle</author></authors><title>Multi-Agent Plan Recognition - Formalization and Algorithms.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BanerjeeKL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1838</ee><url>https://dblp.org/rec/conf/aaai/BanerjeeKL10</url></info>
+<url>URL#3393641</url>
+</hit>
+<hit score="1" id="3393643">
+<info><authors><author pid="68/489">Nicola Basilico</author><author pid="g/NicolaGatti">Nicola Gatti 0001</author><author pid="42/8399">Federico Villa</author></authors><title>Asynchronous Multi-Robot Patrolling against Intrusions in Arbitrary Topologies.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BasilicoGV10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1808</ee><url>https://dblp.org/rec/conf/aaai/BasilicoGV10</url></info>
+<url>URL#3393643</url>
+</hit>
+<hit score="1" id="3393644">
+<info><authors><author pid="60/3977">Sumit Basu</author><author pid="89/5155">Danyel Fisher</author><author pid="50/863">Steven Mark Drucker</author><author pid="72/5422">Hao Lu</author></authors><title>Assisting Users with Clustering Tasks by Combining Metric Learning and Classification.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BasuFDL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1918</ee><url>https://dblp.org/rec/conf/aaai/BasuFDL10</url></info>
+<url>URL#3393644</url>
+</hit>
+<hit score="1" id="3393646">
+<info><authors><author pid="52/8399">Brent Beer</author><author pid="90/6407">Ross Mead</author><author pid="42/5517">Jerry B. Weinberg</author></authors><title>A Distributed Method for Evaluating Properties of a Robot Formation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BeerMW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1677</ee><url>https://dblp.org/rec/conf/aaai/BeerMW10</url></info>
+<url>URL#3393646</url>
+</hit>
+<hit score="1" id="3393647">
+<info><authors><author pid="52/570">Vaishak Belle</author><author pid="l/GerhardLakemeyer">Gerhard Lakemeyer</author></authors><title>Reasoning about Imperfect Information Games in the Epistemic Situation Calculus.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BelleL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1803</ee><url>https://dblp.org/rec/conf/aaai/BelleL10</url></info>
+<url>URL#3393647</url>
+</hit>
+<hit score="1" id="3393648">
+<info><authors><author pid="93/1110">Russell Bent</author><author pid="69/8399">Alan Berscheid</author><author pid="68/8399">G. Loren Toole</author></authors><title>Transmission Network Expansion Planning with Simulation Optimization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BentBT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1685</ee><url>https://dblp.org/rec/conf/aaai/BentBT10</url></info>
+<url>URL#3393648</url>
+</hit>
+<hit score="1" id="3393649">
+<info><authors><author pid="b/ChristianBessiere">Christian Bessiere</author><author pid="61/6509">George Katsirelos</author><author pid="87/3366">Nina Narodytska</author><author pid="98/4519">Claude-Guy Quimper</author><author pid="86/2576">Toby Walsh</author></authors><title>Propagating Conjunctions of AllDifferent Constraints.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BessiereKNQW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1815</ee><url>https://dblp.org/rec/conf/aaai/BessiereKNQW10</url></info>
+<url>URL#3393649</url>
+</hit>
+<hit score="1" id="3393650">
+<info><authors><author pid="52/7536">Sumit Bhatia</author><author pid="19/3308">Prasenjit Mitra</author></authors><title>Adopting Inference Networks for Online Thread Retrieval.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BhatiaM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1886</ee><url>https://dblp.org/rec/conf/aaai/BhatiaM10</url></info>
+<url>URL#3393650</url>
+</hit>
+<hit score="1" id="3393651">
+<info><authors><author pid="21/6143">Subhrajit Bhattacharya</author></authors><title>Search-Based Path Planning with Homotopy Class Constraints.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Bhattacharya10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1920</ee><url>https://dblp.org/rec/conf/aaai/Bhattacharya10</url></info>
+<url>URL#3393651</url>
+</hit>
+<hit score="1" id="3393652">
+<info><authors><author pid="80/28">Meghyn Bienvenu</author><author pid="19/461">Hélène Fargier</author><author pid="37/6177">Pierre Marquis</author></authors><title>Knowledge Compilation in the Modal Logic S5.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BienvenuFM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1696</ee><url>https://dblp.org/rec/conf/aaai/BienvenuFM10</url></info>
+<url>URL#3393652</url>
+</hit>
+<hit score="1" id="3393653">
+<info><authors><author pid="67/500">Mustafa Bilgic 0001</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Active Inference for Collective Classification.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BilgicG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1719</ee><url>https://dblp.org/rec/conf/aaai/BilgicG10</url></info>
+<url>URL#3393653</url>
+</hit>
+<hit score="1" id="3393654">
+<info><authors><author pid="b/BBonet">Blai Bonet</author><author pid="73/1219">Héctor Palacios</author><author pid="g/HectorGeffner">Hector Geffner</author></authors><title>Automatic Derivation of Finite-State Machines for Behavior Control.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BonetPG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1783</ee><url>https://dblp.org/rec/conf/aaai/BonetPG10</url></info>
+<url>URL#3393654</url>
+</hit>
+<hit score="1" id="3393655">
+<info><authors><author pid="10/3411">Craig Boutilier</author><author pid="45/3653-1">Kevin Regan 0001</author><author pid="76/6477">Paolo Viappiani</author></authors><title>Simultaneous Elicitation of Preference Features and Utility.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BoutilierRV10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1665</ee><url>https://dblp.org/rec/conf/aaai/BoutilierRV10</url></info>
+<url>URL#3393655</url>
+</hit>
+<hit score="1" id="3393656">
+<info><authors><author pid="b/RonenIBrafman">Ronen I. Brafman</author><author pid="d/CarmelDomshlak">Carmel Domshlak</author><author pid="97/2906">Yagil Engel</author><author pid="t/MosheTennenholtz">Moshe Tennenholtz</author></authors><title>Transferable Utility Planning Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrafmanDET10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1627</ee><url>https://dblp.org/rec/conf/aaai/BrafmanDET10</url></info>
+<url>URL#3393656</url>
+</hit>
+<hit score="1" id="3393657">
+<info><authors><author pid="b/RonenIBrafman">Ronen I. Brafman</author><author pid="97/2906">Yagil Engel</author></authors><title>Decomposed Utility Functions and Graphical Models for Reasoning about Preferences.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrafmanE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1630</ee><url>https://dblp.org/rec/conf/aaai/BrafmanE10</url></info>
+<url>URL#3393657</url>
+</hit>
+<hit score="1" id="3393658">
+<info><authors><author pid="b/FBrandt">Felix Brandt 0001</author><author pid="65/7116">Markus Brill</author><author pid="h/EdithHemaspaandra">Edith Hemaspaandra</author><author pid="h/LaneAHemaspaandra">Lane A. Hemaspaandra</author></authors><title>Bypassing Combinatorial Protections - Polynomial-Time Algorithms for Single-Peaked Electorates.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrandtBHH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1869</ee><url>https://dblp.org/rec/conf/aaai/BrandtBHH10</url></info>
+<url>URL#3393658</url>
+</hit>
+<hit score="1" id="3393659">
+<info><authors><author pid="30/781">Mickey Brautbar</author><author pid="78/6858">Michael J. Kearns</author><author pid="75/1894">Umar Syed</author></authors><title>Private and Third-Party Randomization in Risk-Sensitive Equilibrium Concepts.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrautbarKS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1847</ee><url>https://dblp.org/rec/conf/aaai/BrautbarKS10</url></info>
+<url>URL#3393659</url>
+</hit>
+<hit score="1" id="3393661">
+<info><authors><author pid="01/4558-1">Michael Brenner 0001</author></authors><title>Creating Dynamic Story Plots with Continual Multiagent Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Brenner10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1709</ee><url>https://dblp.org/rec/conf/aaai/Brenner10</url></info>
+<url>URL#3393661</url>
+</hit>
+<hit score="1" id="3393662">
+<info><authors><author pid="b/GerhardBrewka">Gerhard Brewka</author><author pid="t/MiroslawTruszczynski">Miroslaw Truszczynski</author><author pid="39/6130">Stefan Woltran</author></authors><title>Representing Preferences Among Sets.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrewkaTW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1659</ee><url>https://dblp.org/rec/conf/aaai/BrewkaTW10</url></info>
+<url>URL#3393662</url>
+</hit>
+<hit score="1" id="3393663">
+<info><authors><author pid="43/8399">Teresa Maria Breyer</author><author pid="18/2128">Richard E. Korf</author></authors><title>Independent Additive Heuristics Reduce Search Multiplicatively.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BreyerK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1787</ee><url>https://dblp.org/rec/conf/aaai/BreyerK10</url></info>
+<url>URL#3393663</url>
+</hit>
+<hit score="1" id="3393664">
+<info><authors><author pid="43/8399">Teresa Maria Breyer</author><author pid="18/2128">Richard E. Korf</author></authors><title>1.6-Bit Pattern Databases.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BreyerK10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1850</ee><url>https://dblp.org/rec/conf/aaai/BreyerK10a</url></info>
+<url>URL#3393664</url>
+</hit>
+<hit score="1" id="3393665">
+<info><authors><author pid="41/2414">Will Bridewell</author><author pid="02/2847">Ljupco Todorovski</author></authors><title>The Induction and Transfer of Declarative Bias.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BridewellT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1743</ee><url>https://dblp.org/rec/conf/aaai/BridewellT10</url></info>
+<url>URL#3393665</url>
+</hit>
+<hit score="1" id="3393666">
+<info><authors><author pid="96/7521">Guy Van den Broeck</author><author pid="26/5660">Ingo Thon</author><author pid="25/7338">Martijn van Otterlo</author><author pid="r/LucDeRaedt">Luc De Raedt</author></authors><title>DTProbLog - A Decision-Theoretic Probabilistic Prolog.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BroeckTOR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1695</ee><url>https://dblp.org/rec/conf/aaai/BroeckTOR10</url></info>
+<url>URL#3393666</url>
+</hit>
+<hit score="1" id="3393667">
+<info><authors><author pid="18/8355">Fabian Buchwald</author><author pid="12/5680">Tobias Girschick</author><author pid="f/EibeFrank">Eibe Frank</author><author pid="k/StefanKramer1">Stefan Kramer 0001</author></authors><title>Fast Conditional Density Estimation for Quantitative Structure-Activity Relationships.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BuchwaldGFK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1819</ee><url>https://dblp.org/rec/conf/aaai/BuchwaldGFK10</url></info>
+<url>URL#3393667</url>
+</hit>
+<hit score="1" id="3393668">
+<info><authors><author pid="15/4164">Andriy Burkov</author><author pid="c/BChaibdraa">Brahim Chaib-draa</author></authors><title>An Approximate Subgame-Perfect Equilibrium Computation Technique for Repeated Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BurkovC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1769</ee><url>https://dblp.org/rec/conf/aaai/BurkovC10</url></info>
+<url>URL#3393668</url>
+</hit>
+<hit score="1" id="3393671">
+<info><authors><author pid="45/8399">Shaowei Cai</author><author pid="80/5001">Kaile Su</author><author pid="95/4947">Qingliang Chen</author></authors><title>EWLS - A New Local Search for Minimum Vertex Cover.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaiSC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1679</ee><url>https://dblp.org/rec/conf/aaai/CaiSC10</url></info>
+<url>URL#3393671</url>
+</hit>
+<hit score="1" id="3393672">
+<info><authors><author pid="c/AndreaCali">Andrea Calì</author><author pid="g/GeorgGottlob">Georg Gottlob</author><author pid="k/MichaelKifer">Michael Kifer</author><author pid="l/ThomasLukasiewicz">Thomas Lukasiewicz</author><author pid="89/5672">Andreas Pieris</author></authors><title>Ontological Reasoning with F-logic Lite and its Extensions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaliGKLP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1881</ee><url>https://dblp.org/rec/conf/aaai/CaliGKLP10</url></info>
+<url>URL#3393672</url>
+</hit>
+<hit score="1" id="3393673">
+<info><authors><author pid="c/FrancescoCalimeri">Francesco Calimeri</author><author pid="62/4780">Susanna Cozza</author><author pid="i/GiovambattistaIanni">Giovambattista Ianni</author><author pid="l/NicolaLeone">Nicola Leone</author></authors><title>Enhancing ASP by Functions - Decidable Classes and Implementation Techniques.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CalimeriCIL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1563</ee><url>https://dblp.org/rec/conf/aaai/CalimeriCIL10</url></info>
+<url>URL#3393673</url>
+</hit>
+<hit score="1" id="3393674">
+<info><authors><author pid="c/DiegoCalvanese">Diego Calvanese</author><author pid="g/GDGiacomo">Giuseppe De Giacomo</author><author pid="l/MLenzerini">Maurizio Lenzerini</author><author pid="v/MosheYVardi">Moshe Y. Vardi</author></authors><title>Node Selection Query Languages for Trees.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CalvaneseGLV10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1826</ee><url>https://dblp.org/rec/conf/aaai/CalvaneseGLV10</url></info>
+<url>URL#3393674</url>
+</hit>
+<hit score="1" id="3393675">
+<info><authors><author pid="05/2010">Cassio P. de Campos</author><author pid="42/3586">Qiang Ji</author></authors><title>Properties of Bayesian Dirichlet Scores to Learn Bayesian Network Structures.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CamposJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1704</ee><url>https://dblp.org/rec/conf/aaai/CamposJ10</url></info>
+<url>URL#3393675</url>
+</hit>
+<hit score="1" id="3393676">
+<info><authors><author pid="17/1169-1">Bin Cao 0001</author><author pid="80/5412">Sinno Jialin Pan</author><author pid="50/671-6">Yu Zhang 0006</author><author pid="41/5668">Dit-Yan Yeung</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Adaptive Transfer Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaoPZYY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1823</ee><url>https://dblp.org/rec/conf/aaai/CaoPZYY10</url></info>
+<url>URL#3393676</url>
+</hit>
+<hit score="1" id="3393677">
+<info><authors><author pid="17/1169-1">Bin Cao 0001</author><author pid="32/3621">Dou Shen</author><author pid="79/1140">Kuansan Wang</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Clickthrough Log Analysis by Collaborative Ranking.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaoSWY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1906</ee><url>https://dblp.org/rec/conf/aaai/CaoSWY10</url></info>
+<url>URL#3393677</url>
+</hit>
+<hit score="1" id="3393678">
+<info><authors><author pid="c/IoannisCaragiannis">Ioannis Caragiannis</author><author pid="50/8399">Dimitris Kalaitzis</author><author pid="m/EvangelosMarkakis">Evangelos Markakis</author></authors><title>Approximation Algorithms and Mechanism Design for Minimax Approval Voting.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaragiannisKM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1717</ee><url>https://dblp.org/rec/conf/aaai/CaragiannisKM10</url></info>
+<url>URL#3393678</url>
+</hit>
+<hit score="1" id="3393679">
+<info><authors><author pid="c/IoannisCaragiannis">Ioannis Caragiannis</author><author pid="p/ArielDProcaccia">Ariel D. Procaccia</author></authors><title>Voting Almost Maximizes Social Welfare Despite Limited Communication.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CaragiannisP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1762</ee><url>https://dblp.org/rec/conf/aaai/CaragiannisP10</url></info>
+<url>URL#3393679</url>
+</hit>
+<hit score="1" id="3393680">
+<info><authors><author pid="81/1583">Andrew Carlson</author><author pid="02/6601">Justin Betteridge</author><author pid="18/6148">Bryan Kisiel</author><author pid="62/3903">Burr Settles</author><author pid="h/EstevamRHruschka">Estevam R. Hruschka Jr.</author><author pid="81/1460">Tom M. Mitchell</author></authors><title>Toward an Architecture for Never-Ending Language Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CarlsonBKSHM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1879</ee><url>https://dblp.org/rec/conf/aaai/CarlsonBKSHM10</url></info>
+<url>URL#3393680</url>
+</hit>
+<hit score="1" id="3393681">
+<info><authors><author pid="05/5455">Pablo Samuel Castro</author><author pid="p/DoinaPrecup">Doina Precup</author></authors><title>Using Bisimulation for Policy Transfer in MDPs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/CastroP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1907</ee><url>https://dblp.org/rec/conf/aaai/CastroP10</url></info>
+<url>URL#3393681</url>
+</hit>
+<hit score="1" id="3393684">
+<info><authors><author pid="65/4208">Archie C. Chapman</author><author pid="f/AlessandroFarinelli">Alessandro Farinelli</author><author pid="09/5915">Enrique Munoz de Cote</author><author pid="37/4849">Alex Rogers</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>A Distributed Algorithm for Optimising over Pure Strategy Nash Equilibria.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChapmanFCRJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1694</ee><url>https://dblp.org/rec/conf/aaai/ChapmanFCRJ10</url></info>
+<url>URL#3393684</url>
+</hit>
+<hit score="1" id="3393686">
+<info><authors><author pid="07/4182-0001">Chun Chen 0001</author><author pid="77/8399">Zhengguang Chen</author><author pid="50/3147">Jiajun Bu</author><author pid="71/4716-1">Can Wang 0001</author><author pid="76/4015-5">Lijun Zhang 0005</author><author pid="82/6384">Cheng Zhang</author></authors><title>G-Optimal Design with Laplacian Regularization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenCBWZZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1741</ee><url>https://dblp.org/rec/conf/aaai/ChenCBWZZ10</url></info>
+<url>URL#3393686</url>
+</hit>
+<hit score="1" id="3393687">
+<info><authors><author pid="89/211">Yuqiang Chen</author><author pid="22/5013">Ou Jin</author><author pid="72/3906">Gui-Rong Xue</author><author pid="99/6879">Jia Chen</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Visual Contextual Advertising - Bringing Textual Advertisements to Images.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenJXCY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1757</ee><url>https://dblp.org/rec/conf/aaai/ChenJXCY10</url></info>
+<url>URL#3393687</url>
+</hit>
+<hit score="1" id="3393688">
+<info><authors><author pid="16/3283-10">Xi Chen 0010</author><author pid="l/YanLiu2">Yan Liu 0002</author><author pid="35/2899">Han Liu</author><author pid="56/3395">Jaime G. Carbonell</author></authors><title>Learning Spatial-Temporal Varying Graphs with Applications to Climate Data Analysis.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenLLC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1644</ee><url>https://dblp.org/rec/conf/aaai/ChenLLC10</url></info>
+<url>URL#3393688</url>
+</hit>
+<hit score="1" id="3393689">
+<info><authors><author pid="72/3762">Yiling Chen</author><author pid="06/9923">John K. Lai</author><author pid="p/DavidCParkes">David C. Parkes</author><author pid="p/ArielDProcaccia">Ariel D. Procaccia</author></authors><title>Truth, Justice, and Cake Cutting.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenLPP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1761</ee><url>https://dblp.org/rec/conf/aaai/ChenLPP10</url></info>
+<url>URL#3393689</url>
+</hit>
+<hit score="1" id="3393690">
+<info><authors><author pid="00/6472-8">Shuo Chen 0008</author><author pid="16/2294">Jianwen Zhang</author><author pid="11/7789">Guangyun Chen</author><author pid="z/ChangshuiZhang">Changshui Zhang</author></authors><title>What if the Irresponsible Teachers Are Dominating?</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenZCZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1605</ee><url>https://dblp.org/rec/conf/aaai/ChenZCZ10</url></info>
+<url>URL#3393690</url>
+</hit>
+<hit score="1" id="3393691">
+<info><authors><author pid="44/6929">Bi Chen</author><author pid="90/7536">Leilei Zhu</author><author pid="84/114">Daniel Kifer</author><author pid="l/DongwonLee">Dongwon Lee 0001</author></authors><title>What Is an Opinion About? Exploring Political Standpoints Using Opinion Scoring Model.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenZKL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1863</ee><url>https://dblp.org/rec/conf/aaai/ChenZKL10</url></info>
+<url>URL#3393691</url>
+</hit>
+<hit score="1" id="3393692">
+<info><authors><author pid="32/6098">Yin Chen</author><author pid="04/3348-3">Yan Zhang 0003</author><author pid="01/1901-13">Yi Zhou 0013</author></authors><title>First-Order Indefinability of Answer Set Programs on Finite Structures.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenZZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1731</ee><url>https://dblp.org/rec/conf/aaai/ChenZZ10</url></info>
+<url>URL#3393692</url>
+</hit>
+<hit score="1" id="3393693">
+<info><authors><author pid="76/8399">Shanjun Cheng</author><author pid="93/5894">Anita Raja</author><author pid="l/VRLesser">Victor R. Lesser</author></authors><title>Towards Multiagent Meta-level Control.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChengRL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1667</ee><url>https://dblp.org/rec/conf/aaai/ChengRL10</url></info>
+<url>URL#3393693</url>
+</hit>
+<hit score="1" id="3393695">
+<info><authors><author pid="55/5658">Yann Chevaleyre</author><author pid="55/5701">Jérôme Lang</author><author pid="93/1858">Nicolas Maudet</author><author pid="77/4959">Jérôme Monnot</author></authors><title>Possible Winners when New Candidates Are Added - The Case of Scoring Rules.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChevaleyreLMM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1890</ee><url>https://dblp.org/rec/conf/aaai/ChevaleyreLMM10</url></info>
+<url>URL#3393695</url>
+</hit>
+<hit score="1" id="3393698">
+<info><authors><author pid="08/3547-1">Peng Dai 0001</author><author pid="30/6391">Mausam</author><author pid="w/DanielSWeld">Daniel S. Weld</author></authors><title>Decision-Theoretic Control of Crowd-Sourced Workflows.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/DaiMW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1873</ee><url>https://dblp.org/rec/conf/aaai/DaiMW10</url></info>
+<url>URL#3393698</url>
+</hit>
+<hit score="1" id="3393701">
+<info><authors><author pid="16/2975">Ernest Davis</author></authors><title>Ontologies and Representations of Matter.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Davis10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1613</ee><url>https://dblp.org/rec/conf/aaai/Davis10</url></info>
+<url>URL#3393701</url>
+</hit>
+<hit score="1" id="3393704">
+<info><authors><author pid="d/CarmelDomshlak">Carmel Domshlak</author><author pid="92/7121">Erez Karpas</author><author pid="m/ShaulMarkovitch">Shaul Markovitch</author></authors><title>To Max or Not to Max - Online Learning for Speeding Up Optimal Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/DomshlakKM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1629</ee><url>https://dblp.org/rec/conf/aaai/DomshlakKM10</url></info>
+<url>URL#3393704</url>
+</hit>
+<hit score="1" id="3393705">
+<info><authors><author pid="33/8399">Shuonan Dong</author></authors><title>Interactive Task-Plan Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Dong10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1646</ee><url>https://dblp.org/rec/conf/aaai/Dong10</url></info>
+<url>URL#3393705</url>
+</hit>
+<hit score="1" id="3393707">
+<info><authors><author pid="64/7056">Finale Doshi-Velez</author></authors><title>Nonparametric Bayesian Approaches for Reinforcement Learning in Partially Observable Domains.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Doshi-Velez10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1621</ee><url>https://dblp.org/rec/conf/aaai/Doshi-Velez10</url></info>
+<url>URL#3393707</url>
+</hit>
+<hit score="1" id="3393709">
+<info><authors><author pid="22/2336">Eric Eaton</author><author pid="90/2510">Gary Holness</author><author pid="20/8399">Daniel McFarlane</author></authors><title>Interactive Learning Using Manifold Geometry.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/EatonHM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1874</ee><url>https://dblp.org/rec/conf/aaai/EatonHM10</url></info>
+<url>URL#3393709</url>
+</hit>
+<hit score="1" id="3393711">
+<info><authors><author pid="e/TEiter">Thomas Eiter</author><author pid="f/WolfgangFaber">Wolfgang Faber 0001</author><author pid="78/8399">Mushthofa Mushthofa</author></authors><title>Space Efficient Evaluation of ASP Programs with Bounded Predicate Arities.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/EiterFM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1776</ee><url>https://dblp.org/rec/conf/aaai/EiterFM10</url></info>
+<url>URL#3393711</url>
+</hit>
+<hit score="1" id="3393712">
+<info><authors><author pid="31/2621">Edith Elkind</author><author pid="58/2379">Piotr Faliszewski</author><author pid="93/2648">Arkadii M. Slinko</author></authors><title>Cloning in Elections.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ElkindFS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1650</ee><url>https://dblp.org/rec/conf/aaai/ElkindFS10</url></info>
+<url>URL#3393712</url>
+</hit>
+<hit score="1" id="3393713">
+<info><authors><author pid="31/2621">Edith Elkind</author><author pid="58/2379">Piotr Faliszewski</author><author pid="93/2648">Arkadii M. Slinko</author></authors><title>Good Rationalizations of Voting Rules.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ElkindFS10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1651</ee><url>https://dblp.org/rec/conf/aaai/ElkindFS10a</url></info>
+<url>URL#3393713</url>
+</hit>
+<hit score="1" id="3393714">
+<info><authors><author pid="96/5261">David K. Elson</author><author pid="m/KathleenMcKeown">Kathleen R. McKeown</author></authors><title>Automatic Attribution of Quoted Speech in Literary Narrative.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ElsonM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1945</ee><url>https://dblp.org/rec/conf/aaai/ElsonM10</url></info>
+<url>URL#3393714</url>
+</hit>
+<hit score="1" id="3393717">
+<info><authors><author pid="91/7186">Halit Erdogan</author><author pid="29/3051">Olivier Bodenreider</author><author pid="e/EsraErdem">Esra Erdem 0001</author></authors><title>Finding Semantic Inconsistencies in UMLS using Answer Set Programming.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ErdoganBE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1655</ee><url>https://dblp.org/rec/conf/aaai/ErdoganBE10</url></info>
+<url>URL#3393717</url>
+</hit>
+<hit score="1" id="3393718">
+<info><authors><author pid="58/3548">Tom Erez</author></authors><title>Local Optimization for Simulation of Natural Motion.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Erez10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1633</ee><url>https://dblp.org/rec/conf/aaai/Erez10</url></info>
+<url>URL#3393718</url>
+</hit>
+<hit score="1" id="3393719">
+<info><authors><author pid="26/3377">Patrick Eyerich</author><author pid="48/2739-1">Thomas Keller 0001</author><author pid="21/4581">Malte Helmert</author></authors><title>High-Quality Policies for the Canadian Traveler&apos;s Problem.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/EyerichKH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1735</ee><url>https://dblp.org/rec/conf/aaai/EyerichKH10</url></info>
+<url>URL#3393719</url>
+</hit>
+<hit score="1" id="3393721">
+<info><authors><author pid="29/8399">Daniel S. Farenzena</author><author pid="l/LCLamb">Luís C. Lamb</author><author pid="a/RMdAraujo">Ricardo M. Araujo</author></authors><title>Combining Human Reasoning and Machine Computation - Towards a Memetic Network Solution to Satisfiability.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FarenzenaLA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1637</ee><url>https://dblp.org/rec/conf/aaai/FarenzenaLA10</url></info>
+<url>URL#3393721</url>
+</hit>
+<hit score="1" id="3393722">
+<info><authors><author pid="35/3763">Pooyan Fazli</author></authors><title>On Multi-Robot Area Coverage.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Fazli10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1642</ee><url>https://dblp.org/rec/conf/aaai/Fazli10</url></info>
+<url>URL#3393722</url>
+</hit>
+<hit score="1" id="3393724">
+<info><authors><author pid="43/5063">Ariel Felner</author><author pid="04/7114">Carsten Moldenhauer</author><author pid="18/991">Nathan R. Sturtevant</author><author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author></authors><title>Single-Frontier Bidirectional Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FelnerMSS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1824</ee><url>https://dblp.org/rec/conf/aaai/FelnerMSS10</url></info>
+<url>URL#3393724</url>
+</hit>
+<hit score="1" id="3393727">
+<info><authors><author pid="66/5958">Hilmar Finnsson</author><author pid="b/YngviBjornsson">Yngvi Björnsson</author></authors><title>Learning Simulation Control in General Game-Playing Agents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FinnssonB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1892</ee><url>https://dblp.org/rec/conf/aaai/FinnssonB10</url></info>
+<url>URL#3393727</url>
+</hit>
+<hit score="1" id="3393729">
+<info><authors><author pid="f/FedorVFomin">Fedor V. Fomin</author><author pid="78/67">Daniel Lokshtanov</author><author pid="25/2134">Venkatesh Raman 0001</author><author pid="11/5491">Saket Saurabh 0001</author></authors><title>Fast Local Search Algorithm for Weighted Feedback Arc Set in Tournaments.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FominLRS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1829</ee><url>https://dblp.org/rec/conf/aaai/FominLRS10</url></info>
+<url>URL#3393729</url>
+</hit>
+<hit score="1" id="3393730">
+<info><authors><author pid="63/3683">Jordan Frank</author><author pid="20/1669">Shie Mannor</author><author pid="p/DoinaPrecup">Doina Precup</author></authors><title>Activity and Gait Recognition with Time-Delay Embeddings.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FrankMP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1666</ee><url>https://dblp.org/rec/conf/aaai/FrankMP10</url></info>
+<url>URL#3393730</url>
+</hit>
+<hit score="1" id="3393731">
+<info><authors><author pid="08/832">Lisa Friedland</author></authors><title>Detecting Social Ties and Copying Events from Affiliation Data.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Friedland10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1647</ee><url>https://dblp.org/rec/conf/aaai/Friedland10</url></info>
+<url>URL#3393731</url>
+</hit>
+<hit score="1" id="3393732">
+<info><authors><author pid="57/9924">Scott E. Friedman</author><author pid="f/KDForbus">Kenneth D. Forbus</author></authors><title>An Integrated Systems Approach to Explanation-Based Conceptual Change.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/FriedmanF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1862</ee><url>https://dblp.org/rec/conf/aaai/FriedmanF10</url></info>
+<url>URL#3393732</url>
+</hit>
+<hit score="1" id="3393734">
+<info><authors><author pid="59/2902">Kun Gai</author><author pid="z/ChangshuiZhang">Changshui Zhang</author></authors><title>Learning Discriminative Piecewise Linear Models with Boundary Points.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GaiZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1680</ee><url>https://dblp.org/rec/conf/aaai/GaiZ10</url></info>
+<url>URL#3393734</url>
+</hit>
+<hit score="1" id="3393736">
+<info><authors><author pid="g/HectorGeffner">Hector Geffner</author></authors><title>The Model-Based Approach to Autonomous Behavior - A Personal View.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Geffner10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1752</ee><url>https://dblp.org/rec/conf/aaai/Geffner10</url></info>
+<url>URL#3393736</url>
+</hit>
+<hit score="1" id="3393738">
+<info><authors><author pid="61/6904">Xin Geng</author><author pid="s/KateASmith">Kate Smith-Miles</author><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>Facial Age Estimation by Learning from Label Distributions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GengSZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1626</ee><url>https://dblp.org/rec/conf/aaai/GengSZ10</url></info>
+<url>URL#3393738</url>
+</hit>
+<hit score="1" id="3393739">
+<info><authors><author pid="g/GDGiacomo">Giuseppe De Giacomo</author><author pid="44/8399">Paolo Felli</author><author pid="79/782">Fabio Patrizi</author><author pid="09/129">Sebastian Sardiña</author></authors><title>Two-Player Game Structures for Generalized Planning and Agent Composition.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GiacomoFPS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1813</ee><url>https://dblp.org/rec/conf/aaai/GiacomoFPS10</url></info>
+<url>URL#3393739</url>
+</hit>
+<hit score="1" id="3393743">
+<info><authors><author pid="48/7137">Alexandra Goultiaeva</author><author pid="b/FahiemBacchus">Fahiem Bacchus</author></authors><title>Exploiting QBF Duality on a Circuit Representation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GoultiaevaB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1791</ee><url>https://dblp.org/rec/conf/aaai/GoultiaevaB10</url></info>
+<url>URL#3393743</url>
+</hit>
+<hit score="1" id="3393744">
+<info><authors><author pid="36/7407">Umberto Grandi</author><author pid="e/UlrichEndriss">Ulle Endriss</author></authors><title>Lifting Rationality Assumptions in Binary Aggregation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GrandiE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1592</ee><url>https://dblp.org/rec/conf/aaai/GrandiE10</url></info>
+<url>URL#3393744</url>
+</hit>
+<hit score="1" id="3393745">
+<info><authors><author pid="85/4920">John Grant</author><author pid="k/SaritKraus">Sarit Kraus</author><author pid="w/MichaelWooldridge">Michael J. Wooldridge</author></authors><title>Intentions in Equilibrium.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GrantKW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1830</ee><url>https://dblp.org/rec/conf/aaai/GrantKW10</url></info>
+<url>URL#3393745</url>
+</hit>
+<hit score="1" id="3393746">
+<info><authors><author pid="37/8370">Shane Griffith</author><author pid="26/3845">Alexander Stoytchev</author></authors><title>Interactive Categorization of Containers and Non-Containers by Unifying Categorizations Derived from Multiple Exploratory Behaviors.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GriffithS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1593</ee><url>https://dblp.org/rec/conf/aaai/GriffithS10</url></info>
+<url>URL#3393746</url>
+</hit>
+<hit score="1" id="3393748">
+<info><authors><author pid="64/6229">Andrew Guillory</author><author pid="60/3977">Sumit Basu</author><author pid="43/5615">Dan Morris</author></authors><title>User-Specific Learning for Recognizing a Singer&apos;s Intended Pitch.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuilloryBM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1686</ee><url>https://dblp.org/rec/conf/aaai/GuilloryBM10</url></info>
+<url>URL#3393748</url>
+</hit>
+<hit score="1" id="3393749">
+<info><authors><author pid="62/5599">Mingyu Guo</author><author pid="c/VincentConitzer">Vincent Conitzer</author></authors><title>Computationally Feasible Automated Mechanism Design - General Approach and Case Studies.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuoC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1868</ee><url>https://dblp.org/rec/conf/aaai/GuoC10</url></info>
+<url>URL#3393749</url>
+</hit>
+<hit score="1" id="3393750">
+<info><authors><author pid="35/3460">Wenyuan Guo</author><author pid="16/3956">Tze-Yun Leong</author></authors><title>An Analytic Characterization of Model Minimization in Factored Markov Decision Processes.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuoL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1750</ee><url>https://dblp.org/rec/conf/aaai/GuoL10</url></info>
+<url>URL#3393750</url>
+</hit>
+<hit score="1" id="3393751">
+<info><authors><author pid="35/6453">Zhen Guo</author><author pid="81/4341">Shenghuo Zhu</author><author pid="z/ZhongfeiMarkZhang">Zhongfei Zhang</author><author pid="85/5457">Yun Chi</author><author pid="62/6520">Yihong Gong</author></authors><title>A Topic Model for Linked Documents and Update Rules for its Estimation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuoZZCG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1872</ee><url>https://dblp.org/rec/conf/aaai/GuoZZCG10</url></info>
+<url>URL#3393751</url>
+</hit>
+<hit score="1" id="3393752">
+<info><authors><author pid="41/3406">Sonal Gupta</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Using Closed Captions as Supervision for Video Activity Recognition.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuptaM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1588</ee><url>https://dblp.org/rec/conf/aaai/GuptaM10</url></info>
+<url>URL#3393752</url>
+</hit>
+<hit score="1" id="3393753">
+<info><authors><author pid="16/8361">Patricia Gutierrez</author><author pid="96/1119">Pedro Meseguer</author></authors><title>Saving Redundant Messages in BnB-ADOPT.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GutierrezM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1810</ee><url>https://dblp.org/rec/conf/aaai/GutierrezM10</url></info>
+<url>URL#3393753</url>
+</hit>
+<hit score="1" id="3393757">
+<info><authors><author pid="36/8399">Yasaman Haghpanah</author><author pid="97/1893">Marie desJardins</author></authors><title>A Trust Model for Supply Chain Management.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Haghpanahd10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1668</ee><url>https://dblp.org/rec/conf/aaai/Haghpanahd10</url></info>
+<url>URL#3393757</url>
+</hit>
+<hit score="1" id="3393759">
+<info><authors><author pid="38/648">Felix Halim</author><author pid="08/5342">Panagiotis Karras</author><author pid="y/RolandHCYap">Roland H. C. Yap</author></authors><title>Local Search in Histogram Construction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HalimKY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1936</ee><url>https://dblp.org/rec/conf/aaai/HalimKY10</url></info>
+<url>URL#3393759</url>
+</hit>
+<hit score="1" id="3393760">
+<info><authors><author pid="15/6265">Yahong Han</author><author pid="84/3254-1">Fei Wu 0001</author><author pid="54/473">Jinzhu Jia</author><author pid="218/7793">Yueting Zhuang</author><author pid="27/116-1">Bin Yu 0001</author></authors><title>Multi-Task Sparse Discriminant Analysis (MtSDA) with Overlapping Categories.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HanWJZY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1903</ee><url>https://dblp.org/rec/conf/aaai/HanWJZY10</url></info>
+<url>URL#3393760</url>
+</hit>
+<hit score="1" id="3393763">
+<info><authors><author pid="55/8172">Sepp Hartung</author><author pid="g/JiongGuo">Jiong Guo</author><author pid="69/1771">Christian Komusiewicz</author><author pid="n/RolfNiedermeier">Rolf Niedermeier</author><author pid="u/JohannesUhlmann">Johannes Uhlmann</author></authors><title>Exact Algorithms and Experiments for Hierarchical Tree Clustering.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HartungGKNU10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1842</ee><url>https://dblp.org/rec/conf/aaai/HartungGKNU10</url></info>
+<url>URL#3393763</url>
+</hit>
+<hit score="1" id="3393767">
+<info><authors><author pid="43/1809">Ruijie He</author><author pid="27/1277">Emma Brunskill</author><author pid="32/2668">Nicholas Roy</author></authors><title>PUMA - Planning Under Uncertainty with Macro-Actions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HeBR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1900</ee><url>https://dblp.org/rec/conf/aaai/HeBR10</url></info>
+<url>URL#3393767</url>
+</hit>
+<hit score="1" id="3393768">
+<info><authors><author pid="61/6198">Ran He</author><author pid="95/3212">Bao-Gang Hu</author><author pid="30/8399">Wei-Shi Zheng</author><author pid="46/4819">Yanqing Guo</author></authors><title>Two-Stage Sparse Representation for Robust Recognition on Large-Scale Database.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HeHZG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1596</ee><url>https://dblp.org/rec/conf/aaai/HeHZG10</url></info>
+<url>URL#3393768</url>
+</hit>
+<hit score="1" id="3393770">
+<info><authors><author pid="h/MarijnHeule">Marijn Heule</author><author pid="86/2576">Toby Walsh</author></authors><title>Symmetry in Solutions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HeuleW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1794</ee><url>https://dblp.org/rec/conf/aaai/HeuleW10</url></info>
+<url>URL#3393770</url>
+</hit>
+<hit score="1" id="3393771">
+<info><authors><author pid="26/836">Jörg Hoffmann 0001</author><author pid="59/1213">Ingo Weber</author><author pid="61/3389">Frank Michael Kraft</author></authors><title>SAP Speaks PDDL.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HoffmannWK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1560</ee><url>https://dblp.org/rec/conf/aaai/HoffmannWK10</url></info>
+<url>URL#3393771</url>
+</hit>
+<hit score="1" id="3393772">
+<info><authors><author pid="42/3987">Chad Hogg</author><author pid="69/5953">Ugur Kuter</author><author pid="m/HectorMunozAvila">Hector Muñoz-Avila</author></authors><title>Learning Methods to Generate Good Plans - Integrating HTN Learning and Reinforcement Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HoggKM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1859</ee><url>https://dblp.org/rec/conf/aaai/HoggKM10</url></info>
+<url>URL#3393772</url>
+</hit>
+<hit score="1" id="3393774">
+<info><authors><author pid="44/3625">Ruoyun Huang</author><author pid="59/983">Yixin Chen</author><author pid="51/2284">Weixiong Zhang</author></authors><title>A Novel Transition Based Encoding Scheme for Planning as Satisfiability.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangCZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1764</ee><url>https://dblp.org/rec/conf/aaai/HuangCZ10</url></info>
+<url>URL#3393774</url>
+</hit>
+<hit score="1" id="3393775">
+<info><authors><author pid="16/3126">Eric Huang</author><author pid="18/2128">Richard E. Korf</author></authors><title>Optimal Rectangle Packing on Non-Square Benchmarks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1678</ee><url>https://dblp.org/rec/conf/aaai/HuangK10</url></info>
+<url>URL#3393775</url>
+</hit>
+<hit score="1" id="3393776">
+<info><authors><author pid="68/4706-2">Jeff Huang 0002</author><author pid="25/8279">Anna Kazeykina</author></authors><title>Optimal Strategies for Reviewing Search Results.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangK10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1554</ee><url>https://dblp.org/rec/conf/aaai/HuangK10a</url></info>
+<url>URL#3393776</url>
+</hit>
+<hit score="1" id="3393777">
+<info><authors><author pid="51/494">Jian Huang</author><author pid="58/3771">Cong Yu 0001</author></authors><title>Prioritization of Domain-Specific Web Information Extraction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1622</ee><url>https://dblp.org/rec/conf/aaai/HuangY10</url></info>
+<url>URL#3393777</url>
+</hit>
+<hit score="1" id="3393780">
+<info><authors><author pid="94/501">Yoshiyuki Inagaki</author><author pid="97/4936">Narayanan Sadagopan</author><author pid="95/1038">Georges Dupret</author><author pid="28/6385">Anlei Dong</author><author pid="20/535">Ciya Liao</author><author pid="02/5438">Yi Chang 0001</author><author pid="97/3461">Zhaohui Zheng</author></authors><title>Session Based Click Features for Recency Ranking.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/InagakiSDDLCZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1866</ee><url>https://dblp.org/rec/conf/aaai/InagakiSDDLCZ10</url></info>
+<url>URL#3393780</url>
+</hit>
+<hit score="1" id="3393781">
+<info><authors><author pid="42/4000">Jagadeesh Jagarlamudi</author><author pid="55/8399">Seth Juarez</author><author pid="77/2856">Hal Daumé III</author></authors><title>Kernelized Sorting for Natural Language Processing.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JagaralamudiJD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1904</ee><url>https://dblp.org/rec/conf/aaai/JagaralamudiJD10</url></info>
+<url>URL#3393781</url>
+</hit>
+<hit score="1" id="3393782">
+<info><authors><author pid="55/6591">Manish Jain</author><author pid="56/8399">Erim Kardes</author><author pid="95/1694">Christopher Kiekintveld</author><author pid="63/3305">Fernando Ordóñez</author><author pid="67/2667">Milind Tambe</author></authors><title>Security Games with Arbitrary Schedules - A Branch and Price Approach.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JainKKOT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1698</ee><url>https://dblp.org/rec/conf/aaai/JainKKOT10</url></info>
+<url>URL#3393782</url>
+</hit>
+<hit score="1" id="3393784">
+<info><authors><author pid="12/6104">Patrick R. Jordan</author><author pid="w/MichaelPWellman">Michael P. Wellman</author></authors><title>Algorithms for Finding Approximate Formations in Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JordanW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1852</ee><url>https://dblp.org/rec/conf/aaai/JordanW10</url></info>
+<url>URL#3393784</url>
+</hit>
+<hit score="1" id="3393785">
+<info><authors><author pid="60/8399">Joshua Mason Joseph</author><author pid="64/7056">Finale Doshi-Velez</author><author pid="32/2668">Nicholas Roy</author></authors><title>A Bayesian Nonparametric Approach to Modeling Mobility Patterns.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JosephDR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1558</ee><url>https://dblp.org/rec/conf/aaai/JosephDR10</url></info>
+<url>URL#3393785</url>
+</hit>
+<hit score="1" id="3393787">
+<info><authors><author pid="56/6657">Kshitij Judah</author><author pid="59/8399">Saikat Roy</author><author pid="49/6764">Alan Fern</author><author pid="d/TGDietterich">Thomas G. Dietterich</author></authors><title>Reinforcement Learning Via Practice and Critique Advice.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JudahRFD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1882</ee><url>https://dblp.org/rec/conf/aaai/JudahRFD10</url></info>
+<url>URL#3393787</url>
+</hit>
+<hit score="1" id="3393790">
+<info><authors><author pid="65/8399">Amal Chaminda Kaluarachchi</author><author pid="20/3559">Aparna S. Varde</author><author pid="05/4333-1">Jing Peng 0001</author><author pid="77/2786">Anna Feldman</author></authors><title>Intelligent Time-Aware Query Translation for Text Sources.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KaluarachchiWPF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1645</ee><url>https://dblp.org/rec/conf/aaai/KaluarachchiWPF10</url></info>
+<url>URL#3393790</url>
+</hit>
+<hit score="1" id="3393791">
+<info><authors><author pid="16/5774">Tomoyuki Kaneko</author></authors><title>Parallel Depth First Proof Number Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Kaneko10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1801</ee><url>https://dblp.org/rec/conf/aaai/Kaneko10</url></info>
+<url>URL#3393791</url>
+</hit>
+<hit score="1" id="3393792">
+<info><authors><author pid="38/1672">Eun Yong Kang</author><author pid="82/1901">Ilya Shpitser</author><author pid="e/EEskin">Eleazar Eskin</author></authors><title>Respecting Markov Equivalence in Computing Posterior Probabilities of Causal Graphical Features.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KangSE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1772</ee><url>https://dblp.org/rec/conf/aaai/KangSE10</url></info>
+<url>URL#3393792</url>
+</hit>
+<hit score="1" id="3393793">
+<info><authors><author pid="70/574">Shant Karakashian</author><author pid="30/8009">Robert J. Woodward</author><author pid="97/6729">Christopher G. Reeson</author><author pid="64/4385">Berthe Y. Choueiry</author><author pid="b/ChristianBessiere">Christian Bessiere</author></authors><title>A First Practical Algorithm for High Levels of Relational Consistency.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KarakashianWRCB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1594</ee><url>https://dblp.org/rec/conf/aaai/KarakashianWRCB10</url></info>
+<url>URL#3393793</url>
+</hit>
+<hit score="1" id="3393794">
+<info><authors><author pid="22/6491">Saurabh Kataria</author><author pid="19/3308">Prasenjit Mitra</author><author pid="52/7536">Sumit Bhatia</author></authors><title>Utilizing Context in Generative Bayesian Models for Linked Corpus.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KatariaMB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1883</ee><url>https://dblp.org/rec/conf/aaai/KatariaMB10</url></info>
+<url>URL#3393794</url>
+</hit>
+<hit score="1" id="3393795">
+<info><authors><author pid="70/8399">Serdar Kecici</author><author pid="17/8399">Sanem Sariel Talay</author></authors><title>Temporal Planning for Interacting Durative Actions with Continuous Effects.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KeciciT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1662</ee><url>https://dblp.org/rec/conf/aaai/KeciciT10</url></info>
+<url>URL#3393795</url>
+</hit>
+<hit score="1" id="3393797">
+<info><authors><author pid="40/3793">Kristian Kersting</author><author pid="28/8399">Youssef El Massaoudi</author><author pid="13/8399">Fabian Hadiji</author><author pid="77/2476">Babak Ahmadi</author></authors><title>Informed Lifting for Message-Passing.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KerstingMHA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1845</ee><url>https://dblp.org/rec/conf/aaai/KerstingMHA10</url></info>
+<url>URL#3393797</url>
+</hit>
+<hit score="1" id="3393798">
+<info><authors><author pid="90/7967">Mitesh M. Khapra</author><author pid="22/5855">Raghavendra Udupa</author><author pid="21/5881">A. Kumaran 0001</author><author pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</author></authors><title>PR + RQ ALMOST EQUAL TO PQ - Transliteration Mining Using Bridge Language.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhapraUKB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1937</ee><url>https://dblp.org/rec/conf/aaai/KhapraUKB10</url></info>
+<url>URL#3393798</url>
+</hit>
+<hit score="1" id="3393800">
+<info><authors><author pid="09/6627">Hassan Khosravi</author><author pid="s/OliverSchulte">Oliver Schulte</author><author pid="07/8399">Tong Man</author><author pid="98/2976">Xiaoyuan Xu</author><author pid="94/2896">Bahareh Bina</author></authors><title>Structure Learning for Markov Logic Networks with Many Descriptive Attributes.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhosraviSMXB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1867</ee><url>https://dblp.org/rec/conf/aaai/KhosraviSMXB10</url></info>
+<url>URL#3393800</url>
+</hit>
+<hit score="1" id="3393801">
+<info><authors><author pid="84/5473">Babak Khosravifar</author><author pid="b/JamalBentahar">Jamal Bentahar</author><author pid="30/7525">Ahmad Moazin</author><author pid="t/PhilippeThiran">Philippe Thiran</author></authors><title>On the Reputation of Agent-Based Web Services.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhosravifarBMT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1858</ee><url>https://dblp.org/rec/conf/aaai/KhosravifarBMT10</url></info>
+<url>URL#3393801</url>
+</hit>
+<hit score="1" id="3393804">
+<info><authors><author pid="99/6681">Jinhan Kim</author><author pid="58/6214">Sanghoon Lee</author><author pid="h/SeungwonHwang">Seung-won Hwang</author><author pid="k/SunghunKim">Sunghun Kim 0001</author></authors><title>Towards an Intelligent Code Search Engine.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KimLHK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1691</ee><url>https://dblp.org/rec/conf/aaai/KimLHK10</url></info>
+<url>URL#3393804</url>
+</hit>
+<hit score="1" id="3393805">
+<info><authors><author pid="28/3674">Masahiro Kimura</author><author pid="26/2033">Kazumi Saito</author><author pid="43/4213">Kouzou Ohara</author><author pid="08/6525">Hiroshi Motoda</author></authors><title>Learning to Predict Opinion Share in Social Networks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KimuraSOM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1643</ee><url>https://dblp.org/rec/conf/aaai/KimuraSOM10</url></info>
+<url>URL#3393805</url>
+</hit>
+<hit score="1" id="3393806">
+<info><authors><author pid="47/3148">Akihiro Kishimoto</author></authors><title>Dealing with Infinite Loops, Underestimation, and Overestimation of Depth-First Proof-Number Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Kishimoto10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1567</ee><url>https://dblp.org/rec/conf/aaai/Kishimoto10</url></info>
+<url>URL#3393806</url>
+</hit>
+<hit score="1" id="3393807">
+<info><authors><author pid="40/8399">Li Ling Ko</author><author pid="29/331">David Hsu</author><author pid="86/1498">Wee Sun Lee</author><author pid="39/3058">Sylvie C. W. Ong</author></authors><title>Structured Parameter Elicitation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KoHLO10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1798</ee><url>https://dblp.org/rec/conf/aaai/KoHLO10</url></info>
+<url>URL#3393807</url>
+</hit>
+<hit score="1" id="3393808">
+<info><authors><author pid="k/SvenKoenig">Sven Koenig</author><author pid="39/1208">Pinar Keskinocak</author><author pid="70/6070">Craig A. Tovey</author></authors><title>Progress on Agent Coordination with Cooperative Auctions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KoenigKT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1606</ee><url>https://dblp.org/rec/conf/aaai/KoenigKT10</url></info>
+<url>URL#3393808</url>
+</hit>
+<hit score="1" id="3393810">
+<info><authors><author pid="95/3462">Andrey Kolobov</author><author pid="30/6391">Mausam</author><author pid="w/DanielSWeld">Daniel S. Weld</author></authors><title>SixthSense - Fast and Reliable Recognition of Dead Ends in MDPs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KolobovMW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1925</ee><url>https://dblp.org/rec/conf/aaai/KolobovMW10</url></info>
+<url>URL#3393810</url>
+</hit>
+<hit score="1" id="3393811">
+<info><authors><author pid="54/8399">Dmytro Korzhyk</author><author pid="c/VincentConitzer">Vincent Conitzer</author><author pid="26/4670">Ronald Parr</author></authors><title>Complexity of Computing Optimal Stackelberg Strategies in Security Resource Allocation Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KorzhykCP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1870</ee><url>https://dblp.org/rec/conf/aaai/KorzhykCP10</url></info>
+<url>URL#3393811</url>
+</hit>
+<hit score="1" id="3393813">
+<info><authors><author pid="06/8399">Scott Kuindersma</author></authors><title>Control Model Learning for Whole-Body Mobile Manipulation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Kuindersma10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1636</ee><url>https://dblp.org/rec/conf/aaai/Kuindersma10</url></info>
+<url>URL#3393813</url>
+</hit>
+<hit score="1" id="3393815">
+<info><authors><author pid="53/4178">Unmesh Kurup</author><author pid="67/4849">Nicholas L. Cassimatis</author></authors><title>Integrating Constraint Satisfaction and Spatial Reasoning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KurupC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1889</ee><url>https://dblp.org/rec/conf/aaai/KurupC10</url></info>
+<url>URL#3393815</url>
+</hit>
+<hit score="1" id="3393817">
+<info><authors><author pid="41/1766">Sébastien Lahaie</author></authors><title>Stability and Incentive Compatibility in a Kernel-Based Combinatorial Auction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Lahaie10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1921</ee><url>https://dblp.org/rec/conf/aaai/Lahaie10</url></info>
+<url>URL#3393817</url>
+</hit>
+<hit score="1" id="3393818">
+<info><authors><author pid="92/6375">Mayank Lahiri</author><author pid="c/ManuelCebrian">Manuel Cebrián</author></authors><title>The Genetic Algorithm as a General Diffusion Model for Social Networks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LahiriC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1785</ee><url>https://dblp.org/rec/conf/aaai/LahiriC10</url></info>
+<url>URL#3393818</url>
+</hit>
+<hit score="1" id="3393819">
+<info><authors><author pid="82/8399">Bradford John Larsen</author><author pid="30/7442">Ethan Burns</author><author pid="80/5790">Wheeler Ruml</author><author pid="h/RobertHolte">Robert Holte</author></authors><title>Searching Without a Heuristic - Efficient Use of Abstraction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LarsenBRH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1893</ee><url>https://dblp.org/rec/conf/aaai/LarsenBRH10</url></info>
+<url>URL#3393819</url>
+</hit>
+<hit score="1" id="3393820">
+<info><authors><author pid="l/JimmyHoManLee">Jimmy Ho-Man Lee</author><author pid="43/7442">Ka Lun Leung</author></authors><title>A Stronger Consistency for Soft Global Constraints in Weighted Constraint Satisfaction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeeL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1797</ee><url>https://dblp.org/rec/conf/aaai/LeeL10</url></info>
+<url>URL#3393820</url>
+</hit>
+<hit score="1" id="3393822">
+<info><authors><author pid="15/4797-2">Joohyung Lee 0002</author><author pid="11/5795">Ravi Palla</author></authors><title>Situation Calculus as Answer Set Programming.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeeP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1875</ee><url>https://dblp.org/rec/conf/aaai/LeeP10</url></info>
+<url>URL#3393822</url>
+</hit>
+<hit score="1" id="3393824">
+<info><authors><author pid="24/8399">Sofia Lemons</author></authors><title>Continual On-Line Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Lemons10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1639</ee><url>https://dblp.org/rec/conf/aaai/Lemons10</url></info>
+<url>URL#3393824</url>
+</hit>
+<hit score="1" id="3393825">
+<info><authors><author pid="81/5808">Michelle Denise Leonhardt</author></authors><title>Enhancing Affective Communication in Embodied Conversational Agents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Leonhardt10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1585</ee><url>https://dblp.org/rec/conf/aaai/Leonhardt10</url></info>
+<url>URL#3393825</url>
+</hit>
+<hit score="1" id="3393826">
+<info><authors><author pid="83/3799">Chendong Li</author></authors><title>Towards Interesting Patterns of Hard CSPs with Functional Constraints.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Li10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1656</ee><url>https://dblp.org/rec/conf/aaai/Li10</url></info>
+<url>URL#3393826</url>
+</hit>
+<hit score="1" id="3393827">
+<info><authors><author pid="84/3795-1">Nan Li 0001</author><author pid="c/WWCohen">William W. Cohen</author><author pid="93/3741">Kenneth R. Koedinger</author></authors><title>Integrating Transfer Learning in Synthetic Student.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiCK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1658</ee><url>https://dblp.org/rec/conf/aaai/LiCK10</url></info>
+<url>URL#3393827</url>
+</hit>
+<hit score="1" id="3393829">
+<info><authors><author pid="00/8159">Fangtao Li</author><author pid="47/6668">Minlie Huang</author><author pid="50/1222-1">Xiaoyan Zhu 0001</author></authors><title>Sentiment Analysis with Global Topics and Local Dependency.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiHZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1913</ee><url>https://dblp.org/rec/conf/aaai/LiHZ10</url></info>
+<url>URL#3393829</url>
+</hit>
+<hit score="1" id="3393830">
+<info><authors><author pid="57/413">Yu-Feng Li</author><author pid="k/JamesTinYauKwok">James T. Kwok</author><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>Cost-Sensitive Semi-Supervised Support Vector Machine.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiKZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1689</ee><url>https://dblp.org/rec/conf/aaai/LiKZ10</url></info>
+<url>URL#3393830</url>
+</hit>
+<hit score="1" id="3393831">
+<info><authors><author pid="30/4051">Sanjiang Li</author><author pid="00/105-1">Weiming Liu 0001</author></authors><title>Topological Relations between Convex Regions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1687</ee><url>https://dblp.org/rec/conf/aaai/LiL10</url></info>
+<url>URL#3393831</url>
+</hit>
+<hit score="1" id="3393832">
+<info><authors><author pid="35/5239">Chu Min Li</author><author pid="37/8296">Zhe Quan</author></authors><title>An Efficient Branch-and-Bound Algorithm Based on MaxSAT for the Maximum Clique Problem.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiQ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1611</ee><url>https://dblp.org/rec/conf/aaai/LiQ10</url></info>
+<url>URL#3393832</url>
+</hit>
+<hit score="1" id="3393833">
+<info><authors><author pid="28/5676">Jason Jingshi Li</author><author pid="21/1718">Jochen Renz</author></authors><title>In Defense of Large Qualitative Calculi.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1793</ee><url>https://dblp.org/rec/conf/aaai/LiR10</url></info>
+<url>URL#3393833</url>
+</hit>
+<hit score="1" id="3393834">
+<info><authors><author pid="13/7007-2">Lei Li 0002</author><author pid="59/2227-2">Yan Wang 0002</author></authors><title>Subjective Trust Inference in Composite Services.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1705</ee><url>https://dblp.org/rec/conf/aaai/LiW10</url></info>
+<url>URL#3393834</url>
+</hit>
+<hit score="1" id="3393835">
+<info><authors><author pid="l/ZhaoLi">Zhao Li</author><author pid="59/4107">Xindong Wu 0001</author></authors><title>A Phrase-Based Method for Hierarchical Clustering of Web Snippets.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiW10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1612</ee><url>https://dblp.org/rec/conf/aaai/LiW10a</url></info>
+<url>URL#3393835</url>
+</hit>
+<hit score="1" id="3393836">
+<info><authors><author pid="60/3675-1">Pei-Pei Li 0001</author><author pid="59/4107">Xindong Wu 0001</author><author pid="38/5910">Xuegang Hu</author></authors><title>Learning from Concept Drifting Data Streams with Unlabeled Data.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiWH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1562</ee><url>https://dblp.org/rec/conf/aaai/LiWH10</url></info>
+<url>URL#3393836</url>
+</hit>
+<hit score="1" id="3393838">
+<info><authors><author pid="41/1100">Yuewei Lin</author><author pid="94/4033-1">Bin Fang 0001</author><author pid="t/YuanYanTang">Yuanyan Tang</author></authors><title>A Computational Model for Saliency Maps by Using Local Entropy.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LinFT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1831</ee><url>https://dblp.org/rec/conf/aaai/LinFT10</url></info>
+<url>URL#3393838</url>
+</hit>
+<hit score="1" id="3393839">
+<info><authors><author pid="69/5277">Raz Lin</author><author pid="k/SaritKraus">Sarit Kraus</author><author pid="34/7115">Yinon Oshrat</author><author pid="65/3114">Ya&apos;akov (Kobi) Gal</author></authors><title>Facilitating the Evaluation of Automated Negotiators using Peer Designed Agents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LinKOG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1710</ee><url>https://dblp.org/rec/conf/aaai/LinKOG10</url></info>
+<url>URL#3393839</url>
+</hit>
+<hit score="1" id="3393840">
+<info><authors><author pid="81/7747">Lanny Lin</author><author pid="81/8399">Michael Roscheck</author><author pid="g/MichaelAGoodrich">Michael A. Goodrich</author><author pid="m/BryanSMorse">Bryan S. Morse</author></authors><title>Supporting Wilderness Search and Rescue with Integrated Intelligence - Autonomy and Information at the Right Time and the Right Place.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LinRGM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1864</ee><url>https://dblp.org/rec/conf/aaai/LinRGM10</url></info>
+<url>URL#3393840</url>
+</hit>
+<hit score="1" id="3393842">
+<info><authors><author pid="08/1891">Xiao Ling</author><author pid="w/DanielSWeld">Daniel S. Weld</author></authors><title>Temporal Information Extraction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LingW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1805</ee><url>https://dblp.org/rec/conf/aaai/LingW10</url></info>
+<url>URL#3393842</url>
+</hit>
+<hit score="1" id="3393843">
+<info><authors><author pid="14/8399">Jialu Liu</author><author pid="c/DCai">Deng Cai 0001</author><author pid="h/XiaofeiHe">Xiaofei He 0001</author></authors><title>Gaussian Mixture Model with Local Consistency.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuCH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1671</ee><url>https://dblp.org/rec/conf/aaai/LiuCH10</url></info>
+<url>URL#3393843</url>
+</hit>
+<hit score="1" id="3393844">
+<info><authors><author pid="73/4188-1">Yongmei Liu 0001</author><author pid="13/2692">Bing Li</author></authors><title>Automated Program Debugging Via Multiple Predicate Switching.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1739</ee><url>https://dblp.org/rec/conf/aaai/LiuL10</url></info>
+<url>URL#3393844</url>
+</hit>
+<hit score="1" id="3393845">
+<info><authors><author pid="51/3710-7">Yang Liu 0007</author><author pid="l/YanLiu4">Yan Liu 0004</author><author pid="71/6513">Keith C. C. Chan</author></authors><title>Multilinear Maximum Distance Embedding Via L1-Norm Optimization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuLC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1790</ee><url>https://dblp.org/rec/conf/aaai/LiuLC10</url></info>
+<url>URL#3393845</url>
+</hit>
+<hit score="1" id="3393846">
+<info><authors><author pid="49/3283-5">Wei Liu 0005</author><author pid="03/5204-1">Xinmei Tian 0001</author><author pid="46/3391">Dacheng Tao</author><author pid="l/JianzhuangLiu">Jianzhuang Liu</author></authors><title>Constrained Metric Learning Via Distance Gap Maximization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuTTL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1950</ee><url>https://dblp.org/rec/conf/aaai/LiuTTL10</url></info>
+<url>URL#3393846</url>
+</hit>
+<hit score="1" id="3393847">
+<info><authors><author pid="84/33">Haifeng Liu</author><author pid="54/6252">Zhaohui Wu</author></authors><title>Non-Negative Matrix Factorization with Constraints.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1820</ee><url>https://dblp.org/rec/conf/aaai/LiuW10</url></info>
+<url>URL#3393847</url>
+</hit>
+<hit score="1" id="3393848">
+<info><authors><author pid="01/1235-1">Guanfeng Liu 0001</author><author pid="59/2227-2">Yan Wang 0002</author><author pid="o/MehmetAOrgun">Mehmet A. Orgun</author></authors><title>Optimal Social Trust Path Selection in Complex Social Networks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuWO10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1751</ee><url>https://dblp.org/rec/conf/aaai/LiuWO10</url></info>
+<url>URL#3393848</url>
+</hit>
+<hit score="1" id="3393849">
+<info><authors><author pid="46/8333">Long Tran-Thanh</author><author pid="65/4208">Archie C. Chapman</author><author pid="09/5915">Enrique Munoz de Cote</author><author pid="37/4849">Alex Rogers</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>Epsilon-First Policies for Budget-Limited Multi-Armed Bandits.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LongCCRJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1817</ee><url>https://dblp.org/rec/conf/aaai/LongCCRJ10</url></info>
+<url>URL#3393849</url>
+</hit>
+<hit score="1" id="3393850">
+<info><authors><author pid="15/7745">Robert Louis Long</author><author pid="90/6407">Ross Mead</author><author pid="42/5517">Jerry B. Weinberg</author></authors><title>Distributed Auction-Based Initialization of Mobile Robot Formations.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LongMW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1673</ee><url>https://dblp.org/rec/conf/aaai/LongMW10</url></info>
+<url>URL#3393850</url>
+</hit>
+<hit score="1" id="3393851">
+<info><authors><author pid="87/7441">Jeffrey Richard Long</author><author pid="18/991">Nathan R. Sturtevant</author><author pid="26/2020">Michael Buro</author><author pid="34/6163">Timothy Furtak</author></authors><title>Understanding the Success of Perfect Information Monte Carlo Sampling in Game Tree Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LongSBF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1876</ee><url>https://dblp.org/rec/conf/aaai/LongSBF10</url></info>
+<url>URL#3393851</url>
+</hit>
+<hit score="1" id="3393853">
+<info><authors><author pid="68/3849">Jianbing Ma</author><author pid="l/WeiruLiu">Weiru Liu</author><author pid="95/5613">Salem Benferhat</author></authors><title>A Belief Revision Framework for Revising Epistemic States with Partial Epistemic States.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MaLB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1674</ee><url>https://dblp.org/rec/conf/aaai/MaLB10</url></info>
+<url>URL#3393853</url>
+</hit>
+<hit score="1" id="3393854">
+<info><authors><author pid="68/3849">Jianbing Ma</author><author pid="l/WeiruLiu">Weiru Liu</author><author pid="23/4530">Anthony Hunter</author></authors><title>Inducing Probability Distributions from Knowledge Bases with (In)dependence Relations.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MaLH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1716</ee><url>https://dblp.org/rec/conf/aaai/MaLH10</url></info>
+<url>URL#3393854</url>
+</hit>
+<hit score="1" id="3393855">
+<info><authors><author pid="86/4227-1">Hao Ma 0001</author><author pid="l/MichaelRLyu">Michael R. Lyu</author><author pid="k/IrwinKing">Irwin King</author></authors><title>Diversifying Query Suggestion Results.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MaLK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1827</ee><url>https://dblp.org/rec/conf/aaai/MaLK10</url></info>
+<url>URL#3393855</url>
+</hit>
+<hit score="1" id="3393856">
+<info><authors><author pid="81/6582">James MacGlashan</author></authors><title>Hierarchical Skill Learning for High-Level Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MacGlashan10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1635</ee><url>https://dblp.org/rec/conf/aaai/MacGlashan10</url></info>
+<url>URL#3393856</url>
+</hit>
+<hit score="1" id="3393857">
+<info><authors><author pid="97/3847">Sridhar Mahadevan</author></authors><title>Representation Discovery in Sequential Decision Making.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Mahadevan10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1753</ee><url>https://dblp.org/rec/conf/aaai/Mahadevan10</url></info>
+<url>URL#3393857</url>
+</hit>
+<hit score="1" id="3393858">
+<info><authors><author pid="89/848">Marc E. Maier</author><author pid="96/5574">Brian J. Taylor</author><author pid="136/7919">Hüseyin Oktay</author><author pid="38/828">David D. Jensen</author></authors><title>Learning Causal Models of Relational Domains.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MaierTOJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1919</ee><url>https://dblp.org/rec/conf/aaai/MaierTOJ10</url></info>
+<url>URL#3393858</url>
+</hit>
+<hit score="1" id="3393859">
+<info><authors><author pid="59/2173">Yuri Malitsky</author><author pid="s/MeinolfSellmann">Meinolf Sellmann</author><author pid="36/2394">Radoslaw Szymanek</author></authors><title>Filtering Bounded Knapsack Constraints in Expected Sublinear Time.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MalitskySS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1855</ee><url>https://dblp.org/rec/conf/aaai/MalitskySS10</url></info>
+<url>URL#3393859</url>
+</hit>
+<hit score="1" id="3393860">
+<info><authors><author pid="29/3105">Mehdi Hafezi Manshadi</author></authors><title>Towards a Robust Deep Language Understanding System.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Manshadi10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1648</ee><url>https://dblp.org/rec/conf/aaai/Manshadi10</url></info>
+<url>URL#3393860</url>
+</hit>
+<hit score="1" id="3393861">
+<info><authors><author pid="82/5393">Franco Mascia</author><author pid="17/3645">Elisa Cilia</author><author pid="16/3468">Mauro Brunato</author><author pid="00/6186">Andrea Passerini</author></authors><title>Predicting Structural and Functional Sites in Proteins by Searching for Maximum-weight Cliques.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MasciaCBP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1833</ee><url>https://dblp.org/rec/conf/aaai/MasciaCBP10</url></info>
+<url>URL#3393861</url>
+</hit>
+<hit score="1" id="3393863">
+<info><authors><author pid="30/6391">Mausam</author><author pid="95/3490">Stephen Soderland</author><author pid="e/OEtzioni">Oren Etzioni</author></authors><title>Panlingual Lexical Translation via Probabilistic Inference.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MausamSE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1688</ee><url>https://dblp.org/rec/conf/aaai/MausamSE10</url></info>
+<url>URL#3393863</url>
+</hit>
+<hit score="1" id="3393864">
+<info><authors><author pid="10/7400">James P. McGlothlin</author></authors><title>Framework and Schema for Semantic Web Knowledge Bases.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/McGlothlin10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1624</ee><url>https://dblp.org/rec/conf/aaai/McGlothlin10</url></info>
+<url>URL#3393864</url>
+</hit>
+<hit score="1" id="3393865">
+<info><authors><author pid="10/7400">James P. McGlothlin</author><author pid="k/LatifurKhan">Latifur R. Khan</author></authors><title>Materializing and Persisting Inferred and Uncertain Knowledge in RDF Datasets.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/McGlothlinK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1908</ee><url>https://dblp.org/rec/conf/aaai/McGlothlinK10</url></info>
+<url>URL#3393865</url>
+</hit>
+<hit score="1" id="3393866">
+<info><authors><author pid="10/7400">James P. McGlothlin</author><author pid="k/LatifurKhan">Latifur R. Khan</author></authors><title>Materializing Inferred and Uncertain Knowledge in RDF Datasets.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/McGlothlinK10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1663</ee><url>https://dblp.org/rec/conf/aaai/McGlothlinK10a</url></info>
+<url>URL#3393866</url>
+</hit>
+<hit score="1" id="3393868">
+<info><authors><author pid="24/5865">Reshef Meir</author><author pid="17/1211">Maria Polukarov</author><author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>Convergence to Equilibria in Plurality Voting.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MeirPRJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1770</ee><url>https://dblp.org/rec/conf/aaai/MeirPRJ10</url></info>
+<url>URL#3393868</url>
+</hit>
+<hit score="1" id="3393869">
+<info><authors><author pid="50/2928">Çetin Meriçli</author><author pid="v/ManuelaMVeloso">Manuela M. Veloso</author></authors><title>Biped Walk Learning Through Playback and Corrective Demonstration.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MericliV10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1923</ee><url>https://dblp.org/rec/conf/aaai/MericliV10</url></info>
+<url>URL#3393869</url>
+</hit>
+<hit score="1" id="3393872">
+<info><authors><author pid="50/1174">Shiwali Mohan</author><author pid="l/JohnELaird">John E. Laird</author></authors><title>Relational Reinforcement Learning in Infinite Mario.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MohanL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1657</ee><url>https://dblp.org/rec/conf/aaai/MohanL10</url></info>
+<url>URL#3393872</url>
+</hit>
+<hit score="1" id="3393873">
+<info><authors><author pid="98/1468">Matthew Molineaux</author><author pid="58/1755">Matthew Klenk</author><author pid="25/557">David W. Aha</author></authors><title>Planning in Dynamic Environments - Extending HTNs with Nonlinear Continuous Effects.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MolineauxKA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1938</ee><url>https://dblp.org/rec/conf/aaai/MolineauxKA10</url></info>
+<url>URL#3393873</url>
+</hit>
+<hit score="1" id="3393874">
+<info><authors><author pid="98/1468">Matthew Molineaux</author><author pid="58/1755">Matthew Klenk</author><author pid="25/557">David W. Aha</author></authors><title>Goal-Driven Autonomy in a Navy Strategy Simulation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MolineauxKA10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1928</ee><url>https://dblp.org/rec/conf/aaai/MolineauxKA10a</url></info>
+<url>URL#3393874</url>
+</hit>
+<hit score="1" id="3393876">
+<info><authors><author pid="55/1817">Yadong Mu</author><author pid="y/ShuichengYan">Shuicheng Yan</author></authors><title>Non-Metric Locality-Sensitive Hashing.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MuY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1839</ee><url>https://dblp.org/rec/conf/aaai/MuY10</url></info>
+<url>URL#3393876</url>
+</hit>
+<hit score="1" id="3393879">
+<info><authors><author pid="31/4012">Alex Nash</author><author pid="k/SvenKoenig">Sven Koenig</author><author pid="70/6070">Craig A. Tovey</author></authors><title>Lazy Theta* - Any-Angle Path Planning and Path Length Analysis in 3D.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NashKT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1930</ee><url>https://dblp.org/rec/conf/aaai/NashKT10</url></info>
+<url>URL#3393879</url>
+</hit>
+<hit score="1" id="3393882">
+<info><authors><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Efficient Belief Propagation for Utility Maximization and Repeated Inference.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NathD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1898</ee><url>https://dblp.org/rec/conf/aaai/NathD10</url></info>
+<url>URL#3393882</url>
+</hit>
+<hit score="1" id="3393883">
+<info><authors><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Efficient Lifting for Online Probabilistic Inference.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NathD10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1916</ee><url>https://dblp.org/rec/conf/aaai/NathD10a</url></info>
+<url>URL#3393883</url>
+</hit>
+<hit score="1" id="3393885">
+<info><authors><author pid="62/8399">Scott Niekum</author></authors><title>Evolved Intrinsic Reward Functions for Reinforcement Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Niekum10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1595</ee><url>https://dblp.org/rec/conf/aaai/Niekum10</url></info>
+<url>URL#3393885</url>
+</hit>
+<hit score="1" id="3393886">
+<info><authors><author pid="n/MathiasNiepert">Mathias Niepert</author><author pid="76/3199">Christian Meilicke</author><author pid="50/5895">Heiner Stuckenschmidt</author></authors><title>A Probabilistic-Logical Framework for Ontology Matching.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NiepertMS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1744</ee><url>https://dblp.org/rec/conf/aaai/NiepertMS10</url></info>
+<url>URL#3393886</url>
+</hit>
+<hit score="1" id="3393887">
+<info><authors><author pid="o/BarryOSullivan">Barry O&apos;Sullivan</author></authors><title>Automated Modelling and Solving in Constraint Programming.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/OSullivan10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1899</ee><url>https://dblp.org/rec/conf/aaai/OSullivan10</url></info>
+<url>URL#3393887</url>
+</hit>
+<hit score="1" id="3393888">
+<info><authors><author pid="87/3417">Megan M. Olsen</author></authors><title>Multi-Agent Fault Tolerance Inspired by a Computational Analysis of Cancer.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Olsen10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1631</ee><url>https://dblp.org/rec/conf/aaai/Olsen10</url></info>
+<url>URL#3393888</url>
+</hit>
+<hit score="1" id="3393890">
+<info><authors><author pid="91/6962">Abraham Othman</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Envy Quotes and the Iterated Core-Selecting Combinatorial Auction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/OthmanS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1773</ee><url>https://dblp.org/rec/conf/aaai/OthmanS10</url></info>
+<url>URL#3393890</url>
+</hit>
+<hit score="1" id="3393891">
+<info><authors><author pid="86/7745">Takuma Otsuka</author><author pid="38/545">Kazuhiro Nakadai</author><author pid="66/3859-1">Toru Takahashi 0001</author><author pid="21/6468">Kazunori Komatani</author><author pid="38/1658">Tetsuya Ogata</author><author pid="09/2222">Hiroshi G. Okuno</author></authors><title>Design and Implementation of Two-level Synchronization for Interactive Music Robot.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/OtsukaNTKOO10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1814</ee><url>https://dblp.org/rec/conf/aaai/OtsukaNTKOO10</url></info>
+<url>URL#3393891</url>
+</hit>
+<hit score="1" id="3393892">
+<info><authors><author pid="94/4879">Tim Paek</author><author pid="g/MichaelGamon">Michael Gamon</author><author pid="61/6236">Scott Counts</author><author pid="c/DavidMaxwellChickering">David Maxwell Chickering</author><author pid="39/8399">Aman Dhesi</author></authors><title>Predicting the Importance of Newsfeed Posts and Social Network Friends.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PaekGCCD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1878</ee><url>https://dblp.org/rec/conf/aaai/PaekGCCD10</url></info>
+<url>URL#3393892</url>
+</hit>
+<hit score="1" id="3393893">
+<info><authors><author pid="97/896">Jia Pan</author><author pid="l/ChristianLauterbach">Christian Lauterbach</author><author pid="m/DineshManocha">Dinesh Manocha</author></authors><title>g-Planner - Real-time Motion Planning and Global Navigation using GPUs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PanLM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1565</ee><url>https://dblp.org/rec/conf/aaai/PanLM10</url></info>
+<url>URL#3393893</url>
+</hit>
+<hit score="1" id="3393895">
+<info><authors><author pid="86/7788">Weike Pan</author><author pid="86/2174">Evan Wei Xiang</author><author pid="71/5490">Nathan Nan Liu</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Transfer Learning in Collaborative Filtering for Sparsity Reduction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PanXLY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1649</ee><url>https://dblp.org/rec/conf/aaai/PanXLY10</url></info>
+<url>URL#3393895</url>
+</hit>
+<hit score="1" id="3393896">
+<info><authors><author pid="04/71">Chunki Park</author><author pid="41/2414">Will Bridewell</author><author pid="l/PatLangley">Pat Langley</author></authors><title>Integrated Systems for Inducing Spatio-Temporal Process Models.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ParkBL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1742</ee><url>https://dblp.org/rec/conf/aaai/ParkBL10</url></info>
+<url>URL#3393896</url>
+</hit>
+<hit score="1" id="3393897">
+<info><authors><author pid="00/9714">Michael J. Paul</author><author pid="76/1063">Roxana Girju</author></authors><title>A Two-Dimensional Topic-Aspect Model for Discovering Multi-Faceted Topics.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PaulG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1730</ee><url>https://dblp.org/rec/conf/aaai/PaulG10</url></info>
+<url>URL#3393897</url>
+</hit>
+<hit score="1" id="3393898">
+<info><authors><author pid="79/6508">Daniel Peebles</author><author pid="47/2341-6">Hong Lu 0006</author><author pid="03/2663">Nicholas D. Lane</author><author pid="86/45">Tanzeem Choudhury</author><author pid="c/AndrewTCampbell">Andrew T. Campbell</author></authors><title>Community-Guided Learning - Exploiting Mobile Sensor Users to Model Human Behavior.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PeeblesLLCC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1933</ee><url>https://dblp.org/rec/conf/aaai/PeeblesLLCC10</url></info>
+<url>URL#3393898</url>
+</hit>
+<hit score="1" id="3393899">
+<info><authors><author pid="p/JanPeters1">Jan Peters 0001</author><author pid="25/8367">Katharina Mülling</author><author pid="85/3389">Yasemin Altun</author></authors><title>Relative Entropy Policy Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PetersMA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1851</ee><url>https://dblp.org/rec/conf/aaai/PetersMA10</url></info>
+<url>URL#3393899</url>
+</hit>
+<hit score="1" id="3393900">
+<info><authors><author pid="85/3391">Eric Jeffrey Peterson</author><author pid="s/ThomasFStahovich">Thomas F. Stahovich</author><author pid="21/8399">Eric Doi</author><author pid="63/627">Christine Alvarado</author></authors><title>Grouping Strokes into Shapes in Hand-Drawn Diagrams.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PetersonSDA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1888</ee><url>https://dblp.org/rec/conf/aaai/PetersonSDA10</url></info>
+<url>URL#3393900</url>
+</hit>
+<hit score="1" id="3393901">
+<info><authors><author pid="08/8399">Wei Ping</author><author pid="60/3605">Ye Xu</author><author pid="34/8399">Kexin Ren</author><author pid="89/3076">Chi-Hung Chi</author><author pid="80/4685">Shen Furao</author></authors><title>Non-I.I.D. Multi-Instance Dimensionality Reduction by Learning a Maximum Bag Margin Subspace.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PingXRCF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1556</ee><url>https://dblp.org/rec/conf/aaai/PingXRCF10</url></info>
+<url>URL#3393901</url>
+</hit>
+<hit score="1" id="3393902">
+<info><authors><author pid="51/8399">Stefan Pintilie</author><author pid="71/4226-1">Ali Ghodsi 0001</author></authors><title>Conformal Mapping by Computationally Efficient Methods.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PintilieG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1779</ee><url>https://dblp.org/rec/conf/aaai/PintilieG10</url></info>
+<url>URL#3393902</url>
+</hit>
+<hit score="1" id="3393903">
+<info><authors><author pid="41/8399">Thammanit Pipatsrisawat</author><author pid="p/ADarwiche">Adnan Darwiche</author></authors><title>A Lower Bound on the Size of Decomposable Negation Normal Form.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PipatsrisawatD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1856</ee><url>https://dblp.org/rec/conf/aaai/PipatsrisawatD10</url></info>
+<url>URL#3393903</url>
+</hit>
+<hit score="1" id="3393906">
+<info><authors><author pid="19/3451">Nir Pochter</author><author pid="92/4269">Aviv Zohar</author><author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author><author pid="43/5063">Ariel Felner</author></authors><title>Search Space Reduction Using Swamp Hierarchies.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PochterZRF10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1825</ee><url>https://dblp.org/rec/conf/aaai/PochterZRF10</url></info>
+<url>URL#3393906</url>
+</hit>
+<hit score="1" id="3393910">
+<info><authors><author pid="p/IanPorteous">Ian Porteous</author><author pid="78/2352">Arthur U. Asuncion</author><author pid="16/2286">Max Welling</author></authors><title>Bayesian Matrix Factorization with Side Information and Dirichlet Process Mixtures.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PorteousAW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1871</ee><url>https://dblp.org/rec/conf/aaai/PorteousAW10</url></info>
+<url>URL#3393910</url>
+</hit>
+<hit score="1" id="3393911">
+<info><authors><author pid="47/5039">Robert G. Price</author><author pid="29/6460">Scott D. Goodwin</author></authors><title>Team Formation with Heterogeneous Agents in Computer Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PriceG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1616</ee><url>https://dblp.org/rec/conf/aaai/PriceG10</url></info>
+<url>URL#3393911</url>
+</hit>
+<hit score="1" id="3393912">
+<info><authors><author pid="p/ArielDProcaccia">Ariel D. Procaccia</author></authors><title>Can Approximation Circumvent Gibbard-Satterthwaite?</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Procaccia10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1759</ee><url>https://dblp.org/rec/conf/aaai/Procaccia10</url></info>
+<url>URL#3393912</url>
+</hit>
+<hit score="1" id="3393914">
+<info><authors><author pid="77/3761">Michal Ptaszynski</author><author pid="64/8399">Jacek Maciejewski</author><author pid="54/3415">Pawel Dybala</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>CAO - A Fully Automatic Emoticon Analysis System.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PtaszynskiMDRA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1828</ee><url>https://dblp.org/rec/conf/aaai/PtaszynskiMDRA10</url></info>
+<url>URL#3393914</url>
+</hit>
+<hit score="1" id="3393915">
+<info><authors><author pid="91/7441">Buyue Qian</author><author pid="81/2360">Ian Davidson</author></authors><title>Semi-Supervised Dimension Reduction for Multi-Label Classification.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/QianD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1911</ee><url>https://dblp.org/rec/conf/aaai/QianD10</url></info>
+<url>URL#3393915</url>
+</hit>
+<hit score="1" id="3393917">
+<info><authors><author pid="r/LucDeRaedt">Luc De Raedt</author><author pid="41/3130">Tias Guns</author><author pid="71/709">Siegfried Nijssen</author></authors><title>Constraint Programming for Data Mining and Machine Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RaedtGN10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1837</ee><url>https://dblp.org/rec/conf/aaai/RaedtGN10</url></info>
+<url>URL#3393917</url>
+</hit>
+<hit score="1" id="3393919">
+<info><authors><author pid="36/6034">Miquel Ramírez</author><author pid="g/HectorGeffner">Hector Geffner</author></authors><title>Probabilistic Plan Recognition Using Off-the-Shelf Classical Planners.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RamirezG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1821</ee><url>https://dblp.org/rec/conf/aaai/RamirezG10</url></info>
+<url>URL#3393919</url>
+</hit>
+<hit score="1" id="3393921">
+<info><authors><author pid="10/8399">Siamak (Moshen) Ravanbakhsh</author><author pid="15/4829">Barnabás Póczos</author><author pid="g/RussellGreiner">Russell Greiner</author></authors><title>A Cross-Entropy Method that Optimizes Partially Decomposable Problems - A New Way to Interpret NMR Spectra.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RavanbakhshPG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1848</ee><url>https://dblp.org/rec/conf/aaai/RavanbakhshPG10</url></info>
+<url>URL#3393921</url>
+</hit>
+<hit score="1" id="3393922">
+<info><authors><author pid="45/3653-1">Kevin Regan 0001</author><author pid="10/3411">Craig Boutilier</author></authors><title>Robust Policy Computation in Reward-Uncertain MDPs Using Nondominated Policies.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ReganB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1610</ee><url>https://dblp.org/rec/conf/aaai/ReganB10</url></info>
+<url>URL#3393922</url>
+</hit>
+<hit score="1" id="3393923">
+<info><authors><author pid="69/4334-1">Yuan Ren 0001</author><author pid="59/6490">Jeff Z. Pan</author><author pid="96/11">Yuting Zhao</author></authors><title>Soundness Preserving Approximation for TBox Reasoning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RenPZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1955</ee><url>https://dblp.org/rec/conf/aaai/RenPZ10</url></info>
+<url>URL#3393923</url>
+</hit>
+<hit score="1" id="3393925">
+<info><authors><author pid="32/3788">Emma Rollon</author><author pid="d/RDechter">Rina Dechter</author></authors><title>New Mini-Bucket Partitioning Heuristics for Bounding the Probability of Evidence.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RollonD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1891</ee><url>https://dblp.org/rec/conf/aaai/RollonD10</url></info>
+<url>URL#3393925</url>
+</hit>
+<hit score="1" id="3393929">
+<info><authors><author pid="53/8399">Adam Sadilek</author><author pid="k/HenryAKautz">Henry A. Kautz</author></authors><title>Recognizing Multi-Agent Activities from GPS Data.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SadilekK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1603</ee><url>https://dblp.org/rec/conf/aaai/SadilekK10</url></info>
+<url>URL#3393929</url>
+</hit>
+<hit score="1" id="3393931">
+<info><authors><author pid="49/2908">Amirali Salehi-Abari</author><author pid="27/2616">Tony White</author></authors><title>Trust Models and Con-Man Agents - From Mathematical to Empirical Analysis.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Salehi-AbariW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1598</ee><url>https://dblp.org/rec/conf/aaai/Salehi-AbariW10</url></info>
+<url>URL#3393931</url>
+</hit>
+<hit score="1" id="3393933">
+<info><authors><author pid="88/3374">Scott Sanner</author><author pid="40/3793">Kristian Kersting</author></authors><title>Symbolic Dynamic Programming for First-order POMDPs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SannerK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1840</ee><url>https://dblp.org/rec/conf/aaai/SannerK10</url></info>
+<url>URL#3393933</url>
+</hit>
+<hit score="1" id="3393934">
+<info><authors><author pid="44/6515">Ganesh Ram Santhanam</author><author pid="67/1905">Samik Basu 0001</author><author pid="h/VasantHonavar">Vasant G. Honavar</author></authors><title>Dominance Testing via Model Checking.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SanthanamBH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1844</ee><url>https://dblp.org/rec/conf/aaai/SanthanamBH10</url></info>
+<url>URL#3393934</url>
+</hit>
+<hit score="1" id="3393935">
+<info><authors><author pid="03/5237">David Sarne</author><author pid="41/8215">Simon Shamoun</author><author pid="16/8399">Eli Rata</author></authors><title>Increasing Threshold Search for Best-Valued Agents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SarneSR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1795</ee><url>https://dblp.org/rec/conf/aaai/SarneSR10</url></info>
+<url>URL#3393935</url>
+</hit>
+<hit score="1" id="3393936">
+<info><authors><author pid="67/2985">Stephan Schiffel</author></authors><title>Symmetry Detection in General Game Playing.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Schiffel10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1836</ee><url>https://dblp.org/rec/conf/aaai/Schiffel10</url></info>
+<url>URL#3393936</url>
+</hit>
+<hit score="1" id="3393937">
+<info><authors><author pid="29/3972">Steven Schockaert</author><author pid="p/HenriPrade">Henri Prade</author></authors><title>An Inconsistency-Tolerant Approach to Information Merging Based on Proposition Relaxation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchockaertP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1634</ee><url>https://dblp.org/rec/conf/aaai/SchockaertP10</url></info>
+<url>URL#3393937</url>
+</hit>
+<hit score="1" id="3393939">
+<info><authors><author pid="40/3087">Anika Schumann</author><author pid="28/4243">Jinbo Huang</author><author pid="14/3994">Martin Sachenbacher</author></authors><title>Computing Cost-Optimal Definitely Discriminating Tests.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchumannHS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1564</ee><url>https://dblp.org/rec/conf/aaai/SchumannHS10</url></info>
+<url>URL#3393939</url>
+</hit>
+<hit score="1" id="3393940">
+<info><authors><author pid="89/3544">Travis C. Service</author><author pid="96/1578">Julie A. Adams</author></authors><title>Approximate Coalition Structure Generation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ServiceA10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1860</ee><url>https://dblp.org/rec/conf/aaai/ServiceA10</url></info>
+<url>URL#3393940</url>
+</hit>
+<hit score="1" id="3393941">
+<info><authors><author pid="56/5151">Sven Seuken</author><author pid="13/4619">Kamal Jain</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>Hidden Market Design.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SeukenJP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1804</ee><url>https://dblp.org/rec/conf/aaai/SeukenJP10</url></info>
+<url>URL#3393941</url>
+</hit>
+<hit score="1" id="3393942">
+<info><authors><author pid="56/5151">Sven Seuken</author><author pid="181/2702">Jie Tang</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>Accounting Mechanisms for Distributed Work Systems.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SeukenTP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1802</ee><url>https://dblp.org/rec/conf/aaai/SeukenTP10</url></info>
+<url>URL#3393942</url>
+</hit>
+<hit score="1" id="3393943">
+<info><authors><author pid="02/2672">Dafna Shahaf</author><author pid="h/EricHorvitz">Eric Horvitz</author></authors><title>Generalized Task Markets for Human and Machine Computation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShahafH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1951</ee><url>https://dblp.org/rec/conf/aaai/ShahafH10</url></info>
+<url>URL#3393943</url>
+</hit>
+<hit score="1" id="3393944">
+<info><authors><author pid="15/5874">Hamid Haidarian Shahri</author></authors><title>Semantic Search in Linked Data - Opportunities and Challenges.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Shahri10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1640</ee><url>https://dblp.org/rec/conf/aaai/Shahri10</url></info>
+<url>URL#3393944</url>
+</hit>
+<hit score="1" id="3393945">
+<info><authors><author pid="69/5513-1">Ankit Sharma 0001</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Asymmetric Spite in Auctions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SharmaS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1728</ee><url>https://dblp.org/rec/conf/aaai/SharmaS10</url></info>
+<url>URL#3393945</url>
+</hit>
+<hit score="1" id="3393946">
+<info><authors><author pid="23/1840-2">Bin Shen 0002</author><author pid="14/1217">Luo Si</author></authors><title>Non-Negative Matrix Factorization Clustering on Multiple Manifolds.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShenS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1707</ee><url>https://dblp.org/rec/conf/aaai/ShenS10</url></info>
+<url>URL#3393946</url>
+</hit>
+<hit score="1" id="3393947">
+<info><authors><author pid="57/8399">Bryan Silverthorn</author><author pid="m/RistoMiikkulainen">Risto Miikkulainen</author></authors><title>Latent Class Models for Algorithm Portfolio Methods.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SilverthornM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1781</ee><url>https://dblp.org/rec/conf/aaai/SilverthornM10</url></info>
+<url>URL#3393947</url>
+</hit>
+<hit score="1" id="3393948">
+<info><authors><author pid="43/8464">Christopher L. Simpkins</author></authors><title>Integrating Reinforcement Learning into a Programming Language.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Simpkins10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1638</ee><url>https://dblp.org/rec/conf/aaai/Simpkins10</url></info>
+<url>URL#3393948</url>
+</hit>
+<hit score="1" id="3393949">
+<info><authors><author pid="05/6973">Jivko Sinapov</author><author pid="26/3845">Alexander Stoytchev</author></authors><title>The Boosting Effect of Exploratory Behaviors.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SinapovS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1777</ee><url>https://dblp.org/rec/conf/aaai/SinapovS10</url></info>
+<url>URL#3393949</url>
+</hit>
+<hit score="1" id="3393953">
+<info><authors><author pid="12/8399">Meesun Song</author><author pid="66/8399">Wonkyu Lee</author><author pid="13/4939">Junghwan Kim</author></authors><title>Extraction and Visualization of Implicit Social Relations on Social Networking Services.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SongLK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1822</ee><url>https://dblp.org/rec/conf/aaai/SongLK10</url></info>
+<url>URL#3393953</url>
+</hit>
+<hit score="1" id="3393954">
+<info><authors><author pid="86/2159">Yangqiu Song</author><author pid="p/ShimeiPan">Shimei Pan</author><author pid="22/904">Shixia Liu</author><author pid="72/5870">Furu Wei</author><author pid="90/5406">Michelle X. Zhou</author><author pid="83/7048">Weihong Qian</author></authors><title>Constrained Coclustering for Textual Documents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SongPLWZQ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1800</ee><url>https://dblp.org/rec/conf/aaai/SongPLWZQ10</url></info>
+<url>URL#3393954</url>
+</hit>
+<hit score="1" id="3393955">
+<info><authors><author pid="16/3547">Dezhen Song</author><author pid="84/5224">Yiliang Xu</author></authors><title>A Low False Negative Filter for Detecting Rare Bird Species from Short Video Segments using a Probable Observation Data Set-based EKF Method.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SongX10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1586</ee><url>https://dblp.org/rec/conf/aaai/SongX10</url></info>
+<url>URL#3393955</url>
+</hit>
+<hit score="1" id="3393956">
+<info><authors><author pid="75/4246">Luciano Spinello</author><author pid="a/KOArras">Kai Oliver Arras</author><author pid="85/443">Rudolph Triebel</author><author pid="55/4063">Roland Siegwart</author></authors><title>A Layered Approach to People Detection in 3D Range Data.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SpinelloATS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1877</ee><url>https://dblp.org/rec/conf/aaai/SpinelloATS10</url></info>
+<url>URL#3393956</url>
+</hit>
+<hit score="1" id="3393957">
+<info><authors><author pid="31/2159">Muralikrishna Sridhar</author><author pid="c/AnthonyGCohn">Anthony G. Cohn</author><author pid="h/DHogg">David C. Hogg</author></authors><title>Unsupervised Learning of Event Classes from Video.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SridharCH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1846</ee><url>https://dblp.org/rec/conf/aaai/SridharCH10</url></info>
+<url>URL#3393957</url>
+</hit>
+<hit score="1" id="3393958">
+<info><authors><author pid="58/8399">Trevor Scott Standley</author></authors><title>Finding Optimal Solutions to Cooperative Pathfinding Problems.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Standley10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1926</ee><url>https://dblp.org/rec/conf/aaai/Standley10</url></info>
+<url>URL#3393958</url>
+</hit>
+<hit score="1" id="3393959">
+<info><authors><author pid="95/1348">Roni Stern</author><author pid="67/8399">Tamar Kulberis</author><author pid="43/5063">Ariel Felner</author><author pid="h/RobertHolte">Robert Holte</author></authors><title>Using Lookaheads with Optimal Best-First Search.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SternKFH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1854</ee><url>https://dblp.org/rec/conf/aaai/SternKFH10</url></info>
+<url>URL#3393959</url>
+</hit>
+<hit score="1" id="3393960">
+<info><authors><author pid="68/3069">David H. Stern</author><author pid="13/2167">Horst Samulowitz</author><author pid="h/RalfHerbrich">Ralf Herbrich</author><author pid="g/ThoreGraepel">Thore Graepel</author><author pid="35/6729">Luca Pulina</author><author pid="35/5174">Armando Tacchella</author></authors><title>Collaborative Expert Portfolio Management.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SternSHGPT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1857</ee><url>https://dblp.org/rec/conf/aaai/SternSHGPT10</url></info>
+<url>URL#3393960</url>
+</hit>
+<hit score="1" id="3393961">
+<info><authors><author pid="49/2781">Giorgos Stoilos</author><author pid="71/6448">Bernardo Cuenca Grau</author><author pid="h/IanHorrocks">Ian Horrocks</author></authors><title>How Incomplete Is Your Semantic Web Reasoner?</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/StoilosGH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1574</ee><url>https://dblp.org/rec/conf/aaai/StoilosGH10</url></info>
+<url>URL#3393961</url>
+</hit>
+<hit score="1" id="3393962">
+<info><authors><author pid="s/PeterStone">Peter Stone</author><author pid="28/5426">Gal A. Kaminka</author><author pid="k/SaritKraus">Sarit Kraus</author><author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author></authors><title>Ad Hoc Autonomous Agent Teams - Collaboration without Pre-Coordination.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/StoneKKR10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1843</ee><url>https://dblp.org/rec/conf/aaai/StoneKKR10</url></info>
+<url>URL#3393962</url>
+</hit>
+<hit score="1" id="3393963">
+<info><authors><author pid="s/UmbertoStraccia">Umberto Straccia</author><author pid="55/6020">Nuno Lopes 0002</author><author pid="l/GergelyLukacsy">Gergely Lukácsy</author><author pid="p/AxelPolleres">Axel Polleres</author></authors><title>A General Framework for Representing and Reasoning with Annotated Semantic Web Data.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/StracciaLLP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1590</ee><url>https://dblp.org/rec/conf/aaai/StracciaLLP10</url></info>
+<url>URL#3393963</url>
+</hit>
+<hit score="1" id="3393964">
+<info><authors><author pid="23/4296">Ruben Stranders</author><author pid="84/8399">Francesco Maria Delle Fave</author><author pid="37/4849">Alex Rogers</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>A Decentralised Coordination Algorithm for Mobile Sensors.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/StrandersFRJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1681</ee><url>https://dblp.org/rec/conf/aaai/StrandersFRJ10</url></info>
+<url>URL#3393964</url>
+</hit>
+<hit score="1" id="3393966">
+<info><authors><author pid="19/8399">Kaushik Subramanian</author></authors><title>Task Space Behavior Learning for Humanoid Robots using Gaussian Mixture Models.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Subramanian10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1670</ee><url>https://dblp.org/rec/conf/aaai/Subramanian10</url></info>
+<url>URL#3393966</url>
+</hit>
+<hit score="1" id="3393968">
+<info><authors><author pid="14/74">Yu-Yin Sun</author><author pid="n/MichaelKNg">Michael K. Ng</author><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>Multi-Instance Dimensionality Reduction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SunNZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1949</ee><url>https://dblp.org/rec/conf/aaai/SunNZ10</url></info>
+<url>URL#3393968</url>
+</hit>
+<hit score="1" id="3393969">
+<info><authors><author pid="14/74">Yu-Yin Sun</author><author pid="91/3045">Yin Zhang</author><author pid="z/ZhiHuaZhou">Zhi-Hua Zhou</author></authors><title>Multi-Label Learning with Weak Label.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SunZZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1948</ee><url>https://dblp.org/rec/conf/aaai/SunZZ10</url></info>
+<url>URL#3393969</url>
+</hit>
+<hit score="1" id="3393970">
+<info><authors><author pid="13/1754">Pavel Surynek</author></authors><title>An Optimization Variant of Multi-Robot Path Planning Is Intractable.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Surynek10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1768</ee><url>https://dblp.org/rec/conf/aaai/Surynek10</url></info>
+<url>URL#3393970</url>
+</hit>
+<hit score="1" id="3393972">
+<info><authors><author pid="99/2497">Kartik Talamadupula</author><author pid="63/2238-1">J. Benton 0001</author><author pid="02/2995">Paul W. Schermerhorn</author><author pid="k/SKambhampati">Subbarao Kambhampati</author><author pid="00/2197">Matthias Scheutz</author></authors><title>Integrating a Closed World Planner with an Open World Robot - A Case Study.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TalamadupulaBSKS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1912</ee><url>https://dblp.org/rec/conf/aaai/TalamadupulaBSKS10</url></info>
+<url>URL#3393972</url>
+</hit>
+<hit score="1" id="3393973">
+<info><authors><author pid="41/4680">Qing Tan</author><author pid="14/3700-3">Qing He 0003</author><author pid="52/1213">Zhongzhi Shi</author></authors><title>Nonparametric Curve Extraction Based on Ant Colony System.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TanHS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1708</ee><url>https://dblp.org/rec/conf/aaai/TanHS10</url></info>
+<url>URL#3393973</url>
+</hit>
+<hit score="1" id="3393974">
+<info><authors><author pid="25/8399">John J. Tanner</author><author pid="g/FernandoGomez">Fernando Gomez</author></authors><title>Extracting Ontological Selectional Preferences for Non-Pertainym Adjectives from the Google Corpus.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TannerG10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1944</ee><url>https://dblp.org/rec/conf/aaai/TannerG10</url></info>
+<url>URL#3393974</url>
+</hit>
+<hit score="1" id="3393975">
+<info><authors><author pid="46/6647">Jiao Tao</author><author pid="85/1413">Evren Sirin</author><author pid="60/8557">Jie Bao</author><author pid="m/DLMcGuinness">Deborah L. McGuinness</author></authors><title>Integrity Constraints in OWL.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TaoSBM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1931</ee><url>https://dblp.org/rec/conf/aaai/TaoSBM10</url></info>
+<url>URL#3393975</url>
+</hit>
+<hit score="1" id="3393976">
+<info><authors><author pid="46/4287">Matthew E. Taylor</author><author pid="67/2338">Katherine E. Coons</author><author pid="16/2668">Behnam Robatmili</author><author pid="74/3998">Bertrand A. Maher</author><author pid="b/DougBurger">Doug Burger</author><author pid="m/KSMcKinley">Kathryn S. McKinley</author></authors><title>Evolving Compiler Heuristics to Manage Communication and Contention.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TaylorCRMBM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1910</ee><url>https://dblp.org/rec/conf/aaai/TaylorCRMBM10</url></info>
+<url>URL#3393976</url>
+</hit>
+<hit score="1" id="3393978">
+<info><authors><author pid="90/508">Georgios Theocharous</author><author pid="97/3847">Sridhar Mahadevan</author></authors><title>Compressing POMDPs Using Locality Preserving Non-Negative Matrix Factorization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TheocharousM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1902</ee><url>https://dblp.org/rec/conf/aaai/TheocharousM10</url></info>
+<url>URL#3393978</url>
+</hit>
+<hit score="1" id="3393979">
+<info><authors><author pid="t/MichaelThielscher">Michael Thielscher</author></authors><title>A General Game Description Language for Incomplete Information Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Thielscher10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1727</ee><url>https://dblp.org/rec/conf/aaai/Thielscher10</url></info>
+<url>URL#3393979</url>
+</hit>
+<hit score="1" id="3393980">
+<info><authors><author pid="t/MichaelThielscher">Michael Thielscher</author><author pid="42/2096">Sebastian Voigt</author></authors><title>A Temporal Proof System for General Game Playing.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ThielscherV10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1690</ee><url>https://dblp.org/rec/conf/aaai/ThielscherV10</url></info>
+<url>URL#3393980</url>
+</hit>
+<hit score="1" id="3393982">
+<info><authors><author pid="52/1465">David Robert Martin Thompson</author><author pid="81/1149">Kevin Leyton-Brown</author></authors><title>Comparing Position Auctions Computationally.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ThompsonL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1895</ee><url>https://dblp.org/rec/conf/aaai/ThompsonL10</url></info>
+<url>URL#3393982</url>
+</hit>
+<hit score="1" id="3393984">
+<info><authors><author pid="17/7561">Son Thanh To</author><author pid="s/TranCaoSon">Tran Cao Son</author><author pid="p/EnricoPontelli">Enrico Pontelli</author></authors><title>On the Use of Prime Implicates in Conformant Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ToSP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1812</ee><url>https://dblp.org/rec/conf/aaai/ToSP10</url></info>
+<url>URL#3393984</url>
+</hit>
+<hit score="1" id="3393986">
+<info><authors><author pid="71/7118">Jason Tsai</author><author pid="54/3357">Zhengyu Yin</author><author pid="74/7563">Jun-young Kwak</author><author pid="63/5749-1">David Kempe 0001</author><author pid="95/1694">Christopher Kiekintveld</author><author pid="67/2667">Milind Tambe</author></authors><title>Urban Security - Game-Theoretic Resource Allocation in Networked Domains.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TsaiYKKKT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1701</ee><url>https://dblp.org/rec/conf/aaai/TsaiYKKKT10</url></info>
+<url>URL#3393986</url>
+</hit>
+<hit score="1" id="3393987">
+<info><authors><author pid="61/8399">Dejian Tu</author><author pid="09/1716">Songshan Guo</author><author pid="38/1186">Hu Qin</author><author pid="85/699">Wee-Chong Oon</author><author pid="92/972">Andrew Lim 0001</author></authors><title>The Tree Representation of Feasible Solutions for the TSP with Pickup and Delivery and LIFO Loading.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TuGQOL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1551</ee><url>https://dblp.org/rec/conf/aaai/TuGQOL10</url></info>
+<url>URL#3393987</url>
+</hit>
+<hit score="1" id="3393988">
+<info><authors><author pid="49/1485">Stephen Tully</author><author pid="01/2076">George Kantor</author><author pid="c/HowieChoset">Howie Choset</author></authors><title>A Single-Step Maximum A Posteriori Update for Bearing-Only SLAM.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/TullyKC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1943</ee><url>https://dblp.org/rec/conf/aaai/TullyKC10</url></info>
+<url>URL#3393988</url>
+</hit>
+<hit score="1" id="3393989">
+<info><authors><author pid="38/8399">Suguru Ueda</author><author pid="04/4799">Atsushi Iwasaki</author><author pid="32/2416">Makoto Yokoo</author><author pid="s/MariusCalinSilaghi">Marius-Calin Silaghi</author><author pid="h/KatsutoshiHirayama">Katsutoshi Hirayama</author><author pid="83/1351">Toshihiro Matsui</author></authors><title>Coalition Structure Generation based on Distributed Constraint Optimization.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/UedaIYSHM10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1809</ee><url>https://dblp.org/rec/conf/aaai/UedaIYSHM10</url></info>
+<url>URL#3393989</url>
+</hit>
+<hit score="1" id="3393990">
+<info><authors><author pid="93/8220">Tansel Uras</author><author pid="e/EsraErdem">Esra Erdem 0001</author></authors><title>Genome Rearrangement - A Planning Approach.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/UrasE10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1664</ee><url>https://dblp.org/rec/conf/aaai/UrasE10</url></info>
+<url>URL#3393990</url>
+</hit>
+<hit score="1" id="3393993">
+<info><authors><author pid="53/6566">Michael Veksler</author><author pid="s/OferStrichman">Ofer Strichman</author></authors><title>A Proof-Producing CSP Solver.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/VekslerS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1754</ee><url>https://dblp.org/rec/conf/aaai/VekslerS10</url></info>
+<url>URL#3393993</url>
+</hit>
+<hit score="1" id="3393994">
+<info><authors><author pid="33/7411">Joel Veness</author><author pid="58/3298">Kee Siong Ng</author><author pid="h/MarcusHutter">Marcus Hutter</author><author pid="34/3601">David Silver</author></authors><title>Reinforcement Learning via AIXI Approximation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/VenessNHS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1722</ee><url>https://dblp.org/rec/conf/aaai/VenessNHS10</url></info>
+<url>URL#3393994</url>
+</hit>
+<hit score="1" id="3393995">
+<info><authors><author pid="82/5076">Keith Vertanen</author><author pid="k/PerOlaKristensson">Per Ola Kristensson</author></authors><title>Intelligently Aiding Human-Guided Correction of Speech Recognition.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/VertanenK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1914</ee><url>https://dblp.org/rec/conf/aaai/VertanenK10</url></info>
+<url>URL#3393995</url>
+</hit>
+<hit score="1" id="3393996">
+<info><authors><author pid="w/WilliamEWalsh">William E. Walsh</author><author pid="10/3411">Craig Boutilier</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author><author pid="21/2031">Rob Shields</author><author pid="74/2089">George L. Nemhauser</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>Automated Channel Abstraction for Advertising Auctions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WalshBSSNP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1905</ee><url>https://dblp.org/rec/conf/aaai/WalshBSSNP10</url></info>
+<url>URL#3393996</url>
+</hit>
+<hit score="1" id="3393997">
+<info><authors><author pid="90/6261">Thomas J. Walsh</author><author pid="64/5591">Sergiu Goschin</author><author pid="l/MLLittman">Michael L. Littman</author></authors><title>Integrating Sample-Based Planning and Model-Based Reinforcement Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WalshGL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1880</ee><url>https://dblp.org/rec/conf/aaai/WalshGL10</url></info>
+<url>URL#3393997</url>
+</hit>
+<hit score="1" id="3393998">
+<info><authors><author pid="33/3535-7">Hua Wang 0007</author><author pid="d/CHQDing">Chris H. Q. Ding</author><author pid="03/281">Heng Huang</author></authors><title>Multi-Label Classification - Inconsistency and Class Balanced K-Nearest Neighbor.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangDH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1932</ee><url>https://dblp.org/rec/conf/aaai/WangDH10</url></info>
+<url>URL#3393998</url>
+</hit>
+<hit score="1" id="3393999">
+<info><authors><author pid="33/3535-7">Hua Wang 0007</author><author pid="03/281">Heng Huang</author><author pid="d/CHQDing">Chris H. Q. Ding</author></authors><title>Discriminant Laplacian Embedding.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangHD10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1693</ee><url>https://dblp.org/rec/conf/aaai/WangHD10</url></info>
+<url>URL#3393999</url>
+</hit>
+<hit score="1" id="3394000">
+<info><authors><author pid="82/1564">Chenggang Wang</author><author pid="62/1789">Roni Khardon</author></authors><title>Relational Partially Observable MDPs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1714</ee><url>https://dblp.org/rec/conf/aaai/WangK10</url></info>
+<url>URL#3394000</url>
+</hit>
+<hit score="1" id="3394001">
+<info><authors><author pid="58/6299">Jia Wang</author><author pid="181/2689">Qing Li</author><author pid="96/2347">Yuanzhu Peter Chen</author><author pid="21/4049">Jiafen Liu</author><author pid="94/4084">Chen Zhang</author><author pid="75/716">Zhangxi Lin</author></authors><title>News Recommendation in Forum-Based Social Media.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangLCLZL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1675</ee><url>https://dblp.org/rec/conf/aaai/WangLCLZL10</url></info>
+<url>URL#3394001</url>
+</hit>
+<hit score="1" id="3394002">
+<info><authors><author pid="38/2853">Qingguo Wang</author><author pid="54/1237">Mian Pan</author><author pid="10/967">Yi Shang</author><author pid="90/5069">Dmitry Korkin</author></authors><title>A Fast Heuristic Search Algorithm for Finding the Longest Common Subsequence of Multiple Strings.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangPSK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1559</ee><url>https://dblp.org/rec/conf/aaai/WangPSK10</url></info>
+<url>URL#3394002</url>
+</hit>
+<hit score="1" id="3394003">
+<info><authors><author pid="75/3158-1">Zhe Wang 0001</author><author pid="52/2483">Kewen Wang</author><author pid="t/RWTopor">Rodney W. Topor</author></authors><title>A New Approach to Knowledge Base Revision in DL-Lite.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangWT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1786</ee><url>https://dblp.org/rec/conf/aaai/WangWT10</url></info>
+<url>URL#3394003</url>
+</hit>
+<hit score="1" id="3394004">
+<info><authors><author pid="41/7147">Ben George Weber</author></authors><title>Integrating Expert Knowledge and Experience.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Weber10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1620</ee><url>https://dblp.org/rec/conf/aaai/Weber10</url></info>
+<url>URL#3394004</url>
+</hit>
+<hit score="1" id="3394006">
+<info><authors><author pid="63/8319">Virginia Vassilevska Williams</author></authors><title>Fixing a Tournament.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Williams10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1726</ee><url>https://dblp.org/rec/conf/aaai/Williams10</url></info>
+<url>URL#3394006</url>
+</hit>
+<hit score="1" id="3394007">
+<info><authors><author pid="96/5024">Aaron Wilson</author><author pid="49/6764">Alan Fern</author><author pid="42/4375">Prasad Tadepalli</author></authors><title>Bayesian Policy Search for Multi-Agent Role Discovery.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WilsonFT10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1799</ee><url>https://dblp.org/rec/conf/aaai/WilsonFT10</url></info>
+<url>URL#3394007</url>
+</hit>
+<hit score="1" id="3394008">
+<info><authors><author pid="21/1235">Samuel Wintermute</author></authors><title>Using Imagery to Simplify Perceptual Abstraction in Reinforcement Learning Agents.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Wintermute10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1767</ee><url>https://dblp.org/rec/conf/aaai/Wintermute10</url></info>
+<url>URL#3394008</url>
+</hit>
+<hit score="1" id="3394010">
+<info><authors><author pid="35/8399">James R. Wright</author><author pid="81/1149">Kevin Leyton-Brown</author></authors><title>Beyond Equilibrium - Predicting Human Behavior in Normal-Form Games.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WrightL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1946</ee><url>https://dblp.org/rec/conf/aaai/WrightL10</url></info>
+<url>URL#3394010</url>
+</hit>
+<hit score="1" id="3394011">
+<info><authors><author pid="72/4250">Hao Wu</author><author pid="50/3147">Jiajun Bu</author><author pid="07/4182-0001">Chun Chen 0001</author><author pid="71/4716-1">Can Wang 0001</author><author pid="11/5175">Guang Qiu</author><author pid="76/4015-5">Lijun Zhang 0005</author><author pid="56/4983">Jianfeng Shen</author></authors><title>Modeling Dynamic Multi-Topic Discussions in Online Forums.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WuBCWQZS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1834</ee><url>https://dblp.org/rec/conf/aaai/WuBCWQZS10</url></info>
+<url>URL#3394011</url>
+</hit>
+<hit score="1" id="3394012">
+<info><authors><author pid="76/564">Liping Wu</author><author pid="73/8367">Vladimir Sukhoy</author><author pid="26/3845">Alexander Stoytchev</author></authors><title>Toward Learning to Press Doorbell Buttons.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WuSS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1669</ee><url>https://dblp.org/rec/conf/aaai/WuSS10</url></info>
+<url>URL#3394012</url>
+</hit>
+<hit score="1" id="3394013">
+<info><authors><author pid="25/3972-1">Feng Wu 0001</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author><author pid="55/6007">Xiaoping Chen</author></authors><title>Trial-Based Dynamic Programming for Multi-Agent Planning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WuZC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1725</ee><url>https://dblp.org/rec/conf/aaai/WuZC10</url></info>
+<url>URL#3394013</url>
+</hit>
+<hit score="1" id="3394015">
+<info><authors><author pid="52/3944">Danny Wyatt</author><author pid="86/45">Tanzeem Choudhury</author><author pid="b/JeffABilmes">Jeff A. Bilmes</author></authors><title>Discovering Long Range Properties of Social Networks with Multi-Valued Time-Inhomogeneous Models.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/WyattCB10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1712</ee><url>https://dblp.org/rec/conf/aaai/WyattCB10</url></info>
+<url>URL#3394015</url>
+</hit>
+<hit score="1" id="3394016">
+<info><authors><author pid="73/4036">Lirong Xia</author></authors><title>Computational Social Choice - Strategic and Combinatorial Aspects.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Xia10</key><ee>http://www.aaai.org/ocs/index.php/DC/DC10/paper/view/1618</ee><url>https://dblp.org/rec/conf/aaai/Xia10</url></info>
+<url>URL#3394016</url>
+</hit>
+<hit score="1" id="3394017">
+<info><authors><author pid="73/4036">Lirong Xia</author><author pid="c/VincentConitzer">Vincent Conitzer</author></authors><title>Compilation Complexity of Common Voting Rules.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XiaC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1789</ee><url>https://dblp.org/rec/conf/aaai/XiaC10</url></info>
+<url>URL#3394017</url>
+</hit>
+<hit score="1" id="3394018">
+<info><authors><author pid="73/4036">Lirong Xia</author><author pid="c/VincentConitzer">Vincent Conitzer</author></authors><title>Stackelberg Voting Games - Computational Aspects and Paradoxes.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XiaC10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1788</ee><url>https://dblp.org/rec/conf/aaai/XiaC10a</url></info>
+<url>URL#3394018</url>
+</hit>
+<hit score="1" id="3394019">
+<info><authors><author pid="46/5036">Hao Xiong</author><author pid="19/70">Haitao Mi</author><author pid="51/3710-5">Yang Liu 0005</author><author pid="75/4402">Qun Liu</author></authors><title>Forest-Based Semantic Role Labeling.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XiongMLL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1835</ee><url>https://dblp.org/rec/conf/aaai/XiongMLL10</url></info>
+<url>URL#3394019</url>
+</hit>
+<hit score="1" id="3394020">
+<info><authors><author pid="40/1068">Lin Xu</author><author pid="h/HolgerHHoos">Holger H. Hoos</author><author pid="81/1149">Kevin Leyton-Brown</author></authors><title>Hydra - Automatically Configuring Algorithms for Portfolio-Based Selection.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuHL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1929</ee><url>https://dblp.org/rec/conf/aaai/XuHL10</url></info>
+<url>URL#3394020</url>
+</hit>
+<hit score="1" id="3394021">
+<info><authors><author pid="68/1538">Zenglin Xu</author><author pid="j/RongJin">Rong Jin</author><author pid="81/4341">Shenghuo Zhu</author><author pid="l/MichaelRLyu">Michael R. Lyu</author><author pid="k/IrwinKing">Irwin King</author></authors><title>Smooth Optimization for Effective Multiple Kernel Learning.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuJZLK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1756</ee><url>https://dblp.org/rec/conf/aaai/XuJZLK10</url></info>
+<url>URL#3394021</url>
+</hit>
+<hit score="1" id="3394022">
+<info><authors><author pid="73/8399">Joseph Z. Xu</author><author pid="l/JohnELaird">John E. Laird</author></authors><title>Instance-Based Online Learning of Deterministic Relational Action Models.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1766</ee><url>https://dblp.org/rec/conf/aaai/XuL10</url></info>
+<url>URL#3394022</url>
+</hit>
+<hit score="1" id="3394023">
+<info><authors><author pid="88/3319">Songhua Xu</author><author pid="26/8399">Shaohui Yang</author><author pid="l/FrancisChiMoonLau">Francis Chi-Moon Lau</author></authors><title>Keyword Extraction and Headline Generation Using Novel Word Features.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuYL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1792</ee><url>https://dblp.org/rec/conf/aaai/XuYL10</url></info>
+<url>URL#3394023</url>
+</hit>
+<hit score="1" id="3394024">
+<info><authors><author pid="56/4937">Makoto Yamada</author><author pid="35/1228">Masashi Sugiyama</author></authors><title>Dependence Minimizing Regression with Model Selection for Non-Linear Causal Inference under Non-Gaussian Noise.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YamadaS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1602</ee><url>https://dblp.org/rec/conf/aaai/YamadaS10</url></info>
+<url>URL#3394024</url>
+</hit>
+<hit score="1" id="3394025">
+<info><authors><author pid="37/6136">Jeff Yan</author></authors><title>Collusion Detection in Online Bridge.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Yan10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1942</ee><url>https://dblp.org/rec/conf/aaai/Yan10</url></info>
+<url>URL#3394025</url>
+</hit>
+<hit score="1" id="3394026">
+<info><authors><author pid="33/4854-1">Yi Yang 0001</author><author pid="80/5755">Feiping Nie 0001</author><author pid="81/6575">Shiming Xiang</author><author pid="218/7793">Yueting Zhuang</author><author pid="73/5443">Wenhua Wang</author></authors><title>Local and Global Regressive Mapping for Manifold Learning with Out-of-Sample Extrapolation.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YangNXZW10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1924</ee><url>https://dblp.org/rec/conf/aaai/YangNXZW10</url></info>
+<url>URL#3394026</url>
+</hit>
+<hit score="1" id="3394027">
+<info><authors><author pid="43/5146">Zhenglu Yang</author><author pid="69/117">Jianjun Yu</author><author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author></authors><title>Fast Algorithms for Top-k Approximate String Matching.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YangYK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1939</ee><url>https://dblp.org/rec/conf/aaai/YangYK10</url></info>
+<url>URL#3394027</url>
+</hit>
+<hit score="1" id="3394028">
+<info><authors><author pid="98/5434">Junjie Yao</author><author pid="55/5031">Bin Cui 0001</author><author pid="35/7536">Yuxin Huang</author><author pid="68/3340">Xin Jin</author></authors><title>Temporal and Social Context Based Burst Detection from Folksonomies.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YaoCHJ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1738</ee><url>https://dblp.org/rec/conf/aaai/YaoCHJ10</url></info>
+<url>URL#3394028</url>
+</hit>
+<hit score="1" id="3394030">
+<info><authors><author pid="75/8369">Seung-Joon Yi</author><author pid="09/5682">Byoung-Tak Zhang</author><author pid="38/5967">Daniel D. Lee</author></authors><title>Online Learning of Uneven Terrain for Humanoid Bipedal Walking.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YiZL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1917</ee><url>https://dblp.org/rec/conf/aaai/YiZL10</url></info>
+<url>URL#3394030</url>
+</hit>
+<hit score="1" id="3394031">
+<info><authors><author pid="63/8399">Chi-Hsin Yu</author><author pid="84/3130">Hsin-Hsi Chen</author></authors><title>Commonsense Knowledge Mining from the Web.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuC10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1715</ee><url>https://dblp.org/rec/conf/aaai/YuC10</url></info>
+<url>URL#3394031</url>
+</hit>
+<hit score="1" id="3394032">
+<info><authors><author pid="47/6399">Xiaofeng Yu</author><author pid="48/1707">Wai Lam</author></authors><title>Bidirectional Integration of Pipeline Models.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1713</ee><url>https://dblp.org/rec/conf/aaai/YuL10</url></info>
+<url>URL#3394032</url>
+</hit>
+<hit score="1" id="3394033">
+<info><authors><author pid="16/1142">Chih-Han Yu</author><author pid="84/5637">Radhika Nagpal</author></authors><title>Biologically-Inspired Control for Multi-Agent Self-Adaptive Tasks.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuN10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1755</ee><url>https://dblp.org/rec/conf/aaai/YuN10</url></info>
+<url>URL#3394033</url>
+</hit>
+<hit score="1" id="3394034">
+<info><authors><author pid="64/6544-10">Yi Zhang 0010</author></authors><title>Multi-Task Active Learning with Output Constraints.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Zhang10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1947</ee><url>https://dblp.org/rec/conf/aaai/Zhang10</url></info>
+<url>URL#3394034</url>
+</hit>
+<hit score="1" id="3394035">
+<info><authors><author pid="29/6693">Chongjie Zhang</author><author pid="l/VRLesser">Victor R. Lesser</author></authors><title>Multi-Agent Learning with Policy Prediction.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1885</ee><url>https://dblp.org/rec/conf/aaai/ZhangL10</url></info>
+<url>URL#3394035</url>
+</hit>
+<hit score="1" id="3394036">
+<info><authors><author pid="12/4822">Dongmo Zhang</author><author pid="79/5272">Laurent Perrussel</author></authors><title>Dynamic Auction - A Tractable Auction Procedure.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1841</ee><url>https://dblp.org/rec/conf/aaai/ZhangP10</url></info>
+<url>URL#3394036</url>
+</hit>
+<hit score="1" id="3394037">
+<info><authors><author pid="86/1953">Ji Zhang</author><author pid="16/3547">Dezhen Song</author></authors><title>Error Aware Monocular Visual Odometry using Vertical Line Pairs for Small Robots in Urban Areas.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangS10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1587</ee><url>https://dblp.org/rec/conf/aaai/ZhangS10</url></info>
+<url>URL#3394037</url>
+</hit>
+<hit score="1" id="3394038">
+<info><authors><author pid="55/826-6">Heng Zhang 0006</author><author pid="13/6525">Mingsheng Ying</author></authors><title>Decidable Fragments of First-Order Language Under Stable Model Semantics and Circumscription.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1736</ee><url>https://dblp.org/rec/conf/aaai/ZhangY10</url></info>
+<url>URL#3394038</url>
+</hit>
+<hit score="1" id="3394039">
+<info><authors><author pid="16/2294">Jianwen Zhang</author><author pid="z/ChangshuiZhang">Changshui Zhang</author></authors><title>Multitask Bregman Clustering.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1745</ee><url>https://dblp.org/rec/conf/aaai/ZhangZ10</url></info>
+<url>URL#3394039</url>
+</hit>
+<hit score="1" id="3394040">
+<info><authors><author pid="07/8899">Yan-Ming Zhang</author><author pid="50/671-6">Yu Zhang 0006</author><author pid="41/5668">Dit-Yan Yeung</author><author pid="24/3006">Cheng-Lin Liu</author><author pid="76/5119">Xinwen Hou</author></authors><title>Transductive Learning on Adaptive Graphs.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangZYLH10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1734</ee><url>https://dblp.org/rec/conf/aaai/ZhangZYLH10</url></info>
+<url>URL#3394040</url>
+</hit>
+<hit score="1" id="3394041">
+<info><authors><author pid="75/6680">Zheng Zhao</author><author pid="w/LeiWang1">Lei Wang 0001</author><author pid="92/309-1">Huan Liu 0001</author></authors><title>Efficient Spectral Feature Selection with Minimum Redundancy.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhaoWL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1737</ee><url>https://dblp.org/rec/conf/aaai/ZhaoWL10</url></info>
+<url>URL#3394041</url>
+</hit>
+<hit score="1" id="3394042">
+<info><authors><author pid="47/1961">Vincent Wenchen Zheng</author><author pid="17/1169-1">Bin Cao 0001</author><author pid="87/1585-4">Yu Zheng 0004</author><author pid="08/6809-1">Xing Xie 0001</author><author pid="82/6362-1">Qiang Yang 0001</author></authors><title>Collaborative Filtering Meets Mobile Recommendation - A User-Centered Approach.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhengCZXY10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1615</ee><url>https://dblp.org/rec/conf/aaai/ZhengCZXY10</url></info>
+<url>URL#3394042</url>
+</hit>
+<hit score="1" id="3394043">
+<info><authors><author pid="16/3180">Xiaoming Zheng</author><author pid="k/SvenKoenig">Sven Koenig</author></authors><title>Sequential Incremental-Value Auctions.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhengK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1922</ee><url>https://dblp.org/rec/conf/aaai/ZhengK10</url></info>
+<url>URL#3394043</url>
+</hit>
+<hit score="1" id="3394045">
+<info><authors><author pid="15/3875">Guoqiang Zhong 0001</author><author pid="26/988">Wu-Jun Li</author><author pid="41/5668">Dit-Yan Yeung</author><author pid="76/5119">Xinwen Hou</author><author pid="24/3006">Cheng-Lin Liu</author></authors><title>Gaussian Process Latent Random Field.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhongLYHL10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1934</ee><url>https://dblp.org/rec/conf/aaai/ZhongLYHL10</url></info>
+<url>URL#3394045</url>
+</hit>
+<hit score="1" id="3394046">
+<info><authors><author pid="07/7537">Tom Chao Zhou</author><author pid="86/4227-1">Hao Ma 0001</author><author pid="l/MichaelRLyu">Michael R. Lyu</author><author pid="k/IrwinKing">Irwin King</author></authors><title>UserRec - A User Recommendation Framework in Social Tagging Systems.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhouMLK10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1927</ee><url>https://dblp.org/rec/conf/aaai/ZhouMLK10</url></info>
+<url>URL#3394046</url>
+</hit>
+<hit score="1" id="3394047">
+<info><authors><author pid="67/8263">Junping Zhou</author><author pid="13/3656">Minghao Yin</author><author pid="08/286">Chunguang Zhou</author></authors><title>New Worst-Case Upper Bound for #2-SAT and #3-SAT with the Number of Clauses as the Parameter.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhouYZ10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1672</ee><url>https://dblp.org/rec/conf/aaai/ZhouYZ10</url></info>
+<url>URL#3394047</url>
+</hit>
+<hit score="1" id="3394049">
+<info><authors><author pid="72/8399">James Y. Zou</author><author pid="08/776">Sujit Gujar</author><author pid="p/DavidCParkes">David C. Parkes</author></authors><title>Tolerable Manipulability in Dynamic Assignment without Money.</title><venue>AAAI</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZouGP10</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1816</ee><url>https://dblp.org/rec/conf/aaai/ZouGP10</url></info>
+<url>URL#3394049</url>
+</hit>
+<hit score="1" id="3517819">
+<info><authors><author pid="35/2895">Maria Fox</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>Proceedings of the Twenty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2010, Atlanta, Georgia, USA, July 11-15, 2010</title><venue>AAAI</venue><publisher>AAAI Press</publisher><year>2010</year><type>Editorship</type><key>conf/aaai/2010</key><url>https://dblp.org/rec/conf/aaai/2010</url></info>
+<url>URL#3517819</url>
+</hit>
+</hits>
+</result>
