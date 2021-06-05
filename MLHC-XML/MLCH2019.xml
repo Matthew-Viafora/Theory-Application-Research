@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="981752">:facetid:toc:db\"/\"conf\"/\"mlhc\"/\"mlhc2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">141.31</time>
+<completions total="1" computed="1" sent="1">
+<c sc="38" dc="38" oc="38" id="18213884">:facetid:toc:db/conf/mlhc/mlhc2019.bht</c>
+</completions>
+<hits total="38" computed="38" sent="38" first="0">
+<hit score="1" id="831162">
+<info><authors><author pid="07/7212">Mohammad Akbari</author><author pid="130/0470">Rumi Chunara</author></authors><title>Using Contextual Information to Improve Blood Glucose Prediction.</title><venue>MLHC</venue><pages>91-108</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/AkbariC19</key><ee>http://proceedings.mlr.press/v106/akbar19a.html</ee><url>https://dblp.org/rec/conf/mlhc/AkbariC19</url></info>
+<url>URL#831162</url>
+</hit>
+<hit score="1" id="831163">
+<info><authors><author pid="210/5978">Irfan Al-Hussaini</author><author pid="170/1833">Cao Xiao</author><author pid="61/6389">M. Brandon Westover</author><author pid="54/4948">Jimeng Sun</author></authors><title>SLEEPER - interpretable Sleep staging via Prototypes from Expert Rules.</title><venue>MLHC</venue><pages>i</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/Al-HussainiXWS19</key><ee>http://proceedings.mlr.press/v106/al-hussaini19a.html</ee><url>https://dblp.org/rec/conf/mlhc/Al-HussainiXWS19</url></info>
+<url>URL#831163</url>
+</hit>
+<hit score="1" id="831164">
+<info><authors><author pid="171/7243">Siddharth Biswal</author><author pid="170/1833">Cao Xiao</author><author pid="61/6389">M. Brandon Westover</author><author pid="54/4948">Jimeng Sun</author></authors><title>EEGtoText - Learning to Write Medical Reports from EEG Recordings.</title><venue>MLHC</venue><pages>513-531</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/BiswalXWS19</key><ee>http://proceedings.mlr.press/v106/biswal19a.html</ee><url>https://dblp.org/rec/conf/mlhc/BiswalXWS19</url></info>
+<url>URL#831164</url>
+</hit>
+<hit score="1" id="831165">
+<info><authors><author pid="241/5108">Ian C. Covert</author><author pid="204/9728">Balu Krishnan</author><author pid="146/3551">Imad Najm</author><author pid="33/7999">Jiening Zhan</author><author pid="241/5294">Matthew Shore</author><author pid="241/5292">John Hixson</author><author pid="34/9775">Ming Jack Po</author></authors><title>Temporal Graph Convolutional Networks for Automatic Seizure Detection.</title><venue>MLHC</venue><pages>160-180</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/CovertKNZSHP19</key><ee>http://proceedings.mlr.press/v106/covert19a.html</ee><url>https://dblp.org/rec/conf/mlhc/CovertKNZSHP19</url></info>
+<url>URL#831165</url>
+</hit>
+<hit score="1" id="831166">
+<info><authors><author pid="201/7756">Surya Teja Devarakonda</author><author pid="239/5804">Yeahuay Joie Wu</author><author pid="223/2782">Yi Ren Fung</author><author pid="05/8090">Madalina Fiterau</author></authors><title>FLARe - Forecasting by Learning Anticipated Representations.</title><venue>MLHC</venue><pages>53-65</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/DevarakondaWFF19</key><ee>http://proceedings.mlr.press/v106/devarakonda19a.html</ee><url>https://dblp.org/rec/conf/mlhc/DevarakondaWFF19</url></info>
+<url>URL#831166</url>
+</hit>
+<hit score="1" id="831167">
+<info><authors><author pid="129/7931">David Dov</author><author pid="47/6259">Shahar Z. Kovalsky</author><author pid="77/5903-4">Jonathan Cohen 0004</author><author pid="239/4245">Danielle Elliott Range</author><author pid="27/3207">Ricardo Henao</author><author pid="23/2168">Lawrence Carin</author></authors><title>Thyroid Cancer Malignancy Prediction From Whole Slide Cytopathology Images.</title><venue>MLHC</venue><pages>553-570</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/DovKCRHC19</key><ee>http://proceedings.mlr.press/v106/dov19a.html</ee><url>https://dblp.org/rec/conf/mlhc/DovKCRHC19</url></info>
+<url>URL#831167</url>
+</hit>
+<hit score="1" id="831168">
+<info><authors><author pid="253/0495">Grace Guan</author><author pid="53/328">Barbara E. Engelhardt</author></authors><title>Predicting Sick Patient Volume in a Pediatric Outpatient Setting using Time Series Analysis.</title><venue>MLHC</venue><pages>271-287</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/GuanE19</key><ee>http://proceedings.mlr.press/v106/guan19a.html</ee><url>https://dblp.org/rec/conf/mlhc/GuanE19</url></info>
+<url>URL#831168</url>
+</hit>
+<hit score="1" id="831169">
+<info><authors><author pid="225/7526">Charles Hamesse</author><author pid="223/4417">Ruibo Tu</author><author pid="192/1443">Paul Ackermann</author><author pid="k/HedvigKjellstrom">Hedvig Kjellström</author><author pid="82/6384-5">Cheng Zhang 0005</author></authors><title>Simultaneous Measurement Imputation and Outcome Prediction for Achilles Tendon Rupture Rehabilitation.</title><venue>MLHC</venue><pages>614-640</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/HamesseTAKZ19</key><ee>http://proceedings.mlr.press/v106/hamesse19a.html</ee><url>https://dblp.org/rec/conf/mlhc/HamesseTAKZ19</url></info>
+<url>URL#831169</url>
+</hit>
+<hit score="1" id="831170">
+<info><authors><author pid="233/1636">Shiva Kaul</author><author pid="253/0498">Anthony Falco</author><author pid="253/0496">Karianne Anthes</author></authors><title>Measuring the Sympathetic Response to Intense Exercise in a Practical Setting.</title><venue>MLHC</venue><pages>680-703</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/KaulFA19</key><ee>http://proceedings.mlr.press/v106/kaul19a.html</ee><url>https://dblp.org/rec/conf/mlhc/KaulFA19</url></info>
+<url>URL#831170</url>
+</hit>
+<hit score="1" id="831171">
+<info><authors><author pid="225/5390">Weirui Kong</author><author pid="55/3869">Hyeju Jang</author><author pid="30/3994">Giuseppe Carenini</author><author pid="199/5437">Thalia Shoshana Field</author></authors><title>A Neural Model for Predicting Dementia from Language.</title><venue>MLHC</venue><pages>270-286</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/KongJCF19</key><ee>http://proceedings.mlr.press/v106/kong19a.html</ee><url>https://dblp.org/rec/conf/mlhc/KongJCF19</url></info>
+<url>URL#831171</url>
+</hit>
+<hit score="1" id="831172">
+<info><authors><author pid="223/4115">Trent Kyono</author><author pid="08/3985">Fiona J. Gilbert</author><author pid="s/MihaelavanderSchaar">Mihaela van der Schaar</author></authors><title>Multi-view Multi-task Learning for Improving Autonomous Mammogram Diagnosis.</title><venue>MLHC</venue><pages>571-591</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/KyonoGS19</key><ee>http://proceedings.mlr.press/v106/kyono19a.html</ee><url>https://dblp.org/rec/conf/mlhc/KyonoGS19</url></info>
+<url>URL#831172</url>
+</hit>
+<hit score="1" id="831173">
+<info><authors><author pid="239/4939">Tingfung Lau</author><author pid="195/5521">Nathan Ng</author><author pid="166/9531">Julian Gingold</author><author pid="238/2821">Nina Desai</author><author pid="29/3483">Julian J. McAuley</author><author pid="142/2839">Zachary C. Lipton</author></authors><title>Embryo Staging with Weakly-Supervised Region Selection and Dynamically-Decoded Predictions.</title><venue>MLHC</venue><pages>663-679</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LauNGDML19</key><ee>http://proceedings.mlr.press/v106/lau19a.html</ee><url>https://dblp.org/rec/conf/mlhc/LauNGDML19</url></info>
+<url>URL#831173</url>
+</hit>
+<hit score="1" id="831174">
+<info><authors><author pid="117/1818">Hao-Chih Lee</author><author pid="241/6045">Sarah T. Cherng</author><author pid="67/5504">Riccardo Miotto</author><author pid="47/2610">Joel T. Dudley</author></authors><title>Enhancing high-content imaging for studying microtubule networks at large-scale.</title><venue>MLHC</venue><pages>592-613</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LeeCMD19</key><ee>http://proceedings.mlr.press/v106/lee19a.html</ee><url>https://dblp.org/rec/conf/mlhc/LeeCMD19</url></info>
+<url>URL#831174</url>
+</hit>
+<hit score="1" id="831175">
+<info><authors><author pid="161/2184">Guanxiong Liu</author><author pid="172/9733">Tzu-Ming Harry Hsu</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="211/6980">Willie Boag</author><author pid="168/4615">Wei-Hung Weng</author><author pid="11/6043">Peter Szolovits</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Clinically Accurate Chest X-Ray Report Generation.</title><venue>MLHC</venue><pages>249-269</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LiuHMBWSG19</key><ee>http://proceedings.mlr.press/v106/liu19a.html</ee><url>https://dblp.org/rec/conf/mlhc/LiuHMBWSG19</url></info>
+<url>URL#831175</url>
+</hit>
+<hit score="1" id="831176">
+<info><authors><author pid="185/3911">Mark Mirtchouk</author><author pid="253/0480">Dana L. McGuire</author><author pid="253/0474">Andrea L. Deierlein</author><author pid="02/522">Samantha Kleinberg</author></authors><title>Automated Estimation of Food Type from Body-worn Audio and Motion Sensors in Free-Living Environments.</title><venue>MLHC</venue><pages>641-662</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/MirtchoukMDK19</key><ee>http://proceedings.mlr.press/v106/mirtchouk19a.html</ee><url>https://dblp.org/rec/conf/mlhc/MirtchoukMDK19</url></info>
+<url>URL#831176</url>
+</hit>
+<hit score="1" id="831177">
+<info><authors><author pid="222/4286">Michael Moor</author><author pid="40/6275">Max Horn</author><author pid="119/8860">Bastian Rieck</author><author pid="75/1808">Damian Roqueiro</author><author pid="11/3733">Karsten M. Borgwardt</author></authors><title>Early Recognition of Sepsis with Gaussian Process Temporal Convolutional Networks and Dynamic Time Warping.</title><venue>MLHC</venue><pages>2-26</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/MoorHRRB19</key><ee>http://proceedings.mlr.press/v106/moor19a.html</ee><url>https://dblp.org/rec/conf/mlhc/MoorHRRB19</url></info>
+<url>URL#831177</url>
+</hit>
+<hit score="1" id="831178">
+<info><authors><author pid="180/2648">Supriya Nagesh</author><author pid="161/6588">Alexander Moreno</author><author pid="71/4152-5">Hiroshi Ishikawa 0005</author><author pid="13/3730">Gadi Wollstein</author><author pid="24/5780">Joel S. Schuman</author><author pid="r/JMRehg">James M. Rehg</author></authors><title>A Spatiotemporal Approach to Predicting Glaucoma Progression Using a CT-HMM.</title><venue>MLHC</venue><pages>140-159</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/NageshM0WSR19</key><ee>http://proceedings.mlr.press/v106/nagesh19a.html</ee><url>https://dblp.org/rec/conf/mlhc/NageshM0WSR19</url></info>
+<url>URL#831178</url>
+</hit>
+<hit score="1" id="831179">
+<info><authors><author pid="149/2771">Chirag Nagpal</author><author pid="88/2359">Xinyu Li</author><author pid="169/4892">Michael R. Pinsky</author><author pid="76/48">Artur Dubrawski</author></authors><title>Dynamically Personalized Detection of Hemorrhage.</title><venue>MLHC</venue><pages>109-123</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/NagpalLPD19</key><ee>http://proceedings.mlr.press/v106/nagpal19a.html</ee><url>https://dblp.org/rec/conf/mlhc/NagpalLPD19</url></info>
+<url>URL#831179</url>
+</hit>
+<hit score="1" id="831180">
+<info><authors><author pid="230/8548">Bret Nestor</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="211/6980">Willie Boag</author><author pid="246/4729">Gabriela Berner</author><author pid="148/5539">Tristan Naumann</author><author pid="117/8186">Michael C. Hughes</author><author pid="06/3543">Anna Goldenberg</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Feature Robustness in Non-stationary Health Records - Caveats to Deployable Model Performance in Common Clinical Machine Learning Tasks.</title><venue>MLHC</venue><pages>381-405</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/NestorMBBNHGG19</key><ee>http://proceedings.mlr.press/v106/nestor19a.html</ee><url>https://dblp.org/rec/conf/mlhc/NestorMBBNHGG19</url></info>
+<url>URL#831180</url>
+</hit>
+<hit score="1" id="831181">
+<info><authors><author pid="209/9838">Jeeheh Oh</author><author pid="176/1457">Jiaxuan Wang</author><author pid="242/8881">Shengpu Tang</author><author pid="233/3832">Michael W. Sjoding</author><author pid="63/10451">Jenna Wiens</author></authors><title>Relaxed Parameter Sharing - Effectively Modeling Time-Varying Relationships in Clinical Time-Series.</title><venue>MLHC</venue><pages>27-52</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/OhWTSW19</key><ee>http://proceedings.mlr.press/v106/oh19a.html</ee><url>https://dblp.org/rec/conf/mlhc/OhWTSW19</url></info>
+<url>URL#831181</url>
+</hit>
+<hit score="1" id="831182">
+<info><authors><author pid="190/7386">Jose Javier Gonzalez Ortiz</author><author pid="56/9879">Daryush D. Mehta</author><author pid="133/3953">Jarrad H. Van Stan</author><author pid="119/2822">Robert E. Hillman</author><author pid="g/JohnVGuttag">John V. Guttag</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Learning from Few Subjects with Large Amounts of Voice Monitoring Data.</title><venue>MLHC</venue><pages>704-720</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/OrtizMSHGG19</key><ee>http://proceedings.mlr.press/v106/ortiz19a.html</ee><url>https://dblp.org/rec/conf/mlhc/OrtizMSHGG19</url></info>
+<url>URL#831182</url>
+</hit>
+<hit score="1" id="831183">
+<info><authors><author pid="225/6445">Stephen R. Pfohl</author><author pid="209/9775">Tony Duan</author><author pid="225/6343">Daisy Yi Ding</author><author pid="s/NHShah">Nigam H. Shah</author></authors><title>Counterfactual Reasoning for Fair Clinical Risk Prediction.</title><venue>MLHC</venue><pages>325-358</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/PfohlDDS19</key><ee>http://proceedings.mlr.press/v106/pfohl19a.html</ee><url>https://dblp.org/rec/conf/mlhc/PfohlDDS19</url></info>
+<url>URL#831183</url>
+</hit>
+<hit score="1" id="831184">
+<info><authors><author pid="199/1973">Viraj Prabhu</author><author pid="58/2858">Anitha Kannan</author><author pid="218/5626">Murali Ravuri</author><author pid="253/0492">Manish Chaplain</author><author pid="12/673">David A. Sontag</author><author pid="99/6075">Xavier Amatriain</author></authors><title>Few-Shot Learning for Dermatological Disease Diagnosis.</title><venue>MLHC</venue><pages>532-552</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/PrabhuKRCSA19</key><ee>http://proceedings.mlr.press/v106/prabhu19a.html</ee><url>https://dblp.org/rec/conf/mlhc/PrabhuKRCSA19</url></info>
+<url>URL#831184</url>
+</hit>
+<hit score="1" id="831185">
+<info><authors><author pid="253/0501">Youran Qi</author><author pid="40/4498">Qi Tang</author></authors><title>Predicting Phase 3 Clinical Trial Results by Modeling Phase 2 Clinical Trial Subject Level Data Using Deep Learning.</title><venue>MLHC</venue><pages>288-303</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/QiT19</key><ee>http://proceedings.mlr.press/v106/qi19a.html</ee><url>https://dblp.org/rec/conf/mlhc/QiT19</url></info>
+<url>URL#831185</url>
+</hit>
+<hit score="1" id="831186">
+<info><authors><author pid="188/5834">Bhanu Pratap Singh Rawat</author><author pid="253/0476">Fe Li</author><author pid="55/6749-1">Hong Yu 0001</author></authors><title>Clinical Judgement Study using Question Answering from Electronic Health Records.</title><venue>MLHC</venue><pages>216-229</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RawatLY19</key><ee>http://proceedings.mlr.press/v106/rawat19a.html</ee><url>https://dblp.org/rec/conf/mlhc/RawatLY19</url></info>
+<url>URL#831186</url>
+</hit>
+<hit score="1" id="831187">
+<info><authors><author pid="253/0470">Victor A. Rodriguez</author><author pid="253/0472">Adler Perotte</author></authors><title>Phenotype Inference with Semi-Supervised Mixed Membership Models.</title><venue>MLHC</venue><pages>304-324</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RodriguezP19</key><ee>http://proceedings.mlr.press/v106/rodriguez19a.html</ee><url>https://dblp.org/rec/conf/mlhc/RodriguezP19</url></info>
+<url>URL#831187</url>
+</hit>
+<hit score="1" id="831188">
+<info><authors><author pid="53/21">Ognjen (Oggi) Rudovic</author><author pid="215/4981">Yuria Utsumi</author><author pid="76/10169">Ricardo Guerrero</author><author pid="146/9326">Kelly Peterson</author><author pid="69/2478">Daniel Rueckert</author><author pid="p/RWPicard">Rosalind W. Picard</author></authors><title>Meta-Weighted Gaussian Process Experts for Personalized Forecasting of AD Cognitive Changes.</title><venue>MLHC</venue><pages>181-196</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RudovicUGPRP19</key><ee>http://proceedings.mlr.press/v106/rudovic19a.html</ee><url>https://dblp.org/rec/conf/mlhc/RudovicUGPRP19</url></info>
+<url>URL#831188</url>
+</hit>
+<hit score="1" id="831189">
+<info><authors><author pid="232/1705">Divya Shanmugam</author><author pid="166/8542">Davis W. Blalock</author><author pid="g/JohnVGuttag">John V. Guttag</author></authors><title>Multiple Instance Learning for ECG Risk Stratification.</title><venue>MLHC</venue><pages>124-139</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ShanmugamBG19</key><ee>http://proceedings.mlr.press/v106/shanmugam19a.html</ee><url>https://dblp.org/rec/conf/mlhc/ShanmugamBG19</url></info>
+<url>URL#831189</url>
+</hit>
+<hit score="1" id="831190">
+<info><authors><author pid="122/2158">Bonggun Shin</author><author pid="84/4288">Sungsoo Park</author><author pid="247/5776">Keunsoo Kang</author><author pid="144/4961">Joyce C. Ho</author></authors><title>Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction.</title><venue>MLHC</venue><pages>230-248</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ShinPKH19</key><ee>http://proceedings.mlr.press/v106/shin19a.html</ee><url>https://dblp.org/rec/conf/mlhc/ShinPKH19</url></info>
+<url>URL#831190</url>
+</hit>
+<hit score="1" id="831191">
+<info><authors><author pid="208/4386">Avijit Thawani</author><author pid="00/9714">Michael J. Paul</author><author pid="56/9737">Urmimala Sarkar</author><author pid="00/8247">Byron C. Wallace</author></authors><title>Are Online Reviews of Physicians Biased Against Female Providers?</title><venue>MLHC</venue><pages>406-423</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ThawaniPSW19</key><ee>http://proceedings.mlr.press/v106/thawani19a.html</ee><url>https://dblp.org/rec/conf/mlhc/ThawaniPSW19</url></info>
+<url>URL#831191</url>
+</hit>
+<hit score="1" id="831192">
+<info><authors><author pid="206/6599">Sana Tonekaboni</author><author pid="173/2910">Shalmali Joshi</author><author pid="241/5959">Melissa D. McCradden</author><author pid="06/3543">Anna Goldenberg</author></authors><title>What Clinicians Want - Contextualizing Explainable Machine Learning for Clinical End Use.</title><venue>MLHC</venue><pages>359-380</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/TonekaboniJMG19</key><ee>http://proceedings.mlr.press/v106/tonekaboni19a.html</ee><url>https://dblp.org/rec/conf/mlhc/TonekaboniJMG19</url></info>
+<url>URL#831192</url>
+</hit>
+<hit score="1" id="831193">
+<info><authors><author pid="32/7354">Iñigo Urteaga</author><author pid="247/9452">Tristan Bertin</author><author pid="247/9533">Theresa M. Hardy</author><author pid="63/10358">David J. Albers</author><author pid="92/6201">Noémie Elhadad</author></authors><title>Multi-Task Gaussian Processes and Dilated Convolutional Networks for Reconstruction of Reproductive Hormonal Dynamics.</title><venue>MLHC</venue><pages>66-90</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/UrteagaBHAE19</key><ee>http://proceedings.mlr.press/v106/urteaga19a.html</ee><url>https://dblp.org/rec/conf/mlhc/UrteagaBHAE19</url></info>
+<url>URL#831193</url>
+</hit>
+<hit score="1" id="831194">
+<info><authors><author pid="154/3241">Keyang Xu</author><author pid="229/4219">Mike Lam</author><author pid="229/4278">Jingzhi Pang</author><author pid="56/2203">Xin Gao</author><author pid="229/4283">Charlotte Band</author><author pid="66/7533">Piyush Mathur</author><author pid="229/4184">Frank Papay</author><author pid="229/4091">Ashish K. Khanna</author><author pid="229/4333">Jacek B. Cywinski</author><author pid="229/4366">Kamal Maheshwari</author><author pid="133/1998">Pengtao Xie</author><author pid="36/3855">Eric P. Xing</author></authors><title>Multimodal Machine Learning for Automated ICD Coding.</title><venue>MLHC</venue><pages>197-215</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/XuLPGBMPKCMXX19</key><ee>http://proceedings.mlr.press/v106/xu19a.html</ee><url>https://dblp.org/rec/conf/mlhc/XuLPGBMPKCMXX19</url></info>
+<url>URL#831194</url>
+</hit>
+<hit score="1" id="831195">
+<info><authors><author pid="158/4581">Steve Yadlowsky</author><author pid="32/6623">Sanjay Basu</author><author pid="48/913">Lu Tian</author></authors><title>A Calibration Metric for Risk Scores with Survival Data.</title><venue>MLHC</venue><pages>424-450</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/YadlowskyBT19</key><ee>http://proceedings.mlr.press/v106/yadlowsky19a.html</ee><url>https://dblp.org/rec/conf/mlhc/YadlowskyBT19</url></info>
+<url>URL#831195</url>
+</hit>
+<hit score="1" id="831196">
+<info><authors><author pid="173/5409">Jinsung Yoon</author><author pid="215/4296">James Jordon</author><author pid="s/MihaelavanderSchaar">Mihaela van der Schaar</author></authors><title>ASAC - Active Sensing using Actor-Critic models.</title><venue>MLHC</venue><pages>451-473</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/YoonJS19</key><ee>http://proceedings.mlr.press/v106/yoon19a.html</ee><url>https://dblp.org/rec/conf/mlhc/YoonJS19</url></info>
+<url>URL#831196</url>
+</hit>
+<hit score="1" id="831197">
+<info><authors><author pid="181/3849">Linying Zhang</author><author pid="32/6839">Yixin Wang</author><author pid="239/5728">Anna Ostropolets</author><author pid="239/5920">Jami J. Mulgrave</author><author pid="86/1910">David M. Blei</author><author pid="62/6027">George Hripcsak</author></authors><title>The Medical Deconfounder - Assessing Treatment Effects with Electronic Health Records.</title><venue>MLHC</venue><pages>490-512</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ZhangWOMBH19</key><ee>http://proceedings.mlr.press/v106/zhang19a.html</ee><url>https://dblp.org/rec/conf/mlhc/ZhangWOMBH19</url></info>
+<url>URL#831197</url>
+</hit>
+<hit score="1" id="831198">
+<info><authors><author pid="23/328">Min Zheng</author><author pid="02/522">Samantha Kleinberg</author></authors><title>Using Domain Knowledge to Overcome Latent Variables in Causal Inference from Time Series.</title><venue>MLHC</venue><pages>474-489</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ZhengK19</key><ee>http://proceedings.mlr.press/v106/zheng19a.html</ee><url>https://dblp.org/rec/conf/mlhc/ZhengK19</url></info>
+<url>URL#831198</url>
+</hit>
+<hit score="1" id="878075">
+<info><authors><author pid="64/7056">Finale Doshi-Velez</author><author pid="65/4163">Jim Fackler</author><author pid="21/2011">Ken Jung</author><author pid="31/8372">David C. Kale</author><author pid="97/7057">Rajesh Ranganath</author><author pid="00/8247">Byron C. Wallace</author><author pid="63/10451">Jenna Wiens</author></authors><title>Proceedings of the Machine Learning for Healthcare Conference, MLHC 2019, 9-10 August 2019, Ann Arbor, Michigan, USA.</title><venue>MLHC</venue><venue>Proceedings of Machine Learning Research</venue><volume>106</volume><publisher>PMLR</publisher><year>2019</year><type>Editorship</type><key>conf/mlhc/2019</key><ee>http://proceedings.mlr.press/v106/</ee><url>https://dblp.org/rec/conf/mlhc/2019</url></info>
+<url>URL#878075</url>
+</hit>
+</hits>
+</result>
