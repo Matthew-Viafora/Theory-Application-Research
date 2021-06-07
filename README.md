@@ -27,5 +27,9 @@ ________________________________________
 - ALl paper information from 2010-2020 IJCAI conference in XML files
 - XML files are labeled in ascending order from most recent conference (i.e. 1.xml is from 35th AAAI / 33nd IAAI 2021)
 
-**parsing.py:**
+**parsing.py contains:**
 - Python script to parse XML files for specified fields
+
+**Output-CSVs contains:**
+- CSV files containing data parsed from XML files
+- CSV files are sorted by conference
