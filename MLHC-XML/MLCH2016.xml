@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="965606">:facetid:toc:db\"/\"conf\"/\"mlhc\"/\"mlhc2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">128.60</time>
+<completions total="1" computed="1" sent="1">
+<c sc="20" dc="20" oc="20" id="18213881">:facetid:toc:db/conf/mlhc/mlhc2016.bht</c>
+</completions>
+<hits total="20" computed="20" sent="20" first="0">
+<hit score="1" id="1866743">
+<info><authors><author pid="10/4338">Bilal Ahmed</author><author pid="34/10168">Thomas Thesen</author><author pid="116/1921">Karen E. Blackmon</author><author pid="66/11417">Ruben Kuzniecky</author><author pid="87/11418">Orrin Devinsky</author><author pid="24/6000">Jennifer G. Dy</author><author pid="24/1941">Carla E. Brodley</author></authors><title>Multi-task Learning with Weak Class Labels - Leveraging iEEG to Detect Cortical Lesions in Cryptogenic Epilepsy.</title><venue>MLHC</venue><pages>115-133</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/AhmedTBKDDB16</key><ee>http://proceedings.mlr.press/v56/Ahmed16.html</ee><url>https://dblp.org/rec/conf/mlhc/AhmedTBKDDB16</url></info>
+<url>URL#1866743</url>
+</hit>
+<hit score="1" id="1866744">
+<info><authors><author pid="41/3886">Edward Choi</author><author pid="28/10813">Mohammad Taha Bahadori</author><author pid="176/5216">Andy Schuetz</author><author pid="82/9250">Walter F. Stewart</author><author pid="54/4948">Jimeng Sun</author></authors><title>Doctor AI - Predicting Clinical Events via Recurrent Neural Networks.</title><venue>MLHC</venue><pages>301-318</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ChoiBSSS16</key><ee>http://proceedings.mlr.press/v56/Choi16.html</ee><url>https://dblp.org/rec/conf/mlhc/ChoiBSSS16</url></info>
+<url>URL#1866744</url>
+</hit>
+<hit score="1" id="1866745">
+<info><authors><author pid="166/6109-1">Joseph Futoma 0001</author><author pid="184/1569">Mark Sendak</author><author pid="184/1589">Blake Cameron</author><author pid="32/4403">Katherine A. Heller</author></authors><title>Predicting Disease Progression with a Model for Multivariate Longitudinal Clinical Data.</title><venue>MLHC</venue><pages>42-54</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/FutomaSCH16</key><ee>http://proceedings.mlr.press/v56/Futoma16.html</ee><url>https://dblp.org/rec/conf/mlhc/FutomaSCH16</url></info>
+<url>URL#1866745</url>
+</hit>
+<hit score="1" id="1866746">
+<info><authors><author pid="122/9006">Konstantinos Georgatzis</author><author pid="w/ChristopherKIWilliams">Christopher K. I. Williams</author><author pid="185/0775">Christopher Hawthorne</author></authors><title>Input-Output Non-Linear Dynamical Systems applied to Physiological Condition Monitoring.</title><venue>MLHC</venue><pages>1-16</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/GeorgatzisWH16</key><ee>http://proceedings.mlr.press/v56/Georgatzis16.html</ee><url>https://dblp.org/rec/conf/mlhc/GeorgatzisWH16</url></info>
+<url>URL#1866746</url>
+</hit>
+<hit score="1" id="1866747">
+<info><authors><author pid="145/6563">Marzyeh Ghassemi</author><author pid="54/4517">Zeeshan Syed</author><author pid="56/9879">Daryush D. Mehta</author><author pid="133/3953">Jarrad H. Van Stan</author><author pid="119/2822">Robert E. Hillman</author><author pid="g/JohnVGuttag">John V. Guttag</author></authors><title>Uncovering Voice Misuse Using Symbolic Mismatch.</title><venue>MLHC</venue><pages>239-252</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/GhassemiSMSHG16</key><ee>http://proceedings.mlr.press/v56/Ghassemi16.html</ee><url>https://dblp.org/rec/conf/mlhc/GhassemiSMSHG16</url></info>
+<url>URL#1866747</url>
+</hit>
+<hit score="1" id="1866748">
+<info><authors><author pid="06/10023">Yoni Halpern</author><author pid="62/11507">Steven Horng</author><author pid="12/673">David A. Sontag</author></authors><title>Clinical Tagging with Joint Probabilistic Models.</title><venue>MLHC</venue><pages>209-225</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/HalpernHS16</key><ee>http://proceedings.mlr.press/v56/Halpern16.html</ee><url>https://dblp.org/rec/conf/mlhc/HalpernHS16</url></info>
+<url>URL#1866748</url>
+</hit>
+<hit score="1" id="1866749">
+<info><authors><author pid="173/2910">Shalmali Joshi</author><author pid="118/7221">Suriya Gunasekar</author><author pid="12/673">David A. Sontag</author><author pid="51/2272">Joydeep Ghosh</author></authors><title>Identifiable Phenotyping using Constrained Non-Negative Matrix Factorization.</title><venue>MLHC</venue><pages>17-41</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/JoshiGSG16</key><ee>http://proceedings.mlr.press/v56/Joshi16.html</ee><url>https://dblp.org/rec/conf/mlhc/JoshiGSG16</url></info>
+<url>URL#1866749</url>
+</hit>
+<hit score="1" id="1866750">
+<info><authors><author pid="142/2839">Zachary C. Lipton</author><author pid="31/8372">David C. Kale</author><author pid="77/10040">Randall C. Wetzel</author></authors><title>Directly Modeling Missing Data in Sequences with RNNs - Improved Classification of Clinical Time Series.</title><venue>MLHC</venue><pages>253-270</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LiptonKW16</key><ee>http://proceedings.mlr.press/v56/Lipton16.html</ee><url>https://dblp.org/rec/conf/mlhc/LiptonKW16</url></info>
+<url>URL#1866750</url>
+</hit>
+<hit score="1" id="1866751">
+<info><authors><author pid="50/2482-13">Yun Liu 0013</author><author pid="30/7948">Collin M. Stultz</author><author pid="g/JohnVGuttag">John V. Guttag</author><author pid="43/6010">Kun-Ta Chuang</author><author pid="185/0519">Fu-Wen Liang</author><author pid="185/0666">Huey-Jen Su</author></authors><title>Transferring Knowledge from Text to Predict Disease Onset.</title><venue>MLHC</venue><pages>150-163</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LiuSGCCLS16</key><ee>http://proceedings.mlr.press/v56/Liu16.html</ee><url>https://dblp.org/rec/conf/mlhc/LiuSGCCLS16</url></info>
+<url>URL#1866751</url>
+</hit>
+<hit score="1" id="1866752">
+<info><authors><author pid="14/2895">John A. Quinn</author><author pid="185/0729">Rose Nakasi</author><author pid="185/1097">Pius K. B. Mugagga</author><author pid="185/0614">Patrick Byanyima</author><author pid="185/0634">William Lubega</author><author pid="185/0974">Alfred Andama</author></authors><title>Deep Convolutional Neural Networks for Microscopy-Based Point of Care Diagnostics.</title><venue>MLHC</venue><pages>271-281</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/QuinnNMBLA16</key><ee>http://proceedings.mlr.press/v56/Quinn16.html</ee><url>https://dblp.org/rec/conf/mlhc/QuinnNMBLA16</url></info>
+<url>URL#1866752</url>
+</hit>
+<hit score="1" id="1866753">
+<info><authors><author pid="97/7057">Rajesh Ranganath</author><author pid="66/2491">Adler J. Perotte</author><author pid="92/6201">Noémie Elhadad</author><author pid="86/1910">David M. Blei</author></authors><title>Deep Survival Analysis.</title><venue>MLHC</venue><pages>101-114</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RanganathPEB16</key><ee>http://proceedings.mlr.press/v56/Ranganath16.html</ee><url>https://dblp.org/rec/conf/mlhc/RanganathPEB16</url></info>
+<url>URL#1866753</url>
+</hit>
+<hit score="1" id="1866754">
+<info><authors><author pid="130/9063">Narges Razavian</author><author pid="185/0749">Jake Marcus</author><author pid="12/673">David A. Sontag</author></authors><title>Multi-task Prediction of Disease Onsets from Longitudinal Laboratory Tests.</title><venue>MLHC</venue><pages>73-100</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RazavianMS16</key><ee>http://proceedings.mlr.press/v56/Razavian16.html</ee><url>https://dblp.org/rec/conf/mlhc/RazavianMS16</url></info>
+<url>URL#1866754</url>
+</hit>
+<hit score="1" id="1866755">
+<info><authors><author pid="185/1070">Rhiannon V. Rose</author><author pid="l/DanielJLizotte">Daniel J. Lizotte</author></authors><title>gLOP - the global and Local Penalty for Capturing Predictive Heterogeneity.</title><venue>MLHC</venue><pages>134-149</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RoseL16</key><ee>http://proceedings.mlr.press/v56/Rose16.html</ee><url>https://dblp.org/rec/conf/mlhc/RoseL16</url></info>
+<url>URL#1866755</url>
+</hit>
+<hit score="1" id="1866756">
+<info><authors><author pid="34/8484">Peter J. Schüffler</author><author pid="185/0722">Judy Sarungbam</author><author pid="185/0846">Hassan Muhammad</author><author pid="155/2456">Ed Reznik</author><author pid="185/0898">Satish K. Tickoo</author><author pid="36/1644">Thomas J. Fuchs</author></authors><title>Mitochondria-based Renal Cell Carcinoma Subtyping - Learning from Deep vs. Flat Feature Representations.</title><venue>MLHC</venue><pages>191-208</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/SchufflerSMRTF16</key><ee>http://proceedings.mlr.press/v56/Schuffler16.html</ee><url>https://dblp.org/rec/conf/mlhc/SchufflerSMRTF16</url></info>
+<url>URL#1866756</url>
+</hit>
+<hit score="1" id="1866757">
+<info><authors><author pid="185/0942">Pierre Thodoroff</author><author pid="p/JoellePineau">Joelle Pineau</author><author pid="92/972-2">Andrew Lim 0002</author></authors><title>Learning Robust Features using Deep Learning for Automatic Seizure Detection.</title><venue>MLHC</venue><pages>178-190</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ThodoroffPL16</key><ee>http://proceedings.mlr.press/v56/Thodoroff16.html</ee><url>https://dblp.org/rec/conf/mlhc/ThodoroffPL16</url></info>
+<url>URL#1866757</url>
+</hit>
+<hit score="1" id="1866758">
+<info><authors><author pid="55/2269">Truyen Tran 0001</author><author pid="05/6715">Wei Luo</author><author pid="71/5859">Dinh Q. Phung</author><author pid="30/2223">Jonathan Morris</author><author pid="194/7340">Kristen Rickard</author><author pid="81/1984">Svetha Venkatesh</author></authors><title>Preterm Birth Prediction - Stable Selection of Interpretable Rules from High Dimensional Data.</title><venue>MLHC</venue><pages>164-177</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/TranLPMRV16</key><ee>http://proceedings.mlr.press/v56/Tran16.html</ee><url>https://dblp.org/rec/conf/mlhc/TranLPMRV16</url></info>
+<url>URL#1866758</url>
+</hit>
+<hit score="1" id="1866759">
+<info><authors><author pid="31/9249">Ilia Vovsha</author><author pid="s/AnsafSalleb">Ansaf Salleb-Aouissi</author><author pid="93/5894">Anita Raja</author><author pid="93/3280">Thomas Koch</author><author pid="183/6352">Alex Rybchuk</author><author pid="39/6355">Axinia Radeva</author><author pid="183/6497">Ashwath Rajan</author><author pid="143/8232">Yiwen Huang</author><author pid="00/2431">Hatim Diab</author><author pid="117/5568">Ashish Tomar</author><author pid="141/5175">Ronald J. Wapner</author></authors><title>Using Kernel Methods and Model Selection for Prediction of Preterm Birth.</title><venue>MLHC</venue><pages>55-72</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/VovshaSRKRRRHDT16</key><ee>http://proceedings.mlr.press/v56/Vovsha16.html</ee><url>https://dblp.org/rec/conf/mlhc/VovshaSRKRRRHDT16</url></info>
+<url>URL#1866759</url>
+</hit>
+<hit score="1" id="1866760">
+<info><authors><author pid="25/6978">Yanbo Xu</author><author pid="18/11264">Yanxun Xu</author><author pid="72/2433">Suchi Saria</author></authors><title>A Non-parametric Bayesian Approach for Estimating Treatment-Response Curves from Sparse Time Series.</title><venue>MLHC</venue><pages>282-300</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/XuXS16</key><ee>http://proceedings.mlr.press/v56/Xu16.html</ee><url>https://dblp.org/rec/conf/mlhc/XuXS16</url></info>
+<url>URL#1866760</url>
+</hit>
+<hit score="1" id="1866761">
+<info><authors><author pid="82/6384-5">Cheng Zhang 0005</author><author pid="k/HedvigKjellstrom">Hedvig Kjellström</author><author pid="79/6273">Carl Henrik Ek</author><author pid="183/6292">Bo C. Bertilson</author></authors><title>Diagnostic Prediction Using Discomfort Drawings with IBTM.</title><venue>MLHC</venue><pages>226-238</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ZhangKEB16</key><ee>http://proceedings.mlr.press/v56/Zhang16.html</ee><url>https://dblp.org/rec/conf/mlhc/ZhangKEB16</url></info>
+<url>URL#1866761</url>
+</hit>
+<hit score="1" id="1912345">
+<info><authors><author pid="64/7056">Finale Doshi-Velez</author><author pid="65/4163">Jim Fackler</author><author pid="31/8372">David C. Kale</author><author pid="00/8247">Byron C. Wallace</author><author pid="63/10451">Jenna Wiens</author></authors><title>Proceedings of the 1st Machine Learning in Health Care, MLHC 2016, Los Angeles, CA, USA, August 19-20, 2016</title><venue>MLHC</venue><venue>JMLR Workshop and Conference Proceedings</venue><volume>56</volume><publisher>JMLR.org</publisher><year>2016</year><type>Editorship</type><key>conf/mlhc/2016</key><ee>http://proceedings.mlr.press/v56/</ee><url>https://dblp.org/rec/conf/mlhc/2016</url></info>
+<url>URL#1912345</url>
+</hit>
+</hits>
+</result>

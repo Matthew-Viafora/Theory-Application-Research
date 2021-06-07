@@ -17,3 +17,19 @@ ________________________________________
 - All paper information from 2010-2020 ICML conference in XML files 
 - XML files in folder are organized as "(conference number)"
 - Since we want to use only theoritcal data from ICML, I was unsure if we wanted to use all of the files of certain conferences that had multiple. If there is a "-1" in the file name, there are multiple files from that year, so we should review which file(s) to use
+
+**MLHC-XML contains:**
+- All paper information from 2010-2020 MLHC conference in XML files
+- XML files in folder are organized as MLHC with the corresponding year of the conference
+
+**AAAI-XML contains:**
+- All paper information from 2010-2020 AAAI conference in XML files
+- XML files in folder are organized as their conference number along with AAAI and the corresponding year of the conference
+- Was unsure if all the files under the AAAI needed to be uploaded or if only files containing AAAI needed to be uploaded
+
+**IJCAI-XML contains:**
+- ALl paper information from 2010-2020 IJCAI conference in XML files
+- XML files are labeled in ascending order from most recent conference (i.e. 1.xml is from 35th AAAI / 33nd IAAI 2021)
+
+**parsing.py:**
+- Python script to parse XML files for specified fields
