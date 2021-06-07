@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="756377">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ainf2015\".\"bht</query>
+<query id="756464">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"dare2015\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">128.23</time>
+<time unit="msecs">137.15</time>
 <completions total="1" computed="1" sent="1">
-<c sc="8" dc="8" oc="8" id="18206983">:facetid:toc:db/conf/ijcai/ainf2015.bht</c>
+<c sc="10" dc="10" oc="10" id="18207003">:facetid:toc:db/conf/ijcai/dare2015.bht</c>
 </completions>
-<hits total="8" computed="8" sent="8" first="0">
-<hit score="1" id="2145420">
-<info><authors><author pid="99/8308">Joseph Corneli</author><author pid="04/7509">Anna Jordanous</author></authors><title>Implementing feedback in creative systems - a workshop approach.</title><venue>AInF@IJCAI</venue><pages>10-17</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CorneliJ15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CorneliJ15</url></info>
-<url>URL#2145420</url>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2145253">
+<info><authors><author pid="m/ThomasAndreasMeyer">Thomas Meyer 0002</author></authors><title>Preferential Semantics as the Basis for Defeasible Reasoning in Ontologies.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/000215</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_0_invited.pdf</ee><url>https://dblp.org/rec/conf/ijcai/000215</url></info>
+<url>URL#2145253</url>
 </hit>
-<hit score="1" id="2145504">
-<info><authors><author pid="g/PabloGervas">Pablo Gervás</author><author pid="63/2885">Carlos León 0002</author></authors><title>When reflective feedback triggers goal revision - a computational model for literary creativity.</title><venue>AInF@IJCAI</venue><pages>32-39</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GervasL15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GervasL15</url></info>
-<url>URL#2145504</url>
+<hit score="1" id="2145287">
+<info><authors><author pid="59/6726">Guillaume Aucher</author></authors><title>When Conditional Logic and Belief Revision Meet Substructural Logics.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Archer15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Archer15</url></info>
+<url>URL#2145287</url>
 </hit>
-<hit score="1" id="2145506">
-<info><authors><author pid="121/5318">Fiammetta Ghedini</author><author pid="167/4767">Benjamin Frantz</author><author pid="48/124">François Pachet</author><author pid="56/2284">Pierre Roy</author></authors><title>The comic strip game - observing the impact of implicit feedback in the content creation process.</title><venue>AInF@IJCAI</venue><pages>18-26</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GhediniFPR15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GhediniFPR15</url></info>
-<url>URL#2145506</url>
+<hit score="1" id="2145410">
+<info><authors><author pid="83/9634">Raphael Cóbe</author><author pid="w/RenataWassermann">Renata Wassermann</author></authors><title>Ontology Repair Through Partial Meet Contraction.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CobeW15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CobeW15</url></info>
+<url>URL#2145410</url>
 </hit>
-<hit score="1" id="2145530">
-<info><authors><author pid="16/8361">Patricia Gutierrez</author><author pid="02/2098">Nardine Osman</author><author pid="s/CarlesSierra">Carles Sierra</author></authors><title>Personalised automated assessments.</title><venue>AInF@IJCAI</venue><pages>40-46</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GutierrezOS15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GutierrezOS15</url></info>
-<url>URL#2145530</url>
+<hit score="1" id="2145545">
+<info><authors><author pid="14/6336">Petr Homola</author></authors><title>Natural Language Understanding as First-Order Abduction via Stable Models.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Homola15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Homola15</url></info>
+<url>URL#2145545</url>
 </hit>
-<hit score="1" id="2145586">
-<info><authors><author pid="47/7793">Chris Kiefer</author><author pid="120/1910">Matthew Yee-King</author><author pid="47/2186">Mark d&apos;Inverno</author></authors><title>Revealing and interpreting crowd stories in online social environments.</title><venue>AInF@IJCAI</venue><pages>47-52</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KieferYd15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KieferYd15</url></info>
-<url>URL#2145586</url>
+<hit score="1" id="2145560">
+<info><authors><author pid="28/4803">Aaron Hunter</author><author pid="35/485">François Schwarzentruber</author></authors><title>Arbitrary Announcements in Propositional Belief Revision.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HunterS15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HunterS15</url></info>
+<url>URL#2145560</url>
 </hit>
-<hit score="1" id="2145670">
-<info><authors><author pid="50/3848">Daniel Martin</author><author pid="167/4767">Benjamin Frantz</author><author pid="48/124">François Pachet</author></authors><title>Improving music composition through peer feedback - experiment and preliminary results.</title><venue>AInF@IJCAI</venue><pages>27-31</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MartinFP15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MartinFP15</url></info>
-<url>URL#2145670</url>
+<hit score="1" id="2145589">
+<info><authors><author pid="45/7257">Szymon Klarman</author><author pid="47/3847">Katarina Britz</author></authors><title>Towards Unsupervised Ontology Learning from Data.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KlarmanB15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KlarmanB15</url></info>
+<url>URL#2145589</url>
 </hit>
-<hit score="1" id="2145936">
-<info><authors><author pid="120/1910">Matthew Yee-King</author><author pid="47/2186">Mark d&apos;Inverno</author></authors><title>Pedagogical agent models for massive online education.</title><venue>AInF@IJCAI</venue><pages>2-9</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Yee-Kingd15</key><ee>http://ceur-ws.org/Vol-1407/AInF2015paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Yee-Kingd15</url></info>
-<url>URL#2145936</url>
+<hit score="1" id="2145591">
+<info><authors><author pid="156/9662">Roxane Koitz</author><author pid="w/FranzWotawa">Franz Wotawa</author></authors><title>Finding Explanations - an Empirical Evaluation of Abductive Diagnosis Algorithms.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KoitzW15a</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KoitzW15a</url></info>
+<url>URL#2145591</url>
 </hit>
-<hit score="1" id="2213394">
-<info><authors><author pid="02/2098">Nardine Osman</author><author pid="120/1910">Matthew Yee-King</author></authors><title>Proceedings of the First International Workshop on AI and Feedback, AInF 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 26, 2015.</title><venue>AInF@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1407</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015ainf</key><ee>http://ceur-ws.org/Vol-1407</ee><url>https://dblp.org/rec/conf/ijcai/2015ainf</url></info>
-<url>URL#2213394</url>
+<hit score="1" id="2145680">
+<info><authors><author pid="21/6730">Loizos Michael</author></authors><title>Jumping to Conclusions.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Michael15a</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Michael15a</url></info>
+<url>URL#2145680</url>
+</hit>
+<hit score="1" id="2145782">
+<info><authors><author pid="167/5139">Yuri David Santos</author><author pid="68/2001">Márcio Moretto Ribeiro</author><author pid="w/RenataWassermann">Renata Wassermann</author></authors><title>Between Belief Bases and Belief Sets - Partial Meet Contraction.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SantosRW15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SantosRW15</url></info>
+<url>URL#2145782</url>
+</hit>
+<hit score="1" id="2213396">
+<info><authors><author pid="58/6050">Richard Booth 0001</author><author pid="45/4069">Giovanni Casini</author><author pid="45/7257">Szymon Klarman</author><author pid="44/1221">Gilles Richard</author><author pid="56/1139">Ivan José Varzinczak</author></authors><title>Proceedings of the International Workshop on Defeasible and Ampliative Reasoning, DARe 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.</title><venue>DARe@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1423</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015dare</key><ee>http://ceur-ws.org/Vol-1423</ee><url>https://dblp.org/rec/conf/ijcai/2015dare</url></info>
+<url>URL#2213396</url>
 </hit>
 </hits>
 </result>

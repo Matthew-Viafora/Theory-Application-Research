@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="751098">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"fca4ai2019\".\"bht</query>
+<query id="751135">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"khd2019\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">137.53</time>
+<time unit="msecs">0.75</time>
 <completions total="1" computed="1" sent="1">
-<c sc="9" dc="9" oc="9" id="18207007">:facetid:toc:db/conf/ijcai/fca4ai2019.bht</c>
+<c sc="11" dc="11" oc="11" id="18207058">:facetid:toc:db/conf/ijcai/khd2019.bht</c>
 </completions>
-<hits total="9" computed="9" sent="9" first="0">
-<hit score="1" id="459766">
-<info><authors><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author><author pid="79/6633">Sebastian Rudolph</author></authors><title>Proceedings of the 7th International Workshop &quot;What can FCA do for Artificial Intelligence&quot;? co-located with International Joint Conference on Artificial Intelligence, FCA4AI@IJCAI 2019, Macao, China, August 10, 2019.</title><venue>FCA4AI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2529</volume><publisher>CEUR-WS.org</publisher><year>2020</year><type>Editorship</type><key>conf/ijcai/2019fca4ai</key><ee>http://ceur-ws.org/Vol-2529</ee><url>https://dblp.org/rec/conf/ijcai/2019fca4ai</url></info>
-<url>URL#459766</url>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="802429">
+<info><authors><author pid="247/6886">Micheal Abaho</author><author pid="b/DanushkaBollegala">Danushka Bollegala</author><author pid="247/6887">Paula R. Williamson</author><author pid="247/6888">Susanna Dodd</author></authors><title>Correcting Crowdsourced Annotations to Improve Detection of Outcome Types in Evidence Based Medicine.</title><venue>KHD@IJCAI</venue><pages>1-5</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AbahoBWD19</key><ee>http://ceur-ws.org/Vol-2429/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AbahoBWD19</url></info>
+<url>URL#802429</url>
 </hit>
-<hit score="1" id="802450">
-<info><authors><author pid="30/5842">C. Anantaram</author><author pid="261/0376">Mouli Rastogi</author><author pid="222/7855">Mrinal Rawat</author><author pid="216/9153">Pratik Saini</author></authors><title>Enabling Natural Language Analytics over Relational Data Using Formal Concept Analysis.</title><venue>FCA4AI@IJCAI</venue><pages>7-18</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AnantaramRRS19</key><ee>http://ceur-ws.org/Vol-2529/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AnantaramRRS19</url></info>
-<url>URL#802450</url>
+<hit score="1" id="802433">
+<info><authors><author pid="218/7244">Hossein Aboutalebi</author><author pid="p/DoinaPrecup">Doina Precup</author><author pid="237/5472">Tibor Schuster</author></authors><title>Learning Reliable Policies in the Bandit Setting with Application to Adaptive Clinical Trials.</title><venue>KHD@IJCAI</venue><pages>43-49</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AboutalebiPS19a</key><ee>http://ceur-ws.org/Vol-2429/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AboutalebiPS19a</url></info>
+<url>URL#802433</url>
 </hit>
-<hit score="1" id="802671">
-<info><authors><author pid="261/0305">Alexey V. Galatenko</author><author pid="208/8931">Stepan A. Nersisyan</author><author pid="45/10894">Vera V. Pankratieva</author></authors><title>Clustering of Biomedical Data Using the Greedy Clustering Algorithm Based on Interval Pattern Concepts.</title><venue>FCA4AI@IJCAI</venue><pages>65-74</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalatenkoNP19</key><ee>http://ceur-ws.org/Vol-2529/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalatenkoNP19</url></info>
-<url>URL#802671</url>
+<hit score="1" id="802490">
+<info><authors><author pid="231/7722">Robert Bevan</author><author pid="24/8613">Alessandro Torrisi</author><author pid="b/DanushkaBollegala">Danushka Bollegala</author><author pid="c/FransCoenen">Frans Coenen</author><author pid="17/6670">Katie Atkinson</author></authors><title>Extracting Supporting Evidence from Medical Negligence Claim Texts.</title><venue>KHD@IJCAI</venue><pages>50-54</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BevanTBCA19</key><ee>http://ceur-ws.org/Vol-2429/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BevanTBCA19</url></info>
+<url>URL#802490</url>
 </hit>
-<hit score="1" id="802672">
-<info><authors><author pid="137/3611">Boris Galitsky</author><author pid="140/3022">Dmitry I. Ilvovsky</author></authors><title>Validating Correctness of Textual Explanation with Complete Discourse Trees.</title><venue>FCA4AI@IJCAI</venue><pages>29-38</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalitskyI19</key><ee>http://ceur-ws.org/Vol-2529/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalitskyI19</url></info>
-<url>URL#802672</url>
+<hit score="1" id="802609">
+<info><authors><author pid="186/9095">Spiros C. Denaxas</author><author pid="247/6884">Helen Parkinson</author><author pid="198/1240">Natalie K. Fitzpatrick</author><author pid="237/9691">Cathie Sudlow</author><author pid="40/1599">Harry Hemingway</author></authors><title>Analysing the Heterogeneity of Rule-Based EHR Phenotyping Algorithms in CALIBER and the UK Biobank.</title><venue>KHD@IJCAI</venue><pages>6-14</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DenaxasPFSH19</key><ee>http://ceur-ws.org/Vol-2429/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DenaxasPFSH19</url></info>
+<url>URL#802609</url>
 </hit>
-<hit score="1" id="802673">
-<info><authors><author pid="137/3611">Boris Galitsky</author><author pid="140/3022">Dmitry I. Ilvovsky</author></authors><title>Least General Generalization of the Linguistic Structures.</title><venue>FCA4AI@IJCAI</venue><pages>39-44</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GalitskyI19a</key><ee>http://ceur-ws.org/Vol-2529/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GalitskyI19a</url></info>
-<url>URL#802673</url>
+<hit score="1" id="802685">
+<info><authors><author pid="171/9575">Alan H. Gee</author><author pid="166/5010">Diego García-Olano</author><author pid="51/2272">Joydeep Ghosh</author><author pid="54/10992">David Paydarfar</author></authors><title>Explaining Deep Classification of Time-Series Data with Learned Prototypes.</title><venue>KHD@IJCAI</venue><pages>15-22</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GeeGGP19</key><ee>http://ceur-ws.org/Vol-2429/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GeeGGP19</url></info>
+<url>URL#802685</url>
 </hit>
-<hit score="1" id="802700">
-<info><authors><author pid="261/0052">Elizaveta F. Goncharova</author><author pid="51/2300">Sergei O. Kuznetsov</author></authors><title>Increasing the Efficiency of Packet Classifiers with Closed Descriptions.</title><venue>FCA4AI@IJCAI</venue><pages>75-86</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GoncharovaK19</key><ee>http://ceur-ws.org/Vol-2529/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GoncharovaK19</url></info>
-<url>URL#802700</url>
+<hit score="1" id="802828">
+<info><authors><author pid="236/4482">Jackson A. Killian</author><author pid="23/975">Kevin M. Passino</author><author pid="28/568">Arnab Nandi 0001</author><author pid="207/4258">Danielle R. Madden</author><author pid="191/8144">John D. Clapp</author></authors><title>Learning to Detect Heavy Drinking Episodes Using Smartphone Accelerometer Data.</title><venue>KHD@IJCAI</venue><pages>35-42</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KillianPNMC19</key><ee>http://ceur-ws.org/Vol-2429/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KillianPNMC19</url></info>
+<url>URL#802828</url>
 </hit>
-<hit score="1" id="803074">
-<info><authors><author pid="134/8636">Andrei Rodin</author><author pid="261/0299">Serge Kovalyov</author></authors><title>Truth and Justification in Knowledge Representation.</title><venue>FCA4AI@IJCAI</venue><pages>45-56</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RodinK19</key><ee>http://ceur-ws.org/Vol-2529/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RodinK19</url></info>
-<url>URL#803074</url>
+<hit score="1" id="803016">
+<info><authors><author pid="156/0622">James O&apos;Neill</author><author pid="b/DanushkaBollegala">Danushka Bollegala</author><author pid="18/9962">Peter-J. Noble</author><author pid="57/9962">Alan D. Radford</author></authors><title>Tick Parasitism Classification from Noisy Medical Records.</title><venue>KHD@IJCAI</venue><pages>30-34</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ONeillBNR19</key><ee>http://ceur-ws.org/Vol-2429/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ONeillBNR19</url></info>
+<url>URL#803016</url>
 </hit>
-<hit score="1" id="803085">
-<info><authors><author pid="97/8100">Amit Sangroya</author><author pid="30/5842">C. Anantaram</author><author pid="222/7855">Mrinal Rawat</author><author pid="261/0376">Mouli Rastogi</author></authors><title>Using Formal Concept Analysis to Explain Black Box Deep Learning Classification Models.</title><venue>FCA4AI@IJCAI</venue><pages>19-26</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SangroyaARR19</key><ee>http://ceur-ws.org/Vol-2529/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SangroyaARR19</url></info>
-<url>URL#803085</url>
+<hit score="1" id="803048">
+<info><authors><author pid="188/1564">Harry Pratt</author><author pid="c/FransCoenen">Frans Coenen</author><author pid="15/952">Yalin Zheng</author></authors><title>Feature Visualisation of Classification of Diabetic Retinopathy Using a Convolutional Neural Network.</title><venue>KHD@IJCAI</venue><pages>23-29</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PrattCZ19</key><ee>http://ceur-ws.org/Vol-2429/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PrattCZ19</url></info>
+<url>URL#803048</url>
 </hit>
-<hit score="1" id="803199">
-<info><authors><author pid="73/5995">Dmitry V. Vinogradov</author></authors><title>FCA-based Approach to Machine Learning.</title><venue>FCA4AI@IJCAI</venue><pages>57-64</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Vinogradov19</key><ee>http://ceur-ws.org/Vol-2529/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Vinogradov19</url></info>
-<url>URL#803199</url>
+<hit score="1" id="803257">
+<info><authors><author pid="74/507">Nirmalie Wiratunga</author><author pid="17/507">David Corsar</author><author pid="164/2249">Kyle Martin</author><author pid="227/6097">Anjana Wijekoon</author><author pid="49/1289">Eyad Elyan</author><author pid="55/6241">Zina M. Ibrahim</author><author pid="247/6889">Oya Celikutan</author><author pid="51/5120">Richard J. B. Dobson</author><author pid="55/2538">Stephen J. McKenna</author><author pid="247/6895">Jacqui Morris</author><author pid="40/3850">Annalu Waller</author><author pid="247/6891">Raed A. Abd-Alhammed</author><author pid="q/RamiQahwaji">Rami Qahwaji</author><author pid="247/6881">Ray Chaudhuri</author></authors><title>Learning to Self-Manage by Intelligent Monitoring, Prediction and Intervention.</title><venue>KHD@IJCAI</venue><pages>60-67</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WiratungaCMWEIC19</key><ee>http://ceur-ws.org/Vol-2429/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WiratungaCMWEIC19</url></info>
+<url>URL#803257</url>
+</hit>
+<hit score="1" id="803285">
+<info><authors><author pid="247/6880">Lujing Xiao</author><author pid="205/8765">Chuanpan Zheng</author><author pid="06/209">Xiaoliang Fan</author><author pid="247/6893">FYi Xie</author><author pid="69/6265">Rongshan Yu</author></authors><title>Predicting ICU Mortality from Heterogeneous Clinical Events with Prior Medical Knowledge.</title><venue>KHD@IJCAI</venue><pages>55-59</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/XiaoZFXY19</key><ee>http://ceur-ws.org/Vol-2429/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/XiaoZFXY19</url></info>
+<url>URL#803285</url>
+</hit>
+<hit score="1" id="877659">
+<info><authors><author pid="74/507">Nirmalie Wiratunga</author><author pid="c/FransCoenen">Frans Coenen</author><author pid="88/10847">Sadiq Sani</author></authors><title>Proceedings of the 4th International Workshop on Knowledge Discovery in Healthcare Data co-located with the 28th International Joint Conference on Artificial Intelligence, KDH@IJCAI 2019, Macao, China, August 10th, 2019.</title><venue>KDH@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2429</volume><publisher>CEUR-WS.org</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2019khd</key><ee>http://ceur-ws.org/Vol-2429</ee><url>https://dblp.org/rec/conf/ijcai/2019khd</url></info>
+<url>URL#877659</url>
 </hit>
 </hits>
 </result>

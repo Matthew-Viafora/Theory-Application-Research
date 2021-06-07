@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="752699">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"bridging2018\".\"bht</query>
+<query id="752706">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2018\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">134.16</time>
+<time unit="msecs">130.23</time>
 <completions total="1" computed="1" sent="1">
-<c sc="8" dc="8" oc="8" id="18206993">:facetid:toc:db/conf/ijcai/bridging2018.bht</c>
+<c sc="9" dc="9" oc="9" id="18207000">:facetid:toc:db/conf/ijcai/cgw2018.bht</c>
 </completions>
-<hits total="8" computed="8" sent="8" first="0">
-<hit score="1" id="1181247">
-<info><authors><author pid="c/StefaniaCostantini">Stefania Costantini</author><author pid="205/0103">Abeer Dyoub</author><author pid="208/2255">Valentina Pitoni</author></authors><title>Reflection and Introspection for Humanized Intelligent Agents.</title><venue>Bridging@IJCAI/ECAI</venue><pages>19-26</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CostantiniDP18</key><ee>http://ceur-ws.org/Vol-2261/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CostantiniDP18</url></info>
-<url>URL#1181247</url>
+<hits total="9" computed="9" sent="9" first="0">
+<hit score="1" id="877654">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="99/7599">Abdallah Saffidine</author><author pid="18/991">Nathan Sturtevant</author></authors><title>Computer Games - 7th Workshop, CGW 2018, Held in Conjunction with the 27th International Conference on Artificial Intelligence, IJCAI 2018, Stockholm, Sweden, July 13, 2018, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>1017</volume><publisher>Springer</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2018cgw</key><doi>10.1007/978-3-030-24337-1</doi><ee>https://doi.org/10.1007/978-3-030-24337-1</ee><url>https://dblp.org/rec/conf/ijcai/2018cgw</url></info>
+<url>URL#877654</url>
 </hit>
-<hit score="1" id="1181251">
-<info><authors><author pid="50/8336">Marcos Cramer</author><author pid="226/3415">Mathieu Guillaume</author></authors><title>Directionality of Attacks in Natural Language Argumentation.</title><venue>Bridging@IJCAI/ECAI</venue><pages>40-46</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CramerG18</key><ee>http://ceur-ws.org/Vol-2261/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CramerG18</url></info>
-<url>URL#1181251</url>
+<hit score="1" id="1181192">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Spatial Average Pooling for Computer Go.</title><venue>CGW@IJCAI</venue><pages>119-126</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Cazenave18</key><doi>10.1007/978-3-030-24337-1_6</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_6</ee><url>https://dblp.org/rec/conf/ijcai/Cazenave18</url></info>
+<url>URL#1181192</url>
 </hit>
-<hit score="1" id="1181287">
-<info><authors><author pid="67/11251">Sjur K. Dyrkolbotn</author><author pid="61/11268">Truls Pedersen</author></authors><title>A Formal Analysis of Enthymematic Arguments.</title><venue>Bridging@IJCAI/ECAI</venue><pages>13-18</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DyrkolbotnP18</key><ee>http://ceur-ws.org/Vol-2261/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DyrkolbotnP18</url></info>
-<url>URL#1181287</url>
+<hit score="1" id="1181233">
+<info><authors><author pid="231/0975">Armin Chitizadeh</author><author pid="t/MichaelThielscher">Michael Thielscher</author></authors><title>Iterative Tree Search in General Game Playing with Incomplete Information.</title><venue>CGW@IJCAI</venue><pages>98-115</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChitizadehT18</key><doi>10.1007/978-3-030-24337-1_5</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_5</ee><url>https://dblp.org/rec/conf/ijcai/ChitizadehT18</url></info>
+<url>URL#1181233</url>
 </hit>
-<hit score="1" id="1181328">
-<info><authors><author pid="34/6741">Andrew Fish</author><author pid="73/6140">Alexei Lisitsa</author><author pid="93/1842">Alexei Vernitski</author></authors><title>Towards Human Readability of Automated Unknottedness Proofs.</title><venue>Bridging@IJCAI/ECAI</venue><pages>27-32</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FishV18</key><ee>http://ceur-ws.org/Vol-2261/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FishV18</url></info>
-<url>URL#1181328</url>
+<hit score="1" id="1181248">
+<info><authors><author pid="118/9636">Marc-Alexandre Côté</author><author pid="164/6034">Ákos Kádár</author><author pid="40/10147">Xingdi Yuan</author><author pid="224/2055">Ben Kybartas</author><author pid="202/2533">Tavian Barnes</author><author pid="199/2156">Emery Fine</author><author pid="32/2944">James Moore</author><author pid="26/7488">Matthew J. Hausknecht</author><author pid="120/2887">Layla El Asri</author><author pid="224/1951">Mahmoud Adada</author><author pid="224/2022">Wendy Tay</author><author pid="177/9137">Adam Trischler</author></authors><title>TextWorld - A Learning Environment for Text-Based Games.</title><venue>CGW@IJCAI</venue><pages>41-75</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CoteKYKBFMHAATT18</key><doi>10.1007/978-3-030-24337-1_3</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_3</ee><url>https://dblp.org/rec/conf/ijcai/CoteKYKBFMHAATT18</url></info>
+<url>URL#1181248</url>
 </hit>
-<hit score="1" id="1181420">
-<info><authors><author pid="48/415">Steffen Hölldobler</author></authors><title>Ethical Decision Making under the Weak Completion Semantics.</title><venue>Bridging@IJCAI/ECAI</venue><pages>1</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Holldobler18</key><ee>http://ceur-ws.org/Vol-2261/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Holldobler18</url></info>
-<url>URL#1181420</url>
+<hit score="1" id="1181296">
+<info><authors><author pid="185/3601">Erdem Emekligil</author><author pid="a/EthemAlpaydin">Ethem Alpaydin</author></authors><title>What&apos;s in a Game? The Effect of Game Complexity on Deep Reinforcement Learning.</title><venue>CGW@IJCAI</venue><pages>147-163</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/EmekligilA18</key><doi>10.1007/978-3-030-24337-1_8</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_8</ee><url>https://dblp.org/rec/conf/ijcai/EmekligilA18</url></info>
+<url>URL#1181296</url>
 </hit>
-<hit score="1" id="1181652">
-<info><authors><author pid="81/721">Lawrence S. Moss</author><author pid="233/4325">Charlotte Raty</author></authors><title>Reasoning About the Sizes of Sets - Progress, Problems, and Prospects.</title><venue>Bridging@IJCAI/ECAI</venue><pages>33-39</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MossR18</key><ee>http://ceur-ws.org/Vol-2261/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MossR18</url></info>
-<url>URL#1181652</url>
+<hit score="1" id="1181398">
+<info><authors><author pid="244/4707">Farhad Haqiqat</author><author pid="m/MartinMuller3">Martin Müller 0003</author></authors><title>Analyzing the Impact of Knowledge and Search in Monte Carlo Tree Search in Go.</title><venue>CGW@IJCAI</venue><pages>127-146</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HaqiqatM18</key><doi>10.1007/978-3-030-24337-1_7</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_7</ee><url>https://dblp.org/rec/conf/ijcai/HaqiqatM18</url></info>
+<url>URL#1181398</url>
 </hit>
-<hit score="1" id="1181693">
-<info><authors><author pid="73/2447">Alison Pease</author><author pid="94/5444">Ursula Martin</author></authors><title>Automating &quot;Human-Like&quot; Example-Use in Mathematics.</title><venue>Bridging@IJCAI/ECAI</venue><pages>6-12</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PeaseM18</key><ee>http://ceur-ws.org/Vol-2261/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PeaseM18</url></info>
-<url>URL#1181693</url>
+<hit score="1" id="1181444">
+<info><authors><author pid="244/4723">Aline Hufschmitt</author><author pid="12/3351">Jean-Noël Vittaut</author><author pid="18/3003">Nicolas Jouandeau</author></authors><title>Statistical GGP Game Decomposition.</title><venue>CGW@IJCAI</venue><pages>79-97</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HufschmittVJ18</key><doi>10.1007/978-3-030-24337-1_4</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_4</ee><url>https://dblp.org/rec/conf/ijcai/HufschmittVJ18</url></info>
+<url>URL#1181444</url>
 </hit>
-<hit score="1" id="1253767">
-<info><authors><author pid="33/4876">Claudia Schon</author></authors><title>Proceedings of the fourth Workshop on Bridging the Gap between Human and Automated Reasoningco-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), Stockholm, Schweden, July 14, 2018.</title><venue>Bridging@IJCAI/ECAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2261</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018bridging</key><ee>http://ceur-ws.org/Vol-2261</ee><url>https://dblp.org/rec/conf/ijcai/2018bridging</url></info>
-<url>URL#1253767</url>
+<hit score="1" id="1181850">
+<info><authors><author pid="169/4342">Vanessa Volz</author><author pid="p/MikePreuss">Mike Preuss</author><author pid="244/4625">Mathias Kirk Bonde</author></authors><title>Towards Embodied StarCraft II Winner Prediction.</title><venue>CGW@IJCAI</venue><pages>3-22</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VolzPB18</key><doi>10.1007/978-3-030-24337-1_1</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_1</ee><url>https://dblp.org/rec/conf/ijcai/VolzPB18</url></info>
+<url>URL#1181850</url>
+</hit>
+<hit score="1" id="1181996">
+<info><authors><author pid="94/5561">Lijun Yu</author><author pid="76/5684">Dawei Zhang</author><author pid="49/628">Xiangqun Chen</author><author pid="08/6809">Xing Xie</author></authors><title>MOBA-Slice - A Time Slice Based Evaluation Framework of Relative Advantage Between Teams in MOBA Games.</title><venue>CGW@IJCAI</venue><pages>23-40</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YuZCX18</key><doi>10.1007/978-3-030-24337-1_2</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_2</ee><url>https://dblp.org/rec/conf/ijcai/YuZCX18</url></info>
+<url>URL#1181996</url>
 </hit>
 </hits>
 </result>

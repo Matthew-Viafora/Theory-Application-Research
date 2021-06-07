@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755215">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2017\".\"bht</query>
+<query id="755231">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"khd2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">124.67</time>
+<time unit="msecs">121.29</time>
 <completions total="1" computed="1" sent="1">
-<c sc="13" dc="13" oc="13" id="18206999">:facetid:toc:db/conf/ijcai/cgw2017.bht</c>
+<c sc="8" dc="8" oc="8" id="18207056">:facetid:toc:db/conf/ijcai/khd2017.bht</c>
 </completions>
-<hits total="13" computed="13" sent="13" first="0">
-<hit score="1" id="1253762">
-<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="32/436">Mark H. M. Winands</author><author pid="99/7599">Abdallah Saffidine</author></authors><title>Computer Games - 6th Workshop, CGW 2017, Held in Conjunction with the 26th International Conference on Artificial Intelligence, IJCAI 2017, Melbourne, VIC, Australia, August, 20, 2017, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>818</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2017cgw</key><doi>10.1007/978-3-319-75931-9</doi><ee>https://doi.org/10.1007/978-3-319-75931-9</ee><url>https://dblp.org/rec/conf/ijcai/2017cgw</url></info>
-<url>URL#1253762</url>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="1526497">
+<info><authors><author pid="34/7187">Yoke Yie Chen</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="171/6186">Jenny Hall</author><author pid="214/8079">Kate Stephen</author><author pid="214/7775">Amanda Croall</author><author pid="214/8067">Jacky MacMillan</author><author pid="214/8050">Lesley Murray</author><author pid="214/7843">Geoff Wilcock</author><author pid="181/4518">Sandra MacRury</author></authors><title>Designing a Personalised Case-Based Recommender System for Mobile Self-Management of Diabetes During Exercise.</title><venue>KHD@IJCAI</venue><pages>7-12</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenWMHSCMMWM17</key><ee>http://ceur-ws.org/Vol-1891/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenWMHSCMMWM17</url></info>
+<url>URL#1526497</url>
 </hit>
-<hit score="1" id="1526385">
-<info><authors><author pid="200/8026">Robert Adamski</author><author pid="200/8038">Tomasz Grel</author><author pid="200/8206">Maciej Klimek</author><author pid="60/4402">Henryk Michalewski</author></authors><title>Atari Games and Intel Processors.</title><venue>CGW@IJCAI</venue><pages>1-18</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AdamskiGKM17</key><doi>10.1007/978-3-319-75931-9_1</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_1</ee><url>https://dblp.org/rec/conf/ijcai/AdamskiGKM17</url></info>
-<url>URL#1526385</url>
+<hit score="1" id="1526510">
+<info><authors><author pid="214/7982">Beatris Mariell Choo</author><author pid="214/7882">Ana Margarita Talicol</author><author pid="214/7768">Elaine Jhon Panganiban</author><author pid="190/7909">Ethel Chua Joy Ong</author></authors><title>Use of Tethered Virtual Reality Headsets in Exposure Therapy for Agoraphobia and Social Phobia.</title><venue>KHD@IJCAI</venue><pages>20-24</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChooTPO17</key><ee>http://ceur-ws.org/Vol-1891/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChooTPO17</url></info>
+<url>URL#1526510</url>
 </hit>
-<hit score="1" id="1526478">
-<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="19/4703">Eustache Diemert</author></authors><title>Memorizing the Playout Policy.</title><venue>CGW@IJCAI</venue><pages>96-107</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CazenaveD17</key><doi>10.1007/978-3-319-75931-9_7</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_7</ee><url>https://dblp.org/rec/conf/ijcai/CazenaveD17</url></info>
-<url>URL#1526478</url>
+<hit score="1" id="1526871">
+<info><authors><author pid="61/7942">Phuoc Nguyen</author><author pid="55/2269">Truyen Tran 0001</author><author pid="81/1984">Svetha Venkatesh</author></authors><title>Deep Learning to Attend to Risk in ICU.</title><venue>KHD@IJCAI</venue><pages>25-29</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Nguyen0V17</key><ee>http://ceur-ws.org/Vol-1891/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Nguyen0V17</url></info>
+<url>URL#1526871</url>
 </hit>
-<hit score="1" id="1526486">
-<info><authors><author pid="46/7868">Hung-Jui Chang</author><author pid="170/5319">Gang-Yu Fan</author><author pid="98/755">Jr-Chang Chen</author><author pid="63/3302">Chih-Wen Hsueh</author><author pid="19/2124">Tsan-sheng Hsu</author></authors><title>Validating and Fine-Tuning of Game Evaluation Functions Using Endgame Databases.</title><venue>CGW@IJCAI</venue><pages>137-150</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChangFCHH17</key><doi>10.1007/978-3-319-75931-9_10</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_10</ee><url>https://dblp.org/rec/conf/ijcai/ChangFCHH17</url></info>
-<url>URL#1526486</url>
+<hit score="1" id="1526887">
+<info><authors><author pid="214/8022">Christopher Ormandy</author><author pid="55/6241">Zina M. Ibrahim</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>Learning Patient Similarity Using Joint Distributed Embeddings of Treatment and Diagnoses.</title><venue>KHD@IJCAI</venue><pages>30-35</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OrmandyID17</key><ee>http://ceur-ws.org/Vol-1891/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OrmandyID17</url></info>
+<url>URL#1526887</url>
 </hit>
-<hit score="1" id="1526691">
-<info><authors><author pid="169/3452">Hirotaka Kameko</author><author pid="78/6923">Jun Suzuki</author><author pid="126/6438">Naoki Mizukami</author><author pid="18/3787">Yoshimasa Tsuruoka</author></authors><title>Deep Reinforcement Learning with Hidden Layers on Future States.</title><venue>CGW@IJCAI</venue><pages>46-60</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KamekoSMT17</key><doi>10.1007/978-3-319-75931-9_4</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_4</ee><url>https://dblp.org/rec/conf/ijcai/KamekoSMT17</url></info>
-<url>URL#1526691</url>
+<hit score="1" id="1526940">
+<info><authors><author pid="54/2885">Jonathan Rubin</author><author pid="00/6243">Rui Abreu 0001</author><author pid="98/1165">Anurag Ganguli</author><author pid="00/7441">Saigopal Nelaturi</author><author pid="15/7140">Ion Matei</author><author pid="26/8762">Kumar Sricharan</author></authors><title>Recognizing Abnormal Heart Sounds Using Deep Learning.</title><venue>KHD@IJCAI</venue><pages>13-19</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RubinAGNMS17</key><ee>http://ceur-ws.org/Vol-1891/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RubinAGNMS17</url></info>
+<url>URL#1526940</url>
 </hit>
-<hit score="1" id="1526695">
-<info><authors><author pid="214/3505">Keigo Kawamura</author><author pid="126/6438">Naoki Mizukami</author><author pid="18/3787">Yoshimasa Tsuruoka</author></authors><title>Neural Fictitious Self-Play in Imperfect Information Games with Many Players.</title><venue>CGW@IJCAI</venue><pages>61-74</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KawamuraMT17</key><doi>10.1007/978-3-319-75931-9_5</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_5</ee><url>https://dblp.org/rec/conf/ijcai/KawamuraMT17</url></info>
-<url>URL#1526695</url>
+<hit score="1" id="1527073">
+<info><authors><author pid="39/721">Hui Wang</author><author pid="47/5830">Quan Sun</author><author pid="40/8710">Anika Oellrich</author><author pid="99/6255">Honghan Wu</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>The psycho-env corpus - research articles annotated for knowledge discovery on correlating mental diseases and environmental factors.</title><venue>KHD@IJCAI</venue><pages>36-40</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WangSOWD17</key><ee>http://ceur-ws.org/Vol-1891/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WangSOWD17</url></info>
+<url>URL#1527073</url>
 </hit>
-<hit score="1" id="1526848">
-<info><authors><author pid="182/9923">Alexandre Menif</author><author pid="06/2016">Christophe Guettier</author><author pid="62/7540">Eric Jacopin</author><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Applying Anytime Heuristic Search to Cost-Optimal HTN Planning.</title><venue>CGW@IJCAI</venue><pages>151-171</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MenifGJC17</key><doi>10.1007/978-3-319-75931-9_11</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_11</ee><url>https://dblp.org/rec/conf/ijcai/MenifGJC17</url></info>
-<url>URL#1526848</url>
+<hit score="1" id="1527225">
+<info><authors><author pid="22/2544">Jia Zhu</author><author pid="166/5153">Yuzhi Liang</author><author pid="03/2933">Changqin Huang</author><author pid="02/1640-7">Min Yang 0007</author><author pid="67/4008-5">Jing Xiao 0005</author><author pid="01/2880-1">Yong Tang 0001</author></authors><title>A Novel Approach for Adverse Events Detection.</title><venue>KHD@IJCAI</venue><pages>41-45</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhuLHYXT17</key><ee>http://ceur-ws.org/Vol-1891/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhuLHYXT17</url></info>
+<url>URL#1527225</url>
 </hit>
-<hit score="1" id="1526870">
-<info><authors><author pid="11/7832">Benjamin Négrevergne</author><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Distributed Nested Rollout Policy for SameGame.</title><venue>CGW@IJCAI</venue><pages>108-120</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NegrevergneC17</key><doi>10.1007/978-3-319-75931-9_8</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_8</ee><url>https://dblp.org/rec/conf/ijcai/NegrevergneC17</url></info>
-<url>URL#1526870</url>
-</hit>
-<hit score="1" id="1526941">
-<info><authors><author pid="22/2545">Thomas Philip Runarsson</author></authors><title>Deep Preference Neural Network for Move Prediction in Board Games.</title><venue>CGW@IJCAI</venue><pages>34-45</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Runarsson17</key><doi>10.1007/978-3-319-75931-9_3</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_3</ee><url>https://dblp.org/rec/conf/ijcai/Runarsson17</url></info>
-<url>URL#1526941</url>
-</hit>
-<hit score="1" id="1526980">
-<info><authors><author pid="195/6142">Chiara F. Sironi</author><author pid="32/436">Mark H. M. Winands</author></authors><title>On-Line Parameter Tuning for Monte-Carlo Tree Search in General Game Playing.</title><venue>CGW@IJCAI</venue><pages>75-95</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SironiW17</key><doi>10.1007/978-3-319-75931-9_6</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_6</ee><url>https://dblp.org/rec/conf/ijcai/SironiW17</url></info>
-<url>URL#1526980</url>
-</hit>
-<hit score="1" id="1527001">
-<info><authors><author pid="18/991">Nathan R. Sturtevant</author><author pid="99/7599">Abdallah Saffidine</author></authors><title>A Study of Forward Versus Backwards Endgame Solvers with Results in Chinese Checkers.</title><venue>CGW@IJCAI</venue><pages>121-136</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SturtevantS17</key><doi>10.1007/978-3-319-75931-9_9</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_9</ee><url>https://dblp.org/rec/conf/ijcai/SturtevantS17</url></info>
-<url>URL#1527001</url>
-</hit>
-<hit score="1" id="1527014">
-<info><authors><author pid="173/5743">Kei Takada</author><author pid="44/6409">Hiroyuki Iizuka</author><author pid="84/3643">Masahito Yamamoto</author></authors><title>Computer Hex Algorithm Using a Move Evaluation Method Based on a Convolutional Neural Network.</title><venue>CGW@IJCAI</venue><pages>19-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TakadaIY17</key><doi>10.1007/978-3-319-75931-9_2</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_2</ee><url>https://dblp.org/rec/conf/ijcai/TakadaIY17</url></info>
-<url>URL#1527014</url>
-</hit>
-<hit score="1" id="1527239">
-<info><authors><author pid="z/IngridZukerman">Ingrid Zukerman</author><author pid="173/6406">Andisheh Partovi</author><author pid="128/0235">Kai Zhan</author><author pid="214/3510">Nora Hamacher</author><author pid="08/8700">Julie C. Stout</author><author pid="07/8462">Masud Moshtaghi</author></authors><title>A Game for Eliciting Trust Between People and Devices Under Diverse Performance Conditions.</title><venue>CGW@IJCAI</venue><pages>172-190</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZukermanPZHSM17</key><doi>10.1007/978-3-319-75931-9_12</doi><ee>https://doi.org/10.1007/978-3-319-75931-9_12</ee><url>https://dblp.org/rec/conf/ijcai/ZukermanPZHSM17</url></info>
-<url>URL#1527239</url>
+<hit score="1" id="1596149">
+<info><authors><author pid="55/6241">Zina M. Ibrahim</author><author pid="99/6255">Honghan Wu</author><author pid="03/6214">Kerstin Bach</author><author pid="51/5120">Richard J. B. Dobson</author><author pid="186/9095">Spiros C. Denaxas</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="88/10847">Sadiq Sani</author></authors><title>Proceedings of the 2nd International Workshop on Knowledge Discovery in Healthcare Data Co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>KDH@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1891</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017khd</key><ee>http://ceur-ws.org/Vol-1891</ee><url>https://dblp.org/rec/conf/ijcai/2017khd</url></info>
+<url>URL#1596149</url>
 </hit>
 </hits>
 </result>

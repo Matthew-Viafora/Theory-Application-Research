@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755903">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"bridging2016\".\"bht</query>
+<query id="755933">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"knowpros2016\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">121.18</time>
+<time unit="msecs">128.50</time>
 <completions total="1" computed="1" sent="1">
-<c sc="9" dc="9" oc="9" id="18206992">:facetid:toc:db/conf/ijcai/bridging2016.bht</c>
+<c sc="11" dc="11" oc="11" id="18207059">:facetid:toc:db/conf/ijcai/knowpros2016.bht</c>
 </completions>
-<hits total="9" computed="9" sent="9" first="0">
-<hit score="1" id="1842111">
-<info><authors><author pid="212/3834">Ana Oliveira da Costa</author><author pid="130/8374">Emmanuelle-Anna Dietz</author><author pid="48/415">Steffen Hölldobler</author><author pid="98/813">Marco Ragni</author></authors><title>Syllogistic Reasoning under the Weak Completion Semantics.</title><venue>Bridging@IJCAI</venue><pages>5-19</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CostaDHR16</key><ee>http://ceur-ws.org/Vol-1651/12340003.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CostaDHR16</url></info>
-<url>URL#1842111</url>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1841980">
+<info><authors><author pid="167/9928">Ife Adebara</author><author pid="d/VDahl">Verónica Dahl</author></authors><title>Grammar Induction as Automated Transformation between Constraint Solving Models of Language.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AdebaraD16</key><ee>http://ceur-ws.org/Vol-1648/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AdebaraD16</url></info>
+<url>URL#1841980</url>
 </hit>
-<hit score="1" id="1842162">
-<info><authors><author pid="f/UlrichFurbach">Ulrich Furbach</author><author pid="157/6706">Florian Furbach</author><author pid="f/ChristianFreksa">Christian Freksa</author></authors><title>Relating Strong Spatial Cognition to Symbolic Problem Solving - An Example.</title><venue>Bridging@IJCAI</venue><pages>20-27</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FurbachFF16</key><ee>http://ceur-ws.org/Vol-1651/12340018.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FurbachFF16</url></info>
-<url>URL#1842162</url>
+<hit score="1" id="1842028">
+<info><authors><author pid="04/5344">Roman Barták</author><author pid="z/NengFaZhou">Neng-Fa Zhou</author><author pid="d/ADovier">Agostino Dovier</author></authors><title>Multiple-Origin-Multiple-Destination Path Finding with Minimal Arc Usage - Complexity and Models.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BartakZD16</key><ee>http://ceur-ws.org/Vol-1648/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BartakZD16</url></info>
+<url>URL#1842028</url>
 </hit>
-<hit score="1" id="1842163">
-<info><authors><author pid="f/UlrichFurbach">Ulrich Furbach</author><author pid="33/4876">Claudia Schon</author></authors><title>Commonsense Reasoning Meets Theorem Proving.</title><venue>Bridging@IJCAI</venue><pages>74-85</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FurbachS16</key><ee>http://ceur-ws.org/Vol-1651/12340072.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FurbachS16</url></info>
-<url>URL#1842163</url>
+<hit score="1" id="1842033">
+<info><authors><author pid="b/RachelBenEliyahuZohary">Rachel Ben-Eliyahu-Zohary</author><author pid="a/FabrizioAngiulli">Fabrizio Angiulli</author><author pid="90/3977">Fabio Fassetti</author><author pid="p/LuigiPalopoli">Luigi Palopoli</author></authors><title>Decomposing Minimal Models.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Ben-Eliyahu-Zohary16</key><ee>http://ceur-ws.org/Vol-1648/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Ben-Eliyahu-Zohary16</url></info>
+<url>URL#1842033</url>
 </hit>
-<hit score="1" id="1842187">
-<info><authors><author pid="09/3402">Naveen Sundar Govindarajulu</author><author pid="99/3934">Selmer Bringsjord</author></authors><title>Crowdsourcing Theorem Proving via Natural Games.</title><venue>Bridging@IJCAI</venue><pages>28-42</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GovindarajuluB16</key><ee>http://ceur-ws.org/Vol-1651/12340026.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GovindarajuluB16</url></info>
-<url>URL#1842187</url>
+<hit score="1" id="1842071">
+<info><authors><author pid="183/8523">Pamela Calvo</author><author pid="85/5866">Jorge A. Baier</author></authors><title>Assumption-Based Planning with Sensing via Contingent Planning.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CalvoB16</key><ee>http://ceur-ws.org/Vol-1648/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CalvoB16</url></info>
+<url>URL#1842071</url>
 </hit>
-<hit score="1" id="1842261">
-<info><authors><author pid="k/AntonisCKakas">Antonis C. Kakas</author><author pid="21/6730">Loizos Michael</author><author pid="t/FrancescaToni">Francesca Toni</author></authors><title>Argumentation - Reconciling Human and Automated Reasoning.</title><venue>Bridging@IJCAI</venue><pages>43-60</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KakasMT16</key><ee>http://ceur-ws.org/Vol-1651/12340041.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KakasMT16</url></info>
-<url>URL#1842261</url>
+<hit score="1" id="1842073">
+<info><authors><author pid="180/9168">Alberto Camacho</author><author pid="66/3221">Sheila A. McIlraith</author></authors><title>Strong-Cyclic Planning when Fairness is Not a Valid Assumption.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CamachoM16</key><ee>http://ceur-ws.org/Vol-1648/paper11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CamachoM16</url></info>
+<url>URL#1842073</url>
 </hit>
-<hit score="1" id="1842275">
-<info><authors><author pid="66/7920">Sangeet Khemlani</author></authors><title>Automating Human Inference.</title><venue>Bridging@IJCAI</venue><pages>1</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Khemlani16</key><ee>http://ceur-ws.org/Vol-1651/12340001.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Khemlani16</url></info>
-<url>URL#1842275</url>
+<hit score="1" id="1842074">
+<info><authors><author pid="180/9168">Alberto Camacho</author><author pid="183/8430">Eleni Triantafillou</author><author pid="70/1862">Christian J. Muise</author><author pid="85/5866">Jorge A. Baier</author><author pid="66/3221">Sheila A. McIlraith</author></authors><title>Non-Deterministic Planning with Temporally Extended Goals - Completing the Story for Finite and Infinite LTL (Amended Version).</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CamachoTMBM16</key><ee>http://ceur-ws.org/Vol-1648/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CamachoTMBM16</url></info>
+<url>URL#1842074</url>
 </hit>
-<hit score="1" id="1842458">
-<info><authors><author pid="98/813">Marco Ragni</author><author pid="130/8374">Emmanuelle-Anna Dietz</author><author pid="183/8503">Ilir Kola</author><author pid="48/415">Steffen Hölldobler</author></authors><title>Two-Valued Logic is Not Sufficient to Model Human Reasoning, but Three-Valued Logic is - A Formal Analysis.</title><venue>Bridging@IJCAI</venue><pages>61-73</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RagniDKH16</key><ee>http://ceur-ws.org/Vol-1651/12340059.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RagniDKH16</url></info>
-<url>URL#1842458</url>
+<hit score="1" id="1842243">
+<info><authors><author pid="133/1918">Leon Illanes</author><author pid="66/3221">Sheila A. McIlraith</author></authors><title>Numeric Planning via Search Space Abstraction.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IllanesM16</key><ee>http://ceur-ws.org/Vol-1648/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/IllanesM16</url></info>
+<url>URL#1842243</url>
 </hit>
-<hit score="1" id="1842511">
-<info><authors><author pid="23/5327">Aaron Sloman</author></authors><title>Natural Vision and Mathematics - Seeing Impossibilities.</title><venue>Bridging@IJCAI</venue><pages>86-101</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Sloman16</key><ee>http://ceur-ws.org/Vol-1651/12340084.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Sloman16</url></info>
-<url>URL#1842511</url>
+<hit score="1" id="1842282">
+<info><authors><author pid="156/9662">Roxane Koitz</author><author pid="w/FranzWotawa">Franz Wotawa</author></authors><title>On Structural Properties to Improve FMEA-Based Abductive Diagnosis.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KoitzW16</key><ee>http://ceur-ws.org/Vol-1648/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KoitzW16</url></info>
+<url>URL#1842282</url>
 </hit>
-<hit score="1" id="1911967">
-<info><authors><author pid="33/4876">Claudia Schon</author><author pid="f/UlrichFurbach">Ulrich Furbach</author></authors><title>Proceedings of the Workshop on Bridging the Gap between Human and Automated Reasoning co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York, USA, July 9, 2016.</title><venue>Bridging@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1651</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/ijcai/2016bridging</key><ee>http://ceur-ws.org/Vol-1651</ee><url>https://dblp.org/rec/conf/ijcai/2016bridging</url></info>
-<url>URL#1911967</url>
+<hit score="1" id="1842404">
+<info><authors><author pid="149/1311">Brent Mombourquette</author><author pid="70/1862">Christian J. Muise</author><author pid="66/3221">Sheila A. McIlraith</author></authors><title>Belief State Estimation for Planning via Approximate Logical Filtering and Smoothing.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MombourquetteMM16</key><ee>http://ceur-ws.org/Vol-1648/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MombourquetteMM16</url></info>
+<url>URL#1842404</url>
+</hit>
+<hit score="1" id="1842523">
+<info><authors><author pid="32/6197">Mohan Sridharan</author><author pid="23/306">Michael Gelfond</author></authors><title>Using Knowledge Representation and Reasoning Tools in the Design of Robots.</title><venue>KnowProS@IJCAI</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SridharanG16</key><ee>http://ceur-ws.org/Vol-1648/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SridharanG16</url></info>
+<url>URL#1842523</url>
+</hit>
+<hit score="1" id="1911968">
+<info><authors><author pid="04/5344">Roman Barták</author><author pid="m/TLMcCluskey">Thomas Leo McCluskey</author><author pid="p/EnricoPontelli">Enrico Pontelli</author></authors><title>Proceedings of the Workshop on Knowledge-based Techniques for Problem Solving and Reasoning co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New York City, USA, July 10, 2016.</title><venue>KnowProS@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1648</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/ijcai/2016knowpros</key><ee>http://ceur-ws.org/Vol-1648</ee><url>https://dblp.org/rec/conf/ijcai/2016knowpros</url></info>
+<url>URL#1911968</url>
 </hit>
 </hits>
 </result>

@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755184">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"linkdem2017\".\"bht</query>
+<query id="755205">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cea2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">119.53</time>
+<time unit="msecs">124.04</time>
 <completions total="1" computed="1" sent="1">
-<c sc="11" dc="11" oc="11" id="18207064">:facetid:toc:db/conf/ijcai/linkdem2017.bht</c>
+<c sc="11" dc="11" oc="11" id="18206995">:facetid:toc:db/conf/ijcai/cea2017.bht</c>
 </completions>
 <hits total="11" computed="11" sent="11" first="0">
-<hit score="1" id="1526399">
-<info><authors><author pid="205/1943">Darcy Allen</author><author pid="21/7614">Chris Berg</author><author pid="205/1921">Aaron Lane</author><author pid="115/8838">Jason Potts</author></authors><title>The Economics of Crypto-democracy.</title><venue>LINKDEM@IJCAI</venue><pages>63-73</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AllenBLP17</key><ee>http://ceur-ws.org/Vol-1897/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AllenBLP17</url></info>
-<url>URL#1526399</url>
+<hit score="1" id="1526637">
+<info><authors><author pid="89/6733">Atsushi Hashimoto</author><author pid="205/9059">Takumi Fujino</author><author pid="127/0284">Jun Harashima</author><author pid="51/4235">Masaaki Iiyama</author><author pid="61/6698">Michihiko Minoh</author></authors><title>Learning Food Appearance by a Supervision with Recipe Text.</title><venue>CEA@IJCAI</venue><pages>39-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HashimotoFHIM17</key><doi>10.1145/3106668.3106675</doi><ee>https://doi.org/10.1145/3106668.3106675</ee><url>https://dblp.org/rec/conf/ijcai/HashimotoFHIM17</url></info>
+<url>URL#1526637</url>
 </hit>
-<hit score="1" id="1526458">
-<info><authors><author pid="64/110">Rachelle Bosua</author><author pid="205/1945">Karin Clark</author><author pid="79/6336-1">Megan Richardson 0001</author><author pid="147/4482">Jeb Webb</author></authors><title>Intelligent Warning Systems - &apos;Nudges&apos; as a Form of User Control for Internet of Things Data Collection and Use.</title><venue>LINKDEM@IJCAI</venue><pages>86-97</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BosuaCRW17</key><ee>http://ceur-ws.org/Vol-1897/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BosuaCRW17</url></info>
-<url>URL#1526458</url>
+<hit score="1" id="1526704">
+<info><authors><author pid="198/8694">Yohei Kikuta</author><author pid="204/0162">Yuichiro Someya</author><author pid="25/1962">Leszek Rybicki</author></authors><title>Approaches to Food/Non-food Image Classification Using Deep Learning in Cookpad.</title><venue>CEA@IJCAI</venue><pages>35-38</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KikutaSR17</key><doi>10.1145/3106668.3106677</doi><ee>https://doi.org/10.1145/3106668.3106677</ee><url>https://dblp.org/rec/conf/ijcai/KikutaSR17</url></info>
+<url>URL#1526704</url>
 </hit>
-<hit score="1" id="1526598">
-<info><authors><author pid="205/1955">Sean Golz</author></authors><title>Linked Democracy 3.0 - Global Machine Translated Legislation in the Age of AI.</title><venue>LINKDEM@IJCAI</venue><pages>98-105</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Golz17</key><ee>http://ceur-ws.org/Vol-1897/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Golz17</url></info>
-<url>URL#1526598</url>
+<hit score="1" id="1526722">
+<info><authors><author pid="205/9058">Kazuma Kusu</author><author pid="205/9067">Nozomi Makino</author><author pid="165/6446">Takamitsu Shioi</author><author pid="99/5612">Kenji Hatano</author></authors><title>Calculating Cooking Recipe&apos;s Difficulty based on Cooking Activities.</title><venue>CEA@IJCAI</venue><pages>19-24</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KusuMSH17</key><doi>10.1145/3106668.3106673</doi><ee>https://doi.org/10.1145/3106668.3106673</ee><url>https://dblp.org/rec/conf/ijcai/KusuMSH17</url></info>
+<url>URL#1526722</url>
 </hit>
-<hit score="1" id="1526699">
-<info><authors><author pid="205/1924">Patrick Keyzer</author></authors><title>Open Rights or Secret Risk Assessments? New Challenges for Public Law in an Age of Artificial Intelligence and the Law.</title><venue>LINKDEM@IJCAI</venue><pages>6-14</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Keyzer17</key><ee>http://ceur-ws.org/Vol-1897/keynote.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Keyzer17</url></info>
-<url>URL#1526699</url>
+<hit score="1" id="1526881">
+<info><authors><author pid="205/9060">Kensuke Nobumoto</author><author pid="205/9062">Daiju Kato</author><author pid="162/3309">Masaki Endo</author><author pid="64/10884">Masaharu Hirota</author><author pid="71/4152-4">Hiroshi Ishikawa 0004</author></authors><title>Multilingualization of Restaurant Menu by Analogical Description.</title><venue>CEA@IJCAI</venue><pages>13-18</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NobumotoKEH017</key><doi>10.1145/3106668.3106671</doi><ee>https://doi.org/10.1145/3106668.3106671</ee><url>https://dblp.org/rec/conf/ijcai/NobumotoKEH017</url></info>
+<url>URL#1526881</url>
 </hit>
-<hit score="1" id="1526719">
-<info><authors><author pid="205/1988">Guilherme Krzisch</author><author pid="93/2933">Nir Oren</author><author pid="10/985">Felipe Meneguzzi</author></authors><title>Bounded-Monitor Placement in Normative Environments.</title><venue>LINKDEM@IJCAI</venue><pages>28-37</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KrzischeOM17</key><ee>http://ceur-ws.org/Vol-1897/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KrzischeOM17</url></info>
-<url>URL#1526719</url>
+<hit score="1" id="1526884">
+<info><authors><author pid="205/9064">Masaki Oguni</author><author pid="37/5295">Yohei Seki</author><author pid="205/9061">Risako Shimada</author><author pid="80/1047">Yu Hirate</author></authors><title>Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images.</title><venue>CEA@IJCAI</venue><pages>49-54</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OguniSSH17</key><doi>10.1145/3106668.3106676</doi><ee>https://doi.org/10.1145/3106668.3106676</ee><url>https://dblp.org/rec/conf/ijcai/OguniSSH17</url></info>
+<url>URL#1526884</url>
 </hit>
-<hit score="1" id="1526728">
-<info><authors><author pid="205/1941">Liam Lander</author><author pid="205/1965">Nichola Cooper</author></authors><title>Promoting Public Deliberation in Low Trust Environments - Australian Use Cases.</title><venue>LINKDEM@IJCAI</venue><pages>74-85</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LanderC17</key><ee>http://ceur-ws.org/Vol-1897/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LanderC17</url></info>
-<url>URL#1526728</url>
+<hit score="1" id="1526973">
+<info><authors><author pid="44/6889">Yasuyuki Shirai</author><author pid="38/7027">Wataru Kobayashi</author><author pid="205/9063">Kazuki Takei</author><author pid="205/9065">Kengo Yoshizawa</author><author pid="99/366">Naoki Sato</author></authors><title>Discovering New Creative Mixtures of Cooking Ingredients.</title><venue>CEA@IJCAI</venue><pages>31-34</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShiraiKTYS17</key><doi>10.1145/3106668.3106678</doi><ee>https://doi.org/10.1145/3106668.3106678</ee><url>https://dblp.org/rec/conf/ijcai/ShiraiKTYS17</url></info>
+<url>URL#1526973</url>
 </hit>
-<hit score="1" id="1526838">
-<info><authors><author pid="50/5315">Wolfgang Mayer</author><author pid="s/MarkusStumptner">Markus Stumptner</author><author pid="33/1594">Pompeu Casanovas</author><author pid="205/1972">Louis de Koker</author></authors><title>Towards a Linked Information Architecture for Integrated Law Enforcement.</title><venue>LINKDEM@IJCAI</venue><pages>15-27</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MayerSCK17</key><ee>http://ceur-ws.org/Vol-1897/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MayerSCK17</url></info>
-<url>URL#1526838</url>
+<hit score="1" id="1527015">
+<info><authors><author pid="38/7083">Kazuma Takahashi</author><author pid="44/9004">Keisuke Doman</author><author pid="99/8066">Yasutomo Kawanishi</author><author pid="94/4172">Takatsugu Hirayama</author><author pid="33/339">Ichiro Ide</author><author pid="00/2175">Daisuke Deguchi</author><author pid="92/4484">Hiroshi Murase</author></authors><title>Estimation of the Attractiveness of Food Photography Focusing on Main Ingredients.</title><venue>CEA@IJCAI</venue><pages>1-6</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TakahashiDKHIDM17</key><doi>10.1145/3106668.3106670</doi><ee>https://doi.org/10.1145/3106668.3106670</ee><url>https://dblp.org/rec/conf/ijcai/TakahashiDKHIDM17</url></info>
+<url>URL#1527015</url>
 </hit>
-<hit score="1" id="1526909">
-<info><authors><author pid="38/784">Marta Poblet</author><author pid="p/EnricPlaza">Enric Plaza</author></authors><title>Democracy Models and Civic Technologies - Tensions, Trilemmas, and Trade-offs.</title><venue>LINKDEM@IJCAI</venue><pages>51-62</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PobletP17</key><ee>http://ceur-ws.org/Vol-1897/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PobletP17</url></info>
-<url>URL#1526909</url>
+<hit score="1" id="1527040">
+<info><authors><author pid="205/9066">Akihiro Tsubakida</author><author pid="151/0359">Sosuke Amano</author><author pid="71/5426">Kiyoharu Aizawa</author><author pid="08/6424">Makoto Ogawa</author></authors><title>Prediction of Individual Eating Habits Using Short-Term Food Recording.</title><venue>CEA@IJCAI</venue><pages>45-48</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TsubakidaAAO17</key><doi>10.1145/3106668.3106679</doi><ee>https://doi.org/10.1145/3106668.3106679</ee><url>https://dblp.org/rec/conf/ijcai/TsubakidaAAO17</url></info>
+<url>URL#1527040</url>
 </hit>
-<hit score="1" id="1527147">
-<info><authors><author pid="77/6310">Hao Yan</author><author pid="56/8397">Allen Lavoie</author><author pid="30/2277">Sanmay Das</author></authors><title>The Perils of Classifying Political Orientation From Text.</title><venue>LINKDEM@IJCAI</venue><pages>38-50</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YanLD17</key><ee>http://ceur-ws.org/Vol-1897/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/YanLD17</url></info>
-<url>URL#1527147</url>
+<hit score="1" id="1527144">
+<info><authors><author pid="07/3918">Yoko Yamakata</author><author pid="c/JohnACarroll">John A. Carroll</author><author pid="44/6826">Shinsuke Mori</author></authors><title>A Comparison of Cooking Recipe Named Entities between Japanese and English.</title><venue>CEA@IJCAI</venue><pages>7-12</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YamakataCM17</key><doi>10.1145/3106668.3106672</doi><ee>https://doi.org/10.1145/3106668.3106672</ee><url>https://dblp.org/rec/conf/ijcai/YamakataCM17</url></info>
+<url>URL#1527144</url>
 </hit>
-<hit score="1" id="1527160">
-<info><authors><author pid="205/1968">Sue Ann Yap</author></authors><title>Equal Access to Online Legal Information through Democratisation of Technology - A Myth?</title><venue>LINKDEM@IJCAI</venue><pages>106-117</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Yap17</key><ee>http://ceur-ws.org/Vol-1897/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Yap17</url></info>
-<url>URL#1527160</url>
+<hit score="1" id="1527161">
+<info><authors><author pid="98/1282">Michiko Yasukawa</author><author pid="98/1631">Falk Scholer</author></authors><title>Concurrence of Word Concepts in Cooking Recipe Search.</title><venue>CEA@IJCAI</venue><pages>25-30</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YasukawaS17</key><doi>10.1145/3106668.3106674</doi><ee>https://doi.org/10.1145/3106668.3106674</ee><url>https://dblp.org/rec/conf/ijcai/YasukawaS17</url></info>
+<url>URL#1527161</url>
 </hit>
-<hit score="1" id="1596151">
-<info><authors><author pid="38/784">Marta Poblet</author><author pid="33/1594">Pompeu Casanovas</author><author pid="p/EnricPlaza">Enric Plaza</author></authors><title>Proceedings of the Workshop on Linked Democracy - Artificial Intelligence for Democratic Innovation co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 19, 2017.</title><venue>LINKDEM@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1897</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017linkdem</key><ee>http://ceur-ws.org/Vol-1897</ee><url>https://dblp.org/rec/conf/ijcai/2017linkdem</url></info>
-<url>URL#1596151</url>
+<hit score="1" id="1596148">
+<info><authors><author pid="33/339">Ichiro Ide</author><author pid="07/3918">Yoko Yamakata</author></authors><title>Proceedings of the 9th Workshop on Multimedia for Cooking and Eating Activities in conjunction with The 2017 International Joint Conference on Artificial Intelligence, Melbourne, Australia, August 20 - 20, 2017</title><venue>CEA@IJCAI</venue><publisher>ACM</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017cea</key><doi>10.1145/3106668</doi><ee>https://doi.org/10.1145/3106668</ee><url>https://dblp.org/rec/conf/ijcai/2017cea</url></info>
+<url>URL#1596148</url>
 </hit>
 </hits>
 </result>

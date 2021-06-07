@@ -1,55 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755302">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ai4km2017\".\"bht</query>
+<query id="755328">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"sml2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">127.31</time>
+<time unit="msecs">123.21</time>
 <completions total="1" computed="1" sent="1">
-<c sc="11" dc="11" oc="11" id="18206977">:facetid:toc:db/conf/ijcai/ai4km2017.bht</c>
+<c sc="10" dc="10" oc="10" id="18207073">:facetid:toc:db/conf/ijcai/sml2017.bht</c>
 </completions>
-<hits total="11" computed="11" sent="11" first="0">
-<hit score="1" id="877652">
-<info><authors><author pid="10/4546">Eunika Mercier-Laurent</author><author pid="08/4570">Danielle Boulanger</author></authors><title>Artificial Intelligence for Knowledge Management - 5th IFIP WG 12.6 International Workshop, AI4KM 2017, Held at IJCAI 2017, Melbourne, VIC, Australia, August 20, 2017, Revised Selected Papers</title><venue>AI4KM@IJCAI</venue><venue>IFIP Advances in Information and Communication Technology</venue><volume>571</volume><publisher>Springer</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2017ai4km</key><doi>10.1007/978-3-030-29904-0</doi><ee>https://doi.org/10.1007/978-3-030-29904-0</ee><url>https://dblp.org/rec/conf/ijcai/2017ai4km</url></info>
-<url>URL#877652</url>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="1526398">
+<info><authors><author pid="202/8950">Abdullah Semran Alharbi</author><author pid="74/4581">Yuefeng Li</author><author pid="29/3925-1">Yue Xu 0001</author></authors><title>Enhancing Topical Word Semantic for Relevance Feature Selection.</title><venue>SML@IJCAI</venue><pages>27-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlharbiL017</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlharbiL017</url></info>
+<url>URL#1526398</url>
 </hit>
-<hit score="1" id="1526406">
-<info><authors><author pid="246/2788">Imane El Amrani</author><author pid="234/5079">Abdelmjid Saka</author><author pid="239/2536">Nada Matta</author><author pid="246/2750">Taoufik Ouazzani Chahdi</author></authors><title>Modeling the Craftsmen Know-How - A Case Study Using MASK Methodology.</title><venue>AI4KM@IJCAI</venue><pages>66-83</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AmraniSMC17</key><doi>10.1007/978-3-030-29904-0_6</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_6</ee><url>https://dblp.org/rec/conf/ijcai/AmraniSMC17</url></info>
-<url>URL#1526406</url>
+<hit score="1" id="1526501">
+<info><authors><author pid="00/890">Heng Chen</author><author pid="118/3428">Yongjuan Zhang</author><author pid="261/0077">Chunhong Lin</author><author pid="94/905">Liwen Zhang</author><author pid="69/510">Tao Chen</author></authors><title>Construction of Viral Hepatitis Bilingual Bibliographic Database with Protein Text Mining and Information Integration Functions.</title><venue>SML@IJCAI</venue><pages>57-65</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenZLZC17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenZLZC17</url></info>
+<url>URL#1526501</url>
 </hit>
-<hit score="1" id="1526534">
-<info><authors><author pid="219/7150">Kévin Deturck</author><author pid="127/1485">Namrata Patel</author><author pid="33/10487">Pierre-Alain Avouac</author><author pid="14/5924">Cédric Lopez</author><author pid="87/8156">Damien Nouvel</author><author pid="60/1904">Ioannis Partalas</author><author pid="24/4792">Frédérique Segond</author></authors><title>Detecting Influencial Users in Social Networks - Analysing Graph-Based and Linguistic Perspectives.</title><venue>AI4KM@IJCAI</venue><pages>113-131</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DeturckPALNPS17</key><doi>10.1007/978-3-030-29904-0_9</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_9</ee><url>https://dblp.org/rec/conf/ijcai/DeturckPALNPS17</url></info>
-<url>URL#1526534</url>
+<hit score="1" id="1526586">
+<info><authors><author pid="89/4402-16">Yang Gao 0016</author><author pid="204/2256">Linjing Wei</author><author pid="27/8686">Heyan Huang</author><author pid="33/85">Qian Liu</author></authors><title>Topical Sentence Embedding for Query Focused Document Summarization.</title><venue>SML@IJCAI</venue><pages>21-26</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GaoWHL17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GaoWHL17</url></info>
+<url>URL#1526586</url>
 </hit>
-<hit score="1" id="1526538">
-<info><authors><author pid="158/3139">Piotr Domagala</author></authors><title>The Role of Knowledge Management in IT Projects.</title><venue>AI4KM@IJCAI</venue><pages>40-51</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Domagala17</key><doi>10.1007/978-3-030-29904-0_4</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_4</ee><url>https://dblp.org/rec/conf/ijcai/Domagala17</url></info>
-<url>URL#1526538</url>
+<hit score="1" id="1526800">
+<info><authors><author pid="261/0289">Evan Dennison S. Livelo</author><author pid="260/9882">Andrea Nicole O. Ver</author><author pid="261/0166">Jedrick L. Chua</author><author pid="261/0408">John Paul S. Yao</author><author pid="97/8063">Charibeth K. Cheng</author></authors><title>A Hybrid Agent for Automatically Determining and Extracting the 5Ws of Filipino News Articles.</title><venue>SML@IJCAI</venue><pages>50-56</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiveloVCYC17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LiveloVCYC17</url></info>
+<url>URL#1526800</url>
 </hit>
-<hit score="1" id="1526646">
-<info><authors><author pid="251/7582">Katarzyna Holowinska</author></authors><title>Selected Knowledge Management Aspects in Modern Education.</title><venue>AI4KM@IJCAI</venue><pages>29-39</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Holowinska17</key><doi>10.1007/978-3-030-29904-0_3</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_3</ee><url>https://dblp.org/rec/conf/ijcai/Holowinska17</url></info>
-<url>URL#1526646</url>
+<hit score="1" id="1526822">
+<info><authors><author pid="85/10856">Fenglong Ma</author><author pid="81/8017">Radha Chitta</author><author pid="22/6491">Saurabh Kataria</author><author pid="01/2356">Jing Zhou</author><author pid="199/2288">Palghat Ramesh</author><author pid="99/5088">Tong Sun</author><author pid="67/4834-4">Jing Gao 0004</author></authors><title>Long-Term Memory Networks for Question Answering.</title><venue>SML@IJCAI</venue><pages>7-14</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MaCKZRS017</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MaCKZRS017</url></info>
+<url>URL#1526822</url>
 </hit>
-<hit score="1" id="1526836">
-<info><authors><author pid="239/2536">Nada Matta</author><author pid="136/9473">Tatiana Reyes</author><author pid="196/5072">Florian Bratec</author></authors><title>Knowledge Extracting from Eco-Design Activity.</title><venue>AI4KM@IJCAI</venue><pages>84-98</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MattaRB17</key><doi>10.1007/978-3-030-29904-0_7</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_7</ee><url>https://dblp.org/rec/conf/ijcai/MattaRB17</url></info>
-<url>URL#1526836</url>
+<hit score="1" id="1526845">
+<info><authors><author pid="233/8496">Luis Palacios Medinacelli</author><author pid="08/6794">Yue Ma</author><author pid="44/692">Gaëlle Lortal</author><author pid="76/513">Claire Laudy</author><author pid="15/3158">Chantal Reynaud</author></authors><title>Data Driven Concept Refinement to Support Avionics Maintenance.</title><venue>SML@IJCAI</venue><pages>39-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MedinacelliMLLR17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MedinacelliMLLR17</url></info>
+<url>URL#1526845</url>
 </hit>
-<hit score="1" id="1526891">
-<info><authors><author pid="29/1114">Mieczyslaw L. Owoc</author><author pid="120/3011">Pawel Weichbroth</author></authors><title>Dynamical Aspects of Knowledge Evolution - Tracking Changes in Knowledge Bases.</title><venue>AI4KM@IJCAI</venue><pages>52-65</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OwocW17</key><doi>10.1007/978-3-030-29904-0_5</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_5</ee><url>https://dblp.org/rec/conf/ijcai/OwocW17</url></info>
-<url>URL#1526891</url>
+<hit score="1" id="1526926">
+<info><authors><author pid="61/8343">Ritesh Ratti</author><author pid="00/5123">Himanshu Kapoor</author><author pid="167/1994">Shikhar Sharma</author><author pid="217/4842">Anshul Solanki</author><author pid="155/5800">Pankaj Sachdeva</author></authors><title>Semantic Extraction of Named Entities From Bank Wire Text.</title><venue>SML@IJCAI</venue><pages>34-38</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RattiKSSS17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RattiKSSS17</url></info>
+<url>URL#1526926</url>
 </hit>
-<hit score="1" id="1526911">
-<info><authors><author pid="138/3862">Maciej Pondel</author><author pid="183/9844">Jolanta Pondel</author></authors><title>Selected It Tools in Enterprise Knowledge Management Processes - Overview and Efficiency Study.</title><venue>AI4KM@IJCAI</venue><pages>12-28</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PondelP17</key><doi>10.1007/978-3-030-29904-0_2</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_2</ee><url>https://dblp.org/rec/conf/ijcai/PondelP17</url></info>
-<url>URL#1526911</url>
+<hit score="1" id="1526947">
+<info><authors><author pid="18/11429">Andreea Salinca</author></authors><title>Convolutional Neural Networks for Sentiment Classification on Business Reviews.</title><venue>SML@IJCAI</venue><pages>45-49</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Salinca17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Salinca17</url></info>
+<url>URL#1526947</url>
 </hit>
-<hit score="1" id="1526916">
-<info><authors><author pid="198/5288">Lukasz Przysucha</author></authors><title>Knowledge Management in Corporations - Synergy Between People and Technology. Barriers and Benefits of Implementation.</title><venue>AI4KM@IJCAI</venue><pages>1-11</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Przysucha17</key><doi>10.1007/978-3-030-29904-0_1</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_1</ee><url>https://dblp.org/rec/conf/ijcai/Przysucha17</url></info>
-<url>URL#1526916</url>
+<hit score="1" id="1526965">
+<info><authors><author pid="02/2545">Yang Shao</author></authors><title>A Simple Neural Network For Evaluating Semantic Textual Similarity.</title><venue>SML@IJCAI</venue><pages>15-20</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Shao17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Shao17</url></info>
+<url>URL#1526965</url>
 </hit>
-<hit score="1" id="1527030">
-<info><authors><author pid="227/0696">Sammy Teffali</author><author pid="239/2536">Nada Matta</author><author pid="92/9440">Eric Châtelet</author></authors><title>Representing Stress Impact in Crisis Management.</title><venue>AI4KM@IJCAI</venue><pages>99-112</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TeffaliMC17</key><doi>10.1007/978-3-030-29904-0_8</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_8</ee><url>https://dblp.org/rec/conf/ijcai/TeffaliMC17</url></info>
-<url>URL#1527030</url>
-</hit>
-<hit score="1" id="1527046">
-<info><authors><author pid="251/7573">Dominique Patrick Verdejo</author><author pid="10/4546">Eunika Mercier-Laurent</author></authors><title>Video Intelligence as a Component of a Global Security System.</title><venue>AI4KM@IJCAI</venue><pages>132-145</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VerdejoM17</key><doi>10.1007/978-3-030-29904-0_10</doi><ee>https://doi.org/10.1007/978-3-030-29904-0_10</ee><url>https://dblp.org/rec/conf/ijcai/VerdejoM17</url></info>
-<url>URL#1527046</url>
+<hit score="1" id="1596152">
+<info><authors><author pid="r/KanagasabaiRajaraman">Rajaraman Kanagasabai</author><author pid="118/0939">Ahsan Morshed</author><author pid="77/3904ohio">Hemant Purohit</author></authors><title>Proceedings of the IJCAI Workshop on Semantic Machine Learning (SML 2017) co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>SML@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1986</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017sml</key><ee>http://ceur-ws.org/Vol-1986</ee><url>https://dblp.org/rec/conf/ijcai/2017sml</url></info>
+<url>URL#1596152</url>
 </hit>
 </hits>
 </result>

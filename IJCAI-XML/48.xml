@@ -1,63 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="756063">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2016\".\"bht</query>
+<query id="756081">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cmna2016\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">131.61</time>
+<time unit="msecs">121.64</time>
 <completions total="1" computed="1" sent="1">
-<c sc="13" dc="13" oc="13" id="18206998">:facetid:toc:db/conf/ijcai/cgw2016.bht</c>
+<c sc="11" dc="11" oc="11" id="18207001">:facetid:toc:db/conf/ijcai/cmna2016.bht</c>
 </completions>
-<hits total="13" computed="13" sent="13" first="0">
-<hit score="1" id="1596143">
-<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="32/436">Mark H. M. Winands</author><author pid="98/3919">Stefan Edelkamp</author><author pid="67/2985">Stephan Schiffel</author><author pid="t/MichaelThielscher">Michael Thielscher</author><author pid="47/767">Julian Togelius</author></authors><title>Computer Games - 5th Workshop on Computer Games, CGW 2016, and 5th Workshop on General Intelligence in Game-Playing Agents, GIGA 2016, Held in Conjunction with the 25th International Conference on Artificial Intelligence, IJCAI 2016, New York City, NY, USA, July 9-10, 2016, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>705</volume><year>2017</year><type>Editorship</type><key>conf/ijcai/2016cgw</key><doi>10.1007/978-3-319-57969-6</doi><ee>https://doi.org/10.1007/978-3-319-57969-6</ee><url>https://dblp.org/rec/conf/ijcai/2016cgw</url></info>
-<url>URL#1596143</url>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1596144">
+<info><authors><author pid="47/4875">Floris Bex</author><author pid="23/4422">Floriana Grasso</author><author pid="48/6123">Nancy Green</author></authors><title>Proceedings of the 16th Workshop on Computational Models of Natural Argument co-located with IJCAI 2016, New York, USA, July 9th, 2016.</title><venue>CMNA@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1876</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2016cmna</key><ee>http://ceur-ws.org/Vol-1876</ee><url>https://dblp.org/rec/conf/ijcai/2016cmna</url></info>
+<url>URL#1596144</url>
 </hit>
-<hit score="1" id="1842020">
-<info><authors><author pid="17/9304">Hendrik Baier</author></authors><title>A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta.</title><venue>CGW@IJCAI</venue><pages>57-70</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Baier16</key><doi>10.1007/978-3-319-57969-6_5</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_5</ee><url>https://dblp.org/rec/conf/ijcai/Baier16</url></info>
-<url>URL#1842020</url>
+<hit score="1" id="1841975">
+<info><authors><author pid="84/4452">Mark Aakhus</author><author pid="44/70">Smaranda Muresan</author><author pid="97/1141">Nina Wacholder</author></authors><title>An Argument-Ontology for a Response-Centered Approach to Argumentation Mining.</title><venue>CMNA@IJCAI</venue><pages>40-42</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AakhusMW16</key><ee>http://ceur-ws.org/Vol-1876/paper08.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AakhusMW16</url></info>
+<url>URL#1841975</url>
 </hit>
-<hit score="1" id="1842045">
-<info><authors><author pid="149/1420">Jason M. Bindewald</author><author pid="59/722">Gilbert L. Peterson</author><author pid="94/2518">Michael E. Miller</author></authors><title>Clustering-Based Online Player Modeling.</title><venue>CGW@IJCAI</venue><pages>86-100</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BindewaldPM16</key><doi>10.1007/978-3-319-57969-6_7</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_7</ee><url>https://dblp.org/rec/conf/ijcai/BindewaldPM16</url></info>
-<url>URL#1842045</url>
+<hit score="1" id="1842108">
+<info><authors><author pid="212/4468">Shauna Concannon</author><author pid="35/5227">Patrick G. T. Healey</author><author pid="06/3180">Matthew Purver</author></authors><title>How Natural is Argument in Natural Dialogue?</title><venue>CMNA@IJCAI</venue><pages>43-48</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ConcannonHP16</key><ee>http://ceur-ws.org/Vol-1876/paper09.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ConcannonHP16</url></info>
+<url>URL#1842108</url>
 </hit>
-<hit score="1" id="1842080">
-<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Nested Rollout Policy Adaptation with Selective Policies.</title><venue>CGW@IJCAI</venue><pages>44-56</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Cazenave16</key><doi>10.1007/978-3-319-57969-6_4</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_4</ee><url>https://dblp.org/rec/conf/ijcai/Cazenave16</url></info>
-<url>URL#1842080</url>
+<hit score="1" id="1842190">
+<info><authors><author pid="48/6123">Nancy Green</author></authors><title>Implementing Argumentation Schemes as Logic Programs.</title><venue>CMNA@IJCAI</venue><pages>1-7</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Green16</key><ee>http://ceur-ws.org/Vol-1876/cmna16-PC.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Green16</url></info>
+<url>URL#1842190</url>
 </hit>
-<hit score="1" id="1842137">
-<info><authors><author pid="98/3919">Stefan Edelkamp</author></authors><title>Deep or Wide? Learning Policy and Value Neural Networks for Combinatorial Games.</title><venue>CGW@IJCAI</venue><pages>19-33</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Edelkamp16</key><doi>10.1007/978-3-319-57969-6_2</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_2</ee><url>https://dblp.org/rec/conf/ijcai/Edelkamp16</url></info>
-<url>URL#1842137</url>
+<hit score="1" id="1842248">
+<info><authors><author pid="218/1919">Sally Jackson</author><author pid="85/9514">Jodi Schneider</author></authors><title>Argumentation Devices in Reasoning About Health.</title><venue>CMNA@IJCAI</venue><pages>49-53</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JacksonS16</key><ee>http://ceur-ws.org/Vol-1876/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/JacksonS16</url></info>
+<url>URL#1842248</url>
 </hit>
-<hit score="1" id="1842179">
-<info><authors><author pid="25/8296">Kellen Gillespie</author><author pid="09/5342">Michael W. Floyd</author><author pid="98/1468">Matthew Molineaux</author><author pid="43/1057">Swaroop Vattam</author><author pid="25/557">David W. Aha</author></authors><title>Semantic Classification of Utterances in a Language-Driven Game.</title><venue>CGW@IJCAI</venue><pages>116-129</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GillespieFMVA16</key><doi>10.1007/978-3-319-57969-6_9</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_9</ee><url>https://dblp.org/rec/conf/ijcai/GillespieFMVA16</url></info>
-<url>URL#1842179</url>
+<hit score="1" id="1842408">
+<info><authors><author pid="263/7770">Mariela Morveli Espinoza</author><author pid="148/7259">Ayslan Trevizan Possebom</author><author pid="75/4008">Cesar A. Tacla</author></authors><title>Strength calculation of rewards.</title><venue>CMNA@IJCAI</venue><pages>8-13</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Morveli-Espinoza16</key><ee>http://ceur-ws.org/Vol-1876/paper02.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Morveli-Espinoza16</url></info>
+<url>URL#1842408</url>
 </hit>
-<hit score="1" id="1842240">
-<info><authors><author pid="244/4723">Aline Hufschmitt</author><author pid="12/3351">Jean-Noël Vittaut</author><author pid="67/9142">Jean Méhat</author></authors><title>A General Approach of Game Description Decomposition for General Game Playing.</title><venue>CGW@IJCAI</venue><pages>165-177</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HufschmittVM16</key><doi>10.1007/978-3-319-57969-6_12</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_12</ee><url>https://dblp.org/rec/conf/ijcai/HufschmittVM16</url></info>
-<url>URL#1842240</url>
+<hit score="1" id="1842449">
+<info><authors><author pid="148/7259">Ayslan Trevizan Possebom</author></authors><title>A Proposal for Consensual Decision Making using Argumentation.</title><venue>CMNA@IJCAI</venue><pages>14-15</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Possebom16</key><ee>http://ceur-ws.org/Vol-1876/paper03.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Possebom16</url></info>
+<url>URL#1842449</url>
 </hit>
-<hit score="1" id="1842480">
-<info><authors><author pid="67/2985">Stephan Schiffel</author></authors><title>Grounding GDL Game Descriptions.</title><venue>CGW@IJCAI</venue><pages>152-164</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Schiffel16</key><doi>10.1007/978-3-319-57969-6_11</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_11</ee><url>https://dblp.org/rec/conf/ijcai/Schiffel16</url></info>
-<url>URL#1842480</url>
+<hit score="1" id="1842469">
+<info><authors><author pid="223/7607">Sebastian Ruan</author><author pid="16/1836">Chrysanne Di Marco</author><author pid="67/8694">Randy Allen Harris</author></authors><title>Rhetorical Figure Annotation with XML.</title><venue>CMNA@IJCAI</venue><pages>23-33</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RuanMH16</key><ee>http://ceur-ws.org/Vol-1876/paper06.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RuanMH16</url></info>
+<url>URL#1842469</url>
 </hit>
-<hit score="1" id="1842509">
-<info><authors><author pid="195/6142">Chiara F. Sironi</author><author pid="32/436">Mark H. M. Winands</author></authors><title>Optimizing Propositional Networks.</title><venue>CGW@IJCAI</venue><pages>133-151</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SironiW16</key><doi>10.1007/978-3-319-57969-6_10</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_10</ee><url>https://dblp.org/rec/conf/ijcai/SironiW16</url></info>
-<url>URL#1842509</url>
+<hit score="1" id="1842481">
+<info><authors><author pid="260/9828">Aernout H. J. Schmidt</author><author pid="261/0013">Kunbei Zhang</author></authors><title>Unpacking the Mandate of Heaven Argument.</title><venue>CMNA@IJCAI</venue><pages>22-23</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SchmidtZ16</key><ee>http://ceur-ws.org/Vol-1876/paper05.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SchmidtZ16</url></info>
+<url>URL#1842481</url>
 </hit>
-<hit score="1" id="1842538">
-<info><authors><author pid="180/5787">Jakub Sygnowski</author><author pid="60/4402">Henryk Michalewski</author></authors><title>Learning from the Memory of Atari 2600.</title><venue>CGW@IJCAI</venue><pages>71-85</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SygnowskiM16</key><doi>10.1007/978-3-319-57969-6_6</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_6</ee><url>https://dblp.org/rec/conf/ijcai/SygnowskiM16</url></info>
-<url>URL#1842538</url>
+<hit score="1" id="1842483">
+<info><authors><author pid="89/295">Robert Schrag</author><author pid="260/9783">Joan McIntyre</author><author pid="261/0141">Melonie Richey</author><author pid="52/3939">Kathryn B. Laskey</author><author pid="49/10690">Edward Wright</author><author pid="08/5803">Robert Kerr</author><author pid="83/466">Robert Johnson</author><author pid="163/5652">Bryan Ware</author><author pid="57/2541">Robert Hoffman</author></authors><title>Probabilistic Argument Maps for Intelligence Analysis - Completed Capabilities.</title><venue>CMNA@IJCAI</venue><pages>34-39</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SchragMRLWKJWH16</key><ee>http://ceur-ws.org/Vol-1876/paper07.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SchragMRLWKJWH16</url></info>
+<url>URL#1842483</url>
 </hit>
-<hit score="1" id="1842552">
-<info><authors><author pid="02/6698">Fujio Toriumi</author><author pid="69/509">Hirotaka Osawa</author><author pid="123/2209">Michimasa Inaba</author><author pid="16/5288">Daisuke Katagami</author><author pid="40/5899">Kosuke Shinoda</author><author pid="23/603">Hitoshi Matsubara</author></authors><title>AI Wolf Contest - Development of Game AI Using Collective Intelligence -.</title><venue>CGW@IJCAI</venue><pages>101-115</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ToriumiOIKSM16</key><doi>10.1007/978-3-319-57969-6_8</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_8</ee><url>https://dblp.org/rec/conf/ijcai/ToriumiOIKSM16</url></info>
-<url>URL#1842552</url>
-</hit>
-<hit score="1" id="1842626">
-<info><authors><author pid="178/8641">Chenjun Xiao</author><author pid="m/MartinMuller3">Martin Müller 0003</author></authors><title>Integrating Factorization Ranked Features in MCTS - An Experimental Study.</title><venue>CGW@IJCAI</venue><pages>34-43</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Xiao016</key><doi>10.1007/978-3-319-57969-6_3</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_3</ee><url>https://dblp.org/rec/conf/ijcai/Xiao016</url></info>
-<url>URL#1842626</url>
-</hit>
-<hit score="1" id="1842660">
-<info><authors><author pid="179/2526">Kenny Young</author><author pid="156/0016">Gautham Vasan</author><author pid="h/RyanBHayward">Ryan Hayward</author></authors><title>NeuroHex - A Deep Q-learning Hex Agent.</title><venue>CGW@IJCAI</venue><pages>3-18</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YoungVH16</key><doi>10.1007/978-3-319-57969-6_1</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_1</ee><url>https://dblp.org/rec/conf/ijcai/YoungVH16</url></info>
-<url>URL#1842660</url>
+<hit score="1" id="1842484">
+<info><authors><author pid="89/295">Robert Schrag</author><author pid="49/10690">Edward Wright</author><author pid="08/5803">Robert Kerr</author><author pid="83/466">Robert Johnson</author><author pid="163/5652">Bryan Ware</author><author pid="260/9783">Joan McIntyre</author><author pid="261/0141">Melonie Richey</author><author pid="52/3939">Kathryn B. Laskey</author><author pid="57/2541">Robert Hoffman</author></authors><title>Probabilistic Argument Maps for Intelligence Analysis - Capabilities Underway.</title><venue>CMNA@IJCAI</venue><pages>16-21</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SchragWKJWMRLH16</key><ee>http://ceur-ws.org/Vol-1876/paper04.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SchragWKJWMRLH16</url></info>
+<url>URL#1842484</url>
 </hit>
 </hits>
 </result>

@@ -1,39 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755166">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"socinf2017\".\"bht</query>
+<query id="755184">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"linkdem2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">124.82</time>
+<time unit="msecs">119.53</time>
 <completions total="1" computed="1" sent="1">
-<c sc="7" dc="7" oc="7" id="18207076">:facetid:toc:db/conf/ijcai/socinf2017.bht</c>
+<c sc="11" dc="11" oc="11" id="18207064">:facetid:toc:db/conf/ijcai/linkdem2017.bht</c>
 </completions>
-<hits total="7" computed="7" sent="7" first="0">
-<hit score="1" id="1526373">
-<info><authors><author pid="06/1681-1">Sebastian Stein 0001</author><author pid="55/11514">Soheil Eshghi</author><author pid="30/10806">Setareh Maghsudi</author><author pid="03/3843">Leandros Tassiulas</author><author pid="33/3184">Rachel K. E. Bellamy</author><author pid="j/NicholasRJennings">Nicholas R. Jennings</author></authors><title>Heuristic Algorithms for Influence Maximization in Partially Observable Social Networks.</title><venue>SocInf@IJCAI</venue><pages>20-32</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0001EMTBJ17</key><ee>http://ceur-ws.org/Vol-1893/Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0001EMTBJ17</url></info>
-<url>URL#1526373</url>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1526399">
+<info><authors><author pid="205/1943">Darcy Allen</author><author pid="21/7614">Chris Berg</author><author pid="205/1921">Aaron Lane</author><author pid="115/8838">Jason Potts</author></authors><title>The Economics of Crypto-democracy.</title><venue>LINKDEM@IJCAI</venue><pages>63-73</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AllenBLP17</key><ee>http://ceur-ws.org/Vol-1897/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AllenBLP17</url></info>
+<url>URL#1526399</url>
 </hit>
-<hit score="1" id="1526400">
-<info><authors><author pid="57/572">Teresa Alsinet</author><author pid="37/2912">Josep Argelich</author><author pid="31/267">Ramón Béjar</author><author pid="15/2411">Jordi Planes</author><author pid="204/2725">Joel Cemeli</author><author pid="204/2663">Cristian Sanahuja</author></authors><title>A Distributed Approach for the Analysis of Discussions in Twitter.</title><venue>SocInf@IJCAI</venue><pages>45-56</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlsinetABPCS17</key><ee>http://ceur-ws.org/Vol-1893/Paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlsinetABPCS17</url></info>
-<url>URL#1526400</url>
+<hit score="1" id="1526458">
+<info><authors><author pid="64/110">Rachelle Bosua</author><author pid="205/1945">Karin Clark</author><author pid="79/6336-1">Megan Richardson 0001</author><author pid="147/4482">Jeb Webb</author></authors><title>Intelligent Warning Systems - &apos;Nudges&apos; as a Form of User Control for Internet of Things Data Collection and Use.</title><venue>LINKDEM@IJCAI</venue><pages>86-97</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BosuaCRW17</key><ee>http://ceur-ws.org/Vol-1897/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BosuaCRW17</url></info>
+<url>URL#1526458</url>
 </hit>
-<hit score="1" id="1526930">
-<info><authors><author pid="65/5905">Da Qi Ren</author><author pid="204/2902">Jianhuan Wen</author><author pid="180/6222">Zhenya Li</author></authors><title>A Preliminary Approach for Modeling the Energy Efficiency for K-Means Clustering Applications in Data Centers.</title><venue>SocInf@IJCAI</venue><pages>57-70</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RenWL17</key><ee>http://ceur-ws.org/Vol-1893/Paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RenWL17</url></info>
-<url>URL#1526930</url>
+<hit score="1" id="1526598">
+<info><authors><author pid="205/1955">Sean Golz</author></authors><title>Linked Democracy 3.0 - Global Machine Translated Legislation in the Age of AI.</title><venue>LINKDEM@IJCAI</venue><pages>98-105</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Golz17</key><ee>http://ceur-ws.org/Vol-1897/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Golz17</url></info>
+<url>URL#1526598</url>
 </hit>
-<hit score="1" id="1527068">
-<info><authors><author pid="41/3241">Yuan Wang</author><author pid="191/6097">Hangyu Mao</author><author pid="39/3878">Zhen Xiao</author></authors><title>Identifying Influential Users&apos; Professions via the Microblogs They Forward.</title><venue>SocInf@IJCAI</venue><pages>33-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WangMX17</key><ee>http://ceur-ws.org/Vol-1893/Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WangMX17</url></info>
-<url>URL#1527068</url>
+<hit score="1" id="1526699">
+<info><authors><author pid="205/1924">Patrick Keyzer</author></authors><title>Open Rights or Secret Risk Assessments? New Challenges for Public Law in an Age of Artificial Intelligence and the Law.</title><venue>LINKDEM@IJCAI</venue><pages>6-14</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Keyzer17</key><ee>http://ceur-ws.org/Vol-1897/keynote.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Keyzer17</url></info>
+<url>URL#1526699</url>
 </hit>
-<hit score="1" id="1527094">
-<info><authors><author pid="164/1648">Bryan Wilder</author><author pid="43/3631">Nicole Immorlica</author><author pid="32/3768">Eric Rice</author><author pid="67/2667">Milind Tambe</author></authors><title>Influence Maximization with an Unknown Network by Exploiting Community Structure.</title><venue>SocInf@IJCAI</venue><pages>2-7</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WilderIRT17</key><ee>http://ceur-ws.org/Vol-1893/Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WilderIRT17</url></info>
-<url>URL#1527094</url>
+<hit score="1" id="1526719">
+<info><authors><author pid="205/1988">Guilherme Krzisch</author><author pid="93/2933">Nir Oren</author><author pid="10/985">Felipe Meneguzzi</author></authors><title>Bounded-Monitor Placement in Normative Environments.</title><venue>LINKDEM@IJCAI</venue><pages>28-37</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KrzischeOM17</key><ee>http://ceur-ws.org/Vol-1897/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KrzischeOM17</url></info>
+<url>URL#1526719</url>
 </hit>
-<hit score="1" id="1527140">
-<info><authors><author pid="121/3511">Amulya Yadav</author><author pid="190/8655">Aida Rahmattalabi</author><author pid="36/3834">Ece Kamar</author><author pid="08/3904">Phebe Vayanos</author><author pid="67/2667">Milind Tambe</author><author pid="198/1185">Venil Loyd Noronha</author></authors><title>Explanation Systems for Influence Maximization Algorithms.</title><venue>SocInf@IJCAI</venue><pages>8-19</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YadavRKVTN17</key><ee>http://ceur-ws.org/Vol-1893/Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/YadavRKVTN17</url></info>
-<url>URL#1527140</url>
+<hit score="1" id="1526728">
+<info><authors><author pid="205/1941">Liam Lander</author><author pid="205/1965">Nichola Cooper</author></authors><title>Promoting Public Deliberation in Low Trust Environments - Australian Use Cases.</title><venue>LINKDEM@IJCAI</venue><pages>74-85</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LanderC17</key><ee>http://ceur-ws.org/Vol-1897/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LanderC17</url></info>
+<url>URL#1526728</url>
 </hit>
-<hit score="1" id="1596153">
-<info><authors><author pid="88/301">Marcelo Gabriel Armentano</author><author pid="t/JieTang">Jie Tang 0001</author><author pid="58/9344">Virginia Yannibelli</author></authors><title>Proceedings of the 3rd International Workshop on Social Influence Analysis co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 19, 2017.</title><venue>SocInf@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1893</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017socinf</key><ee>http://ceur-ws.org/Vol-1893</ee><url>https://dblp.org/rec/conf/ijcai/2017socinf</url></info>
-<url>URL#1596153</url>
+<hit score="1" id="1526838">
+<info><authors><author pid="50/5315">Wolfgang Mayer</author><author pid="s/MarkusStumptner">Markus Stumptner</author><author pid="33/1594">Pompeu Casanovas</author><author pid="205/1972">Louis de Koker</author></authors><title>Towards a Linked Information Architecture for Integrated Law Enforcement.</title><venue>LINKDEM@IJCAI</venue><pages>15-27</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MayerSCK17</key><ee>http://ceur-ws.org/Vol-1897/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MayerSCK17</url></info>
+<url>URL#1526838</url>
+</hit>
+<hit score="1" id="1526909">
+<info><authors><author pid="38/784">Marta Poblet</author><author pid="p/EnricPlaza">Enric Plaza</author></authors><title>Democracy Models and Civic Technologies - Tensions, Trilemmas, and Trade-offs.</title><venue>LINKDEM@IJCAI</venue><pages>51-62</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PobletP17</key><ee>http://ceur-ws.org/Vol-1897/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PobletP17</url></info>
+<url>URL#1526909</url>
+</hit>
+<hit score="1" id="1527147">
+<info><authors><author pid="77/6310">Hao Yan</author><author pid="56/8397">Allen Lavoie</author><author pid="30/2277">Sanmay Das</author></authors><title>The Perils of Classifying Political Orientation From Text.</title><venue>LINKDEM@IJCAI</venue><pages>38-50</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YanLD17</key><ee>http://ceur-ws.org/Vol-1897/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/YanLD17</url></info>
+<url>URL#1527147</url>
+</hit>
+<hit score="1" id="1527160">
+<info><authors><author pid="205/1968">Sue Ann Yap</author></authors><title>Equal Access to Online Legal Information through Democratisation of Technology - A Myth?</title><venue>LINKDEM@IJCAI</venue><pages>106-117</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Yap17</key><ee>http://ceur-ws.org/Vol-1897/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Yap17</url></info>
+<url>URL#1527160</url>
+</hit>
+<hit score="1" id="1596151">
+<info><authors><author pid="38/784">Marta Poblet</author><author pid="33/1594">Pompeu Casanovas</author><author pid="p/EnricPlaza">Enric Plaza</author></authors><title>Proceedings of the Workshop on Linked Democracy - Artificial Intelligence for Democratic Innovation co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 19, 2017.</title><venue>LINKDEM@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1897</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017linkdem</key><ee>http://ceur-ws.org/Vol-1897</ee><url>https://dblp.org/rec/conf/ijcai/2017linkdem</url></info>
+<url>URL#1596151</url>
 </hit>
 </hits>
 </result>

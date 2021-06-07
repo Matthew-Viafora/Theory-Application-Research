@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="756604">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"socinf2015\".\"bht</query>
+<query id="756620">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cpcr2015\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">121.09</time>
+<time unit="msecs">135.96</time>
 <completions total="1" computed="1" sent="1">
-<c sc="7" dc="7" oc="7" id="18207074">:facetid:toc:db/conf/ijcai/socinf2015.bht</c>
+<c sc="10" dc="10" oc="10" id="18207002">:facetid:toc:db/conf/ijcai/cpcr2015.bht</c>
 </completions>
-<hits total="7" computed="7" sent="7" first="0">
-<hit score="1" id="2145397">
-<info><authors><author pid="147/9123">Chengyao Chen</author><author pid="59/9911">Dehong Gao</author><author pid="33/3999-2">Wenjie Li 0002</author><author pid="73/4797">Yuexian Hou</author></authors><title>A Constrained Multi-view Clustering Approach to Influence Role Detection.</title><venue>SocInf@IJCAI</venue><pages>29-34</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenGLH15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenGLH15</url></info>
-<url>URL#2145397</url>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2145286">
+<info><authors><author pid="168/5055">Robin Arcangioli</author><author pid="17/8149">Nadjib Lazaar</author></authors><title>Multiple Constraint Acquisition.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ArcangioliL15</key><ee>http://ceur-ws.org/Vol-1440/Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ArcangioliL15</url></info>
+<url>URL#2145286</url>
 </hit>
-<hit score="1" id="2145597">
-<info><authors><author pid="167/4668">Sanne Kosterman</author><author pid="27/4866">Nina Gierasimczuk</author></authors><title>Collective Learning in Games through Social Networks.</title><venue>SocInf@IJCAI</venue><pages>35-41</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KostermanG15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KostermanG15</url></info>
-<url>URL#2145597</url>
+<hit score="1" id="2145289">
+<info><authors><author pid="134/2826">Noureddine Aribi</author><author pid="75/323">Souhila Kaci</author><author pid="17/8149">Nadjib Lazaar</author></authors><title>Towards an MDD-based Representation of Preferences.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AribiKL15</key><ee>http://ceur-ws.org/Vol-1440/Paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AribiKL15</url></info>
+<url>URL#2145289</url>
 </hit>
-<hit score="1" id="2145837">
-<info><authors><author pid="162/4427">Antonela Tommasel</author><author pid="69/4188">Daniela Godoy</author></authors><title>A Novel Metric for Assessing User Influence based on User Behaviour.</title><venue>SocInf@IJCAI</venue><pages>15-21</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TommaselG15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TommaselG15</url></info>
-<url>URL#2145837</url>
+<hit score="1" id="2145594">
+<info><authors><author pid="10/3852">Tolga Könik</author><author pid="154/5513">Yoni Medoff</author><author pid="80/9076">Rajyashree Mukherjee</author></authors><title>Interactive Search with Contextual Navigation Recommendations.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KonikMM15</key><ee>http://ceur-ws.org/Vol-1440/Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KonikMM15</url></info>
+<url>URL#2145594</url>
 </hit>
-<hit score="1" id="2145851">
-<info><authors><author pid="03/8573">Didier Augusto Vega-Oliveros</author><author pid="48/8572">Lilian Berton</author><author pid="60/5946">Alneu de Andrade Lopes</author><author pid="25/11141">Francisco Aparecido Rodrigues</author></authors><title>Influence Maximization Based on the Least Influential Spreaders.</title><venue>SocInf@IJCAI</venue><pages>3-8</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Vega-OliverosBL15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Vega-OliverosBL15</url></info>
-<url>URL#2145851</url>
+<hit score="1" id="2145749">
+<info><authors><author pid="77/3761">Michal Ptaszynski</author><author pid="74/5800">Fumito Masui</author><author pid="59/1654">Yasutomo Kimura</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>Brute Force Works Best Against Bullying.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PtaszynskiMKRA15</key><ee>http://ceur-ws.org/Vol-1440/Paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PtaszynskiMKRA15</url></info>
+<url>URL#2145749</url>
 </hit>
-<hit score="1" id="2145891">
-<info><authors><author pid="l/WeigangLi">Li Weigang 0001</author><author pid="167/4640">Icaro Araújo Dantas</author><author pid="167/4723">Ahmed Abdelfattah Saleh</author><author pid="18/10240">Daniel LeZhi Li</author></authors><title>Influential Analysis in Micro Scholar Social Networks.</title><venue>SocInf@IJCAI</venue><pages>22-28</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WeigangDSL15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WeigangDSL15</url></info>
-<url>URL#2145891</url>
+<hit score="1" id="2145838">
+<info><authors><author pid="162/4427">Antonela Tommasel</author><author pid="69/4188">Daniela Godoy</author></authors><title>An Adaptive Technique for Weighting Multiple Factors in Followee Recommendation Algorithms.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TommaselG15a</key><ee>http://ceur-ws.org/Vol-1440/Paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TommaselG15a</url></info>
+<url>URL#2145838</url>
 </hit>
-<hit score="1" id="2145942">
-<info><authors><author pid="154/5584">Qiang You</author><author pid="41/6824">Weiming Hu</author><author pid="64/1258">Ou Wu</author></authors><title>Influence Maximization in Human-Intervened Social Networks.</title><venue>SocInf@IJCAI</venue><pages>9-14</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YouHW15</key><ee>http://ceur-ws.org/Vol-1398/SocInf2015_Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/YouHW15</url></info>
-<url>URL#2145942</url>
+<hit score="1" id="2145849">
+<info><authors><author pid="46/2797">Eduardo E. Veas</author><author pid="148/6312">Cecilia di Sciascio</author></authors><title>Interactive Preference Elicitation for Scientific and Cultural Recommendations.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VeasS15</key><ee>http://ceur-ws.org/Vol-1440/Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/VeasS15</url></info>
+<url>URL#2145849</url>
 </hit>
-<hit score="1" id="2213400">
-<info><authors><author pid="88/301">Marcelo Gabriel Armentano</author><author pid="41/7836">Ariel Monteserin</author><author pid="t/JieTang">Jie Tang 0001</author><author pid="58/9344">Virginia Yannibelli</author></authors><title>Proceedings of the 1st International Workshop on Social Influence Analysis, SocInf 2015, co-located with 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.</title><venue>SocInf@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1398</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015socinf</key><ee>http://ceur-ws.org/Vol-1398</ee><url>https://dblp.org/rec/conf/ijcai/2015socinf</url></info>
-<url>URL#2213400</url>
+<hit score="1" id="2145899">
+<info><authors><author pid="w/FranzWotawa">Franz Wotawa</author><author pid="67/10462">Florian Reinfrank</author><author pid="74/10947">Gerald Ninaus</author><author pid="71/915">Alexander Felfernig</author></authors><title>iCone - Intelligent Environment for the Development and Maintenance of Configuration Knowledge Bases.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WotawaRNF15</key><ee>http://ceur-ws.org/Vol-1440/Paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WotawaRNF15</url></info>
+<url>URL#2145899</url>
+</hit>
+<hit score="1" id="2145900">
+<info><authors><author pid="w/FranzWotawa">Franz Wotawa</author><author pid="130/0873">Martin Stettinger</author><author pid="67/10462">Florian Reinfrank</author><author pid="74/10947">Gerald Ninaus</author><author pid="71/915">Alexander Felfernig</author></authors><title>Conflict Management for Constraint-based Recommendation.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WotawaSRNF15</key><ee>http://ceur-ws.org/Vol-1440/Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WotawaSRNF15</url></info>
+<url>URL#2145900</url>
+</hit>
+<hit score="1" id="2145979">
+<info><authors><author pid="97/8630">Yong Zheng</author><author pid="01/4475">Bamshad Mobasher</author><author pid="58/2337">Robin D. Burke</author></authors><title>Incorporating Context Correlation into Context-aware Matrix Factorization.</title><venue>CPCR+ITWP@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhengMB15</key><ee>http://ceur-ws.org/Vol-1440/Paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhengMB15</url></info>
+<url>URL#2145979</url>
+</hit>
+<hit score="1" id="2213395">
+<info><authors><author pid="j/DietmarJannach">Dietmar Jannach</author><author pid="m/JeromeMengin">Jérôme Mengin</author><author pid="01/4475">Bamshad Mobasher</author><author pid="00/6186">Andrea Passerini</author><author pid="76/6477">Paolo Viappiani</author></authors><title>Proceedings of the IJCAI 2015 Joint Workshop on Constraints and Preferences for Configuration and Recommendation and Intelligent Techniques for Web Personalization co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.</title><venue>CPCR+ITWP@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1440</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015cpcr</key><ee>http://ceur-ws.org/Vol-1440</ee><url>https://dblp.org/rec/conf/ijcai/2015cpcr</url></info>
+<url>URL#2213395</url>
 </hit>
 </hits>
 </result>

@@ -1,43 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755231">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"khd2017\".\"bht</query>
+<query id="755249">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"affcomp2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">121.29</time>
+<time unit="msecs">145.34</time>
 <completions total="1" computed="1" sent="1">
-<c sc="8" dc="8" oc="8" id="18207056">:facetid:toc:db/conf/ijcai/khd2017.bht</c>
+<c sc="6" dc="6" oc="6" id="18206971">:facetid:toc:db/conf/ijcai/affcomp2017.bht</c>
 </completions>
-<hits total="8" computed="8" sent="8" first="0">
-<hit score="1" id="1526497">
-<info><authors><author pid="34/7187">Yoke Yie Chen</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="171/6186">Jenny Hall</author><author pid="214/8079">Kate Stephen</author><author pid="214/7775">Amanda Croall</author><author pid="214/8067">Jacky MacMillan</author><author pid="214/8050">Lesley Murray</author><author pid="214/7843">Geoff Wilcock</author><author pid="181/4518">Sandra MacRury</author></authors><title>Designing a Personalised Case-Based Recommender System for Mobile Self-Management of Diabetes During Exercise.</title><venue>KHD@IJCAI</venue><pages>7-12</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenWMHSCMMWM17</key><ee>http://ceur-ws.org/Vol-1891/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenWMHSCMMWM17</url></info>
-<url>URL#1526497</url>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="1526412">
+<info><authors><author pid="215/1940">Mia Atcheson</author><author pid="52/7823">Vidhyasaharan Sethu</author><author pid="92/6424">Julien Epps</author></authors><title>Gaussian Process Regression for Continuous Emotion Recognition with Global Temporal Invariance.</title><venue>AffComp@IJCAI</venue><pages>34-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AtchesonSE17</key><ee>http://proceedings.mlr.press/v66/atcheson17a.html</ee><url>https://dblp.org/rec/conf/ijcai/AtchesonSE17</url></info>
+<url>URL#1526412</url>
 </hit>
-<hit score="1" id="1526510">
-<info><authors><author pid="214/7982">Beatris Mariell Choo</author><author pid="214/7882">Ana Margarita Talicol</author><author pid="214/7768">Elaine Jhon Panganiban</author><author pid="190/7909">Ethel Chua Joy Ong</author></authors><title>Use of Tethered Virtual Reality Headsets in Exposure Therapy for Agoraphobia and Social Phobia.</title><venue>KHD@IJCAI</venue><pages>20-24</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChooTPO17</key><ee>http://ceur-ws.org/Vol-1891/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChooTPO17</url></info>
-<url>URL#1526510</url>
+<hit score="1" id="1526677">
+<info><authors><author pid="145/7732">Natasha Jaques</author><author pid="53/21">Ognjen (Oggi) Rudovic</author><author pid="169/6821">Sara Taylor</author><author pid="129/5095">Akane Sano</author><author pid="p/RWPicard">Rosalind W. Picard</author></authors><title>Predicting Tomorrow&apos;s Mood, Health, and Stress Level using Personalized Multitask Learning and Domain Adaptation.</title><venue>AffComp@IJCAI</venue><pages>17-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JaquesRTSP17</key><ee>http://proceedings.mlr.press/v66/jaques17a.html</ee><url>https://dblp.org/rec/conf/ijcai/JaquesRTSP17</url></info>
+<url>URL#1526677</url>
 </hit>
-<hit score="1" id="1526871">
-<info><authors><author pid="61/7942">Phuoc Nguyen</author><author pid="55/2269">Truyen Tran 0001</author><author pid="81/1984">Svetha Venkatesh</author></authors><title>Deep Learning to Attend to Risk in ICU.</title><venue>KHD@IJCAI</venue><pages>25-29</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Nguyen0V17</key><ee>http://ceur-ws.org/Vol-1891/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Nguyen0V17</url></info>
-<url>URL#1526871</url>
+<hit score="1" id="1526753">
+<info><authors><author pid="136/7341-1">Minglei Li 0001</author><author pid="29/766-1">Qin Lu 0001</author><author pid="168/4623">Yunfei Long</author><author pid="34/8605-3">Lin Gui 0003</author></authors><title>Affective State Prediction of Contextualized Concepts.</title><venue>AffComp@IJCAI</venue><pages>45-57</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiLLG17</key><ee>http://proceedings.mlr.press/v66/li17a.html</ee><url>https://dblp.org/rec/conf/ijcai/LiLLG17</url></info>
+<url>URL#1526753</url>
 </hit>
-<hit score="1" id="1526887">
-<info><authors><author pid="214/8022">Christopher Ormandy</author><author pid="55/6241">Zina M. Ibrahim</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>Learning Patient Similarity Using Joint Distributed Embeddings of Treatment and Diagnoses.</title><venue>KHD@IJCAI</venue><pages>30-35</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OrmandyID17</key><ee>http://ceur-ws.org/Vol-1891/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OrmandyID17</url></info>
-<url>URL#1526887</url>
+<hit score="1" id="1526786">
+<info><authors><author pid="203/9126">Dianbo Liu</author><author pid="205/3174">Fengjiao Peng</author><author pid="53/21">Ognjen (Oggi) Rudovic</author><author pid="p/RWPicard">Rosalind W. Picard</author></authors><title>DeepFaceLIFT - Interpretable Personalized Models for Automatic Estimation of Self-Reported Pain.</title><venue>AffComp@IJCAI</venue><pages>1-16</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiuPRP17</key><ee>http://proceedings.mlr.press/v66/liu17a.html</ee><url>https://dblp.org/rec/conf/ijcai/LiuPRP17</url></info>
+<url>URL#1526786</url>
 </hit>
-<hit score="1" id="1526940">
-<info><authors><author pid="54/2885">Jonathan Rubin</author><author pid="00/6243">Rui Abreu 0001</author><author pid="98/1165">Anurag Ganguli</author><author pid="00/7441">Saigopal Nelaturi</author><author pid="15/7140">Ion Matei</author><author pid="26/8762">Kumar Sricharan</author></authors><title>Recognizing Abnormal Heart Sounds Using Deep Learning.</title><venue>KHD@IJCAI</venue><pages>13-19</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RubinAGNMS17</key><ee>http://ceur-ws.org/Vol-1891/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RubinAGNMS17</url></info>
-<url>URL#1526940</url>
+<hit score="1" id="1527162">
+<info><authors><author pid="213/8725">Heath Yates</author><author pid="141/1005">Brent C. Chamberlain</author><author pid="218/9766">Greg Norman</author><author pid="21/1034">William H. Hsu</author></authors><title>Arousal Detection for Biometric Data in Built Environments using Machine Learning.</title><venue>AffComp@IJCAI</venue><pages>58-72</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YatesCNH17</key><ee>http://proceedings.mlr.press/v66/yates17a.html</ee><url>https://dblp.org/rec/conf/ijcai/YatesCNH17</url></info>
+<url>URL#1527162</url>
 </hit>
-<hit score="1" id="1527073">
-<info><authors><author pid="39/721">Hui Wang</author><author pid="47/5830">Quan Sun</author><author pid="40/8710">Anika Oellrich</author><author pid="99/6255">Honghan Wu</author><author pid="51/5120">Richard J. B. Dobson</author></authors><title>The psycho-env corpus - research articles annotated for knowledge discovery on correlating mental diseases and environmental factors.</title><venue>KHD@IJCAI</venue><pages>36-40</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WangSOWD17</key><ee>http://ceur-ws.org/Vol-1891/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WangSOWD17</url></info>
-<url>URL#1527073</url>
-</hit>
-<hit score="1" id="1527225">
-<info><authors><author pid="22/2544">Jia Zhu</author><author pid="166/5153">Yuzhi Liang</author><author pid="03/2933">Changqin Huang</author><author pid="02/1640-7">Min Yang 0007</author><author pid="67/4008-5">Jing Xiao 0005</author><author pid="01/2880-1">Yong Tang 0001</author></authors><title>A Novel Approach for Adverse Events Detection.</title><venue>KHD@IJCAI</venue><pages>41-45</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhuLHYXT17</key><ee>http://ceur-ws.org/Vol-1891/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhuLHYXT17</url></info>
-<url>URL#1527225</url>
-</hit>
-<hit score="1" id="1596149">
-<info><authors><author pid="55/6241">Zina M. Ibrahim</author><author pid="99/6255">Honghan Wu</author><author pid="03/6214">Kerstin Bach</author><author pid="51/5120">Richard J. B. Dobson</author><author pid="186/9095">Spiros C. Denaxas</author><author pid="74/507">Nirmalie Wiratunga</author><author pid="26/2155">Stewart Massie</author><author pid="88/10847">Sadiq Sani</author></authors><title>Proceedings of the 2nd International Workshop on Knowledge Discovery in Healthcare Data Co-located with the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>KDH@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1891</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017khd</key><ee>http://ceur-ws.org/Vol-1891</ee><url>https://dblp.org/rec/conf/ijcai/2017khd</url></info>
-<url>URL#1596149</url>
+<hit score="1" id="1596146">
+<info><authors><author pid="218/9777">Neil Lawrence</author><author pid="94/6294">Mark Reid</author></authors><title>Proceedings of the 1st IJCAI Workshop on Artificial Intelligence in Affective Computing (AffComp 2017), Melbourne, Australia, August 20, 2017.</title><venue>AffComp@IJCAI</venue><venue>Proceedings of Machine Learning Research</venue><volume>66</volume><publisher>PMLR</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017affcomp</key><ee>http://proceedings.mlr.press/v66/</ee><url>https://dblp.org/rec/conf/ijcai/2017affcomp</url></info>
+<url>URL#1596146</url>
 </hit>
 </hits>
 </result>

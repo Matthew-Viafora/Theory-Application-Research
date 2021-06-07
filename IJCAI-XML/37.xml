@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="755328">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"sml2017\".\"bht</query>
+<query id="755333">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"bai2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">123.21</time>
+<time unit="msecs">127.16</time>
 <completions total="1" computed="1" sent="1">
-<c sc="10" dc="10" oc="10" id="18207073">:facetid:toc:db/conf/ijcai/sml2017.bht</c>
+<c sc="6" dc="6" oc="6" id="18206991">:facetid:toc:db/conf/ijcai/bai2017.bht</c>
 </completions>
-<hits total="10" computed="10" sent="10" first="0">
-<hit score="1" id="1526398">
-<info><authors><author pid="202/8950">Abdullah Semran Alharbi</author><author pid="74/4581">Yuefeng Li</author><author pid="29/3925-1">Yue Xu 0001</author></authors><title>Enhancing Topical Word Semantic for Relevance Feature Selection.</title><venue>SML@IJCAI</venue><pages>27-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlharbiL017</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlharbiL017</url></info>
-<url>URL#1526398</url>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="1526380">
+<info><authors><author pid="28/5691-1">Qingyu Chen 0001</author><author pid="20/2941">Xiuzhen Zhang</author><author pid="06/6328-1">Yu Wan 0001</author><author pid="z/JZobel">Justin Zobel</author><author pid="07/6465">Karin Verspoor 0001</author></authors><title>Sequence Clustering Methods and Completeness of Biological Database Search.</title><venue>BAI@IJCAI</venue><pages>8-14</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0001ZWZV17</key><ee>http://ceur-ws.org/Vol-1942/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0001ZWZV17</url></info>
+<url>URL#1526380</url>
 </hit>
-<hit score="1" id="1526501">
-<info><authors><author pid="00/890">Heng Chen</author><author pid="118/3428">Yongjuan Zhang</author><author pid="261/0077">Chunhong Lin</author><author pid="94/905">Liwen Zhang</author><author pid="69/510">Tao Chen</author></authors><title>Construction of Viral Hepatitis Bilingual Bibliographic Database with Protein Text Mining and Information Integration Functions.</title><venue>SML@IJCAI</venue><pages>57-65</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenZLZC17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenZLZC17</url></info>
-<url>URL#1526501</url>
+<hit score="1" id="1526424">
+<info><authors><author pid="136/2633">Alexandre Bazin</author><author pid="60/10368">Didier Debroas</author><author pid="10/3832">Engelbert Mephu Nguifo</author></authors><title>A De Novo Robust Clustering Approach for Amplicon-Based Sequence Data.</title><venue>BAI@IJCAI</venue><pages>21-25</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BazinDN17</key><ee>http://ceur-ws.org/Vol-1942/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BazinDN17</url></info>
+<url>URL#1526424</url>
 </hit>
-<hit score="1" id="1526586">
-<info><authors><author pid="89/4402-16">Yang Gao 0016</author><author pid="204/2256">Linjing Wei</author><author pid="27/8686">Heyan Huang</author><author pid="33/85">Qian Liu</author></authors><title>Topical Sentence Embedding for Query Focused Document Summarization.</title><venue>SML@IJCAI</venue><pages>21-26</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GaoWHL17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GaoWHL17</url></info>
-<url>URL#1526586</url>
+<hit score="1" id="1526445">
+<info><authors><author pid="b/IsabelleBichindaritz">Isabelle Bichindaritz</author><author pid="51/4723">Thomas Quinn</author></authors><title>Feature Selection for Survival Analysis in Bioinformatics.</title><venue>BAI@IJCAI</venue><pages>30-35</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BichindaritzQ17</key><ee>http://ceur-ws.org/Vol-1942/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BichindaritzQ17</url></info>
+<url>URL#1526445</url>
 </hit>
-<hit score="1" id="1526800">
-<info><authors><author pid="261/0289">Evan Dennison S. Livelo</author><author pid="260/9882">Andrea Nicole O. Ver</author><author pid="261/0166">Jedrick L. Chua</author><author pid="261/0408">John Paul S. Yao</author><author pid="97/8063">Charibeth K. Cheng</author></authors><title>A Hybrid Agent for Automatically Determining and Extracting the 5Ws of Filipino News Articles.</title><venue>SML@IJCAI</venue><pages>50-56</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiveloVCYC17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LiveloVCYC17</url></info>
-<url>URL#1526800</url>
+<hit score="1" id="1526467">
+<info><authors><author pid="252/4537">Borut Budna</author><author pid="157/4929">Martin Gjoreski</author><author pid="16/5761">Anton Gradisek</author><author pid="43/1312">Matjaz Gams</author></authors><title>JSI Sound - a Machine-Learning Tool in Orange for Simple Biosound Classification.</title><venue>BAI@IJCAI</venue><pages>26-29</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BudnaGGG17</key><ee>http://ceur-ws.org/Vol-1942/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BudnaGGG17</url></info>
+<url>URL#1526467</url>
 </hit>
-<hit score="1" id="1526822">
-<info><authors><author pid="85/10856">Fenglong Ma</author><author pid="81/8017">Radha Chitta</author><author pid="22/6491">Saurabh Kataria</author><author pid="01/2356">Jing Zhou</author><author pid="199/2288">Palghat Ramesh</author><author pid="99/5088">Tong Sun</author><author pid="67/4834-4">Jing Gao 0004</author></authors><title>Long-Term Memory Networks for Question Answering.</title><venue>SML@IJCAI</venue><pages>7-14</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MaCKZRS017</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MaCKZRS017</url></info>
-<url>URL#1526822</url>
+<hit score="1" id="1526883">
+<info><authors><author pid="150/2938">Aidan O&apos;Brien</author><author pid="131/4882">Piotr Szul</author><author pid="215/3065">Oscar Luo</author><author pid="223/3107">Andrew George</author><author pid="179/4677">Robert Dunne</author><author pid="54/6719">Denis C. Bauer</author></authors><title>Breaking the Curse of Dimensionality for Machine Learning on Genomic Data.</title><venue>BAI@IJCAI</venue><pages>15-20</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OBrienSLGDB17</key><ee>http://ceur-ws.org/Vol-1942/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OBrienSLGDB17</url></info>
+<url>URL#1526883</url>
 </hit>
-<hit score="1" id="1526845">
-<info><authors><author pid="233/8496">Luis Palacios Medinacelli</author><author pid="08/6794">Yue Ma</author><author pid="44/692">Gaëlle Lortal</author><author pid="76/513">Claire Laudy</author><author pid="15/3158">Chantal Reynaud</author></authors><title>Data Driven Concept Refinement to Support Avionics Maintenance.</title><venue>SML@IJCAI</venue><pages>39-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MedinacelliMLLR17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MedinacelliMLLR17</url></info>
-<url>URL#1526845</url>
-</hit>
-<hit score="1" id="1526926">
-<info><authors><author pid="61/8343">Ritesh Ratti</author><author pid="00/5123">Himanshu Kapoor</author><author pid="167/1994">Shikhar Sharma</author><author pid="217/4842">Anshul Solanki</author><author pid="155/5800">Pankaj Sachdeva</author></authors><title>Semantic Extraction of Named Entities From Bank Wire Text.</title><venue>SML@IJCAI</venue><pages>34-38</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RattiKSSS17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RattiKSSS17</url></info>
-<url>URL#1526926</url>
-</hit>
-<hit score="1" id="1526947">
-<info><authors><author pid="18/11429">Andreea Salinca</author></authors><title>Convolutional Neural Networks for Sentiment Classification on Business Reviews.</title><venue>SML@IJCAI</venue><pages>45-49</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Salinca17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Salinca17</url></info>
-<url>URL#1526947</url>
-</hit>
-<hit score="1" id="1526965">
-<info><authors><author pid="02/2545">Yang Shao</author></authors><title>A Simple Neural Network For Evaluating Semantic Textual Similarity.</title><venue>SML@IJCAI</venue><pages>15-20</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Shao17</key><ee>http://ceur-ws.org/Vol-1986/SML17_paper_2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Shao17</url></info>
-<url>URL#1526965</url>
-</hit>
-<hit score="1" id="1596152">
-<info><authors><author pid="r/KanagasabaiRajaraman">Rajaraman Kanagasabai</author><author pid="118/0939">Ahsan Morshed</author><author pid="77/3904ohio">Hemant Purohit</author></authors><title>Proceedings of the IJCAI Workshop on Semantic Machine Learning (SML 2017) co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>SML@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1986</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017sml</key><ee>http://ceur-ws.org/Vol-1986</ee><url>https://dblp.org/rec/conf/ijcai/2017sml</url></info>
-<url>URL#1596152</url>
+<hit score="1" id="1596147">
+<info><authors><author pid="90/7833">Wajdi Dhifli</author><author pid="11/1478">Abdoulaye Baniré Diallo</author><author pid="10/3832">Engelbert Mephu Nguifo</author><author pid="z/MohammedJaveedZaki">Mohammed Javeed Zaki</author></authors><title>Proceedings of the Workshop on Advances in Bioinformatics and Artificial Intelligence - Bridging the Gap co-located with 26th International Joint Conference on Artificial Intelligence (IJCAI 2017), Melbourne, Australia, August 20, 2017.</title><venue>BAI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1942</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017bai</key><ee>http://ceur-ws.org/Vol-1942</ee><url>https://dblp.org/rec/conf/ijcai/2017bai</url></info>
+<url>URL#1596147</url>
 </hit>
 </hits>
 </result>

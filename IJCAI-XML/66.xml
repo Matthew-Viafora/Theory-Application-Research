@@ -1,63 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="757114">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"mlis2013\".\"bht</query>
+<query id="757128">:facetid:toc:db\"/\"conf\"/\"pakdd\"/\"bsi2013\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">118.75</time>
+<time unit="msecs">135.17</time>
 <completions total="1" computed="1" sent="1">
-<c sc="13" dc="13" oc="13" id="18207066">:facetid:toc:db/conf/ijcai/mlis2013.bht</c>
+<c sc="23" dc="23" oc="23" id="18216685">:facetid:toc:db/conf/pakdd/bsi2013.bht</c>
 </completions>
-<hits total="13" computed="13" sent="13" first="0">
-<hit score="1" id="2715721">
-<info><authors><author pid="86/2857">Jean-Christophe Baillie</author></authors><title>Developmental robotics at Aldebaran A-Lab.</title><venue>MLIS@IJCAI</venue><pages>13</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Baillie13</key><doi>10.1145/2493525.2493527</doi><ee>https://doi.org/10.1145/2493525.2493527</ee><url>https://dblp.org/rec/conf/ijcai/Baillie13</url></info>
-<url>URL#2715721</url>
+<hits total="23" computed="23" sent="23" first="0">
+<hit score="1" id="2746281">
+<info><authors><author pid="91/10208">Jinpeng Chen</author><author pid="97/2274-31">Yu Liu 0031</author><author pid="28/441">Jun Hu</author><author pid="20/6417">Wei He</author><author pid="58/1153">Deyi Li</author></authors><title>A Novel Framework for Improving Recommender Diversity.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>129-138</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ChenLHHL13</key><doi>10.1007/978-3-319-04048-6_12</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_12</ee><url>https://dblp.org/rec/conf/pakdd/ChenLHHL13</url></info>
+<url>URL#2746281</url>
 </hit>
-<hit score="1" id="2715771">
-<info><authors><author pid="55/6007">Xiaoping Chen</author></authors><title>Open knowledge for human-robot interaction.</title><venue>MLIS@IJCAI</venue><pages>15</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Chen13</key><doi>10.1145/2493525.2500422</doi><ee>https://doi.org/10.1145/2493525.2500422</ee><url>https://dblp.org/rec/conf/ijcai/Chen13</url></info>
-<url>URL#2715771</url>
+<hit score="1" id="2746293">
+<info><authors><author pid="43/7034">Qiao Deng</author><author pid="76/2866">Zhoujun Li</author><author pid="86/2120-1">Xiaoming Zhang 0001</author><author pid="77/1264">Jiali Xia</author></authors><title>Interaction-Based Social Relationship Type Identification in Microblog.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>151-164</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/DengLZX13</key><doi>10.1007/978-3-319-04048-6_14</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_14</ee><url>https://dblp.org/rec/conf/pakdd/DengLZX13</url></info>
+<url>URL#2746293</url>
 </hit>
-<hit score="1" id="2715795">
-<info><authors><author pid="77/250">Heriberto Cuayáhuitl</author><author pid="25/7338">Martijn van Otterlo</author><author pid="63/8341">Nina Dethlefs</author><author pid="82/2200">Lutz Frommberger</author></authors><title>Machine learning for interactive systems and robots - a brief introduction.</title><venue>MLIS@IJCAI</venue><pages>19-28</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CuayahuitlODF13</key><doi>10.1145/2493525.2493530</doi><ee>https://doi.org/10.1145/2493525.2493530</ee><url>https://dblp.org/rec/conf/ijcai/CuayahuitlODF13</url></info>
-<url>URL#2715795</url>
+<hit score="1" id="2746304">
+<info><authors><author pid="24/9923">Yanhui Gu</author><author pid="43/5146">Zhenglu Yang</author><author pid="36/2711">Miyuki Nakano</author><author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author></authors><title>Exploration on Similar Spatial Textual Objects Retrieval.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>237-249</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/GuYNK13</key><doi>10.1007/978-3-319-04048-6_21</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_21</ee><url>https://dblp.org/rec/conf/pakdd/GuYNK13</url></info>
+<url>URL#2746304</url>
 </hit>
-<hit score="1" id="2715819">
-<info><authors><author pid="18/7544">Wentao Fan</author><author pid="43/2204">Nizar Bouguila</author></authors><title>Expectation propagation learning of finite Beta-Liouville mixtures for spatio-temporal object recognition.</title><venue>MLIS@IJCAI</venue><pages>29-36</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FanB13b</key><doi>10.1145/2493525.2493531</doi><ee>https://doi.org/10.1145/2493525.2493531</ee><url>https://dblp.org/rec/conf/ijcai/FanB13b</url></info>
-<url>URL#2715819</url>
+<hit score="1" id="2746313">
+<info><authors><author pid="188/1393">Xiancheng Hou</author><author pid="77/2542">Bing Shi</author><author pid="13/4012">Wenjia Niu</author><author pid="77/6263">Qi Feng</author><author pid="09/10777">Ying Qi</author></authors><title>An Actor Network-Based Approach to Pirates Community Discovery in Peer-to-Peer Network.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>204-213</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/HouSNFQ13</key><doi>10.1007/978-3-319-04048-6_18</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_18</ee><url>https://dblp.org/rec/conf/pakdd/HouSNFQ13</url></info>
+<url>URL#2746313</url>
 </hit>
-<hit score="1" id="2715828">
-<info><authors><author pid="125/7461">Emmanuel Ferreira</author><author pid="70/7518">Fabrice Lefèvre</author></authors><title>Social signal and user adaptation in reinforcement learning-based dialogue management.</title><venue>MLIS@IJCAI</venue><pages>61-69</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FerreiraL13</key><doi>10.1145/2493525.2493535</doi><ee>https://doi.org/10.1145/2493525.2493535</ee><url>https://dblp.org/rec/conf/ijcai/FerreiraL13</url></info>
-<url>URL#2715828</url>
+<hit score="1" id="2746315">
+<info><authors><author pid="34/3916">Yuting Hu</author><author pid="89/4026">Rong Xie</author><author pid="46/3359-1">Wenjun Zhang 0001</author></authors><title>Network Flow Based Collective Behavior Analysis.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>10-19</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/HuX013</key><doi>10.1007/978-3-319-04048-6_2</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_2</ee><url>https://dblp.org/rec/conf/pakdd/HuX013</url></info>
+<url>URL#2746315</url>
 </hit>
-<hit score="1" id="2715829">
-<info><authors><author pid="150/1522">Leonardo Anjoletto Ferreira</author><author pid="115/5021">Andrey Araujo Masiero</author><author pid="99/6506">Plinio Thomaz Aquino Jr.</author><author pid="40/169">Reinaldo Augusto da Costa Bianchi</author></authors><title>Automatic interface optimization through random exploration of available elements.</title><venue>MLIS@IJCAI</venue><pages>51-59</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FerreiraMAB13</key><doi>10.1145/2493525.2493534</doi><ee>https://doi.org/10.1145/2493525.2493534</ee><url>https://dblp.org/rec/conf/ijcai/FerreiraMAB13</url></info>
-<url>URL#2715829</url>
+<hit score="1" id="2746329">
+<info><authors><author pid="92/4962">Mingwei Leng</author><author pid="129/4081">Weiming Lv</author><author pid="96/2013">Jianjun Cheng</author><author pid="l/ZhaoLi">Zhao Li</author><author pid="86/1677">Xiaoyun Chen</author></authors><title>Cooperative Community Detection Algorithm Based on Random Walks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>191-203</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LengLCLC13</key><doi>10.1007/978-3-319-04048-6_17</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_17</ee><url>https://dblp.org/rec/conf/pakdd/LengLCLC13</url></info>
+<url>URL#2746329</url>
 </hit>
-<hit score="1" id="2715902">
-<info><authors><author pid="68/7734">Iñaki Iturrate</author><author pid="124/5834">Jason Omedes</author><author pid="91/3409">Luis Montesano</author></authors><title>Shared control of a robot using EEG-based feedback signals.</title><venue>MLIS@IJCAI</venue><pages>45-50</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IturrateOM13</key><doi>10.1145/2493525.2493533</doi><ee>https://doi.org/10.1145/2493525.2493533</ee><url>https://dblp.org/rec/conf/ijcai/IturrateOM13</url></info>
-<url>URL#2715902</url>
+<hit score="1" id="2746331">
+<info><authors><author pid="83/6353">Peng Li</author><author pid="17/1237-4">Ling Chen 0004</author><author pid="l/XueLi">Xue Li 0001</author><author pid="46/3669">Junhao Wen</author></authors><title>RNRank - Network-Based Ranking on Relational Tuples.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>139-150</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiCLW13</key><doi>10.1007/978-3-319-04048-6_13</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_13</ee><url>https://dblp.org/rec/conf/pakdd/LiCLW13</url></info>
+<url>URL#2746331</url>
 </hit>
-<hit score="1" id="2715923">
-<info><authors><author pid="56/6762">George Dimitri Konidaris</author></authors><title>Robots, skills, and symbols.</title><venue>MLIS@IJCAI</venue><pages>9-11</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Konidaris13</key><doi>10.1145/2493525.2493528</doi><ee>https://doi.org/10.1145/2493525.2493528</ee><url>https://dblp.org/rec/conf/ijcai/Konidaris13</url></info>
-<url>URL#2715923</url>
+<hit score="1" id="2746332">
+<info><authors><author pid="73/2252-1">Lin Li 0001</author><author pid="89/120">Xing Chen</author><author pid="59/2340">Guandong Xu</author></authors><title>Suggestions for Fresh Search Queries by Mining Mircoblog Topics.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>214-223</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiCX13</key><doi>10.1007/978-3-319-04048-6_19</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_19</ee><url>https://dblp.org/rec/conf/pakdd/LiCX13</url></info>
+<url>URL#2746332</url>
 </hit>
-<hit score="1" id="2716018">
-<info><authors><author pid="80/5412">Sinno Jialin Pan</author></authors><title>Transfer learning with applications on text, sensors and images.</title><venue>MLIS@IJCAI</venue><pages>7</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Pan13</key><doi>10.1145/2493525.2500421</doi><ee>https://doi.org/10.1145/2493525.2500421</ee><url>https://dblp.org/rec/conf/ijcai/Pan13</url></info>
-<url>URL#2716018</url>
+<hit score="1" id="2746338">
+<info><authors><author pid="138/8118">Quanchao Liu</author><author pid="27/8686">Heyan Huang</author><author pid="11/4926">Chong Feng</author></authors><title>Micro-blog Post Topic Drift Detection Based on LDA Model.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>106-118</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiuHF13</key><doi>10.1007/978-3-319-04048-6_10</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_10</ee><url>https://dblp.org/rec/conf/pakdd/LiuHF13</url></info>
+<url>URL#2746338</url>
 </hit>
-<hit score="1" id="2716029">
-<info><authors><author pid="58/6269">Olivier Pietquin</author></authors><title>Inverse reinforcement learning for interactive systems.</title><venue>MLIS@IJCAI</venue><pages>71-75</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Pietquin13</key><doi>10.1145/2493525.2493529</doi><ee>https://doi.org/10.1145/2493525.2493529</ee><url>https://dblp.org/rec/conf/ijcai/Pietquin13</url></info>
-<url>URL#2716029</url>
+<hit score="1" id="2746344">
+<info><authors><author pid="122/8707">Xuefeng Ma</author><author pid="50/3402">Bo Li</author><author pid="89/5098">Qi An</author></authors><title>A Network-Based Approach for Collaborative Filtering Recommendation.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>119-128</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/MaLA13</key><doi>10.1007/978-3-319-04048-6_11</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_11</ee><url>https://dblp.org/rec/conf/pakdd/MaLA13</url></info>
+<url>URL#2746344</url>
 </hit>
-<hit score="1" id="2716051">
-<info><authors><author pid="r/MartinARiedmiller">Martin A. Riedmiller</author></authors><title>Learning machines that perceive, act and communicate.</title><venue>MLIS@IJCAI</venue><pages>5</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Riedmiller13</key><doi>10.1145/2493525.2493526</doi><ee>https://doi.org/10.1145/2493525.2493526</ee><url>https://dblp.org/rec/conf/ijcai/Riedmiller13</url></info>
-<url>URL#2716051</url>
+<hit score="1" id="2746345">
+<info><authors><author pid="45/524">Zhixin Ma</author><author pid="78/5647">Xu Yusheng</author><author pid="25/4706">Tharam S. Dillon</author></authors><title>Mining Frequent Sequences Using Itemset-Based Extension.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>1-9</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/MaYD13</key><doi>10.1007/978-3-319-04048-6_1</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_1</ee><url>https://dblp.org/rec/conf/pakdd/MaYD13</url></info>
+<url>URL#2746345</url>
 </hit>
-<hit score="1" id="2716174">
-<info><authors><author pid="134/0599">Hanchen Xiong</author><author pid="89/472">Sándor Szedmák</author><author pid="p/JustusHPiater">Justus H. Piater</author></authors><title>Homogeneity analysis for object-action relation reasoning in kitchen scenarios.</title><venue>MLIS@IJCAI</venue><pages>37-44</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/XiongSP13</key><doi>10.1145/2493525.2493532</doi><ee>https://doi.org/10.1145/2493525.2493532</ee><url>https://dblp.org/rec/conf/ijcai/XiongSP13</url></info>
-<url>URL#2716174</url>
+<hit score="1" id="2746365">
+<info><authors><author pid="160/1662">Benke Qu</author><author pid="13/4012">Wenjia Niu</author><author pid="19/8310">Tianqing Zhu</author><author pid="68/5597-2">Lei Wu 0002</author><author pid="04/5268">Shijun Liu</author><author pid="44/5770">Na Wang</author></authors><title>Dynamic User Behavior-Based Piracy Propagation Monitoring in Wireless Peer-to-Peer Networks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>44-55</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/QuNZWLW13</key><doi>10.1007/978-3-319-04048-6_5</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_5</ee><url>https://dblp.org/rec/conf/pakdd/QuNZWLW13</url></info>
+<url>URL#2746365</url>
 </hit>
-<hit score="1" id="2781159">
-<info><authors><author pid="77/250">Heriberto Cuayáhuitl</author><author pid="82/2200">Lutz Frommberger</author><author pid="63/8341">Nina Dethlefs</author><author pid="25/7338">Martijn van Otterlo</author></authors><title>Proceedings of the 2nd Workshop on Machine Learning for Interactive Systems - Bridging the Gap Between Perception, Action and Communication, MLIS@IJCAI 2013, Beijing, China, August 4, 2013</title><venue>MLIS@IJCAI</venue><publisher>ACM</publisher><year>2013</year><type>Editorship</type><key>conf/ijcai/2013mlis</key><doi>10.1145/2493525</doi><ee>https://doi.org/10.1145/2493525</ee><url>https://dblp.org/rec/conf/ijcai/2013mlis</url></info>
-<url>URL#2781159</url>
+<hit score="1" id="2746384">
+<info><authors><author pid="129/1991">Juyup Sung</author><author pid="145/9971">Seunghyeon Moon</author><author pid="28/3904">Jae-Gil Lee 0001</author></authors><title>The Influence in Twitter - Are They Really Influenced?</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>95-105</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/SungML13</key><doi>10.1007/978-3-319-04048-6_9</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_9</ee><url>https://dblp.org/rec/conf/pakdd/SungML13</url></info>
+<url>URL#2746384</url>
+</hit>
+<hit score="1" id="2746385">
+<info><authors><author pid="24/6224">Xuri Tang</author><author pid="04/5857">Weiguang Qu</author><author pid="45/8937">Xiaohe Chen</author></authors><title>Semantic Change Computation - A Successive Approach.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>68-81</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/TangQC13</key><doi>10.1007/978-3-319-04048-6_7</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_7</ee><url>https://dblp.org/rec/conf/pakdd/TangQC13</url></info>
+<url>URL#2746385</url>
+</hit>
+<hit score="1" id="2746396">
+<info><authors><author pid="83/8407">Qingmai Wang</author><author pid="78/4802">Xinghuo Yu 0001</author><author pid="20/2941">Xiuzhen Zhang</author></authors><title>A Connectionist Model-Based Approach to Centrality Discovery in Social Networks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>82-94</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/WangYZ13</key><doi>10.1007/978-3-319-04048-6_8</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_8</ee><url>https://dblp.org/rec/conf/pakdd/WangYZ13</url></info>
+<url>URL#2746396</url>
+</hit>
+<hit score="1" id="2746405">
+<info><authors><author pid="89/4026">Rong Xie</author><author pid="188/1440">Huizheng Xu</author><author pid="10/5760">Yang Yue</author></authors><title>Using Mobile Phone Location Data for Urban Activity Analysis.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>30-43</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/XieXY13</key><doi>10.1007/978-3-319-04048-6_4</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_4</ee><url>https://dblp.org/rec/conf/pakdd/XieXY13</url></info>
+<url>URL#2746405</url>
+</hit>
+<hit score="1" id="2746407">
+<info><authors><author pid="38/10816">Hongteng Xu</author><author pid="126/6597">Dixin Luo</author><author pid="67/3392">Xiaoming Huo</author><author pid="06/3071">Xiaokang Yang</author></authors><title>World Expo Problem and Its Mixed Integer Programming Based Solution.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>56-67</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/XuLHY13</key><doi>10.1007/978-3-319-04048-6_6</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_6</ee><url>https://dblp.org/rec/conf/pakdd/XuLHY13</url></info>
+<url>URL#2746407</url>
+</hit>
+<hit score="1" id="2746416">
+<info><authors><author pid="188/1366">Shunichi Yokoo</author><author pid="19/3755">Noriaki Yoshiura</author></authors><title>Indicating Important Parts in Searched Web Pages by Retrieval Keywords.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>250-263</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/YokooY13</key><doi>10.1007/978-3-319-04048-6_22</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_22</ee><url>https://dblp.org/rec/conf/pakdd/YokooY13</url></info>
+<url>URL#2746416</url>
+</hit>
+<hit score="1" id="2746420">
+<info><authors><author pid="13/3918">Yuqi Zhang</author><author pid="50/2102">Jian Cao</author></authors><title>Personalized Recommendation Based on Behavior Sequence Similarity Measures.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>165-177</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhangC13</key><doi>10.1007/978-3-319-04048-6_15</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_15</ee><url>https://dblp.org/rec/conf/pakdd/ZhangC13</url></info>
+<url>URL#2746420</url>
+</hit>
+<hit score="1" id="2746422">
+<info><authors><author pid="76/1584">Xin Zhang</author><author pid="27/1201">Ben He</author><author pid="00/6108">Tiejian Luo</author></authors><title>Learn to Rank Tweets by Integrating Query-Specific Characteristics.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>224-236</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhangHL13</key><doi>10.1007/978-3-319-04048-6_20</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_20</ee><url>https://dblp.org/rec/conf/pakdd/ZhangHL13</url></info>
+<url>URL#2746422</url>
+</hit>
+<hit score="1" id="2746428">
+<info><authors><author pid="73/4325-2">Bin Zhao 0002</author><author pid="36/2382">Genlin Ji</author><author pid="04/5857">Weiguang Qu</author><author pid="18/58">Zhigang Zhang</author></authors><title>Detecting Spam Community Using Retweeting Relationships - A Study on Sina Microblog.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>178-190</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhaoJQZ13</key><doi>10.1007/978-3-319-04048-6_16</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_16</ee><url>https://dblp.org/rec/conf/pakdd/ZhaoJQZ13</url></info>
+<url>URL#2746428</url>
+</hit>
+<hit score="1" id="2746429">
+<info><authors><author pid="25/5509">Cong Zhao</author><author pid="44/1372">Guangzhong Sun</author><author pid="32/5495-4">Ye Tian 0004</author></authors><title>Design, Conduct and Analysis of a Biased Voting Experiment on Human Behavior.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>20-29</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhaoST13</key><doi>10.1007/978-3-319-04048-6_3</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_3</ee><url>https://dblp.org/rec/conf/pakdd/ZhaoST13</url></info>
+<url>URL#2746429</url>
+</hit>
+<hit score="1" id="2781671">
+<info><authors><author pid="14/2589">Longbing Cao</author><author pid="08/6525">Hiroshi Motoda</author><author pid="s/JaideepSrivastava">Jaideep Srivastava</author><author pid="l/EePengLim">Ee-Peng Lim</author><author pid="k/IrwinKing">Irwin King</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="n/WolfgangNejdl">Wolfgang Nejdl</author><author pid="59/2340">Guandong Xu</author><author pid="62/2655-9">Gang Li 0009</author><author pid="85/3714-2">Ya Zhang 0002</author></authors><title>Behavior and Social Computing, International Workshop on Behavior and Social Informatics, BSI 2013, Gold Coast, QLD, Australia, April 14-17, 2013 and International Workshop on Behavior and Social Informatics and Computing, BSIC 2013, Beijing, China, August 3-9, 2013, Revised Selected Papers</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><venue>Lecture Notes in Computer Science</venue><volume>8178</volume><publisher>Springer</publisher><year>2013</year><type>Editorship</type><key>conf/pakdd/2013bsi</key><doi>10.1007/978-3-319-04048-6</doi><ee>https://doi.org/10.1007/978-3-319-04048-6</ee><url>https://dblp.org/rec/conf/pakdd/2013bsi</url></info>
+<url>URL#2781671</url>
 </hit>
 </hits>
 </result>

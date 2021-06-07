@@ -1,59 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="756500">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"fca4ai2015\".\"bht</query>
+<query id="756559">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"flinai2015\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">124.50</time>
+<time unit="msecs">0.51</time>
 <completions total="1" computed="1" sent="1">
-<c sc="12" dc="12" oc="12" id="18207005">:facetid:toc:db/conf/ijcai/fca4ai2015.bht</c>
+<c sc="8" dc="8" oc="8" id="18207008">:facetid:toc:db/conf/ijcai/flinai2015.bht</c>
 </completions>
-<hits total="12" computed="12" sent="12" first="0">
-<hit score="1" id="2145266">
-<info><authors><author pid="68/8155">Mehwish Alam</author><author pid="127/6929">Aleksey Buzmakov</author><author pid="28/3653">Víctor Codocedo</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>Bridging DBpedia Categories and DL-Concept Definitions Using Formal Concept Analysis.</title><venue>FCA4AI@IJCAI</venue><pages>9-16</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlamBCN15a</key><ee>http://ceur-ws.org/Vol-1430/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlamBCN15a</url></info>
-<url>URL#2145266</url>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="2145255">
+<info><authors><author pid="33/5611-2">Stefan Schiffer 0002</author><author pid="23/4712">Alexander Ferrein</author></authors><title>Decision-Theoretic Planning with Linguistic Terms in Golog.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0002F15</key><ee>http://ceur-ws.org/Vol-1424/Paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0002F15</url></info>
+<url>URL#2145255</url>
 </hit>
-<hit score="1" id="2145294">
-<info><authors><author pid="69/3668">Hernán Astudillo</author></authors><title>Using Trust Networks to Improve Data Quality and Recommendations.</title><venue>FCA4AI@IJCAI</venue><pages>7-8</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Astudillo15</key><ee>http://ceur-ws.org/Vol-1430/paper0.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Astudillo15</url></info>
-<url>URL#2145294</url>
+<hit score="1" id="2145383">
+<info><authors><author pid="167/5224">Matheus Cardoso</author><author pid="47/4322">Angelo C. Loula</author><author pid="57/3105">Giovanni Pires</author></authors><title>Building a Fuzzy System for Opinion Classification Across Different Domains.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CardosoMP15</key><ee>http://ceur-ws.org/Vol-1424/Paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CardosoMP15</url></info>
+<url>URL#2145383</url>
 </hit>
-<hit score="1" id="2145314">
-<info><authors><author pid="51/9795">Martín Barrère</author><author pid="06/4140">Gustavo Betarte</author><author pid="28/3653">Víctor Codocedo</author><author pid="51/10125">Marcelo Rodríguez</author><author pid="69/3668">Hernán Astudillo</author><author pid="167/5018">Marcelo Aliquintuy</author><author pid="12/4344">Javier Baliosian</author><author pid="04/5407">Remi Badonnel</author><author pid="f/OlivierFestor">Olivier Festor</author><author pid="64/6563">Carlos Raniery Paula dos Santos</author><author pid="78/7495">Jéferson Campos Nobre</author><author pid="52/4475">Lisandro Zambenedetti Granville</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>Machine-assisted Cyber Threat Analysis Using Conceptual Knowledge Discovery.</title><venue>FCA4AI@IJCAI</venue><pages>75-86</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BarrereBCRAABSN15</key><ee>http://ceur-ws.org/Vol-1430/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BarrereBCRAABSN15</url></info>
-<url>URL#2145314</url>
+<hit score="1" id="2145687">
+<info><authors><author pid="00/3543">Jirí Mockor</author></authors><title>Fuzzy Logic Models in some Categories.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Mockor15</key><ee>http://ceur-ws.org/Vol-1424/Paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Mockor15</url></info>
+<url>URL#2145687</url>
 </hit>
-<hit score="1" id="2145370">
-<info><authors><author pid="127/6929">Aleksey Buzmakov</author><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author></authors><title>SOFIA - How to Make FCA Polynomial?</title><venue>FCA4AI@IJCAI</venue><pages>27-35</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BuzmakovKN15</key><ee>http://ceur-ws.org/Vol-1430/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BuzmakovKN15</url></info>
-<url>URL#2145370</url>
+<hit score="1" id="2145722">
+<info><authors><author pid="167/5076">Juan S. Patino-Callejas</author><author pid="167/5231">Krisna Y. Espinosa-Ayala</author><author pid="65/3339">Juan Carlos Figueroa García</author></authors><title>Type-2 Fuzzy Uncertainty in Goal Programming.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Patino-Callejas15</key><ee>http://ceur-ws.org/Vol-1424/Paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Patino-Callejas15</url></info>
+<url>URL#2145722</url>
 </hit>
-<hit score="1" id="2145494">
-<info><authors><author pid="137/3611">Boris A. Galitsky</author></authors><title>Finding a Lattice of Needles in a Haystack - Forming a Query from a Set of Items of Interest.</title><venue>FCA4AI@IJCAI</venue><pages>99-106</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Galitsky15</key><ee>http://ceur-ws.org/Vol-1430/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Galitsky15</url></info>
-<url>URL#2145494</url>
+<hit score="1" id="2145744">
+<info><authors><author pid="76/6916">Ana Lucía Dai Pra</author><author pid="143/5077">Lucía Isabel Passoni</author></authors><title>Rough-Fuzzy Granularity in the Study of Optical Phenomena.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PraP15</key><ee>http://ceur-ws.org/Vol-1424/Paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PraP15</url></info>
+<url>URL#2145744</url>
 </hit>
-<hit score="1" id="2145562">
-<info><authors><author pid="21/5524">Dmitry I. Ignatov</author><author pid="166/1385">Denis Kornilov</author></authors><title>RAPS - A Recommender Algorithm Based on Pattern Structures.</title><venue>FCA4AI@IJCAI</venue><pages>87-98</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IgnatovK15</key><ee>http://ceur-ws.org/Vol-1430/paper9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/IgnatovK15</url></info>
-<url>URL#2145562</url>
+<hit score="1" id="2145759">
+<info><authors><author pid="02/1540">Anca Ralescu</author><author pid="33/1668">Isabelle Bloch</author><author pid="c/RobertoMarcondesCesarJunior">Roberto M. Cesar</author></authors><title>Preliminary Study Towards a Fuzzy Model for Visual Attention.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RalescuBC15</key><ee>http://ceur-ws.org/Vol-1424/Paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RalescuBC15</url></info>
+<url>URL#2145759</url>
 </hit>
-<hit score="1" id="2145585">
-<info><authors><author pid="162/0008">Yury Kashnitsky</author><author pid="51/2300">Sergei O. Kuznetsov</author></authors><title>Lazy Associative Graph Classification.</title><venue>FCA4AI@IJCAI</venue><pages>63-74</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KashnitskyK15</key><ee>http://ceur-ws.org/Vol-1430/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KashnitskyK15</url></info>
-<url>URL#2145585</url>
+<hit score="1" id="2145792">
+<info><authors><author pid="146/9428">Pakizar Shamoi</author><author pid="05/4240">Atsushi Inoue</author><author pid="16/653">Hiroharu Kawanaka</author></authors><title>Deep Color Semantics for E-commerce Content-based Image Retrieval.</title><venue>FLinAI@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShamoiIK15</key><ee>http://ceur-ws.org/Vol-1424/Paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShamoiIK15</url></info>
+<url>URL#2145792</url>
 </hit>
-<hit score="1" id="2145664">
-<info><authors><author pid="173/3606">Tatyana P. Makhalova</author><author pid="140/3022">Dmitry I. Ilvovsky</author><author pid="137/3611">Boris A. Galitsky</author></authors><title>Pattern Structures for News Clustering.</title><venue>FCA4AI@IJCAI</venue><pages>35-42</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MakhalovaIG15</key><ee>http://ceur-ws.org/Vol-1430/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MakhalovaIG15</url></info>
-<url>URL#2145664</url>
-</hit>
-<hit score="1" id="2145671">
-<info><authors><author pid="153/5488">Alexey Masyutin</author><author pid="162/0008">Yury Kashnitsky</author><author pid="51/2300">Sergei O. Kuznetsov</author></authors><title>Lazy Classication with Interval Pattern Structures - Application to Credit Scoring.</title><venue>FCA4AI@IJCAI</venue><pages>43-54</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MasyutinKK15</key><ee>http://ceur-ws.org/Vol-1430/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MasyutinKK15</url></info>
-<url>URL#2145671</url>
-</hit>
-<hit score="1" id="2145774">
-<info><authors><author pid="79/6633">Sebastian Rudolph</author><author pid="61/9867">Christian Sacarea</author><author pid="152/3863">Diana Troanca</author></authors><title>Reduction in Triadic Data Sets.</title><venue>FCA4AI@IJCAI</venue><pages>55-62</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RudolphST15a</key><ee>http://ceur-ws.org/Vol-1430/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/RudolphST15a</url></info>
-<url>URL#2145774</url>
-</hit>
-<hit score="1" id="2145815">
-<info><authors><author pid="136/2646">Renzo Stanley</author><author pid="69/3668">Hernán Astudillo</author></authors><title>A Conceptual-KDD Tool for Ontology Construction from a Database Schema.</title><venue>FCA4AI@IJCAI</venue><pages>17-26</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/StanleyA15</key><ee>http://ceur-ws.org/Vol-1430/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/StanleyA15</url></info>
-<url>URL#2145815</url>
-</hit>
-<hit score="1" id="2213397">
-<info><authors><author pid="51/2300">Sergei O. Kuznetsov</author><author pid="n/AmedeoNapoli">Amedeo Napoli</author><author pid="79/6633">Sebastian Rudolph</author></authors><title>Proceedings of the 4th International Workshop &quot;What can FCA do for Artificial Intelligence?&quot;, FCA4AI 2015, co-located with the International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25, 2015.</title><venue>FCA4AI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1430</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015fca4ai</key><ee>http://ceur-ws.org/Vol-1430</ee><url>https://dblp.org/rec/conf/ijcai/2015fca4ai</url></info>
-<url>URL#2213397</url>
+<hit score="1" id="2213398">
+<info><authors><author pid="01/2014">Irene Díaz</author><author pid="02/1540">Anca Ralescu</author><author pid="33/5611-2">Stefan Schiffer 0002</author></authors><title>Proceedings of the Workshop on Fuzzy Logic in AI, FLinAI 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 25, 2015.</title><venue>FLinAI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1424</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015flinai</key><ee>http://ceur-ws.org/Vol-1424</ee><url>https://dblp.org/rec/conf/ijcai/2015flinai</url></info>
+<url>URL#2213398</url>
 </hit>
 </hits>
 </result>

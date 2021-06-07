@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="752637">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"lacatoda2018\".\"bht</query>
+<query id="752660">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"mrc2018\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">129.27</time>
+<time unit="msecs">128.09</time>
 <completions total="1" computed="1" sent="1">
-<c sc="9" dc="9" oc="9" id="18207061">:facetid:toc:db/conf/ijcai/lacatoda2018.bht</c>
+<c sc="11" dc="11" oc="11" id="18207068">:facetid:toc:db/conf/ijcai/mrc2018.bht</c>
 </completions>
-<hits total="9" computed="9" sent="9" first="0">
-<hit score="1" id="1181348">
-<info><authors><author pid="117/4904">Sahil Garg</author><author pid="79/6762">Guillermo A. Cecchi</author><author pid="r/IrinaRish">Irina Rish</author><author pid="38/8575">Shuyang Gao</author><author pid="82/9058">Greg Ver Steeg</author><author pid="149/9943">Sarik Ghazarian</author><author pid="183/3699">Palash Goyal</author><author pid="16/3411">Aram Galstyan</author></authors><title>Dialogue Modeling Via Hash Functions.</title><venue>LaCATODA@IJCAI</venue><pages>24-36</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GargCRGSGGG18</key><ee>http://ceur-ws.org/Vol-2202/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GargCRGSGGG18</url></info>
-<url>URL#1181348</url>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1181227">
+<info><authors><author pid="222/7893">Aishwarya Chhabra</author><author pid="97/8100">Amit Sangroya</author><author pid="30/5842">C. Anantaram</author></authors><title>Formalizing and Verifying Natural Language System Requirements using Petri Nets and Context based Reasoning.</title><venue>MRC@IJCAI</venue><pages>64-71</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChhabraSA18</key><ee>http://ceur-ws.org/Vol-2134/paper09.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChhabraSA18</url></info>
+<url>URL#1181227</url>
 </hit>
-<hit score="1" id="1181400">
-<info><authors><author pid="222/2902">Daniel Harborne</author><author pid="92/822">Dave Braines</author><author pid="p/AlunDPreece">Alun D. Preece</author><author pid="17/3493">Rafal Rzepka</author></authors><title>Conversational Control Interface to Facilitate Situational Understanding in a City Surveillance Setting.</title><venue>LaCATODA@IJCAI</venue><pages>59-66</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HarborneBPR18</key><ee>http://ceur-ws.org/Vol-2202/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HarborneBPR18</url></info>
-<url>URL#1181400</url>
+<hit score="1" id="1181357">
+<info><authors><author pid="228/3225">Evana Gizzi</author><author pid="228/3246">Lisa Le Vie</author><author pid="00/2197">Matthias Scheutz</author><author pid="176/5121">Vasanth Sarathy</author><author pid="05/6973">Jivko Sinapov</author></authors><title>A Generalized Framework for Detecting Anomalies in Real-Time Using Contextual Information.</title><venue>MRC@IJCAI</venue><pages>1-7</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GizziVSSS18</key><ee>http://ceur-ws.org/Vol-2134/paper03.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GizziVSSS18</url></info>
+<url>URL#1181357</url>
 </hit>
-<hit score="1" id="1181616">
-<info><authors><author pid="220/3782">Szymon Malik</author><author pid="140/7631">Adrian Lancucki</author><author pid="02/9737">Jan Chorowski</author></authors><title>Efficient Purely Convolutional Text Encoding.</title><venue>LaCATODA@IJCAI</venue><pages>14-23</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MalikLC18</key><ee>http://ceur-ws.org/Vol-2202/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MalikLC18</url></info>
-<url>URL#1181616</url>
+<hit score="1" id="1181481">
+<info><authors><author pid="48/7163">Jiman Kim</author><author pid="228/3255">Changjong Park</author></authors><title>Attribute Dissection of Urban Road Scenes for Efficient Dataset Integration.</title><venue>MRC@IJCAI</venue><pages>8-15</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KimP18</key><ee>http://ceur-ws.org/Vol-2134/paper01.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KimP18</url></info>
+<url>URL#1181481</url>
 </hit>
-<hit score="1" id="1181646">
-<info><authors><author pid="169/3173">Masahiro Mizukami</author><author pid="87/9254">Hiroaki Sugiyama</author><author pid="71/8882">Hiromi Narimatsu</author></authors><title>Event Data Collection for Recent Personal Questions.</title><venue>LaCATODA@IJCAI</venue><pages>52-57</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MizukamiSN18</key><ee>http://ceur-ws.org/Vol-2202/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MizukamiSN18</url></info>
-<url>URL#1181646</url>
+<hit score="1" id="1181485">
+<info><authors><author pid="141/6369">Uwe Köckemann</author><author pid="122/3299">Marjan Alirezaie</author><author pid="68/5373">Lars Karlsson</author><author pid="46/4635">Amy Loutfi</author></authors><title>Integrating Ontologies for Context-based Constraint-based Planning.</title><venue>MRC@IJCAI</venue><pages>22-29</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KockemannAKL18</key><ee>http://ceur-ws.org/Vol-2134/paper06.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KockemannAKL18</url></info>
+<url>URL#1181485</url>
 </hit>
-<hit score="1" id="1181657">
-<info><authors><author pid="71/8882">Hiromi Narimatsu</author><author pid="87/9254">Hiroaki Sugiyama</author><author pid="169/3173">Masahiro Mizukami</author></authors><title>Detecting Location-Indicating Phrases in User Utterances for Chat-Oriented Dialogue Systems.</title><venue>LaCATODA@IJCAI</venue><pages>8-13</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NarimatsuSM18</key><ee>http://ceur-ws.org/Vol-2202/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/NarimatsuSM18</url></info>
-<url>URL#1181657</url>
+<hit score="1" id="1181488">
+<info><authors><author pid="183/8503">Ilir Kola</author><author pid="41/631">Catholijn M. Jonker</author><author pid="r/MBvRiemsdijk">M. Birna van Riemsdijk</author></authors><title>Modelling the Social Environment - Towards Socially Adaptive Electronic Partners.</title><venue>MRC@IJCAI</venue><pages>30-34</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KolaJR18</key><ee>http://ceur-ws.org/Vol-2134/paper08.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KolaJR18</url></info>
+<url>URL#1181488</url>
 </hit>
-<hit score="1" id="1181781">
-<info><authors><author pid="126/8887">Maria Skeppstedt</author><author pid="134/2283">Magnus Ahltorp</author></authors><title>Towards a Structured Evaluation of Improv-bots - Improvisational Theatre as a Non-goal-driven Dialogue System.</title><venue>LaCATODA@IJCAI</venue><pages>37-43</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SkeppstedtA18</key><ee>http://ceur-ws.org/Vol-2202/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SkeppstedtA18</url></info>
-<url>URL#1181781</url>
+<hit score="1" id="1181690">
+<info><authors><author pid="185/9974">Tetiana Parshakova</author><author pid="25/2348">Dae-Shik Kim</author></authors><title>Latent Question Interpretation Through Parameter Adaptation Using Stochastic Neuron.</title><venue>MRC@IJCAI</venue><pages>46-55</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ParshakovaK18</key><ee>http://ceur-ws.org/Vol-2134/paper07.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ParshakovaK18</url></info>
+<url>URL#1181690</url>
 </hit>
-<hit score="1" id="1181837">
-<info><authors><author pid="195/4988">Yuiko Tsunomori</author><author pid="35/4482">Ryuichiro Higashinaka</author><author pid="82/2266">Takeshi Yoshimura</author></authors><title>Refinement of Utterance Database and Concatenation of Utterances for Enhancing System Utterances in Chat-oriented Dialogue System.</title><venue>LaCATODA@IJCAI</venue><pages>44-51</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TsunomoriHY18</key><ee>http://ceur-ws.org/Vol-2202/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TsunomoriHY18</url></info>
-<url>URL#1181837</url>
+<hit score="1" id="1181701">
+<info><authors><author pid="183/8461">Ana Petrovska</author><author pid="170/6102">Florian Grigoleit</author></authors><title>Towards Context Modeling for Dynamic Collaborative Embedded Systems in Open Context.</title><venue>MRC@IJCAI</venue><pages>41-45</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PetrovskaG18</key><ee>http://ceur-ws.org/Vol-2134/paper05.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PetrovskaG18</url></info>
+<url>URL#1181701</url>
 </hit>
-<hit score="1" id="1182053">
-<info><authors><author pid="26/2578">Rui Zhao</author><author pid="t/VolkerTresp">Volker Tresp</author></authors><title>Improving Goal-Oriented Visual Dialog Agents via Advanced Recurrent Nets with Tempered Policy Gradient.</title><venue>LaCATODA@IJCAI</venue><pages>1-7</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhaoT18</key><ee>http://ceur-ws.org/Vol-2202/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhaoT18</url></info>
-<url>URL#1182053</url>
+<hit score="1" id="1181797">
+<info><authors><author pid="213/2392">Marcus Ströbel</author><author pid="176/3478">Elma Kerz</author><author pid="176/3782">Daniel Wiechmann</author><author pid="q/YuQiao">Yu Qiao</author></authors><title>Text Genre Classification Based on Linguistic Complexity Contours Using A Recurrent Neural Network.</title><venue>MRC@IJCAI</venue><pages>56-63</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/StrobelKWQ18</key><ee>http://ceur-ws.org/Vol-2134/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/StrobelKWQ18</url></info>
+<url>URL#1181797</url>
 </hit>
-<hit score="1" id="1253770">
-<info><authors><author pid="17/3493">Rafal Rzepka</author><author pid="56/2838">Jordi Vallverdú</author><author pid="226/5131">Andre Wlodarczyk</author></authors><title>Proceedings of the Linguistic and Cognitive Approaches To Dialog Agents Workshop co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), part of the Federated AI Meeting (FAIM 2018), Stockholm, Sweden, July 13, 2018.</title><venue>LaCATODA@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2202</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018lacatoda</key><ee>http://ceur-ws.org/Vol-2202</ee><url>https://dblp.org/rec/conf/ijcai/2018lacatoda</url></info>
-<url>URL#1253770</url>
+<hit score="1" id="1181829">
+<info><authors><author pid="142/3134">Myrthe L. Tielman</author><author pid="41/631">Catholijn M. Jonker</author><author pid="r/MBvRiemsdijk">M. Birna van Riemsdijk</author></authors><title>What Should I Do? Deriving Norms from Actions, Values and Context.</title><venue>MRC@IJCAI</venue><pages>35-40</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TielmanJR18</key><ee>http://ceur-ws.org/Vol-2134/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TielmanJR18</url></info>
+<url>URL#1181829</url>
+</hit>
+<hit score="1" id="1181838">
+<info><authors><author pid="205/5354">Johannes Ude</author><author pid="228/3245">Bianca Schüller</author><author pid="01/3479">Rebekah Wegener</author><author pid="10/4348">Jörg Cassens</author></authors><title>A Pipeline for Extracting Multi-Modal Markers for Meaning in Lectures.</title><venue>MRC@IJCAI</venue><pages>16-21</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/UdeSWC18</key><ee>http://ceur-ws.org/Vol-2134/paper04.pdf</ee><url>https://dblp.org/rec/conf/ijcai/UdeSWC18</url></info>
+<url>URL#1181838</url>
+</hit>
+<hit score="1" id="1253772">
+<info><authors><author pid="10/4348">Jörg Cassens</author><author pid="01/3479">Rebekah Wegener</author><author pid="80/5314">Anders Kofod-Petersen</author></authors><title>Proceedings of the Tenth International Workshop Modelling and Reasoning in Context co-located with the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018) and the 23rd European Conference on Artificial Intelligence (ECAI 2018), Stockholm, Sweden, July 13, 2018.</title><venue>MRC@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2134</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018mrc</key><ee>http://ceur-ws.org/Vol-2134</ee><url>https://dblp.org/rec/conf/ijcai/2018mrc</url></info>
+<url>URL#1253772</url>
 </hit>
 </hits>
 </result>
