@@ -6,20 +6,24 @@ import os
 import pandas as pd
 
 
+count = 0
+
+# Current file path
+path = os.path.dirname(os.path.abspath(__file__))
 
 # List of folders to iterate over
 folders = ["IJCAI-XML", "MLHC-XML", "NeurIPS-XML", "AAAI-XML", "ICML-XML"]
 
 # Iterate over folders
 for folder in folders:
-    file_arr = os.listdir("/Users/mattviafora/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Python Data Science/Theory-Application-Research/"+folder)
+    file_arr = os.listdir(path+'/'+folder)
 
     # Iterate over files in that folder
     cols = ["year","first-author","last-author","journal/conference","title","number-of-authors", "paper-url", "DBLP-url"]
     rows = []
     for file in file_arr:
         # Parsing the XML file
-        xmlparse = ET.parse('/Users/mattviafora/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Python Data Science/Theory-Application-Research/'+ folder+'/'+file)
+        xmlparse = ET.parse(path+'/'+ folder+'/'+file)
 
         root = xmlparse.getroot()
         for i in root.iter("info"):
@@ -41,6 +45,8 @@ for folder in folders:
                     author_count+=1
                     last_child = child
                 last_author = last_child.text
+            else:
+                count+=1
             
             # Append all attributes to csv
             rows.append({"year" : year, 
@@ -55,3 +61,4 @@ for folder in folders:
     df = pd.DataFrame(rows, columns=cols)
 # Writing pandas dataframe to csv
     df.to_csv('/Users/mattviafora/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Python Data Science/Theory-Application-Research/'+ folder +'-output.csv')
+print("Total number of papers disregarded due to no authors:",count)
