@@ -37,3 +37,7 @@ ________________________________________
 **Output-CSVs contains:**
 - CSV files containing data parsed from XML files
 - CSV files are sorted by conference
+
+**genderIdentifier.py contains:**
+- Code to extract HTML from a website and lookover text to pickout pronouns
+- Decides if an author is male or female
