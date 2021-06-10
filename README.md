@@ -30,6 +30,10 @@ ________________________________________
 **parsing.py contains:**
 - Python script to parse XML files for specified fields
 
+**parsing_V2.py contains:**
+- Python script to parse XML files for specified fields
+- Added support for affiliation from DBLP
+
 **Output-CSVs contains:**
 - CSV files containing data parsed from XML files
 - CSV files are sorted by conference
