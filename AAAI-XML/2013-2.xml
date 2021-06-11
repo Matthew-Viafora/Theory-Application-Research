@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="302268">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"learning2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">118.82</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18218005">:facetid:toc:db/conf/aaai/learning2013.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="2640082">
+<info><authors><author pid="59/3600">Adrian Barbu</author><author pid="138/5597">Maria Pavlovskaia</author><author pid="10/10313">Song Chun Zhu</author></authors><title>Rates for Inductive Learning of Compositional Models.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/BarbuPZ13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7024</ee><url>https://dblp.org/rec/conf/aaai/BarbuPZ13</url></info>
+<url>URL#2640082</url>
+</hit>
+<hit score="1" id="2640146">
+<info><authors><author pid="138/5613">Amy Sue Fire</author><author pid="10/10313">Song-Chun Zhu</author></authors><title>Learning Perceptual Causality from Video.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/FireZ13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7097</ee><url>https://dblp.org/rec/conf/aaai/FireZ13</url></info>
+<url>URL#2640146</url>
+</hit>
+<hit score="1" id="2640216">
+<info><authors><author pid="56/6762">George Dimitri Konidaris</author><author pid="k/LesliePackKaelbling">Leslie Pack Kaelbling</author><author pid="90/752">Tomás Lozano-Pérez</author></authors><title>Symbol Acquisition for Task-Level Planning.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/KonidarisKL13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7147</ee><url>https://dblp.org/rec/conf/aaai/KonidarisKL13</url></info>
+<url>URL#2640216</url>
+</hit>
+<hit score="1" id="2640234">
+<info><authors><author pid="77/6142">Simon D. Levy</author><author pid="138/5608">Suraj Bajracharya</author><author pid="10/4543">Ross W. Gayler</author></authors><title>Learning Behavior Hierarchies via High-Dimensional Sensor Projection.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/LevyBG13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7075</ee><url>https://dblp.org/rec/conf/aaai/LevyBG13</url></info>
+<url>URL#2640234</url>
+</hit>
+<hit score="1" id="2640252">
+<info><authors><author pid="120/6935">Ashique Rupam Mahmood</author><author pid="48/6070">Richard S. Sutton</author></authors><title>Representation Search through Generate and Test.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/MahmoodS13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7164</ee><url>https://dblp.org/rec/conf/aaai/MahmoodS13</url></info>
+<url>URL#2640252</url>
+</hit>
+<hit score="1" id="2640268">
+<info><authors><author pid="117/8075">Michael S. P. Miller</author></authors><title>The Construction of Reality in a Cognitive System.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Miller13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7014</ee><url>https://dblp.org/rec/conf/aaai/Miller13</url></info>
+<url>URL#2640268</url>
+</hit>
+<hit score="1" id="2640270">
+<info><authors><author pid="06/6951">Joseph Modayil</author></authors><title>Two Perspectives on Learning Rich Representations from Robot Experience.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Modayil13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7096</ee><url>https://dblp.org/rec/conf/aaai/Modayil13</url></info>
+<url>URL#2640270</url>
+</hit>
+<hit score="1" id="2640273">
+<info><authors><author pid="98/7441">Jonathan Mugan</author></authors><title>Top-Down Abstraction Learning Using Prediction as a Supervisory Signal.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Mugan13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7056</ee><url>https://dblp.org/rec/conf/aaai/Mugan13</url></info>
+<url>URL#2640273</url>
+</hit>
+<hit score="1" id="2640301">
+<info><authors><author pid="12/2314">Marc Pickett</author></authors><title>Organizers.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Pickett13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7349</ee><url>https://dblp.org/rec/conf/aaai/Pickett13</url></info>
+<url>URL#2640301</url>
+</hit>
+<hit score="1" id="2640302">
+<info><authors><author pid="12/2314">Marc Pickett</author></authors><title>Building on Deep Learning.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Pickett13a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7041</ee><url>https://dblp.org/rec/conf/aaai/Pickett13a</url></info>
+<url>URL#2640302</url>
+</hit>
+<hit score="1" id="2640303">
+<info><authors><author pid="12/2314">Marc Pickett</author><author pid="k/BenjaminKuipers">Benjamin Kuipers</author><author pid="l/YannLeCun">Yann LeCun</author><author pid="84/3699">Clayton T. Morrison</author></authors><title>Preface.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/PickettKLM13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7350</ee><url>https://dblp.org/rec/conf/aaai/PickettKLM13</url></info>
+<url>URL#2640303</url>
+</hit>
+<hit score="1" id="2640322">
+<info><authors><author pid="138/5602">Richard James Rohwer</author></authors><title>Events, Interest, Segmentation, Binding and Hierarchy.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Rohwer13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7095</ee><url>https://dblp.org/rec/conf/aaai/Rohwer13</url></info>
+<url>URL#2640322</url>
+</hit>
+<hit score="1" id="2640354">
+<info><authors><author pid="138/5591">Shawn Squire</author><author pid="97/1893">Marie desJardins</author></authors><title>Autonomous Hierarchical POMDP Planning from Low-Level Sensors.</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Squired13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7163</ee><url>https://dblp.org/rec/conf/aaai/Squired13</url></info>
+<url>URL#2640354</url>
+</hit>
+<hit score="1" id="2791171">
+<info><title>Learning Rich Representations from Low-Level Sensors, Papers from the 2013 AAAI Workshop, Bellevue, Washington, USA, July 15, 2013</title><venue>AAAI Workshop - Learning Rich Representations from Low-Level Sensors</venue><venue>AAAI Workshops</venue><volume>WS-13-12</volume><publisher>AAAI</publisher><year>2013</year><type>Editorship</type><key>conf/aaai/2013learning</key><ee>http://www.aaai.org/Library/Workshops/ws13-12.php</ee><url>https://dblp.org/rec/conf/aaai/2013learning</url></info>
+<url>URL#2791171</url>
+</hit>
+</hits>
+</result>

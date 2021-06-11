@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="294241">:facetid:toc:db\"/\"conf\"/\"hcomp\"/\"hcomp2012\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">119.78</time>
+<completions total="1" computed="1" sent="1">
+<c sc="33" dc="33" oc="33" id="18235517">:facetid:toc:db/conf/hcomp/hcomp2012.bht</c>
+</completions>
+<hits total="33" computed="33" sent="33" first="0">
+<hit score="1" id="2959358">
+<info><authors><author pid="68/9124-1">Christopher G. Harris 0001</author></authors><title>Detecting Deceptive Opinion Spam Using Human Computation.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/000112</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5256</ee><url>https://dblp.org/rec/conf/hcomp/000112</url></info>
+<url>URL#2959358</url>
+</hit>
+<hit score="1" id="2959359">
+<info><authors><author pid="130/0316">Suhas Aggarwal</author></authors><title>Captchas With a Purpose.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/Aggarwal12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5208</ee><url>https://dblp.org/rec/conf/hcomp/Aggarwal12</url></info>
+<url>URL#2959359</url>
+</hit>
+<hit score="1" id="2959360">
+<info><authors><author pid="b/FrancoisBry">François Bry</author><author pid="w/CWieser">Christoph Wieser</author></authors><title>Squaring and Scripting the ESP Game.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/BryW12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5348</ee><url>https://dblp.org/rec/conf/hcomp/BryW12</url></info>
+<url>URL#2959360</url>
+</hit>
+<hit score="1" id="2959361">
+<info><authors><author pid="48/6716">David Engel</author><author pid="215/3262">Verena Kottler</author><author pid="179/2671">Christoph Malisi</author><author pid="35/9526">Marc Röttig</author><author pid="72/9984">Eva-Maria Willing</author><author pid="188/1808">Sebastian Schultheiß</author></authors><title>Crowd-Sourcing Design - Sketch Minimization using Crowds for Feedback.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/EngelKMRWS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5243</ee><url>https://dblp.org/rec/conf/hcomp/EngelKMRWS12</url></info>
+<url>URL#2959361</url>
+</hit>
+<hit score="1" id="2959362">
+<info><authors><author pid="80/3718">Yotam I. Gingold</author><author pid="83/254">Etienne Vouga</author><author pid="25/5353">Eitan Grinspun</author><author pid="h/HaymHirsh">Haym Hirsh</author></authors><title>Diamonds From the Rough - Improving Drawing, Painting, and Singing via Crowdsourcing.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/GingoldVGH12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5261</ee><url>https://dblp.org/rec/conf/hcomp/GingoldVGH12</url></info>
+<url>URL#2959362</url>
+</hit>
+<hit score="1" id="2959363">
+<info><authors><author pid="23/1741">Harry Halpin</author><author pid="30/3795">Roi Blanco</author></authors><title>Machine-Learning for Spammer Detection in Crowd-Sourcing.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/HalpinB12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5321</ee><url>https://dblp.org/rec/conf/hcomp/HalpinB12</url></info>
+<url>URL#2959363</url>
+</hit>
+<hit score="1" id="2959364">
+<info><authors><author pid="85/4929">Chien-Ju Ho</author><author pid="50/671-25">Yu Zhang 0025</author><author pid="w/JenniferWortman">Jennifer Wortman Vaughan</author><author pid="s/MihaelavanderSchaar">Mihaela van der Schaar</author></authors><title>Towards Social Norm Design for Crowdsourcing Markets.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/HoZVS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5295</ee><url>https://dblp.org/rec/conf/hcomp/HoZVS12</url></info>
+<url>URL#2959364</url>
+</hit>
+<hit score="1" id="2959365">
+<info><authors><author pid="119/4531">Shih-Wen Huang</author><author pid="87/5086">Wai-Tat Fu</author></authors><title>Systematic Analysis of Output Agreement Games - Effects of Gaming Environment, Social Interaction, and Feedback.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/HuangF12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5314</ee><url>https://dblp.org/rec/conf/hcomp/HuangF12</url></info>
+<url>URL#2959365</url>
+</hit>
+<hit score="1" id="2959366">
+<info><authors><author pid="40/10919">Hyun Joon Jung</author><author pid="29/239">Matthew Lease</author></authors><title>Improving Quality of Crowdsourced Labels via Probabilistic Matrix Factorization.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/JungL12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5258</ee><url>https://dblp.org/rec/conf/hcomp/JungL12</url></info>
+<url>URL#2959366</url>
+</hit>
+<hit score="1" id="2959367">
+<info><authors><author pid="117/4868">Hiroshi Kajino</author><author pid="71/3718">Yuta Tsuboi</author><author pid="13/2665">Issei Sato</author><author pid="27/4448">Hisashi Kashima</author></authors><title>Learning from Crowds and Experts.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KajinoTSK12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5257</ee><url>https://dblp.org/rec/conf/hcomp/KajinoTSK12</url></info>
+<url>URL#2959367</url>
+</hit>
+<hit score="1" id="2959368">
+<info><authors><author pid="126/1829">Nicolas Kokkalis</author><author pid="63/10321">Johannes Huebner</author><author pid="153/1981">Steven Diamond</author><author pid="215/3208">Dominic Becker</author><author pid="05/6858">Michael Chang</author><author pid="132/1761">Moontae Lee</author><author pid="80/408">Florian Schulze</author><author pid="126/1864">Thomas Köhn</author><author pid="97/4414">Scott R. Klemmer</author></authors><title>Automatically Providing Action Plans Helps People Complete Tasks.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KokkalisHDBCLSK12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5331</ee><url>https://dblp.org/rec/conf/hcomp/KokkalisHDBCLSK12</url></info>
+<url>URL#2959368</url>
+</hit>
+<hit score="1" id="2959369">
+<info><authors><author pid="40/5535">Markus Krause</author><author pid="80/7848">Jan D. Smeddinck</author><author pid="45/7444">Aneta Takhtamysheva</author><author pid="215/3206">Velislav Markov</author><author pid="10/891">Nina Runge</author></authors><title>Playful Surveys - Easing Challenges of Human Subject Research with Online Crowds.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KrauseSTMR12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5236</ee><url>https://dblp.org/rec/conf/hcomp/KrauseSTMR12</url></info>
+<url>URL#2959369</url>
+</hit>
+<hit score="1" id="2959370">
+<info><authors><author pid="28/7121">Anand Kulkarni</author><author pid="65/10919">David Rolnitzky</author><author pid="58/10889">Philipp Gutheim</author><author pid="89/257">Prayag Narula</author><author pid="02/5011">Tapan S. Parikh</author><author pid="92/443">Bjoern Hartmann</author></authors><title>MobileWorks - Designing for Quality in a Managed Crowdsourcing Architecture (Extended Abstract).</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KulkarniRGNPH12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5308</ee><url>https://dblp.org/rec/conf/hcomp/KulkarniRGNPH12</url></info>
+<url>URL#2959370</url>
+</hit>
+<hit score="1" id="2959371">
+<info><authors><author pid="21/5881">A. Kumaran 0001</author><author pid="136/8739">Sujay Kumar Jauhar</author><author pid="60/3977">Sumit Basu</author></authors><title>Doodling - A Gaming Paradigm for Generating Language Data.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KumaranJB12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5317</ee><url>https://dblp.org/rec/conf/hcomp/KumaranJB12</url></info>
+<url>URL#2959371</url>
+</hit>
+<hit score="1" id="2959372">
+<info><authors><author pid="120/3172">Yen-Ling Kuo</author><author pid="55/866">Jane Yung-jen Hsu</author><author pid="27/10817">Fuming Shih</author></authors><title>Contextual Commonsense Knowledge Acquisition from Social Content by Crowd-Sourcing Explanations.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/KuoHS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5273</ee><url>https://dblp.org/rec/conf/hcomp/KuoHS12</url></info>
+<url>URL#2959372</url>
+</hit>
+<hit score="1" id="2959373">
+<info><authors><author pid="70/1211">Boyang Li</author><author pid="96/9248">Darren Scott Appling</author><author pid="00/4538">Stephen Lee-Urban</author><author pid="r/MarkORiedl">Mark Riedl</author></authors><title>Learning Sociocultural Knowledge via Crowdsourced Examples.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/LiALR12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5307</ee><url>https://dblp.org/rec/conf/hcomp/LiALR12</url></info>
+<url>URL#2959373</url>
+</hit>
+<hit score="1" id="2959374">
+<info><authors><author pid="117/4966">Christopher H. Lin</author><author pid="30/6391">Mausam</author><author pid="w/DanielSWeld">Daniel S. Weld</author></authors><title>Crowdsourcing Control - Moving Beyond Multiple Choice.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/LinMW12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5336</ee><url>https://dblp.org/rec/conf/hcomp/LinMW12</url></info>
+<url>URL#2959374</url>
+</hit>
+<hit score="1" id="2959375">
+<info><authors><author pid="117/4966">Christopher H. Lin</author><author pid="30/6391">Mausam</author><author pid="w/DanielSWeld">Daniel S. Weld</author></authors><title>Dynamically Switching between Synergistic Workflows for Crowdsourcing.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/LinMW12a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5334</ee><url>https://dblp.org/rec/conf/hcomp/LinMW12a</url></info>
+<url>URL#2959375</url>
+</hit>
+<hit score="1" id="2959376">
+<info><authors><author pid="92/6598">Subhransu Maji</author><author pid="17/1926">Gregory Shakhnarovich</author></authors><title>Part Annotations via Pairwise Correspondence.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/MajiS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5242</ee><url>https://dblp.org/rec/conf/hcomp/MajiS12</url></info>
+<url>URL#2959376</url>
+</hit>
+<hit score="1" id="2959377">
+<info><authors><author pid="29/3105">Mehdi Manshadi</author><author pid="215/3219">Carolyn Keenan</author><author pid="a/JFAllen">James F. Allen</author></authors><title>Using the Crowd to Do Natural Language Programming.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/ManshadiKA12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5324</ee><url>https://dblp.org/rec/conf/hcomp/ManshadiKA12</url></info>
+<url>URL#2959377</url>
+</hit>
+<hit score="1" id="2959378">
+<info><authors><author pid="71/10037">Andrew Mao</author><author pid="72/3762">Yiling Chen</author><author pid="g/KrzysztofZGajos">Krzysztof Z. Gajos</author><author pid="p/DavidCParkes">David C. Parkes</author><author pid="p/ArielDProcaccia">Ariel D. Procaccia</author><author pid="65/7161">Haoqi Zhang</author></authors><title>TurkServer - Enabling Synchronous and Longitudinal Online Experiments.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/MaoCGPPZ12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5315</ee><url>https://dblp.org/rec/conf/hcomp/MaoCGPPZ12</url></info>
+<url>URL#2959378</url>
+</hit>
+<hit score="1" id="2959379">
+<info><authors><author pid="71/10037">Andrew Mao</author><author pid="p/ArielDProcaccia">Ariel D. Procaccia</author><author pid="72/3762">Yiling Chen</author></authors><title>Social Choice for Human Computation.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/MaoPC12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5312</ee><url>https://dblp.org/rec/conf/hcomp/MaoPC12</url></info>
+<url>URL#2959379</url>
+</hit>
+<hit score="1" id="2959380">
+<info><authors><author pid="93/10484">Mohamed Musthag</author><author pid="g/DeepakGanesan">Deepak Ganesan</author></authors><title>The Role of Super Agents in Mobile Crowdsourcing.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/MusthagG12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5333</ee><url>https://dblp.org/rec/conf/hcomp/MusthagG12</url></info>
+<url>URL#2959380</url>
+</hit>
+<hit score="1" id="2959381">
+<info><authors><author pid="60/11151">Gireeja Ranade</author><author pid="36/4028">Lav Raj Varshney</author></authors><title>To Crowdsource or Not To Crowdsource?</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/RanadeV12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5241</ee><url>https://dblp.org/rec/conf/hcomp/RanadeV12</url></info>
+<url>URL#2959381</url>
+</hit>
+<hit score="1" id="2959382">
+<info><authors><author pid="10/891">Nina Runge</author><author pid="215/3275">Niklas Kilian</author><author pid="80/7848">Jan D. Smeddinck</author><author pid="40/5535">Markus Krause</author></authors><title>Predicting Crowd-Based Translation Quality with Language-Independent Feature Vectors.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/RungeKSK12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5237</ee><url>https://dblp.org/rec/conf/hcomp/RungeKSK12</url></info>
+<url>URL#2959382</url>
+</hit>
+<hit score="1" id="2959383">
+<info><authors><author pid="09/4945">Hao Su</author><author pid="07/6526-1">Jia Deng 0001</author><author pid="79/2528">Li Fei-Fei 0001</author></authors><title>Crowdsourcing Annotations for Visual Object Detection.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/SuDF12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5350</ee><url>https://dblp.org/rec/conf/hcomp/SuDF12</url></info>
+<url>URL#2959383</url>
+</hit>
+<hit score="1" id="2959384">
+<info><authors><author pid="125/8189">Jun Wang</author><author pid="28/4556">Bei Yu</author></authors><title>Collecting Representative Pictures for Words - A Human Computation Approach Based on Draw Something Game.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/WangY12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5335</ee><url>https://dblp.org/rec/conf/hcomp/WangY12</url></info>
+<url>URL#2959384</url>
+</hit>
+<hit score="1" id="2959385">
+<info><authors><author pid="w/DanielSWeld">Daniel S. Weld</author><author pid="a/EytanAdar">Eytan Adar</author><author pid="73/7444">Lydia B. Chilton</author><author pid="88/3920">Raphael Hoffmann</author><author pid="h/EricHorvitz">Eric Horvitz</author><author pid="57/8657">Mitchell Koch</author><author pid="l/JamesALanday">James A. Landay</author><author pid="117/4966">Christopher H. Lin</author><author pid="30/6391">Mausam</author></authors><title>Personalized Online Education - A Crowdsourcing Challenge.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/WeldACHHKLLM12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5306</ee><url>https://dblp.org/rec/conf/hcomp/WeldACHHKLLM12</url></info>
+<url>URL#2959385</url>
+</hit>
+<hit score="1" id="2959386">
+<info><title>Organizers.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/X12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5421</ee><url>https://dblp.org/rec/conf/hcomp/X12</url></info>
+<url>URL#2959386</url>
+</hit>
+<hit score="1" id="2959387">
+<info><title>Preface.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/X12a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5422</ee><url>https://dblp.org/rec/conf/hcomp/X12a</url></info>
+<url>URL#2959387</url>
+</hit>
+<hit score="1" id="2959388">
+<info><authors><author pid="117/4898">Jinfeng Yi</author><author pid="j/RongJin">Rong Jin</author><author pid="j/AnilKJain">Anil K. Jain 0001</author><author pid="33/6992">Shaili Jain</author></authors><title>Crowdclustering with Sparse Pairwise Labels - A Matrix Completion Approach.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/YiJ0J12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5330</ee><url>https://dblp.org/rec/conf/hcomp/YiJ0J12</url></info>
+<url>URL#2959388</url>
+</hit>
+<hit score="1" id="2959389">
+<info><authors><author pid="65/7161">Haoqi Zhang</author><author pid="06/9923">John K. Lai</author><author pid="75/6316">Moritz Bächer</author></authors><title>Hallucination - A Mixed-Initiative Approach for Efficient Document Reconstruction.</title><venue>HCOMP@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/hcomp/ZhangLB12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5310</ee><url>https://dblp.org/rec/conf/hcomp/ZhangLB12</url></info>
+<url>URL#2959389</url>
+</hit>
+<hit score="1" id="3054340">
+<info><authors><author pid="72/3762">Yiling Chen</author><author pid="39/986">Panagiotis G. Ipeirotis</author><author pid="32/1523">Edith Law</author><author pid="78/391">Luis von Ahn</author><author pid="65/7161">Haoqi Zhang</author></authors><title>The 4th Human Computation Workshop, HCOMP@AAAI 2012, Toronto, Ontario, Canada, July 23, 2012.</title><venue>HCOMP@AAAI</venue><venue>AAAI Workshops</venue><volume>WS-12-08</volume><publisher>AAAI Press</publisher><year>2012</year><type>Editorship</type><key>conf/hcomp/2012</key><ee>http://www.aaai.org/Library/Workshops/ws12-08.php</ee><url>https://dblp.org/rec/conf/hcomp/2012</url></info>
+<url>URL#3054340</url>
+</hit>
+</hits>
+</result>

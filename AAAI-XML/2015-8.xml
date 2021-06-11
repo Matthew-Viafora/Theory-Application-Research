@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="306513">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"poker2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">110.20</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18218017">:facetid:toc:db/conf/aaai/poker2015.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2066692">
+<info><authors><author pid="82/2543">Nolan Bard</author><author pid="162/5049">Deon Nicholas</author><author pid="62/567">Csaba Szepesvári</author><author pid="71/5161">Michael Bowling</author></authors><title>Decision-Theoretic Clustering of Strategies.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/BardNSB15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10201</ee><url>https://dblp.org/rec/conf/aaai/BardNSB15</url></info>
+<url>URL#2066692</url>
+</hit>
+<hit score="1" id="2066741">
+<info><authors><author pid="149/1329">Noam Brown</author><author pid="00/744">Sam Ganzfried</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Hierarchical Abstraction, Distributed Equilibrium Computation, and Post-Processing, with Application to a Champion No-Limit Texas Hold&apos;em Agent.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/BrownGS15a</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10137</ee><url>https://dblp.org/rec/conf/aaai/BrownGS15a</url></info>
+<url>URL#2066741</url>
+</hit>
+<hit score="1" id="2066872">
+<info><authors><author pid="00/744">Sam Ganzfried</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Endgame Solving in Large Imperfect-Information Games.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/GanzfriedS15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10136</ee><url>https://dblp.org/rec/conf/aaai/GanzfriedS15</url></info>
+<url>URL#2066872</url>
+</hit>
+<hit score="1" id="2066933">
+<info><authors><author pid="186/6595">Chun-Yen Ho</author><author pid="10/3718">Hsuan-Tien Lin</author></authors><title>Contract Bridge Bidding by Learning.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/HoL15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10162</ee><url>https://dblp.org/rec/conf/aaai/HoL15</url></info>
+<url>URL#2066933</url>
+</hit>
+<hit score="1" id="2067147">
+<info><authors><author pid="69/509">Hirotaka Osawa</author></authors><title>Solving Hanabi - Estimating Hands by Opponent&apos;s Actions in Cooperative Game with Incomplete Information.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Osawa15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10167</ee><url>https://dblp.org/rec/conf/aaai/Osawa15</url></info>
+<url>URL#2067147</url>
+</hit>
+<hit score="1" id="2067156">
+<info><authors><author pid="88/2732">Jon Parker</author></authors><title>Using Linear Programming and Divide and Conquer to Solve Large Games of Imperfect Information.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Parker15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10184</ee><url>https://dblp.org/rec/conf/aaai/Parker15</url></info>
+<url>URL#2067156</url>
+</hit>
+<hit score="1" id="2067215">
+<info><authors><author pid="96/3654">Martin Schmid</author><author pid="149/1276">Matej Moravcik</author><author pid="87/5451">Milan Hladík</author><author pid="178/8679">Stephen J. Gaukrodger</author></authors><title>Automatic Public State Space Abstraction in Imperfect Information Games.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchmidMHG15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10073</ee><url>https://dblp.org/rec/conf/aaai/SchmidMHG15</url></info>
+<url>URL#2067215</url>
+</hit>
+<hit score="1" id="2067332">
+<info><authors><author pid="96/4074">Kevin Waugh</author><author pid="65/2021">James Andrew Bagnell</author></authors><title>A Unified View of Large-Scale Zero-Sum Equilibrium Computation.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/WaughB15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10110</ee><url>https://dblp.org/rec/conf/aaai/WaughB15</url></info>
+<url>URL#2067332</url>
+</hit>
+<hit score="1" id="2067334">
+<info><authors><author pid="96/4074">Kevin Waugh</author><author pid="154/6681">Dustin Morrill</author><author pid="65/2021">James Andrew Bagnell</author><author pid="71/5161">Michael Bowling</author></authors><title>Solving Games with Functional Regret Estimation.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/WaughMBB15a</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10111</ee><url>https://dblp.org/rec/conf/aaai/WaughMBB15a</url></info>
+<url>URL#2067334</url>
+</hit>
+<hit score="1" id="2223351">
+<info><authors><author pid="00/744">Sam Ganzfried</author></authors><title>Computer Poker and Imperfect Information, Papers from the 2015 AAAI Workshop, Austin, Texas, USA, January 26, 2015.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information</venue><venue>AAAI Workshops</venue><volume>WS-15-07</volume><publisher>AAAI Press</publisher><year>2015</year><type>Editorship</type><key>conf/aaai/2015poker</key><ee>http://www.aaai.org/Library/Workshops/ws15-07.php</ee><url>https://dblp.org/rec/conf/aaai/2015poker</url></info>
+<url>URL#2223351</url>
+</hit>
+</hits>
+</result>

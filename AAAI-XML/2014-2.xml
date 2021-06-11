@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="304608">:facetid:toc:db\"/\"conf\"/\"wiced\"/\"wiced2014\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">105.16</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18263486">:facetid:toc:db/conf/wiced/wiced2014.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="2505153">
+<info><authors><author pid="266/5155">Cameron Alston</author><author pid="39/3830">Arnav Jhala</author></authors><title>Automating Camera Control in Games Using Gaze.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/AlstonJ14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8864</ee><url>https://dblp.org/rec/conf/wiced/AlstonJ14</url></info>
+<url>URL#2505153</url>
+</hit>
+<hit score="1" id="2505154">
+<info><authors><author pid="266/5107">Travis T. Anderson</author><author pid="266/5197">Dennis Packard</author></authors><title>AI Jump Start - A Repraisal of Editing for Continuity and Discontinuity in Film and Video Games.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/AndersonP14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8851</ee><url>https://dblp.org/rec/conf/wiced/AndersonP14</url></info>
+<url>URL#2505154</url>
+</hit>
+<hit score="1" id="2505155">
+<info><authors><author pid="266/5403">Devon Bates</author><author pid="39/3830">Arnav Jhala</author></authors><title>Multi-Modal Analysis of Movies for Rhythm Extraction.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/BatesJ14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8862</ee><url>https://dblp.org/rec/conf/wiced/BatesJ14</url></info>
+<url>URL#2505155</url>
+</hit>
+<hit score="1" id="2505156">
+<info><authors><author pid="86/6709">Jianhui Chen</author><author pid="81/2369-1">Peter Carr 0001</author></authors><title>Autonomous Camera Systems - A Survey.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/ChenC14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8733</ee><url>https://dblp.org/rec/conf/wiced/ChenC14</url></info>
+<url>URL#2505156</url>
+</hit>
+<hit score="1" id="2505157">
+<info><authors><author pid="266/5271">Daniel Jeffrey Couturier</author><author pid="182/1918">Daniel DeTone</author><author pid="266/5374">Homer Neal</author></authors><title>Robust Locally Weighted Regression for Aesthetically Pleasing Region-of-Interest Video Generatioin.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/CouturierDN14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8845</ee><url>https://dblp.org/rec/conf/wiced/CouturierDN14</url></info>
+<url>URL#2505157</url>
+</hit>
+<hit score="1" id="2505158">
+<info><authors><author pid="208/1063">Cigdem Kocberber Kontaci</author><author pid="75/4848">Albert Ali Salah</author></authors><title>Video Retargeting - Video Saliency and Optical Flow Based Hybrid Approach.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/KontaciS14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8808</ee><url>https://dblp.org/rec/conf/wiced/KontaciS14</url></info>
+<url>URL#2505158</url>
+</hit>
+<hit score="1" id="2505159">
+<info><authors><author pid="39/8238">Christophe Lino</author><author pid="23/4044">Rémi Ronfard</author><author pid="147/5456">Quentin Galvane</author><author pid="g/MichaelGleicher">Michael Gleicher</author></authors><title>How Do We Evaluate the Quality of Computational Editing Systems?</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/LinoRGG14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8802</ee><url>https://dblp.org/rec/conf/wiced/LinoRGG14</url></info>
+<url>URL#2505159</url>
+</hit>
+<hit score="1" id="2505160">
+<info><authors><author pid="148/6498">Billal Merabti</author><author pid="63/5800">Marc Christie</author><author pid="90/3135">Kadi Bouatouch</author></authors><title>A Virtual Director Inspired by Real Directors.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/MerabtiCB14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8800</ee><url>https://dblp.org/rec/conf/wiced/MerabtiCB14</url></info>
+<url>URL#2505160</url>
+</hit>
+<hit score="1" id="2505161">
+<info><authors><author pid="138/5579">Soja-Marie Callahan Morgens</author><author pid="39/3830">Arnav Jhala</author></authors><title>EduCam - Cinematic Vocabulary for Educational Videos.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/MorgensJ14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8805</ee><url>https://dblp.org/rec/conf/wiced/MorgensJ14</url></info>
+<url>URL#2505161</url>
+</hit>
+<hit score="1" id="2505162">
+<info><authors><author pid="163/7960">Thomas William Price</author><author pid="140/7235">R. Michael Young</author></authors><title>Towards an Extended Declarative Representation for Camera Planning.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/PriceY14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8775</ee><url>https://dblp.org/rec/conf/wiced/PriceY14</url></info>
+<url>URL#2505162</url>
+</hit>
+<hit score="1" id="2505163">
+<info><authors><author pid="23/4044">Rémi Ronfard</author><author pid="01/1109">Paolo Burelli</author><author pid="39/3830">Arnav Jhala</author></authors><title>Organizers.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/RonfardBJ14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8890</ee><url>https://dblp.org/rec/conf/wiced/RonfardBJ14</url></info>
+<url>URL#2505163</url>
+</hit>
+<hit score="1" id="2505164">
+<info><authors><author pid="148/6536">Cunka Bassirou Sanokho</author><author pid="63/5800">Marc Christie</author></authors><title>On-Screen Visual Balance Inspired by Real Movies.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/SanokhoC14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8826</ee><url>https://dblp.org/rec/conf/wiced/SanokhoC14</url></info>
+<url>URL#2505164</url>
+</hit>
+<hit score="1" id="2505165">
+<info><authors><author pid="266/5250">Bipeng Zhang</author><author pid="39/3830">Arnav Jhala</author></authors><title>Mid-Scale Shot Classification for Detecting Narrative Transitions in Movie Clips.</title><venue>WICED@AAAI</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/wiced/ZhangJ14</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8863</ee><url>https://dblp.org/rec/conf/wiced/ZhangJ14</url></info>
+<url>URL#2505165</url>
+</hit>
+<hit score="1" id="2513950">
+<info><authors><author pid="23/4044">Rémi Ronfard</author><author pid="01/1109">Paolo Burelli</author><author pid="39/3830">Arnav Jhala</author></authors><title>3rd Workshop on Intelligent Cinematography and Editing, WICED@AAAI 2014, Québec, Canada, July 28, 2014</title><venue>WICED@AAAI</venue><venue>AAAI Workshops</venue><volume>WS-14-06</volume><publisher>AAAI Press</publisher><year>2014</year><type>Editorship</type><key>conf/wiced/2014</key><ee>https://www.aaai.org/ocs/index.php/WS/AAAIW14/schedConf/presentations</ee><url>https://dblp.org/rec/conf/wiced/2014</url></info>
+<url>URL#2513950</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="294325">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"mapf2012\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">117.27</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="18218009">:facetid:toc:db/conf/aaai/mapf2012.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="2910446">
+<info><authors><author pid="171/1513">Shawn Adams</author><author pid="67/3321">Matthew J. Rutherford</author></authors><title>Towards Decentralized Waypoint Negotiation.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/AdamsR12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5268</ee><url>https://dblp.org/rec/conf/aaai/AdamsR12</url></info>
+<url>URL#2910446</url>
+</hit>
+<hit score="1" id="2910460">
+<info><authors><author pid="135/8483">Daman Bareiss</author><author pid="96/3850">Jur van den Berg</author></authors><title>Reciprocal Collision Avoidance for Quadrotor Helicopters Using LQR-Obstacles.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/BareissB12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5248</ee><url>https://dblp.org/rec/conf/aaai/BareissB12</url></info>
+<url>URL#2910460</url>
+</hit>
+<hit score="1" id="2910492">
+<info><authors><author pid="60/1043">Jan-Peter Calliess</author><author pid="59/6403">Michael Alan Osborne</author><author pid="64/1485">Stephen J. Roberts</author></authors><title>Towards Optimization-Based Multi-Agent Collision-Avoidance Under Continuous Stochastic Dynamics.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/CalliessOR12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5235</ee><url>https://dblp.org/rec/conf/aaai/CalliessOR12</url></info>
+<url>URL#2910492</url>
+</hit>
+<hit score="1" id="2910534">
+<info><authors><author pid="59/590">Mohamad El Falou</author><author pid="70/6184">Maroua Bouzid</author><author pid="90/5967">Abdel-Illah Mouaddib</author></authors><title>DEC-A* - A Decentralized A* Algorithm.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/FalouBM12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5240</ee><url>https://dblp.org/rec/conf/aaai/FalouBM12</url></info>
+<url>URL#2910534</url>
+</hit>
+<hit score="1" id="2910559">
+<info><authors><author pid="94/9797">Meir Goldenberg</author><author pid="43/5063">Ariel Felner</author><author pid="95/1348">Roni Stern</author><author pid="73/9853">Guni Sharon</author><author pid="s/JonathanSchaeffer">Jonathan Schaeffer</author></authors><title>A* Variants for Optimal Multi-Agent Pathfinding.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/GoldenbergFSSS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5233</ee><url>https://dblp.org/rec/conf/aaai/GoldenbergFSSS12</url></info>
+<url>URL#2910559</url>
+</hit>
+<hit score="1" id="2910574">
+<info><authors><author pid="97/4964">Yann-Michaël De Hauwere</author><author pid="95/232">Ann Nowé</author></authors><title>Learning Conflicts from Experience.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/HauwereN12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5218</ee><url>https://dblp.org/rec/conf/aaai/HauwereN12</url></info>
+<url>URL#2910574</url>
+</hit>
+<hit score="1" id="2910623">
+<info><authors><author pid="98/8671">Athanasios Krontiris</author><author pid="117/4897">Qandeel Sajid</author><author pid="42/170">Kostas E. Bekris</author></authors><title>Towards Using Discrete Multiagent Pathfinding to Address Continuous Problems.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/KrontirisSB12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5328</ee><url>https://dblp.org/rec/conf/aaai/KrontirisSB12</url></info>
+<url>URL#2910623</url>
+</hit>
+<hit score="1" id="2910667">
+<info><authors><author pid="00/10482">Patrick MacAlpine</author><author pid="118/4043">Francisco Barrera</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Positioning to Win - A Dynamic Role Assignment and Formation Positioning System.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/MacAlpineBS12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5220</ee><url>https://dblp.org/rec/conf/aaai/MacAlpineBS12</url></info>
+<url>URL#2910667</url>
+</hit>
+<hit score="1" id="2910737">
+<info><authors><author pid="92/2559">Gabriele Röger</author><author pid="21/4581">Malte Helmert</author></authors><title>Non-Optimal Multi-Agent Pathfinding Is Solved (Since 1984).</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/RogerH12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5206</ee><url>https://dblp.org/rec/conf/aaai/RogerH12</url></info>
+<url>URL#2910737</url>
+</hit>
+<hit score="1" id="2910756">
+<info><authors><author pid="73/9853">Guni Sharon</author><author pid="95/1348">Roni Stern</author><author pid="43/5063">Ariel Felner</author><author pid="18/991">Nathan R. Sturtevant</author></authors><title>Conflict-Based Search for Optimal Multi-Agent Path Finding.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/SharonSFS12a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5239</ee><url>https://dblp.org/rec/conf/aaai/SharonSFS12a</url></info>
+<url>URL#2910756</url>
+</hit>
+<hit score="1" id="2910763">
+<info><authors><author pid="91/7751">Jamie Snape</author><author pid="75/5806">Stephen J. Guy</author><author pid="96/3850">Jur van den Berg</author><author pid="l/MingCLin">Ming C. Lin</author><author pid="m/DineshManocha">Dinesh Manocha</author></authors><title>Reciprocal Collision Avoidance and Multi-Agent Navigation for Video Games.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/SnapeGBLM12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5247</ee><url>https://dblp.org/rec/conf/aaai/SnapeGBLM12</url></info>
+<url>URL#2910763</url>
+</hit>
+<hit score="1" id="2910771">
+<info><authors><author pid="58/8399">Trevor Scott Standley</author></authors><title>Independence Detection for Multi-Agent Pathfinding Problems.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/Standley12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5230</ee><url>https://dblp.org/rec/conf/aaai/Standley12</url></info>
+<url>URL#2910771</url>
+</hit>
+<hit score="1" id="2910807">
+<info><title>Organizers.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/X12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5426</ee><url>https://dblp.org/rec/conf/aaai/X12</url></info>
+<url>URL#2910807</url>
+</hit>
+<hit score="1" id="2910808">
+<info><title>Preface.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/X12a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5427</ee><url>https://dblp.org/rec/conf/aaai/X12a</url></info>
+<url>URL#2910808</url>
+</hit>
+<hit score="1" id="2910821">
+<info><authors><author pid="45/497">Jingjin Yu</author><author pid="l/StevenMLaValle">Steven M. LaValle</author></authors><title>Time Optimal Multi-Agent Path Planning on Graphs.</title><venue>MAPF@AAAI</venue><year>2012</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuL12</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5202</ee><url>https://dblp.org/rec/conf/aaai/YuL12</url></info>
+<url>URL#2910821</url>
+</hit>
+<hit score="1" id="3053538">
+<info><authors><author pid="43/5063">Ariel Felner</author><author pid="18/991">Nathan Sturtevant</author><author pid="42/170">Kostas E. Bekris</author><author pid="95/1348">Roni Stern</author></authors><title>Multiagent Pathfinding, Papers from the 2012 AAAI Workshop, MAPF@AAAI 2012, Toronto, Ontario, Canada, July 22, 2012.</title><venue>MAPF@AAAI</venue><venue>AAAI Workshops</venue><volume>WS-12-10</volume><publisher>AAAI Press</publisher><year>2012</year><type>Editorship</type><key>conf/aaai/2012mapf</key><ee>http://www.aaai.org/Library/Workshops/ws12-10.php</ee><url>https://dblp.org/rec/conf/aaai/2012mapf</url></info>
+<url>URL#3053538</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="289697">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"abstr2010\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">116.03</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18217974">:facetid:toc:db/conf/aaai/abstr2010.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="3405115">
+<info><authors><author pid="04/5344">Roman Barták</author><author pid="21/4513">Ondrej Kuzelka</author><author pid="00/2873">Filip Zelezný</author></authors><title>Formulating Template Consistency in Inductive Logic Programming as a Constraint Satisfaction Problem.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BartakKZ10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2065</ee><url>https://dblp.org/rec/conf/aaai/BartakKZ10</url></info>
+<url>URL#3405115</url>
+</hit>
+<hit score="1" id="3405143">
+<info><authors><author pid="30/7442">Ethan Burns</author><author pid="24/8399">Sofia Lemons</author><author pid="80/5790">Wheeler Ruml</author><author pid="z/RongZhou1">Rong Zhou 0001</author></authors><title>Parallel Best-First Search - The Role of Abstraction.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/BurnsLRZ10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2061</ee><url>https://dblp.org/rec/conf/aaai/BurnsLRZ10</url></info>
+<url>URL#3405143</url>
+</hit>
+<hit score="1" id="3405181">
+<info><authors><author pid="66/3792">Christian Drescher</author><author pid="86/2576">Toby Walsh</author></authors><title>Reformulation of Global Constraints in Answer Set Programming.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/DrescherW10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2062</ee><url>https://dblp.org/rec/conf/aaai/DrescherW10</url></info>
+<url>URL#3405181</url>
+</hit>
+<hit score="1" id="3405189">
+<info><authors><author pid="79/4353">Susan L. Epstein</author><author pid="57/11043">Xi Yun</author></authors><title>From Unsolvable to Solvable - An Exploration of Simple Changes.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/EpsteinY10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2063</ee><url>https://dblp.org/rec/conf/aaai/EpsteinY10</url></info>
+<url>URL#3405189</url>
+</hit>
+<hit score="1" id="3405228">
+<info><authors><author pid="05/4422">Djamal Habet</author><author pid="10/6570">Philippe Jégou</author></authors><title>Toward a Generalization and a Reformulation of Goods in SAT - Preliminary Report.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HabetJ10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2060</ee><url>https://dblp.org/rec/conf/aaai/HabetJ10</url></info>
+<url>URL#3405228</url>
+</hit>
+<hit score="1" id="3405256">
+<info><authors><author pid="10/2330">Joshua Jones</author><author pid="g/AshokKGoel">Ashok K. Goel 0001</author></authors><title>Effects of Faulty Knowledge Engineering on Structured Classification Learning.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JonesG10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2064</ee><url>https://dblp.org/rec/conf/aaai/JonesG10</url></info>
+<url>URL#3405256</url>
+</hit>
+<hit score="1" id="3405285">
+<info><authors><author pid="93/3112">Lukas Kroc</author><author pid="13/154">Ashish Sabharwal</author><author pid="s/BartSelman">Bart Selman</author></authors><title>Approximate Inference for Clusters in Solution Spaces.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KrocSS10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2066</ee><url>https://dblp.org/rec/conf/aaai/KrocSS10</url></info>
+<url>URL#3405285</url>
+</hit>
+<hit score="1" id="3405314">
+<info><authors><author pid="55/4755">Stephen Lin</author><author pid="03/6763">Robert Wright</author></authors><title>Evolutionary Tile Coding - An Automated State Abstraction Algorithm for Reinforcement Learning.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LinW10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2068</ee><url>https://dblp.org/rec/conf/aaai/LinW10</url></info>
+<url>URL#3405314</url>
+</hit>
+<hit score="1" id="3405325">
+<info><authors><author pid="15/3577">Steven Loscalzo</author><author pid="160/9955">Robert William Wright</author></authors><title>Automatic Methods for Continuous State Space Abstraction.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/LoscalzoW10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2067</ee><url>https://dblp.org/rec/conf/aaai/LoscalzoW10</url></info>
+<url>URL#3405325</url>
+</hit>
+<hit score="1" id="3405350">
+<info><authors><author pid="70/1862">Christian J. Muise</author><author pid="66/3221">Sheila A. McIlraith</author><author pid="43/2165">J. Christopher Beck</author><author pid="24/2430">Eric I. Hsu</author></authors><title>Fast d-DNNF Compilation with sharpSAT.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MuiseMBH10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2069</ee><url>https://dblp.org/rec/conf/aaai/MuiseMBH10</url></info>
+<url>URL#3405350</url>
+</hit>
+<hit score="1" id="3405386">
+<info><authors><author pid="81/2894">Gregory M. Provan</author><author pid="13/154">Ashish Sabharwal</author></authors><title>Preface.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ProvanS10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2105</ee><url>https://dblp.org/rec/conf/aaai/ProvanS10</url></info>
+<url>URL#3405386</url>
+</hit>
+<hit score="1" id="3405403">
+<info><authors><author pid="s/LorenzaSaitta">Lorenza Saitta</author><author pid="v/ChristelVrain">Christel Vrain</author><author pid="54/6252-3">Zhaohui Wu 0003</author><author pid="22/752-1">Lu Jiang 0001</author><author pid="32/1858">Qinghua Zheng</author><author pid="95/3736-2">Jun Liu 0002</author></authors><title>Abstracting Markov Networks.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SaittaVWJZL10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2070</ee><url>https://dblp.org/rec/conf/aaai/SaittaVWJZL10</url></info>
+<url>URL#3405403</url>
+</hit>
+<hit score="1" id="3405517">
+<info><authors><author pid="16/3180">Xiaoming Zheng</author><author pid="k/SvenKoenig">Sven Koenig</author></authors><title>Market-Based Algorithms for Allocating Complex Tasks.</title><venue>Abstraction, Reformulation, and Approximation</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhengK10a</key><ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1654</ee><url>https://dblp.org/rec/conf/aaai/ZhengK10a</url></info>
+<url>URL#3405517</url>
+</hit>
+<hit score="1" id="3529293">
+<info><title>Abstraction, Reformulation, and Approximation, Papers from the 2010 AAAI Workshop, Atlanta, Georgia, USA, July 12, 2010</title><venue>Abstraction, Reformulation, and Approximation</venue><venue>AAAI Workshops</venue><volume>WS-10-08</volume><publisher>AAAI</publisher><year>2010</year><type>Editorship</type><key>conf/aaai/2010abstr</key><ee>http://www.aaai.org/Library/Workshops/ws10-08.php</ee><url>https://dblp.org/rec/conf/aaai/2010abstr</url></info>
+<url>URL#3529293</url>
+</hit>
+</hits>
+</result>

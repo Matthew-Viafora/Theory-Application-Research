@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="305540">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"assistive2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">113.40</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18217982">:facetid:toc:db/conf/aaai/assistive2015.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="2066663">
+<info><authors><author pid="137/4896">Thomas E. Allen</author></authors><title>I Prefer to Eat ...</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Allen15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10197</ee><url>https://dblp.org/rec/conf/aaai/Allen15</url></info>
+<url>URL#2066663</url>
+</hit>
+<hit score="1" id="2066690">
+<info><authors><author pid="45/3856">Bonny Banerjee</author><author pid="186/1621">Lisa Lucks Mendel</author><author pid="133/8346">Jayanta Kumar Dutta</author><author pid="186/1542">Hasti Shabani</author><author pid="133/4383">Shamima Najnin</author></authors><title>Identifying Hearing Deficiencies from Statistically Learned Speech Features for Personalized Tuning of Cochlear Implants.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/BanerjeeMDSN15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10057</ee><url>https://dblp.org/rec/conf/aaai/BanerjeeMDSN15</url></info>
+<url>URL#2066690</url>
+</hit>
+<hit score="1" id="2066702">
+<info><authors><author pid="175/1079">Sima Behpour</author><author pid="39/10481">Brian D. Ziebart</author></authors><title>A Minimax Robust Approach for Learning to Assist Users with Pointing Tasks.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/BehpourZ15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10129</ee><url>https://dblp.org/rec/conf/aaai/BehpourZ15</url></info>
+<url>URL#2066702</url>
+</hit>
+<hit score="1" id="2066816">
+<info><authors><author pid="d/BonnieJDorr">Bonnie J. Dorr</author><author pid="10/1059">Lucian Galescu</author><author pid="157/5704">Edward J. Golob</author><author pid="v/KristenBrentVenable">Kristen Brent Venable</author><author pid="w/YorickWilks">Yorick Wilks</author></authors><title>Companion-Based Ambient Robust Intelligence (CARING).</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/DorrGGVW15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10061</ee><url>https://dblp.org/rec/conf/aaai/DorrGGVW15</url></info>
+<url>URL#2066816</url>
+</hit>
+<hit score="1" id="2066818">
+<info><authors><author pid="d/BonnieJDorr">Bonnie J. Dorr</author><author pid="12/9717">Ian Perera</author><author pid="186/1680">Samuel Phillips</author><author pid="156/1508">Jan M. Jasiewicz</author></authors><title>Deterioration of Speech as an Indicator of Physiological Degeneration (DESIPHER).</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/DorrPPJ15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/9732</ee><url>https://dblp.org/rec/conf/aaai/DorrPPJ15</url></info>
+<url>URL#2066818</url>
+</hit>
+<hit score="1" id="2066867">
+<info><authors><author pid="137/3611">Boris A. Galitsky</author><author pid="56/10908">Igor Spitsberg</author></authors><title>Evaluating Assistance to Individuals with Autism in Reasoning about Mental World.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/GalitskyS15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10091</ee><url>https://dblp.org/rec/conf/aaai/GalitskyS15</url></info>
+<url>URL#2066867</url>
+</hit>
+<hit score="1" id="2066896">
+<info><authors><author pid="82/9861">Sébastien Guillet</author><author pid="63/2180-1">Bruno Bouchard 0001</author><author pid="10/2753">Abdenour Bouzouane</author></authors><title>Reconfiguration Control and Decision, Application to Smart Environments.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Guillet0B15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10113</ee><url>https://dblp.org/rec/conf/aaai/Guillet0B15</url></info>
+<url>URL#2066896</url>
+</hit>
+<hit score="1" id="2067084">
+<info><authors><author pid="169/2630">Julien Maitre</author><author pid="186/1607">Guillaume Glon</author><author pid="117/1729">Sébastien Gaboury</author><author pid="63/2180-1">Bruno Bouchard 0001</author><author pid="10/2753">Abdenour Bouzouane</author></authors><title>Efficient Appliances Recognition in Smart Homes Based on Active and Reactive Power, Fast Fourier Transform and Decision Trees.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/MaitreGG0B15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/9894</ee><url>https://dblp.org/rec/conf/aaai/MaitreGG0B15</url></info>
+<url>URL#2067084</url>
+</hit>
+<hit score="1" id="2067085">
+<info><authors><author pid="153/6542">Aarti Malhotra</author><author pid="153/6735">Lifei Yu</author><author pid="83/1500">Tobias Schröder</author><author pid="35/1222">Jesse Hoey</author></authors><title>An Exploratory Study into the Use of an Emotionally Aware Cognitive Assistant.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/MalhotraYSH15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10147</ee><url>https://dblp.org/rec/conf/aaai/MalhotraYSH15</url></info>
+<url>URL#2067085</url>
+</hit>
+<hit score="1" id="2067106">
+<info><authors><author pid="51/5730">David P. Miller</author><author pid="57/4295">Andrew H. Fagg</author><author pid="59/2353-4">Lei Ding 0004</author><author pid="171/7377">Thubi H. A. Kolobe</author><author pid="179/0584">Mustafa A. Ghazi</author></authors><title>Robotic Crawling Assistance for Infants with Cerebral Palsy.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/MillerFDKG15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10204</ee><url>https://dblp.org/rec/conf/aaai/MillerFDKG15</url></info>
+<url>URL#2067106</url>
+</hit>
+<hit score="1" id="2067155">
+<info><authors><author pid="35/5918">Chung Hyuk Park</author><author pid="186/1714">Neetha Pai</author><author pid="186/1628">Jayahasan Bakthachalam</author><author pid="186/1560">Yaojie Li</author><author pid="24/7521">Myounghoon Jeon</author><author pid="11/399">Ayanna M. Howard</author></authors><title>Robotic Framework for Music-Based Emotional and Social Engagement with Children with Autism.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/ParkPBLJH15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10186</ee><url>https://dblp.org/rec/conf/aaai/ParkPBLJH15</url></info>
+<url>URL#2067155</url>
+</hit>
+<hit score="1" id="2067287">
+<info><authors><author pid="87/7958">Sébastien Tremblay</author><author pid="127/3050">Dany Fortin-Simard</author><author pid="186/1564">Erika Blackburn-Verreault</author><author pid="117/1729">Sébastien Gaboury</author><author pid="63/2180-1">Bruno Bouchard 0001</author><author pid="10/2753">Abdenour Bouzouane</author></authors><title>Exploiting Environmental Sounds for Activity Recognition in Smart Homes.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/TremblayFBG0B15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/9697</ee><url>https://dblp.org/rec/conf/aaai/TremblayFBG0B15</url></info>
+<url>URL#2067287</url>
+</hit>
+<hit score="1" id="2067294">
+<info><authors><author pid="79/5199">Tiago Stegun Vaquero</author><author pid="186/1632">Sharaf Christopher Mohamed</author><author pid="14/3835">Goldie Nejat</author><author pid="43/2165">J. Christopher Beck</author></authors><title>The Implementation of a Planning and Scheduling Architecture for Multiple Robots Assisting Multiple Users in a Retirement Home Setting.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/VaqueroMNB15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/9663</ee><url>https://dblp.org/rec/conf/aaai/VaqueroMNB15</url></info>
+<url>URL#2067294</url>
+</hit>
+<hit score="1" id="2223347">
+<info><authors><author pid="63/2180-1">Bruno Bouchard 0001</author><author pid="38/4348">Sylvain Giroux</author><author pid="10/2753">Abdenour Bouzouane</author><author pid="82/9861">Sébastien Guillet</author></authors><title>Artificial Intelligence Applied to Assistive Technologies and Smart Environments, Papers from the 2015 AAAI Workshop, Austin, Texas, USA, January 25, 2015.</title><venue>AAAI Workshop - Artificial Intelligence Applied to Assistive Technologies and Smart Environments</venue><venue>AAAI Workshops</venue><volume>WS-16-03</volume><publisher>AAAI Press</publisher><year>2015</year><type>Editorship</type><key>conf/aaai/2015assistive</key><ee>http://www.aaai.org/Library/Workshops/ws15-03.php</ee><url>https://dblp.org/rec/conf/aaai/2015assistive</url></info>
+<url>URL#2223347</url>
+</hit>
+</hits>
+</result>
