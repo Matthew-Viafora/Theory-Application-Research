@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="284036">:facetid:toc:db\"/\"conf\"/\"nips\"/\"demo2020\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">122.35</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="18251287">:facetid:toc:db/conf/nips/demo2020.bht</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="1" id="847751">
+<info><authors><author pid="220/4043">Emilio Cartoni</author><author pid="06/166">Francesco Mannella</author><author pid="124/0229">Vieri Giuliano Santucci</author><author pid="24/2918">Jochen Triesch</author><author pid="128/5341">Elmar Rueckert</author><author pid="58/3851">Gianluca Baldassarre</author></authors><title>REAL-2019 - Robot open-Ended Autonomous Learning competition.</title><venue>Proceedings of Machine Learning Research</venue><pages>142-152</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/CartoniMSTRB19</key><ee>http://proceedings.mlr.press/v123/cartoni20a.html</ee><url>https://dblp.org/rec/conf/nips/CartoniMSTRB19</url></info>
+<url>URL#847751</url>
+</hit>
+<hit score="1" id="847823">
+<info><authors><author pid="83/10481">Matthew Crosby</author><author pid="239/5014">Benjamin Beyret</author><author pid="11/5268">Murray Shanahan</author><author pid="h/JoseHernandezOrallo">José Hernández-Orallo</author><author pid="248/4336">Lucy Cheke</author><author pid="248/3901">Marta Halina</author></authors><title>The Animal-AI Testbed and Competition.</title><venue>Proceedings of Machine Learning Research</venue><pages>164-176</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/CrosbyBSHCH19</key><ee>http://proceedings.mlr.press/v123/crosby20a.html</ee><url>https://dblp.org/rec/conf/nips/CrosbyBSHCH19</url></info>
+<url>URL#847823</url>
+</hit>
+<hit score="1" id="847904">
+<info><authors><author pid="86/2693">Hugo Jair Escalante</author><author pid="98/5136">Raia Hadsell</author></authors><title>NeurIPS 2019 Competition and Demonstration Track Revised selected papers.</title><venue>Proceedings of Machine Learning Research</venue><pages>1-12</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/EscalanteH19</key><ee>http://proceedings.mlr.press/v123/escalante20a.html</ee><url>https://dblp.org/rec/conf/nips/EscalanteH19</url></info>
+<url>URL#847904</url>
+</hit>
+<hit score="1" id="847953">
+<info><authors><author pid="13/7183">Ryan W. Gardner</author><author pid="280/4067">Corey Lowman</author><author pid="159/0211">Casey Richardson</author><author pid="08/9878">Ashley J. Llorens</author><author pid="203/3072">Jared Markowitz</author><author pid="142/4116">Nathan Drenkow</author><author pid="12/6517">Andrew Newman</author><author pid="165/2351">Gregory Clark</author><author pid="280/4052">Gino Perrotta</author><author pid="280/4058">Robert Perrotta</author><author pid="78/8301">Timothy Highley</author><author pid="280/4252">Vlad Shcherbina</author><author pid="280/3961">William Bernadoni</author><author pid="61/3186">Mark Jordan</author><author pid="89/1554">Asen Asenov</author></authors><title>The First International Competition in Machine Reconnaissance Blind Chess.</title><venue>Proceedings of Machine Learning Research</venue><pages>121-130</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/GardnerLRLMDNCP19</key><ee>http://proceedings.mlr.press/v123/gardner20a.html</ee><url>https://dblp.org/rec/conf/nips/GardnerLRLMDNCP19</url></info>
+<url>URL#847953</url>
+</hit>
+<hit score="1" id="848054">
+<info><authors><author pid="248/8663">Vincent Herrmann</author></authors><title>Visualizing and sonifying how an artificial ear hears music.</title><venue>Proceedings of Machine Learning Research</venue><pages>192-202</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/Herrmann19</key><ee>http://proceedings.mlr.press/v123/herrmann20a.html</ee><url>https://dblp.org/rec/conf/nips/Herrmann19</url></info>
+<url>URL#848054</url>
+</hit>
+<hit score="1" id="848055">
+<info><authors><author pid="183/6626">Pedro Herruzo</author><author pid="03/5767">Josep Lluís Larriba-Pey</author></authors><title>Recurrent Autoencoder with Skip Connections and Exogenous Variables for Traffic Forecasting.</title><venue>Proceedings of Machine Learning Research</venue><pages>47-55</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/HerruzoL19</key><ee>http://proceedings.mlr.press/v123/herruzo20a.html</ee><url>https://dblp.org/rec/conf/nips/HerruzoL19</url></info>
+<url>URL#848055</url>
+</hit>
+<hit score="1" id="848156">
+<info><authors><author pid="186/7786">Anssi Kanervisto</author><author pid="241/5378">Janne Karttunen</author><author pid="75/5713">Ville Hautamäki</author></authors><title>Playing Minecraft with Behavioural Cloning.</title><venue>Proceedings of Machine Learning Research</venue><pages>56-66</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KanervistoKH19</key><ee>http://proceedings.mlr.press/v123/kanervisto20a.html</ee><url>https://dblp.org/rec/conf/nips/KanervistoKH19</url></info>
+<url>URL#848156</url>
+</hit>
+<hit score="1" id="848179">
+<info><authors><author pid="237/0020">Taehyeon Kim</author><author pid="280/3947">Jonghyup Kim</author><author pid="23/8862">Seyoung Yun</author></authors><title>Efficient Model for Image Classification With Regularization Tricks.</title><venue>Proceedings of Machine Learning Research</venue><pages>13-26</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KimKY19</key><ee>http://proceedings.mlr.press/v123/kim20a.html</ee><url>https://dblp.org/rec/conf/nips/KimKY19</url></info>
+<url>URL#848179</url>
+</hit>
+<hit score="1" id="848183">
+<info><authors><author pid="02/2313">Donghwi Kim</author><author pid="280/4126">Hyunjee Ryu</author><author pid="280/4065">Jedsadakorn Yonchorhor</author><author pid="51/281">David Hyunchul Shim</author></authors><title>A Deep-learning-aided Automatic Vision-based Control Approach for Autonomous Drone Racing in Game of Drones Competition.</title><venue>Proceedings of Machine Learning Research</venue><pages>37-46</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KimRYS19</key><ee>http://proceedings.mlr.press/v123/kim20b.html</ee><url>https://dblp.org/rec/conf/nips/KimRYS19</url></info>
+<url>URL#848183</url>
+</hit>
+<hit score="1" id="848208">
+<info><authors><author pid="15/1642">David P. Kreil</author><author pid="150/2685-1">Michael K. Kopp 0001</author><author pid="133/2111">David Jonietz</author><author pid="27/7016">Moritz Neun</author><author pid="89/7054">Aleksandra Gruca</author><author pid="183/6626">Pedro Herruzo</author><author pid="237/1537">Henry Martin</author><author pid="48/8866">Ali Soleymani</author><author pid="h/SeppHochreiter">Sepp Hochreiter</author></authors><title>The surprising efficiency of framing geo-spatial time series forecasting as a video prediction task - Insights from the IARAI Traffic4cast Competition at NeurIPS 2019.</title><venue>Proceedings of Machine Learning Research</venue><pages>232-241</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KreilKJNGHMSH19</key><ee>http://proceedings.mlr.press/v123/kreil20a.html</ee><url>https://dblp.org/rec/conf/nips/KreilKJNGHMSH19</url></info>
+<url>URL#848208</url>
+</hit>
+<hit score="1" id="848326">
+<info><authors><author pid="241/1782">Zhengying Liu</author><author pid="02/6332">Zhen Xu</author><author pid="241/6088">Shangeth Rajaa</author><author pid="160/2780">Meysam Madadi</author><author pid="123/3235">Júlio C. S. Jacques Júnior</author><author pid="77/5527">Sergio Escalera</author><author pid="250/1489">Adrien Pavao</author><author pid="195/9836">Sébastien Treguer</author><author pid="229/4363">Wei-Wei Tu</author><author pid="31/6176">Isabelle Guyon</author></authors><title>Towards Automated Deep Learning - Analysis of the AutoDL challenge series 2019.</title><venue>Proceedings of Machine Learning Research</venue><pages>242-252</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/LiuXRMJEPTTG19</key><ee>http://proceedings.mlr.press/v123/liu20a.html</ee><url>https://dblp.org/rec/conf/nips/LiuXRMJEPTTG19</url></info>
+<url>URL#848326</url>
+</hit>
+<hit score="1" id="848366">
+<info><authors><author pid="210/9762">Ratnesh Madaan</author><author pid="260/6670">Nicholas Gyde</author><author pid="190/8334">Sai Vemprala</author><author pid="21/3987">Matthew Brown</author><author pid="260/6463">Keiko Nagami</author><author pid="211/7858">Tim Taubner</author><author pid="178/2955">Eric Cristofalo</author><author pid="62/3318">Davide Scaramuzza 0001</author><author pid="22/7012">Mac Schwager</author><author pid="93/161">Ashish Kapoor</author></authors><title>AirSim Drone Racing Lab.</title><venue>Proceedings of Machine Learning Research</venue><pages>177-191</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/MadaanGVBNTCSSK19</key><ee>http://proceedings.mlr.press/v123/madaan20a.html</ee><url>https://dblp.org/rec/conf/nips/MadaanGVBNTCSSK19</url></info>
+<url>URL#848366</url>
+</hit>
+<hit score="1" id="848389">
+<info><authors><author pid="237/1537">Henry Martin</author><author pid="177/6272">Dominik Bucher</author><author pid="46/773">Ye Hong</author><author pid="198/2682">René Buffat</author><author pid="76/744-1">Christian Rupprecht 0001</author><author pid="r/MartinRaubal">Martin Raubal</author></authors><title>Graph-ResNets for short-term traffic forecasts in almost unknown cities.</title><venue>Proceedings of Machine Learning Research</venue><pages>153-163</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/MartinBHBRR19</key><ee>http://proceedings.mlr.press/v123/martin20a.html</ee><url>https://dblp.org/rec/conf/nips/MartinBHBRR19</url></info>
+<url>URL#848389</url>
+</hit>
+<hit score="1" id="848419">
+<info><authors><author pid="239/6037">Stephanie Milani</author><author pid="165/3324">Nicholay Topin</author><author pid="239/6065">Brandon Houghton</author><author pid="192/1421">William H. Guss</author><author pid="179/2203">Sharada P. Mohanty</author><author pid="62/7391">Keisuke Nakata</author><author pid="05/726">Oriol Vinyals</author><author pid="260/7129">Noboru Sean Kuno</author></authors><title>Retrospective Analysis of the 2019 MineRL Competition on Sample Efficient Reinforcement Learning.</title><venue>Proceedings of Machine Learning Research</venue><pages>203-214</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/MilaniTHGMNVK19</key><ee>http://proceedings.mlr.press/v123/milani20a.html</ee><url>https://dblp.org/rec/conf/nips/MilaniTHGMNVK19</url></info>
+<url>URL#848419</url>
+</hit>
+<hit score="1" id="848469">
+<info><authors><author pid="198/6855">Matthew O&apos;Kelly</author><author pid="203/4566">Hongrui Zheng</author><author pid="280/3960">Dhruv Karthik</author><author pid="93/1307">Rahul Mangharam</author></authors><title>F1TENTH - An Open-source Evaluation Environment for Continuous Control and Reinforcement Learning.</title><venue>Proceedings of Machine Learning Research</venue><pages>77-89</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/OKellyZKM19</key><ee>http://proceedings.mlr.press/v123/o-kelly20a.html</ee><url>https://dblp.org/rec/conf/nips/OKellyZKM19</url></info>
+<url>URL#848469</url>
+</hit>
+<hit score="1" id="848474">
+<info><authors><author pid="280/4293">Florian Ölsner</author><author pid="50/4440">Stefan Milz</author></authors><title>Catch Me, If You Can! A Mediated Perception Approach Towards Fully Autonomous Drone Racing.</title><venue>Proceedings of Machine Learning Research</venue><pages>90-99</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/OlsnerM19</key><ee>http://proceedings.mlr.press/v123/olsner20a.html</ee><url>https://dblp.org/rec/conf/nips/OlsnerM19</url></info>
+<url>URL#848474</url>
+</hit>
+<hit score="1" id="848552">
+<info><authors><author pid="23/6353">Sekou L. Remy</author><author pid="159/3641">Oliver Bent</author></authors><title>A Global Health Gym Environment for RL Applications.</title><venue>Proceedings of Machine Learning Research</venue><pages>253-261</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/RemyB19</key><ee>http://proceedings.mlr.press/v123/remy20a.html</ee><url>https://dblp.org/rec/conf/nips/RemyB19</url></info>
+<url>URL#848552</url>
+</hit>
+<hit score="1" id="848572">
+<info><authors><author pid="120/7695">Jakob Runge</author><author pid="192/0533">Xavier-Andoni Tibau</author><author pid="280/4199">Matthias Bruhns</author><author pid="48/3486">Jordi Muñoz-Marí</author><author pid="32/5293">Gustau Camps-Valls</author></authors><title>The Causality for Climate Competition.</title><venue>Proceedings of Machine Learning Research</venue><pages>110-120</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/RungeTBMC19</key><ee>http://proceedings.mlr.press/v123/runge20a.html</ee><url>https://dblp.org/rec/conf/nips/RungeTBMC19</url></info>
+<url>URL#848572</url>
+</hit>
+<hit score="1" id="848603">
+<info><authors><author pid="260/6449">Christian Scheller</author><author pid="260/6789">Yanick Schraner</author><author pid="154/1047">Manfred Vogel</author></authors><title>Sample Efficient Reinforcement Learning through Learning from Demonstrations in Minecraft.</title><venue>Proceedings of Machine Learning Research</venue><pages>67-76</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/SchellerSV19</key><ee>http://proceedings.mlr.press/v123/scheller20a.html</ee><url>https://dblp.org/rec/conf/nips/SchellerSV19</url></info>
+<url>URL#848603</url>
+</hit>
+<hit score="1" id="848640">
+<info><authors><author pid="237/8407">Sangyun Shin</author><author pid="237/8604">Yongwon Kang</author><author pid="04/1831">Yong-Guk Kim</author></authors><title>Evolution Algorithm and Online Learning for Racing Drone.</title><venue>Proceedings of Machine Learning Research</venue><pages>100-109</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/ShinKK19</key><ee>http://proceedings.mlr.press/v123/shin20a.html</ee><url>https://dblp.org/rec/conf/nips/ShinKK19</url></info>
+<url>URL#848640</url>
+</hit>
+<hit score="1" id="848807">
+<info><authors><author pid="158/0010">Sebastian Weichwald</author><author pid="259/3198">Martin E. Jakobsen</author><author pid="259/3066">Phillip B. Mogensen</author><author pid="227/6764">Lasse Petersen</author><author pid="259/3162">Nikolaj Thams</author><author pid="150/6914">Gherardo Varando</author></authors><title>Causal structure learning from time series - Large regression coefficients may predict causal links better in practice than small p-values.</title><venue>Proceedings of Machine Learning Research</venue><pages>27-36</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/WeichwaldJMPTV19</key><ee>http://proceedings.mlr.press/v123/weichwald20a.html</ee><url>https://dblp.org/rec/conf/nips/WeichwaldJMPTV19</url></info>
+<url>URL#848807</url>
+</hit>
+<hit score="1" id="848868">
+<info><authors><author pid="204/2385">Özge Nilay Yalçin</author><author pid="266/2926">Nouf Abukhodair</author><author pid="36/5543">Steve DiPaola</author></authors><title>Empathic AI Painter - A Computational Creativity System with Embodied Conversational Interaction.</title><venue>Proceedings of Machine Learning Research</venue><pages>131-141</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/YalcinAD19</key><ee>http://proceedings.mlr.press/v123/yalcin20a.html</ee><url>https://dblp.org/rec/conf/nips/YalcinAD19</url></info>
+<url>URL#848868</url>
+</hit>
+<hit score="1" id="848870">
+<info><authors><author pid="250/0690">Zhongxia Yan</author><author pid="214/9819-2">Hanrui Wang 0002</author><author pid="215/3969">Demi Guo</author><author pid="80/806-3">Song Han 0003</author></authors><title>MicroNet for Efficient Language Modeling.</title><venue>Proceedings of Machine Learning Research</venue><pages>215-231</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/YanWGH19</key><ee>http://proceedings.mlr.press/v123/yan20a.html</ee><url>https://dblp.org/rec/conf/nips/YanWGH19</url></info>
+<url>URL#848870</url>
+</hit>
+<hit score="1" id="889140">
+<info><authors><author pid="86/2693">Hugo Jair Escalante</author><author pid="98/5136">Raia Hadsell</author></authors><title>NeurIPS 2019 Competition and Demonstration Track, 8-14 December 2019, Vancouver, Canada. Revised selected papers.</title><venue>Proceedings of Machine Learning Research</venue><venue>Proceedings of Machine Learning Research</venue><volume>123</volume><publisher>PMLR</publisher><year>2019</year><type>Editorship</type><key>conf/nips/2019demo</key><ee>http://proceedings.mlr.press/v123/</ee><url>https://dblp.org/rec/conf/nips/2019demo</url></info>
+<url>URL#889140</url>
+</hit>
+</hits>
+</result>
