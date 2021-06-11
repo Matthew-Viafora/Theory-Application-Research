@@ -41,3 +41,7 @@ ________________________________________
 **genderIdentifier.py contains:**
 - Code to extract HTML from a website and lookover text to pickout pronouns
 - Decides if an author is male or female
+
+**dataAnalysis.ipynb contains:**
+- Notebook to check datasets, identify potential issues, clean data
+- Will test genderIdentifier.py script and visually represent findings
