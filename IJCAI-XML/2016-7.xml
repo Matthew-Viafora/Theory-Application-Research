@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="7412">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"bai2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">135.59</time>
+<completions total="1" computed="1" sent="1">
+<c sc="7" dc="7" oc="7" id="18262899">:facetid:toc:db/conf/ijcai/bai2016.bht</c>
+</completions>
+<hits total="7" computed="7" sent="7" first="0">
+<hit score="1" id="1855313">
+<info><authors><author pid="127/3566">César Antonio Aguilar</author><author pid="76/1862">Olga Acosta</author></authors><title>Design of a Extraction System for Definitional Contexts from Biomedical Corpora.</title><venue>BAI@IJCAI</venue><pages>35-41</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AguilarA16</key><ee>http://ceur-ws.org/Vol-1718/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AguilarA16</url></info>
+<url>URL#1855313</url>
+</hit>
+<hit score="1" id="1855363">
+<info><authors><author pid="b/MichaelBenedikt">Michael Benedikt</author><author pid="189/9167">Rodrigo Lopez-Serrano</author><author pid="03/2000">Efthymia Tsamoura</author></authors><title>Biological Web Services - Integration, Optimization, and Reasoning.</title><venue>BAI@IJCAI</venue><pages>21-27</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BenediktLT16</key><ee>http://ceur-ws.org/Vol-1718/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BenediktLT16</url></info>
+<url>URL#1855363</url>
+</hit>
+<hit score="1" id="1855578">
+<info><authors><author pid="117/3004">Ricardo de Souza Jacomini</author><author pid="89/3723">David Correa Martins Jr.</author><author pid="177/9513">Felipe Leno da Silva</author><author pid="r/AnnaHelenaRealiCosta">Anna Helena Reali Costa</author></authors><title>A Framework for Scalable Inference of Temporal Gene Regulatory Networks based on Clustering and Multivariate Analysis.</title><venue>BAI@IJCAI</venue><pages>7-13</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JacominiMSC16</key><ee>http://ceur-ws.org/Vol-1718/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/JacominiMSC16</url></info>
+<url>URL#1855578</url>
+</hit>
+<hit score="1" id="1855755">
+<info><authors><author pid="67/9376">Sylvester Olubolu Orimaye</author><author pid="01/10490">Jojo Sze-Meng Wong</author><author pid="189/9165">Judyanne Sharmini Gilbert Fernandez</author></authors><title>Deep-Deep Neural Network Language Models for Predicting Mild Cognitive Impairment.</title><venue>BAI@IJCAI</venue><pages>14-20</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OrimayeWF16</key><ee>http://ceur-ws.org/Vol-1718/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OrimayeWF16</url></info>
+<url>URL#1855755</url>
+</hit>
+<hit score="1" id="1855837">
+<info><authors><author pid="189/9168">Sidak Pal Singh</author><author pid="189/9166">Sopan Khosla</author><author pid="177/2334">Sajal Rustagi</author><author pid="88/10414">Manisha Patel</author><author pid="28/1282">Dhaval Patel</author></authors><title>SL - FII - Syntactic and Lexical Constraints with Frequency based Iterative Improvement for Disease Mention Recognition in News Headlines.</title><venue>BAI@IJCAI</venue><pages>28-34</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SinghKRPP16</key><ee>http://ceur-ws.org/Vol-1718/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SinghKRPP16</url></info>
+<url>URL#1855837</url>
+</hit>
+<hit score="1" id="1855839">
+<info><authors><author pid="189/9172">Sam Sloate</author><author pid="189/9171">Vincent Hsiao</author><author pid="141/6399">Nina Charness</author><author pid="189/9169">Ethan Lowman</author><author pid="99/3839">Chris Maxey</author><author pid="189/9174">Guannan Ren</author><author pid="189/9170">Nathan Fields</author><author pid="46/2598">Leora Morgenstern</author></authors><title>Extracting Protein-Reaction Information from Tables of Unpredictable Format and Content in the Molecular Biology Literature.</title><venue>BAI@IJCAI</venue><pages>42-48</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SloateHCLMRFM16</key><ee>http://ceur-ws.org/Vol-1718/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SloateHCLMRFM16</url></info>
+<url>URL#1855839</url>
+</hit>
+<hit score="1" id="1925424">
+<info><authors><author pid="11/1478">Abdoulaye Baniré Diallo</author><author pid="10/3832">Engelbert Mephu Nguifo</author><author pid="z/MohammedJaveedZaki">Mohammed J. Zaki</author></authors><title>Proceedings of the Workshop on Advances in Bioinformatics and Artificial Intelligence - Bridging the Gap co-located with 25th International Joint Conference on Artificial Intelligence (IJCAI 2016), New-York, USA, July 11, 2016.</title><venue>BAI@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1718</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/ijcai/2016bai</key><ee>http://ceur-ws.org/Vol-1718</ee><url>https://dblp.org/rec/conf/ijcai/2016bai</url></info>
+<url>URL#1925424</url>
+</hit>
+</hits>
+</result>

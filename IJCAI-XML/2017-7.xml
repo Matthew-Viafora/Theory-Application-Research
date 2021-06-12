@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="7735">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"affcomp2017\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">131.38</time>
+<completions total="1" computed="1" sent="1">
+<c sc="6" dc="6" oc="6" id="18262880">:facetid:toc:db/conf/ijcai/affcomp2017.bht</c>
+</completions>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="1539718">
+<info><authors><author pid="215/1940">Mia Atcheson</author><author pid="52/7823">Vidhyasaharan Sethu</author><author pid="92/6424">Julien Epps</author></authors><title>Gaussian Process Regression for Continuous Emotion Recognition with Global Temporal Invariance.</title><venue>AffComp@IJCAI</venue><pages>34-44</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AtchesonSE17</key><ee>http://proceedings.mlr.press/v66/atcheson17a.html</ee><url>https://dblp.org/rec/conf/ijcai/AtchesonSE17</url></info>
+<url>URL#1539718</url>
+</hit>
+<hit score="1" id="1539983">
+<info><authors><author pid="145/7732">Natasha Jaques</author><author pid="53/21">Ognjen (Oggi) Rudovic</author><author pid="169/6821">Sara Taylor</author><author pid="129/5095">Akane Sano</author><author pid="p/RWPicard">Rosalind W. Picard</author></authors><title>Predicting Tomorrow&apos;s Mood, Health, and Stress Level using Personalized Multitask Learning and Domain Adaptation.</title><venue>AffComp@IJCAI</venue><pages>17-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/JaquesRTSP17</key><ee>http://proceedings.mlr.press/v66/jaques17a.html</ee><url>https://dblp.org/rec/conf/ijcai/JaquesRTSP17</url></info>
+<url>URL#1539983</url>
+</hit>
+<hit score="1" id="1540059">
+<info><authors><author pid="136/7341-1">Minglei Li 0001</author><author pid="29/766-1">Qin Lu 0001</author><author pid="168/4623">Yunfei Long</author><author pid="34/8605-3">Lin Gui 0003</author></authors><title>Affective State Prediction of Contextualized Concepts.</title><venue>AffComp@IJCAI</venue><pages>45-57</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiLLG17</key><ee>http://proceedings.mlr.press/v66/li17a.html</ee><url>https://dblp.org/rec/conf/ijcai/LiLLG17</url></info>
+<url>URL#1540059</url>
+</hit>
+<hit score="1" id="1540092">
+<info><authors><author pid="203/9126">Dianbo Liu</author><author pid="205/3174">Fengjiao Peng</author><author pid="53/21">Ognjen (Oggi) Rudovic</author><author pid="p/RWPicard">Rosalind W. Picard</author></authors><title>DeepFaceLIFT - Interpretable Personalized Models for Automatic Estimation of Self-Reported Pain.</title><venue>AffComp@IJCAI</venue><pages>1-16</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LiuPRP17</key><ee>http://proceedings.mlr.press/v66/liu17a.html</ee><url>https://dblp.org/rec/conf/ijcai/LiuPRP17</url></info>
+<url>URL#1540092</url>
+</hit>
+<hit score="1" id="1540468">
+<info><authors><author pid="213/8725">Heath Yates</author><author pid="141/1005">Brent C. Chamberlain</author><author pid="218/9766">Greg Norman</author><author pid="21/1034">William H. Hsu</author></authors><title>Arousal Detection for Biometric Data in Built Environments using Machine Learning.</title><venue>AffComp@IJCAI</venue><pages>58-72</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YatesCNH17</key><ee>http://proceedings.mlr.press/v66/yates17a.html</ee><url>https://dblp.org/rec/conf/ijcai/YatesCNH17</url></info>
+<url>URL#1540468</url>
+</hit>
+<hit score="1" id="1609453">
+<info><authors><author pid="218/9777">Neil Lawrence</author><author pid="94/6294">Mark Reid</author></authors><title>Proceedings of the 1st IJCAI Workshop on Artificial Intelligence in Affective Computing (AffComp 2017), Melbourne, Australia, August 20, 2017.</title><venue>AffComp@IJCAI</venue><venue>Proceedings of Machine Learning Research</venue><volume>66</volume><publisher>PMLR</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017affcomp</key><ee>http://proceedings.mlr.press/v66/</ee><url>https://dblp.org/rec/conf/ijcai/2017affcomp</url></info>
+<url>URL#1609453</url>
+</hit>
+</hits>
+</result>

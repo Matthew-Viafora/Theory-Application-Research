@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="6656">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">120.09</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18262905">:facetid:toc:db/conf/ijcai/cgw2013.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2514911">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="32/436">Mark H. M. Winands</author><author pid="47/951">Hiroyuki Iida</author></authors><title>Computer Games - Workshop on Computer Games, CGW 2013, Held in Conjunction with the 23rd International Conference on Artificial Intelligence, IJCAI 2013, Beijing, China, August 3, 2013, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>408</volume><publisher>Springer</publisher><year>2014</year><type>Editorship</type><key>conf/ijcai/2013cgw</key><doi>10.1007/978-3-319-05428-5</doi><ee>https://doi.org/10.1007/978-3-319-05428-5</ee><url>https://dblp.org/rec/conf/ijcai/2013cgw</url></info>
+<url>URL#2514911</url>
+</hit>
+<hit score="1" id="2729233">
+<info><authors><author pid="39/5987">Bruno Bouzy</author></authors><title>Monte-Carlo Fork Search for Cooperative Path-Finding.</title><venue>CGW@IJCAI</venue><pages>1-15</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Bouzy13</key><doi>10.1007/978-3-319-05428-5_1</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_1</ee><url>https://dblp.org/rec/conf/ijcai/Bouzy13</url></info>
+<url>URL#2729233</url>
+</hit>
+<hit score="1" id="2729287">
+<info><authors><author pid="121/1884">Robert Döbbelin</author><author pid="25/4224">Thorsten Schütt</author><author pid="33/2904">Alexander Reinefeld</author></authors><title>Building Large Compressed PDBs for the Sliding Tile Puzzle.</title><venue>CGW@IJCAI</venue><pages>16-27</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DobbelinSR13</key><doi>10.1007/978-3-319-05428-5_2</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_2</ee><url>https://dblp.org/rec/conf/ijcai/DobbelinSR13</url></info>
+<url>URL#2729287</url>
+</hit>
+<hit score="1" id="2729383">
+<info><authors><author pid="94/595">Azlan Iqbal</author></authors><title>How Relevant Are Chess Composition Conventions?</title><venue>CGW@IJCAI</venue><pages>122-131</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Iqbal13</key><doi>10.1007/978-3-319-05428-5_9</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_9</ee><url>https://dblp.org/rec/conf/ijcai/Iqbal13</url></info>
+<url>URL#2729383</url>
+</hit>
+<hit score="1" id="2729418">
+<info><authors><author pid="64/10094">Marc Lanctot</author><author pid="76/5110">Viliam Lisý</author><author pid="32/436">Mark H. M. Winands</author></authors><title>Monte Carlo Tree Search in Simultaneous Move Games with Applications to Goofspiel.</title><venue>CGW@IJCAI</venue><pages>28-43</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LanctotLW13</key><doi>10.1007/978-3-319-05428-5_3</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_3</ee><url>https://dblp.org/rec/conf/ijcai/LanctotLW13</url></info>
+<url>URL#2729418</url>
+</hit>
+<hit score="1" id="2729493">
+<info><authors><author pid="120/5792">Francois van Niekerk</author><author pid="116/2771">Steve Kroon</author></authors><title>Decision Trees for Computer Go Features.</title><venue>CGW@IJCAI</venue><pages>44-56</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NiekerkK13</key><doi>10.1007/978-3-319-05428-5_4</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_4</ee><url>https://dblp.org/rec/conf/ijcai/NiekerkK13</url></info>
+<url>URL#2729493</url>
+</hit>
+<hit score="1" id="2729542">
+<info><authors><author pid="143/7957">Max Roschke</author><author pid="18/991">Nathan R. Sturtevant</author></authors><title>UCT Enhancements in Chinese Checkers Using an Endgame Database.</title><venue>CGW@IJCAI</venue><pages>57-70</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RoschkeS13</key><doi>10.1007/978-3-319-05428-5_5</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_5</ee><url>https://dblp.org/rec/conf/ijcai/RoschkeS13</url></info>
+<url>URL#2729542</url>
+</hit>
+<hit score="1" id="2729552">
+<info><authors><author pid="143/7925">Yuichiro Sato</author><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Automated Generation of New Concepts from General Game Playing.</title><venue>CGW@IJCAI</venue><pages>71-80</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SatoC13</key><doi>10.1007/978-3-319-05428-5_6</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_6</ee><url>https://dblp.org/rec/conf/ijcai/SatoC13</url></info>
+<url>URL#2729552</url>
+</hit>
+<hit score="1" id="2729608">
+<info><authors><author pid="60/2488">Jos W. H. M. Uiterwijk</author></authors><title>Perfectly Solving Domineering Boards.</title><venue>CGW@IJCAI</venue><pages>97-121</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Uiterwijk13</key><doi>10.1007/978-3-319-05428-5_8</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_8</ee><url>https://dblp.org/rec/conf/ijcai/Uiterwijk13</url></info>
+<url>URL#2729608</url>
+</hit>
+<hit score="1" id="2729609">
+<info><authors><author pid="91/8602">Tomás Valla</author><author pid="143/7938">Pavel Veselý</author></authors><title>WALTZ - A Strong Tzaar-Playing Program.</title><venue>CGW@IJCAI</venue><pages>81-96</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VallaV13</key><doi>10.1007/978-3-319-05428-5_7</doi><ee>https://doi.org/10.1007/978-3-319-05428-5_7</ee><url>https://dblp.org/rec/conf/ijcai/VallaV13</url></info>
+<url>URL#2729609</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="180806">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ai4km2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">140.20</time>
+<completions total="1" computed="1" sent="1">
+<c sc="12" dc="12" oc="12" id="18262887">:facetid:toc:db/conf/ijcai/ai4km2018.bht</c>
+</completions>
+<hits total="12" computed="12" sent="12" first="0">
+<hit score="1" id="472685">
+<info><authors><author pid="10/4546">Eunika Mercier-Laurent</author></authors><title>Artificial Intelligence for Knowledge Management - 6th IFIP WG 12.6 International Workshop, AI4KM 2018, Held at IJCAI 2018, Stockholm, Sweden, July 15, 2018, Revised and Extended Selected Papers</title><venue>AI4KM@IJCAI</venue><venue>IFIP Advances in Information and Communication Technology</venue><volume>588</volume><publisher>Springer</publisher><year>2020</year><type>Editorship</type><key>conf/ijcai/2018ai4km</key><doi>10.1007/978-3-030-52903-1</doi><ee>https://doi.org/10.1007/978-3-030-52903-1</ee><url>https://dblp.org/rec/conf/ijcai/2018ai4km</url></info>
+<url>URL#472685</url>
+</hit>
+<hit score="1" id="1194579">
+<info><authors><author pid="273/1205">Anne Dourgnon</author><author pid="126/5891">Tuan Dang</author></authors><title>A Naming System for &quot;The Internet of Things&quot; Adapted to Industry - A Case Study in Electrical Engineering.</title><venue>AI4KM@IJCAI</venue><pages>77-90</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DourgnonD18</key><doi>10.1007/978-3-030-52903-1_7</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_7</ee><url>https://dblp.org/rec/conf/ijcai/DourgnonD18</url></info>
+<url>URL#1194579</url>
+</hit>
+<hit score="1" id="1194629">
+<info><authors><author pid="273/1211">Asuman Firat</author><author pid="08/4195">Gülgün Kayakutlu</author></authors><title>AI Classification in Collaboration for Innovation of Electric Motors of Household Appliances.</title><venue>AI4KM@IJCAI</venue><pages>107-123</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FiratK18</key><doi>10.1007/978-3-030-52903-1_9</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_9</ee><url>https://dblp.org/rec/conf/ijcai/FiratK18</url></info>
+<url>URL#1194629</url>
+</hit>
+<hit score="1" id="1194664">
+<info><authors><author pid="83/11524">Konstantin M. Golubev</author></authors><title>Intellect Modeling Kit.</title><venue>AI4KM@IJCAI</venue><pages>141-155</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Golubev18</key><doi>10.1007/978-3-030-52903-1_11</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_11</ee><url>https://dblp.org/rec/conf/ijcai/Golubev18</url></info>
+<url>URL#1194664</url>
+</hit>
+<hit score="1" id="1194691">
+<info><authors><author pid="273/1200">Rabih Haddad</author><author pid="10/4546">Eunika Mercier-Laurent</author></authors><title>Integrated System for Students&apos; Evaluation Using KM Approach.</title><venue>AI4KM@IJCAI</venue><pages>14-24</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HaddadM18</key><doi>10.1007/978-3-030-52903-1_2</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_2</ee><url>https://dblp.org/rec/conf/ijcai/HaddadM18</url></info>
+<url>URL#1194691</url>
+</hit>
+<hit score="1" id="1194862">
+<info><authors><author pid="78/3345">Helena Lindskog</author></authors><title>Globalization - Understanding the Correlations Between Attitudes Towards Globalization, Time, Resources and Financial Resources.</title><venue>AI4KM@IJCAI</venue><pages>1-13</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Lindskog18</key><doi>10.1007/978-3-030-52903-1_1</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_1</ee><url>https://dblp.org/rec/conf/ijcai/Lindskog18</url></info>
+<url>URL#1194862</url>
+</hit>
+<hit score="1" id="1194944">
+<info><authors><author pid="10/4546">Eunika Mercier-Laurent</author></authors><title>Platform for Knowledge Society and Innovation Ecosystems.</title><venue>AI4KM@IJCAI</venue><pages>34-47</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Mercier-Laurent18</key><doi>10.1007/978-3-030-52903-1_4</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_4</ee><url>https://dblp.org/rec/conf/ijcai/Mercier-Laurent18</url></info>
+<url>URL#1194944</url>
+</hit>
+<hit score="1" id="1194954">
+<info><authors><author pid="130/0425">Sarwar Jahan Morshed</author><author pid="10/3162">Juwel Rana</author><author pid="67/6034">Marcelo Milrad</author></authors><title>Measuring Successful Digital Services by Identifying Active Users.</title><venue>AI4KM@IJCAI</venue><pages>48-64</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MorshedRM18</key><doi>10.1007/978-3-030-52903-1_5</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_5</ee><url>https://dblp.org/rec/conf/ijcai/MorshedRM18</url></info>
+<url>URL#1194954</url>
+</hit>
+<hit score="1" id="1194972">
+<info><authors><author pid="16/1254">Cyrus F. Nourani</author><author pid="10/4546">Eunika Mercier-Laurent</author></authors><title>Augmented Learning and Data Filtering - Knowledge Management and Discovery.</title><venue>AI4KM@IJCAI</venue><pages>91-106</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NouraniM18</key><doi>10.1007/978-3-030-52903-1_8</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_8</ee><url>https://dblp.org/rec/conf/ijcai/NouraniM18</url></info>
+<url>URL#1194972</url>
+</hit>
+<hit score="1" id="1194984">
+<info><authors><author pid="29/1114">Mieczyslaw L. Owoc</author><author pid="120/3011">Pawel Weichbroth</author></authors><title>A Note on Knowledge Management Education - Towards Implementing Active Learning Methods.</title><venue>AI4KM@IJCAI</venue><pages>124-140</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OwocW18</key><doi>10.1007/978-3-030-52903-1_10</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_10</ee><url>https://dblp.org/rec/conf/ijcai/OwocW18</url></info>
+<url>URL#1194984</url>
+</hit>
+<hit score="1" id="1195008">
+<info><authors><author pid="198/5288">Lukasz Przysucha</author></authors><title>Effective Management of Information Processes with CMS in Smart City. The Concept of Crowdsourcing.</title><venue>AI4KM@IJCAI</venue><pages>65-76</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Przysucha18</key><doi>10.1007/978-3-030-52903-1_6</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_6</ee><url>https://dblp.org/rec/conf/ijcai/Przysucha18</url></info>
+<url>URL#1195008</url>
+</hit>
+<hit score="1" id="1195038">
+<info><authors><author pid="168/8889">Senay Sadic</author><author pid="57/5803">Jorge Pinho de Sousa</author><author pid="78/6125">José Crispim</author></authors><title>ICT Platform Design for SME Collaboration.</title><venue>AI4KM@IJCAI</venue><pages>25-33</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SadicSC18</key><doi>10.1007/978-3-030-52903-1_3</doi><ee>https://doi.org/10.1007/978-3-030-52903-1_3</ee><url>https://dblp.org/rec/conf/ijcai/SadicSC18</url></info>
+<url>URL#1195038</url>
+</hit>
+</hits>
+</result>

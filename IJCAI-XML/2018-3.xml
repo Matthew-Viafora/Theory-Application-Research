@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="178823">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"madima2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">149.41</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="18262974">:facetid:toc:db/conf/ijcai/madima2018.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="1194414">
+<info><authors><author pid="16/5737">Luca Anselma</author><author pid="40/1899">Alessandro Mazzei</author><author pid="223/3298">Andrea Pirone</author></authors><title>Automatic reasoning evaluation in diet management based on an italian cookbook.</title><venue>MADiMa@IJCAI</venue><pages>59-62</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AnselmaMP18</key><doi>10.1145/3230519.3230595</doi><ee>https://doi.org/10.1145/3230519.3230595</ee><url>https://dblp.org/rec/conf/ijcai/AnselmaMP18</url></info>
+<url>URL#1194414</url>
+</hit>
+<hit score="1" id="1194428">
+<info><authors><author pid="213/8127">Nachwa Abou Bakr</author><author pid="23/4044">Rémi Ronfard</author><author pid="50/3289">James L. Crowley</author></authors><title>Recognition and localization of food in cooking videos.</title><venue>CEA@IJCAI</venue><pages>21-24</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BakrRC18</key><doi>10.1145/3230519.3230590</doi><ee>https://doi.org/10.1145/3230519.3230590</ee><url>https://dblp.org/rec/conf/ijcai/BakrRC18</url></info>
+<url>URL#1194428</url>
+</hit>
+<hit score="1" id="1194592">
+<info><authors><author pid="203/3243">Takumi Ege</author><author pid="60/2410">Keiji Yanai</author></authors><title>Multi-task learning of dish detection and calorie estimation.</title><venue>MADiMa@IJCAI</venue><pages>53-58</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/EgeY18</key><doi>10.1145/3230519.3230594</doi><ee>https://doi.org/10.1145/3230519.3230594</ee><url>https://dblp.org/rec/conf/ijcai/EgeY18</url></info>
+<url>URL#1194592</url>
+</hit>
+<hit score="1" id="1194662">
+<info><authors><author pid="223/3279">Yuji Goda</author><author pid="151/0359">Sosuke Amano</author><author pid="07/3918">Yoko Yamakata</author><author pid="71/5426">Kiyoharu Aizawa</author></authors><title>Bag-of-foods - analysis of personal foodlogging data.</title><venue>MADiMa@IJCAI</venue><pages>63-66</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GodaAYA18</key><doi>10.1145/3230519.3230596</doi><ee>https://doi.org/10.1145/3230519.3230596</ee><url>https://dblp.org/rec/conf/ijcai/GodaAYA18</url></info>
+<url>URL#1194662</url>
+</hit>
+<hit score="1" id="1194702">
+<info><authors><author pid="127/0284">Jun Harashima</author><author pid="75/3696">Yoshiaki Yamada</author></authors><title>Two-step validation in character-based ingredient normalization.</title><venue>CEA@IJCAI</venue><pages>29-32</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HarashimaY18</key><doi>10.1145/3230519.3230589</doi><ee>https://doi.org/10.1145/3230519.3230589</ee><url>https://dblp.org/rec/conf/ijcai/HarashimaY18</url></info>
+<url>URL#1194702</url>
+</hit>
+<hit score="1" id="1194710">
+<info><authors><author pid="223/3277">Tatsumi Hattori</author><author pid="44/9004">Keisuke Doman</author><author pid="33/339">Ichiro Ide</author><author pid="52/2221">Yoshito Mekada</author></authors><title>A study on the factors affecting the attractiveness of food photography.</title><venue>CEA@IJCAI</venue><pages>25-28</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HattoriDIM18</key><doi>10.1145/3230519.3230592</doi><ee>https://doi.org/10.1145/3230519.3230592</ee><url>https://dblp.org/rec/conf/ijcai/HattoriDIM18</url></info>
+<url>URL#1194710</url>
+</hit>
+<hit score="1" id="1194729">
+<info><authors><author pid="223/3292">Daichi Horita</author><author pid="188/1211">Ryosuke Tanno</author><author pid="166/6071">Wataru Shimoda</author><author pid="60/2410">Keiji Yanai</author></authors><title>Food category transfer with conditional cycleGAN and a large-scale food image dataset.</title><venue>MADiMa@IJCAI</venue><pages>67-70</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HoritaTSY18</key><doi>10.1145/3230519.3230597</doi><ee>https://doi.org/10.1145/3230519.3230597</ee><url>https://dblp.org/rec/conf/ijcai/HoritaTSY18</url></info>
+<url>URL#1194729</url>
+</hit>
+<hit score="1" id="1194757">
+<info><authors><author pid="223/3263">Yoshifumi Ito</author><author pid="166/6071">Wataru Shimoda</author><author pid="60/2410">Keiji Yanai</author></authors><title>Food image generation using a large amount of food images with conditional GAN - ramenGAN and recipeGAN.</title><venue>MADiMa@IJCAI</venue><pages>71-74</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ItoSY18</key><doi>10.1145/3230519.3230598</doi><ee>https://doi.org/10.1145/3230519.3230598</ee><url>https://dblp.org/rec/conf/ijcai/ItoSY18</url></info>
+<url>URL#1194757</url>
+</hit>
+<hit score="1" id="1194896">
+<info><authors><author pid="172/9579">Ya Lu</author><author pid="133/9970">Dario Allegra</author><author pid="45/3643">Marios Anthimopoulos</author><author pid="93/1218">Filippo Stanco</author><author pid="31/6643">Giovanni Maria Farinella</author><author pid="36/6096">Stavroula G. Mougiakakou</author></authors><title>A multi-task learning approach for meal assessment.</title><venue>MADiMa@IJCAI</venue><pages>46-52</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LuAASFM18</key><doi>10.1145/3230519.3230593</doi><ee>https://doi.org/10.1145/3230519.3230593</ee><url>https://dblp.org/rec/conf/ijcai/LuAASFM18</url></info>
+<url>URL#1194896</url>
+</hit>
+<hit score="1" id="1194959">
+<info><authors><author pid="223/3289">Yudai Nagano</author><author pid="198/8694">Yohei Kikuta</author></authors><title>SRGAN for super-resolving low-resolution food images.</title><venue>CEA@IJCAI</venue><pages>33-37</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NaganoK18</key><doi>10.1145/3230519.3230587</doi><ee>https://doi.org/10.1145/3230519.3230587</ee><url>https://dblp.org/rec/conf/ijcai/NaganoK18</url></info>
+<url>URL#1194959</url>
+</hit>
+<hit score="1" id="1194975">
+<info><authors><author pid="223/3274">Takafumi Ohsugi</author><author pid="19/5001">Mitsunori Matsushita</author></authors><title>Presentation of failure-prone processes in a cooking recipe.</title><venue>CEA@IJCAI</venue><pages>38-41</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OhsugiM18</key><doi>10.1145/3230519.3230588</doi><ee>https://doi.org/10.1145/3230519.3230588</ee><url>https://dblp.org/rec/conf/ijcai/OhsugiM18</url></info>
+<url>URL#1194975</url>
+</hit>
+<hit score="1" id="1194976">
+<info><authors><author pid="223/3264">Tsukasa Okumura</author><author pid="223/3288">Shuichi Urabe</author><author pid="170/7348">Katsufumi Inoue</author><author pid="47/185">Michifumi Yoshioka</author></authors><title>Cooking activities recognition in egocentric videos using hand shape feature with openpose.</title><venue>CEA@IJCAI</venue><pages>42-45</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OkumuraUIY18</key><doi>10.1145/3230519.3230591</doi><ee>https://doi.org/10.1145/3230519.3230591</ee><url>https://dblp.org/rec/conf/ijcai/OkumuraUIY18</url></info>
+<url>URL#1194976</url>
+</hit>
+<hit score="1" id="1195104">
+<info><authors><author pid="06/5668">Kyoko Sudo</author><author pid="15/7955">Kazuhiko Murasaki</author><author pid="173/6739">Tetsuya Kinebuchi</author><author pid="223/3296">Shigeko Kimura</author><author pid="98/11448">Kayo Waki</author><author pid="15/7307">Kazuhiko Ohe</author></authors><title>Intuitively estimating the healthiness of meals from their images - image-based meal rating system to encourage self-management of diabetes.</title><venue>CEA@IJCAI</venue><pages>9-14</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SudoMKKWO18</key><doi>10.1145/3230519.3230586</doi><ee>https://doi.org/10.1145/3230519.3230586</ee><url>https://dblp.org/rec/conf/ijcai/SudoMKKWO18</url></info>
+<url>URL#1195104</url>
+</hit>
+<hit score="1" id="1195144">
+<info><authors><author pid="223/3288">Shuichi Urabe</author><author pid="170/7348">Katsufumi Inoue</author><author pid="47/185">Michifumi Yoshioka</author></authors><title>Cooking activities recognition in egocentric videos using combining 2DCNN and 3DCNN.</title><venue>CEA@IJCAI</venue><pages>1-8</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/UrabeIY18</key><doi>10.1145/3230519.3230584</doi><ee>https://doi.org/10.1145/3230519.3230584</ee><url>https://dblp.org/rec/conf/ijcai/UrabeIY18</url></info>
+<url>URL#1195144</url>
+</hit>
+<hit score="1" id="1195253">
+<info><authors><author pid="07/3918">Yoko Yamakata</author><author pid="223/3271">Eiji Yamasue</author><author pid="223/3281">Benjamin McLellan</author><author pid="71/5426">Kiyoharu Aizawa</author></authors><title>Resource intensity for menu items - how much land is required to provide for each dish?</title><venue>CEA@IJCAI</venue><pages>15-20</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YamakataYMA18</key><doi>10.1145/3230519.3230585</doi><ee>https://doi.org/10.1145/3230519.3230585</ee><url>https://dblp.org/rec/conf/ijcai/YamakataYMA18</url></info>
+<url>URL#1195253</url>
+</hit>
+<hit score="1" id="1267075">
+<info><authors><author pid="33/339">Ichiro Ide</author><author pid="07/3918">Yoko Yamakata</author></authors><title>Proceedings of the Joint Workshop on Multimedia for Cooking and Eating Activities and Multimedia Assisted Dietary Management, MADiMa@IJCAI 2018, Mässvägen, Stockholm, Sweden, July 15, 2018</title><venue>CEA/MADiMa@IJCAI</venue><publisher>ACM</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018madima</key><doi>10.1145/3230519</doi><ee>https://doi.org/10.1145/3230519</ee><url>https://dblp.org/rec/conf/ijcai/2018madima</url></info>
+<url>URL#1267075</url>
+</hit>
+</hits>
+</result>

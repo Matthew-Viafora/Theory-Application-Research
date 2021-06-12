@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="7478">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">131.84</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="18262907">:facetid:toc:db/conf/ijcai/cgw2016.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="1609450">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="32/436">Mark H. M. Winands</author><author pid="98/3919">Stefan Edelkamp</author><author pid="67/2985">Stephan Schiffel</author><author pid="t/MichaelThielscher">Michael Thielscher</author><author pid="47/767">Julian Togelius</author></authors><title>Computer Games - 5th Workshop on Computer Games, CGW 2016, and 5th Workshop on General Intelligence in Game-Playing Agents, GIGA 2016, Held in Conjunction with the 25th International Conference on Artificial Intelligence, IJCAI 2016, New York City, NY, USA, July 9-10, 2016, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>705</volume><year>2017</year><type>Editorship</type><key>conf/ijcai/2016cgw</key><doi>10.1007/978-3-319-57969-6</doi><ee>https://doi.org/10.1007/978-3-319-57969-6</ee><url>https://dblp.org/rec/conf/ijcai/2016cgw</url></info>
+<url>URL#1609450</url>
+</hit>
+<hit score="1" id="1855349">
+<info><authors><author pid="17/9304">Hendrik Baier</author></authors><title>A Rollout-Based Search Algorithm Unifying MCTS and Alpha-Beta.</title><venue>CGW@IJCAI</venue><pages>57-70</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Baier16</key><doi>10.1007/978-3-319-57969-6_5</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_5</ee><url>https://dblp.org/rec/conf/ijcai/Baier16</url></info>
+<url>URL#1855349</url>
+</hit>
+<hit score="1" id="1855374">
+<info><authors><author pid="149/1420">Jason M. Bindewald</author><author pid="59/722">Gilbert L. Peterson</author><author pid="94/2518">Michael E. Miller</author></authors><title>Clustering-Based Online Player Modeling.</title><venue>CGW@IJCAI</venue><pages>86-100</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BindewaldPM16</key><doi>10.1007/978-3-319-57969-6_7</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_7</ee><url>https://dblp.org/rec/conf/ijcai/BindewaldPM16</url></info>
+<url>URL#1855374</url>
+</hit>
+<hit score="1" id="1855409">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Nested Rollout Policy Adaptation with Selective Policies.</title><venue>CGW@IJCAI</venue><pages>44-56</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Cazenave16</key><doi>10.1007/978-3-319-57969-6_4</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_4</ee><url>https://dblp.org/rec/conf/ijcai/Cazenave16</url></info>
+<url>URL#1855409</url>
+</hit>
+<hit score="1" id="1855466">
+<info><authors><author pid="98/3919">Stefan Edelkamp</author></authors><title>Deep or Wide? Learning Policy and Value Neural Networks for Combinatorial Games.</title><venue>CGW@IJCAI</venue><pages>19-33</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Edelkamp16</key><doi>10.1007/978-3-319-57969-6_2</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_2</ee><url>https://dblp.org/rec/conf/ijcai/Edelkamp16</url></info>
+<url>URL#1855466</url>
+</hit>
+<hit score="1" id="1855508">
+<info><authors><author pid="25/8296">Kellen Gillespie</author><author pid="09/5342">Michael W. Floyd</author><author pid="98/1468">Matthew Molineaux</author><author pid="43/1057">Swaroop Vattam</author><author pid="25/557">David W. Aha</author></authors><title>Semantic Classification of Utterances in a Language-Driven Game.</title><venue>CGW@IJCAI</venue><pages>116-129</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GillespieFMVA16</key><doi>10.1007/978-3-319-57969-6_9</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_9</ee><url>https://dblp.org/rec/conf/ijcai/GillespieFMVA16</url></info>
+<url>URL#1855508</url>
+</hit>
+<hit score="1" id="1855569">
+<info><authors><author pid="244/4723">Aline Hufschmitt</author><author pid="12/3351">Jean-Noël Vittaut</author><author pid="67/9142">Jean Méhat</author></authors><title>A General Approach of Game Description Decomposition for General Game Playing.</title><venue>CGW@IJCAI</venue><pages>165-177</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HufschmittVM16</key><doi>10.1007/978-3-319-57969-6_12</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_12</ee><url>https://dblp.org/rec/conf/ijcai/HufschmittVM16</url></info>
+<url>URL#1855569</url>
+</hit>
+<hit score="1" id="1855809">
+<info><authors><author pid="67/2985">Stephan Schiffel</author></authors><title>Grounding GDL Game Descriptions.</title><venue>CGW@IJCAI</venue><pages>152-164</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Schiffel16</key><doi>10.1007/978-3-319-57969-6_11</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_11</ee><url>https://dblp.org/rec/conf/ijcai/Schiffel16</url></info>
+<url>URL#1855809</url>
+</hit>
+<hit score="1" id="1855838">
+<info><authors><author pid="195/6142">Chiara F. Sironi</author><author pid="32/436">Mark H. M. Winands</author></authors><title>Optimizing Propositional Networks.</title><venue>CGW@IJCAI</venue><pages>133-151</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SironiW16</key><doi>10.1007/978-3-319-57969-6_10</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_10</ee><url>https://dblp.org/rec/conf/ijcai/SironiW16</url></info>
+<url>URL#1855838</url>
+</hit>
+<hit score="1" id="1855867">
+<info><authors><author pid="180/5787">Jakub Sygnowski</author><author pid="60/4402">Henryk Michalewski</author></authors><title>Learning from the Memory of Atari 2600.</title><venue>CGW@IJCAI</venue><pages>71-85</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SygnowskiM16</key><doi>10.1007/978-3-319-57969-6_6</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_6</ee><url>https://dblp.org/rec/conf/ijcai/SygnowskiM16</url></info>
+<url>URL#1855867</url>
+</hit>
+<hit score="1" id="1855881">
+<info><authors><author pid="02/6698">Fujio Toriumi</author><author pid="69/509">Hirotaka Osawa</author><author pid="123/2209">Michimasa Inaba</author><author pid="16/5288">Daisuke Katagami</author><author pid="40/5899">Kosuke Shinoda</author><author pid="23/603">Hitoshi Matsubara</author></authors><title>AI Wolf Contest - Development of Game AI Using Collective Intelligence -.</title><venue>CGW@IJCAI</venue><pages>101-115</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ToriumiOIKSM16</key><doi>10.1007/978-3-319-57969-6_8</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_8</ee><url>https://dblp.org/rec/conf/ijcai/ToriumiOIKSM16</url></info>
+<url>URL#1855881</url>
+</hit>
+<hit score="1" id="1855955">
+<info><authors><author pid="178/8641">Chenjun Xiao</author><author pid="m/MartinMuller3">Martin Müller 0003</author></authors><title>Integrating Factorization Ranked Features in MCTS - An Experimental Study.</title><venue>CGW@IJCAI</venue><pages>34-43</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Xiao016</key><doi>10.1007/978-3-319-57969-6_3</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_3</ee><url>https://dblp.org/rec/conf/ijcai/Xiao016</url></info>
+<url>URL#1855955</url>
+</hit>
+<hit score="1" id="1855989">
+<info><authors><author pid="179/2526">Kenny Young</author><author pid="156/0016">Gautham Vasan</author><author pid="h/RyanBHayward">Ryan Hayward</author></authors><title>NeuroHex - A Deep Q-learning Hex Agent.</title><venue>CGW@IJCAI</venue><pages>3-18</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YoungVH16</key><doi>10.1007/978-3-319-57969-6_1</doi><ee>https://doi.org/10.1007/978-3-319-57969-6_1</ee><url>https://dblp.org/rec/conf/ijcai/YoungVH16</url></info>
+<url>URL#1855989</url>
+</hit>
+</hits>
+</result>

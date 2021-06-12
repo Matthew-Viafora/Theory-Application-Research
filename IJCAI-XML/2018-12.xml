@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="180691">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"cgw2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">128.74</time>
+<completions total="1" computed="1" sent="1">
+<c sc="9" dc="9" oc="9" id="18262909">:facetid:toc:db/conf/ijcai/cgw2018.bht</c>
+</completions>
+<hits total="9" computed="9" sent="9" first="0">
+<hit score="1" id="890760">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author><author pid="99/7599">Abdallah Saffidine</author><author pid="18/991">Nathan Sturtevant</author></authors><title>Computer Games - 7th Workshop, CGW 2018, Held in Conjunction with the 27th International Conference on Artificial Intelligence, IJCAI 2018, Stockholm, Sweden, July 13, 2018, Revised Selected Papers</title><venue>CGW@IJCAI</venue><venue>Communications in Computer and Information Science</venue><volume>1017</volume><publisher>Springer</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2018cgw</key><doi>10.1007/978-3-030-24337-1</doi><ee>https://doi.org/10.1007/978-3-030-24337-1</ee><url>https://dblp.org/rec/conf/ijcai/2018cgw</url></info>
+<url>URL#890760</url>
+</hit>
+<hit score="1" id="1194495">
+<info><authors><author pid="c/TristanCazenave">Tristan Cazenave</author></authors><title>Spatial Average Pooling for Computer Go.</title><venue>CGW@IJCAI</venue><pages>119-126</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Cazenave18</key><doi>10.1007/978-3-030-24337-1_6</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_6</ee><url>https://dblp.org/rec/conf/ijcai/Cazenave18</url></info>
+<url>URL#1194495</url>
+</hit>
+<hit score="1" id="1194536">
+<info><authors><author pid="231/0975">Armin Chitizadeh</author><author pid="t/MichaelThielscher">Michael Thielscher</author></authors><title>Iterative Tree Search in General Game Playing with Incomplete Information.</title><venue>CGW@IJCAI</venue><pages>98-115</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChitizadehT18</key><doi>10.1007/978-3-030-24337-1_5</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_5</ee><url>https://dblp.org/rec/conf/ijcai/ChitizadehT18</url></info>
+<url>URL#1194536</url>
+</hit>
+<hit score="1" id="1194551">
+<info><authors><author pid="118/9636">Marc-Alexandre Côté</author><author pid="164/6034">Ákos Kádár</author><author pid="40/10147">Xingdi Yuan</author><author pid="224/2055">Ben Kybartas</author><author pid="202/2533">Tavian Barnes</author><author pid="199/2156">Emery Fine</author><author pid="32/2944">James Moore</author><author pid="26/7488">Matthew J. Hausknecht</author><author pid="120/2887">Layla El Asri</author><author pid="224/1951">Mahmoud Adada</author><author pid="224/2022">Wendy Tay</author><author pid="177/9137">Adam Trischler</author></authors><title>TextWorld - A Learning Environment for Text-Based Games.</title><venue>CGW@IJCAI</venue><pages>41-75</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CoteKYKBFMHAATT18</key><doi>10.1007/978-3-030-24337-1_3</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_3</ee><url>https://dblp.org/rec/conf/ijcai/CoteKYKBFMHAATT18</url></info>
+<url>URL#1194551</url>
+</hit>
+<hit score="1" id="1194599">
+<info><authors><author pid="185/3601">Erdem Emekligil</author><author pid="a/EthemAlpaydin">Ethem Alpaydin</author></authors><title>What&apos;s in a Game? The Effect of Game Complexity on Deep Reinforcement Learning.</title><venue>CGW@IJCAI</venue><pages>147-163</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/EmekligilA18</key><doi>10.1007/978-3-030-24337-1_8</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_8</ee><url>https://dblp.org/rec/conf/ijcai/EmekligilA18</url></info>
+<url>URL#1194599</url>
+</hit>
+<hit score="1" id="1194701">
+<info><authors><author pid="244/4707">Farhad Haqiqat</author><author pid="m/MartinMuller3">Martin Müller 0003</author></authors><title>Analyzing the Impact of Knowledge and Search in Monte Carlo Tree Search in Go.</title><venue>CGW@IJCAI</venue><pages>127-146</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HaqiqatM18</key><doi>10.1007/978-3-030-24337-1_7</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_7</ee><url>https://dblp.org/rec/conf/ijcai/HaqiqatM18</url></info>
+<url>URL#1194701</url>
+</hit>
+<hit score="1" id="1194747">
+<info><authors><author pid="244/4723">Aline Hufschmitt</author><author pid="12/3351">Jean-Noël Vittaut</author><author pid="18/3003">Nicolas Jouandeau</author></authors><title>Statistical GGP Game Decomposition.</title><venue>CGW@IJCAI</venue><pages>79-97</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HufschmittVJ18</key><doi>10.1007/978-3-030-24337-1_4</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_4</ee><url>https://dblp.org/rec/conf/ijcai/HufschmittVJ18</url></info>
+<url>URL#1194747</url>
+</hit>
+<hit score="1" id="1195153">
+<info><authors><author pid="169/4342">Vanessa Volz</author><author pid="p/MikePreuss">Mike Preuss</author><author pid="244/4625">Mathias Kirk Bonde</author></authors><title>Towards Embodied StarCraft II Winner Prediction.</title><venue>CGW@IJCAI</venue><pages>3-22</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VolzPB18</key><doi>10.1007/978-3-030-24337-1_1</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_1</ee><url>https://dblp.org/rec/conf/ijcai/VolzPB18</url></info>
+<url>URL#1195153</url>
+</hit>
+<hit score="1" id="1195299">
+<info><authors><author pid="94/5561">Lijun Yu</author><author pid="76/5684">Dawei Zhang</author><author pid="49/628">Xiangqun Chen</author><author pid="08/6809">Xing Xie</author></authors><title>MOBA-Slice - A Time Slice Based Evaluation Framework of Relative Advantage Between Teams in MOBA Games.</title><venue>CGW@IJCAI</venue><pages>23-40</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/YuZCX18</key><doi>10.1007/978-3-030-24337-1_2</doi><ee>https://doi.org/10.1007/978-3-030-24337-1_2</ee><url>https://dblp.org/rec/conf/ijcai/YuZCX18</url></info>
+<url>URL#1195299</url>
+</hit>
+</hits>
+</result>
