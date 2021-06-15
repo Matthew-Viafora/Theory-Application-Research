@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="178861">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"rtcmas2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">145.60</time>
+<completions total="1" computed="1" sent="1">
+<c sc="7" dc="7" oc="7" id="18262980">:facetid:toc:db/conf/ijcai/rtcmas2018.bht</c>
+</completions>
+<hits total="7" computed="7" sent="7" first="0">
+<hit score="1" id="1194487">
+<info><authors><author pid="146/7965">Davide Calvaresi</author><author pid="221/3441">Giuseppe Albanese</author><author pid="19/5979">Mauro Marinoni</author><author pid="180/3025">Fabien Dubosson</author><author pid="65/528">Michael Schumacher 0001</author></authors><title>A Task-sets Generator for Supporting the Analysis of Multi-Agent Systems under General Purpose and Real-Time Conditions.</title><venue>RTcMAS@IJCAI</venue><pages>31-44</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CalvaresiAMD018</key><ee>http://ceur-ws.org/Vol-2156/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CalvaresiAMD018</url></info>
+<url>URL#1194487</url>
+</hit>
+<hit score="1" id="1194488">
+<info><authors><author pid="146/7965">Davide Calvaresi</author><author pid="221/3441">Giuseppe Albanese</author><author pid="19/5979">Mauro Marinoni</author><author pid="180/3025">Fabien Dubosson</author><author pid="134/4056">Paolo Sernani</author><author pid="58/5006">Aldo Franco Dragoni</author><author pid="65/528">Michael Schumacher 0001</author></authors><title>Timing Reliability for Local Schedulers in Multi-Agent Systems.</title><venue>RTcMAS@IJCAI</venue><pages>1-15</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CalvaresiAMDSD018</key><ee>http://ceur-ws.org/Vol-2156/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CalvaresiAMDSD018</url></info>
+<url>URL#1194488</url>
+</hit>
+<hit score="1" id="1194606">
+<info><authors><author pid="209/8652">Nicola Falcionelli</author><author pid="134/4056">Paolo Sernani</author><author pid="209/8629">Dagmawi Neway Mekuria</author><author pid="58/5006">Aldo Franco Dragoni</author></authors><title>An Event Calculus Formalization of Timed Automata.</title><venue>RTcMAS@IJCAI</venue><pages>60-76</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FalcionelliSMD18</key><ee>http://ceur-ws.org/Vol-2156/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FalcionelliSMD18</url></info>
+<url>URL#1194606</url>
+</hit>
+<hit score="1" id="1194957">
+<info><authors><author pid="204/3733">Yazan Mualla</author><author pid="132/3843">Amro Najjar</author><author pid="221/3432">Robin Vanet</author><author pid="44/5374">Olivier Boissier</author><author pid="15/5104">Stéphane Galland</author></authors><title>Towards a Real-time Mitigation of High Temperature while Drilling using a Multi-agent System.</title><venue>RTcMAS@IJCAI</venue><pages>77-92</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MuallaNVBG18</key><ee>http://ceur-ws.org/Vol-2156/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MuallaNVBG18</url></info>
+<url>URL#1194957</url>
+</hit>
+<hit score="1" id="1194990">
+<info><authors><author pid="181/3045">Marina Paolanti</author><author pid="133/9953">Valerio Placidi</author><author pid="223/1268">Michele Bernardini</author><author pid="224/2562">Andrea Felicetti</author><author pid="223/9552">Rocco Pietrini</author><author pid="22/5957">Emanuele Frontoni</author></authors><title>An Agent Based WCET Analysis for Top-View Person Re-Identification.</title><venue>RTcMAS@IJCAI</venue><pages>45-59</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PaolantiPBFPF18</key><ee>http://ceur-ws.org/Vol-2156/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PaolantiPBFPF18</url></info>
+<url>URL#1194990</url>
+</hit>
+<hit score="1" id="1195064">
+<info><authors><author pid="134/4056">Paolo Sernani</author><author pid="205/1273">Matteo Biagiola</author><author pid="209/8652">Nicola Falcionelli</author><author pid="209/8629">Dagmawi Neway Mekuria</author><author pid="224/2558">Stefano Cremonini</author><author pid="58/5006">Aldo Franco Dragoni</author></authors><title>Time Aware Task Delegation in Agent Interactions for Video-Surveillance.</title><venue>RTcMAS@IJCAI</venue><pages>16-30</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SernaniBFMCD18</key><ee>http://ceur-ws.org/Vol-2156/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SernaniBFMCD18</url></info>
+<url>URL#1195064</url>
+</hit>
+<hit score="1" id="1267077">
+<info><authors><author pid="146/7965">Davide Calvaresi</author><author pid="58/5006">Aldo Franco Dragoni</author><author pid="79/666">Giorgio C. Buttazzo</author></authors><title>Proceedings of the 1st International Workshop on Real-Time compliant Multi-Agent Systems co-located with the Federated Artificial Intelligence Meeting, Stockholm, Sweden, July 15th, 2018.</title><venue>RTcMAS@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2156</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018rtcmas</key><ee>http://ceur-ws.org/Vol-2156</ee><url>https://dblp.org/rec/conf/ijcai/2018rtcmas</url></info>
+<url>URL#1267077</url>
+</hit>
+</hits>
+</result>

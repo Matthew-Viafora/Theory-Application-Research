@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="293027">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"aisl2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">162.32</time>
+<completions total="1" computed="1" sent="1">
+<c sc="9" dc="9" oc="9" id="18217980">:facetid:toc:db/conf/aaai/aisl2011.bht</c>
+</completions>
+<hits total="9" computed="9" sent="9" first="0">
+<hit score="1" id="3163576">
+<info><authors><author pid="93/10919">Bruce Cahan</author></authors><title>Making Cities Smarter than Their Bankers.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/Cahan11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3809</ee><url>https://dblp.org/rec/conf/aaai/Cahan11</url></info>
+<url>URL#3163576</url>
+</hit>
+<hit score="1" id="3163590">
+<info><authors><author pid="66/3019">Chao Chen</author><author pid="c/DianeJCook">Diane J. Cook</author></authors><title>Energy Outlier Detection in Smart Environments.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenC11a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3837</ee><url>https://dblp.org/rec/conf/aaai/ChenC11a</url></info>
+<url>URL#3163590</url>
+</hit>
+<hit score="1" id="3163603">
+<info><authors><author pid="86/6573">Yi Chu</author><author pid="95/8732">Young Chol Song</author><author pid="k/HenryAKautz">Henry A. Kautz</author><author pid="02/6577">Richard Levinson</author></authors><title>When Did You Start Doing that Thing that You Do? Interactive Activity Recognition and Prompting.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChuSHL11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3890</ee><url>https://dblp.org/rec/conf/aaai/ChuSHL11</url></info>
+<url>URL#3163603</url>
+</hit>
+<hit score="1" id="3163642">
+<info><authors><author pid="55/10919">Robert Anthony Edgell</author><author pid="16/8885">Roland Vogl</author></authors><title>A Network View of Human Ingestion and Health - Instrumental Artificial Intelligence.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/EdgellV11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3886</ee><url>https://dblp.org/rec/conf/aaai/EdgellV11</url></info>
+<url>URL#3163642</url>
+</hit>
+<hit score="1" id="3163656">
+<info><authors><author pid="95/5209">Michael Freed</author><author pid="14/3037">Daniel Bryce</author><author pid="02/5846">Jiaying Shen</author><author pid="12/2998">Ciaran O&apos;Reilly</author></authors><title>Interactive Bootstrapped Learning for End-User Programming.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/FreedBSO11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3945</ee><url>https://dblp.org/rec/conf/aaai/FreedBSO11</url></info>
+<url>URL#3163656</url>
+</hit>
+<hit score="1" id="3163727">
+<info><authors><author pid="50/3593">Vikramaditya R. Jakkula</author><author pid="c/DianeJCook">Diane J. Cook</author></authors><title>Detecting Anomalous Sensor Events in Smart Home Data for Enhancing the Living Experience.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/JakkulaC11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3889</ee><url>https://dblp.org/rec/conf/aaai/JakkulaC11</url></info>
+<url>URL#3163727</url>
+</hit>
+<hit score="1" id="3163867">
+<info><authors><author pid="56/10919">Harry Thomas Rose</author><author pid="37/4849">Alex Rogers</author><author pid="g/EnricoGerding">Enrico H. Gerding</author></authors><title>Mechanism Design for Aggregated Demand Prediction in the Smart Grid.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/RoseRG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3924</ee><url>https://dblp.org/rec/conf/aaai/RoseRG11</url></info>
+<url>URL#3163867</url>
+</hit>
+<hit score="1" id="3163883">
+<info><authors><author pid="40/3087">Anika Schumann</author><author pid="13/590">Jer Hayes</author><author pid="78/10919">Pascal Pompey</author><author pid="83/3119">Olivier Verscheure</author></authors><title>Adaptable Fault Identification for Smart Buildings.</title><venue>Artificial Intelligence and Smarter Living</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchumannHPV11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3943</ee><url>https://dblp.org/rec/conf/aaai/SchumannHPV11</url></info>
+<url>URL#3163883</url>
+</hit>
+<hit score="1" id="3300566">
+<info><title>Artificial Intelligence and Smarter Living - The Conquest of Complexity, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 8, 2011</title><venue>Artificial Intelligence and Smarter Living</venue><venue>AAAI Workshops</venue><volume>WS-11-07</volume><publisher>AAAI</publisher><year>2011</year><type>Editorship</type><key>conf/aaai/2011aisl</key><ee>http://www.aaai.org/Library/Workshops/ws11-07.php</ee><url>https://dblp.org/rec/conf/aaai/2011aisl</url></info>
+<url>URL#3300566</url>
+</hit>
+</hits>
+</result>

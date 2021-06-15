@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="6864">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"dare2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">121.53</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18262912">:facetid:toc:db/conf/ijcai/dare2015.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2158722">
+<info><authors><author pid="m/ThomasAndreasMeyer">Thomas Meyer 0002</author></authors><title>Preferential Semantics as the Basis for Defeasible Reasoning in Ontologies.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/000215</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_0_invited.pdf</ee><url>https://dblp.org/rec/conf/ijcai/000215</url></info>
+<url>URL#2158722</url>
+</hit>
+<hit score="1" id="2158756">
+<info><authors><author pid="59/6726">Guillaume Aucher</author></authors><title>When Conditional Logic and Belief Revision Meet Substructural Logics.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Archer15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Archer15</url></info>
+<url>URL#2158756</url>
+</hit>
+<hit score="1" id="2158879">
+<info><authors><author pid="83/9634">Raphael Cóbe</author><author pid="w/RenataWassermann">Renata Wassermann</author></authors><title>Ontology Repair Through Partial Meet Contraction.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CobeW15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CobeW15</url></info>
+<url>URL#2158879</url>
+</hit>
+<hit score="1" id="2159014">
+<info><authors><author pid="14/6336">Petr Homola</author></authors><title>Natural Language Understanding as First-Order Abduction via Stable Models.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Homola15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Homola15</url></info>
+<url>URL#2159014</url>
+</hit>
+<hit score="1" id="2159029">
+<info><authors><author pid="28/4803">Aaron Hunter</author><author pid="35/485">François Schwarzentruber</author></authors><title>Arbitrary Announcements in Propositional Belief Revision.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HunterS15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HunterS15</url></info>
+<url>URL#2159029</url>
+</hit>
+<hit score="1" id="2159058">
+<info><authors><author pid="45/7257">Szymon Klarman</author><author pid="47/3847">Katarina Britz</author></authors><title>Towards Unsupervised Ontology Learning from Data.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KlarmanB15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KlarmanB15</url></info>
+<url>URL#2159058</url>
+</hit>
+<hit score="1" id="2159060">
+<info><authors><author pid="156/9662">Roxane Koitz</author><author pid="w/FranzWotawa">Franz Wotawa</author></authors><title>Finding Explanations - an Empirical Evaluation of Abductive Diagnosis Algorithms.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KoitzW15a</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KoitzW15a</url></info>
+<url>URL#2159060</url>
+</hit>
+<hit score="1" id="2159149">
+<info><authors><author pid="21/6730">Loizos Michael</author></authors><title>Jumping to Conclusions.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Michael15a</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Michael15a</url></info>
+<url>URL#2159149</url>
+</hit>
+<hit score="1" id="2159251">
+<info><authors><author pid="167/5139">Yuri David Santos</author><author pid="68/2001">Márcio Moretto Ribeiro</author><author pid="w/RenataWassermann">Renata Wassermann</author></authors><title>Between Belief Bases and Belief Sets - Partial Meet Contraction.</title><venue>DARe@IJCAI</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SantosRW15</key><ee>http://ceur-ws.org/Vol-1423/DARe-15_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SantosRW15</url></info>
+<url>URL#2159251</url>
+</hit>
+<hit score="1" id="2226868">
+<info><authors><author pid="58/6050">Richard Booth 0001</author><author pid="45/4069">Giovanni Casini</author><author pid="45/7257">Szymon Klarman</author><author pid="44/1221">Gilles Richard</author><author pid="56/1139">Ivan José Varzinczak</author></authors><title>Proceedings of the International Workshop on Defeasible and Ampliative Reasoning, DARe 2015, co-located with the 24th International Joint Conference on Artificial Intelligence (IJCAI 2015), Buenos Aires, Argentina, July 27, 2015.</title><venue>DARe@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1423</volume><publisher>CEUR-WS.org</publisher><year>2015</year><type>Editorship</type><key>conf/ijcai/2015dare</key><ee>http://ceur-ws.org/Vol-1423</ee><url>https://dblp.org/rec/conf/ijcai/2015dare</url></info>
+<url>URL#2226868</url>
+</hit>
+</hits>
+</result>

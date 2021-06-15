@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="179212">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"lacatoda2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">122.46</time>
+<completions total="1" computed="1" sent="1">
+<c sc="9" dc="9" oc="9" id="18262970">:facetid:toc:db/conf/ijcai/lacatoda2018.bht</c>
+</completions>
+<hits total="9" computed="9" sent="9" first="0">
+<hit score="1" id="1194651">
+<info><authors><author pid="117/4904">Sahil Garg</author><author pid="79/6762">Guillermo A. Cecchi</author><author pid="r/IrinaRish">Irina Rish</author><author pid="38/8575">Shuyang Gao</author><author pid="82/9058">Greg Ver Steeg</author><author pid="149/9943">Sarik Ghazarian</author><author pid="183/3699">Palash Goyal</author><author pid="16/3411">Aram Galstyan</author></authors><title>Dialogue Modeling Via Hash Functions.</title><venue>LaCATODA@IJCAI</venue><pages>24-36</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GargCRGSGGG18</key><ee>http://ceur-ws.org/Vol-2202/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GargCRGSGGG18</url></info>
+<url>URL#1194651</url>
+</hit>
+<hit score="1" id="1194703">
+<info><authors><author pid="222/2902">Daniel Harborne</author><author pid="92/822">Dave Braines</author><author pid="p/AlunDPreece">Alun D. Preece</author><author pid="17/3493">Rafal Rzepka</author></authors><title>Conversational Control Interface to Facilitate Situational Understanding in a City Surveillance Setting.</title><venue>LaCATODA@IJCAI</venue><pages>59-66</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HarborneBPR18</key><ee>http://ceur-ws.org/Vol-2202/paper8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HarborneBPR18</url></info>
+<url>URL#1194703</url>
+</hit>
+<hit score="1" id="1194919">
+<info><authors><author pid="220/3782">Szymon Malik</author><author pid="140/7631">Adrian Lancucki</author><author pid="02/9737">Jan Chorowski</author></authors><title>Efficient Purely Convolutional Text Encoding.</title><venue>LaCATODA@IJCAI</venue><pages>14-23</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MalikLC18</key><ee>http://ceur-ws.org/Vol-2202/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MalikLC18</url></info>
+<url>URL#1194919</url>
+</hit>
+<hit score="1" id="1194949">
+<info><authors><author pid="169/3173">Masahiro Mizukami</author><author pid="87/9254">Hiroaki Sugiyama</author><author pid="71/8882">Hiromi Narimatsu</author></authors><title>Event Data Collection for Recent Personal Questions.</title><venue>LaCATODA@IJCAI</venue><pages>52-57</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MizukamiSN18</key><ee>http://ceur-ws.org/Vol-2202/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MizukamiSN18</url></info>
+<url>URL#1194949</url>
+</hit>
+<hit score="1" id="1194960">
+<info><authors><author pid="71/8882">Hiromi Narimatsu</author><author pid="87/9254">Hiroaki Sugiyama</author><author pid="169/3173">Masahiro Mizukami</author></authors><title>Detecting Location-Indicating Phrases in User Utterances for Chat-Oriented Dialogue Systems.</title><venue>LaCATODA@IJCAI</venue><pages>8-13</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/NarimatsuSM18</key><ee>http://ceur-ws.org/Vol-2202/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/NarimatsuSM18</url></info>
+<url>URL#1194960</url>
+</hit>
+<hit score="1" id="1195084">
+<info><authors><author pid="126/8887">Maria Skeppstedt</author><author pid="134/2283">Magnus Ahltorp</author></authors><title>Towards a Structured Evaluation of Improv-bots - Improvisational Theatre as a Non-goal-driven Dialogue System.</title><venue>LaCATODA@IJCAI</venue><pages>37-43</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SkeppstedtA18</key><ee>http://ceur-ws.org/Vol-2202/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SkeppstedtA18</url></info>
+<url>URL#1195084</url>
+</hit>
+<hit score="1" id="1195140">
+<info><authors><author pid="195/4988">Yuiko Tsunomori</author><author pid="35/4482">Ryuichiro Higashinaka</author><author pid="82/2266">Takeshi Yoshimura</author></authors><title>Refinement of Utterance Database and Concatenation of Utterances for Enhancing System Utterances in Chat-oriented Dialogue System.</title><venue>LaCATODA@IJCAI</venue><pages>44-51</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TsunomoriHY18</key><ee>http://ceur-ws.org/Vol-2202/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TsunomoriHY18</url></info>
+<url>URL#1195140</url>
+</hit>
+<hit score="1" id="1195356">
+<info><authors><author pid="26/2578">Rui Zhao</author><author pid="t/VolkerTresp">Volker Tresp</author></authors><title>Improving Goal-Oriented Visual Dialog Agents via Advanced Recurrent Nets with Tempered Policy Gradient.</title><venue>LaCATODA@IJCAI</venue><pages>1-7</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhaoT18</key><ee>http://ceur-ws.org/Vol-2202/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhaoT18</url></info>
+<url>URL#1195356</url>
+</hit>
+<hit score="1" id="1267074">
+<info><authors><author pid="17/3493">Rafal Rzepka</author><author pid="56/2838">Jordi Vallverdú</author><author pid="226/5131">Andre Wlodarczyk</author></authors><title>Proceedings of the Linguistic and Cognitive Approaches To Dialog Agents Workshop co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), part of the Federated AI Meeting (FAIM 2018), Stockholm, Sweden, July 13, 2018.</title><venue>LaCATODA@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2202</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018lacatoda</key><ee>http://ceur-ws.org/Vol-2202</ee><url>https://dblp.org/rec/conf/ijcai/2018lacatoda</url></info>
+<url>URL#1267074</url>
+</hit>
+</hits>
+</result>

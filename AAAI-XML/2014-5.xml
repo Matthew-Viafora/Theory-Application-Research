@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="304987">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"stat2014\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">108.89</time>
+<completions total="1" computed="1" sent="1">
+<c sc="28" dc="28" oc="28" id="18218030">:facetid:toc:db/conf/aaai/stat2014.bht</c>
+</completions>
+<hits total="28" computed="28" sent="28" first="0">
+<hit score="1" id="2359355">
+<info><authors><author pid="70/10620">Udi Apsel</author><author pid="40/3793">Kristian Kersting</author><author pid="95/648">Martin Mladenov</author></authors><title>Lifting Relational MAP-LPs using Cluster Signatures.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/ApselKM14a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8823</ee><url>https://dblp.org/rec/conf/aaai/ApselKM14a</url></info>
+<url>URL#2359355</url>
+</hit>
+<hit score="1" id="2359376">
+<info><authors><author pid="21/10238">Islam Beltagy</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Efficient Markov Logic Inference for Natural Language Semantics.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/BeltagyM14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8734</ee><url>https://dblp.org/rec/conf/aaai/BeltagyM14</url></info>
+<url>URL#2359376</url>
+</hit>
+<hit score="1" id="2359395">
+<info><authors><author pid="96/7521">Guy Van den Broeck</author><author pid="40/3793">Kristian Kersting</author><author pid="19/1038">Sriraam Natarajan</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>Preface.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/BroeckKNP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8903</ee><url>https://dblp.org/rec/conf/aaai/BroeckKNP14</url></info>
+<url>URL#2359395</url>
+</hit>
+<hit score="1" id="2359417">
+<info><authors><author pid="147/6111">Ismail Ilkan Ceylan</author><author pid="56/3960">Rafael Peñaloza</author></authors><title>Reasoning in the Description Logic BEL Using Bayesian Networks.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/CeylanP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8765</ee><url>https://dblp.org/rec/conf/aaai/CeylanP14</url></info>
+<url>URL#2359417</url>
+</hit>
+<hit score="1" id="2359436">
+<info><authors><author pid="13/1402">Jaesik Choi</author><author pid="17/1143">Eyal Amir</author><author pid="53/2269">Tianfang Xu</author><author pid="41/2721">Albert J. Valocchi</author></authors><title>Parameter Estimation for Relational Kalman Filtering.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChoiAXV14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8818</ee><url>https://dblp.org/rec/conf/aaai/ChoiAXV14</url></info>
+<url>URL#2359436</url>
+</hit>
+<hit score="1" id="2359458">
+<info><authors><author pid="153/6757">Matthew C. Dirks</author><author pid="85/1928">Andrew Csinger</author><author pid="153/6753">Andrew Bamber</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>Representation, Reasoning, and Learning for a Relational Influence Diagram Applied to a Real-Time Geological Domain.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/DirksCBP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8836</ee><url>https://dblp.org/rec/conf/aaai/DirksCBP14</url></info>
+<url>URL#2359458</url>
+</hit>
+<hit score="1" id="2359489">
+<info><authors><author pid="148/1397">Golnoosh Farnadi</author><author pid="90/1077">Stephen H. Bach</author><author pid="m/MarieFrancineMoens">Marie-Francine Moens</author><author pid="g/LiseGetoor">Lise Getoor</author><author pid="79/4249">Martine De Cock</author></authors><title>Extending PSL with Fuzzy Quantifiers.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/FarnadiBMGC14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8713</ee><url>https://dblp.org/rec/conf/aaai/FarnadiBMGC14</url></info>
+<url>URL#2359489</url>
+</hit>
+<hit score="1" id="2359516">
+<info><authors><author pid="127/6376">Eric Gribkoff</author><author pid="96/7521">Guy Van den Broeck</author><author pid="s/DanSuciu">Dan Suciu</author></authors><title>Understanding the Complexity of Lifted Inference and Asymmetric Weighted Model Counting.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/GribkoffBS14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8782</ee><url>https://dblp.org/rec/conf/aaai/GribkoffBS14</url></info>
+<url>URL#2359516</url>
+</hit>
+<hit score="1" id="2359565">
+<info><authors><author pid="149/1283">Seyed Mehran Kazemi</author><author pid="27/10623">David Buchman</author><author pid="40/3793">Kristian Kersting</author><author pid="19/1038">Sriraam Natarajan</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>Relational Logistic Regression - The Directed Analog of Markov Logic Networks.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/KazemiBKNP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8849</ee><url>https://dblp.org/rec/conf/aaai/KazemiBKNP14</url></info>
+<url>URL#2359565</url>
+</hit>
+<hit score="1" id="2359573">
+<info><authors><author pid="83/8117">Tushar Khot</author><author pid="19/1038">Sriraam Natarajan</author><author pid="s/JudeWShavlik">Jude W. Shavlik</author></authors><title>Classification from One Class of Examples for Relational Domains.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhotNS14a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8727</ee><url>https://dblp.org/rec/conf/aaai/KhotNS14a</url></info>
+<url>URL#2359573</url>
+</hit>
+<hit score="1" id="2359598">
+<info><authors><author pid="65/6241-1">Junkyu Lee 0001</author><author pid="m/RaduMarinescu2">Radu Marinescu 0002</author><author pid="d/RDechter">Rina Dechter</author></authors><title>Applying Marginal MAP Search to Probabilistic Conformant Planning - Initial Results.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/Lee0D14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8855</ee><url>https://dblp.org/rec/conf/aaai/Lee0D14</url></info>
+<url>URL#2359598</url>
+</hit>
+<hit score="1" id="2359625">
+<info><authors><author pid="80/3901">Daniel Lowd</author><author pid="153/6756">Brenton Lessley</author><author pid="153/6771">Mino De Raj</author></authors><title>Towards Adversarial Reasoning in Statistical Relational Domains.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/LowdLR14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8861</ee><url>https://dblp.org/rec/conf/aaai/LowdLR14</url></info>
+<url>URL#2359625</url>
+</hit>
+<hit score="1" id="2359659">
+<info><authors><author pid="19/1038">Sriraam Natarajan</author></authors><title>Organizers.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/Natarajan14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8902</ee><url>https://dblp.org/rec/conf/aaai/Natarajan14</url></info>
+<url>URL#2359659</url>
+</hit>
+<hit score="1" id="2359660">
+<info><authors><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Automated Debugging with Tractable Probabilistic Programming.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/NathD14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8796</ee><url>https://dblp.org/rec/conf/aaai/NathD14</url></info>
+<url>URL#2359660</url>
+</hit>
+<hit score="1" id="2359661">
+<info><authors><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Learning Tractable Statistical Relational Models.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/NathD14a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8793</ee><url>https://dblp.org/rec/conf/aaai/NathD14a</url></info>
+<url>URL#2359661</url>
+</hit>
+<hit score="1" id="2359667">
+<info><authors><author pid="n/MathiasNiepert">Mathias Niepert</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Tractable Probabilistic Knowledge Bases - Wikipedia and Beyond.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/NiepertD14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8722</ee><url>https://dblp.org/rec/conf/aaai/NiepertD14</url></info>
+<url>URL#2359667</url>
+</hit>
+<hit score="1" id="2359670">
+<info><authors><author pid="90/1078">Masaaki Nishino</author><author pid="24/5960">Akihiro Yamamoto</author><author pid="16/3520">Masaaki Nagata</author></authors><title>A Sparse Parameter Learning Method for Probabilistic Logic Programs.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/NishinoYN14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8759</ee><url>https://dblp.org/rec/conf/aaai/NishinoYN14</url></info>
+<url>URL#2359670</url>
+</hit>
+<hit score="1" id="2359690">
+<info><authors><author pid="153/6780">Shrutika Poyrekar</author><author pid="19/1038">Sriraam Natarajan</author><author pid="40/3793">Kristian Kersting</author></authors><title>A Deeper Empirical Analysis of CBP Algorithm - Grounding Is the Bottleneck.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/PoyrekarNK14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8776</ee><url>https://dblp.org/rec/conf/aaai/PoyrekarNK14</url></info>
+<url>URL#2359690</url>
+</hit>
+<hit score="1" id="2359701">
+<info><authors><author pid="118/3634">Joris Renkens</author><author pid="17/3881">Angelika Kimmig</author><author pid="96/7521">Guy Van den Broeck</author><author pid="r/LucDeRaedt">Luc De Raedt</author></authors><title>Explanation-Based Approximate Weighted Model Counting for Probabilistic Logics.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/RenkensKBR14a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8803</ee><url>https://dblp.org/rec/conf/aaai/RenkensKBR14a</url></info>
+<url>URL#2359701</url>
+</hit>
+<hit score="1" id="2359703">
+<info><authors><author pid="96/3994">Fatemeh Riahi</author><author pid="s/OliverSchulte">Oliver Schulte</author><author pid="181/2689">Qing Li</author></authors><title>A Proposal for Statistical Outlier Detection in Relational Structures.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/RiahiSL14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8780</ee><url>https://dblp.org/rec/conf/aaai/RiahiSL14</url></info>
+<url>URL#2359703</url>
+</hit>
+<hit score="1" id="2359704">
+<info><authors><author pid="18/3348-1">Sebastian Riedel 0001</author><author pid="13/3568-1">Sameer Singh 0001</author><author pid="37/44">Vivek Srikumar</author><author pid="43/11537">Tim Rocktäschel</author><author pid="127/0256">Larysa Visengeriyeva</author><author pid="76/8176">Jan Noessner</author></authors><title>WOLFE - Strength Reduction and Approximate Programming for Probabilistic Programming.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/RiedelSSRVN14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8860</ee><url>https://dblp.org/rec/conf/aaai/RiedelSSRVN14</url></info>
+<url>URL#2359704</url>
+</hit>
+<hit score="1" id="2359709">
+<info><authors><author pid="82/10540">Brian E. Ruttenberg</author><author pid="153/6754">Matthew P. Wilkins</author><author pid="p/AviPfeffer">Avi Pfeffer</author></authors><title>Hierarchical Reasoning with Probabilistic Programming.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/RuttenbergWP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8705</ee><url>https://dblp.org/rec/conf/aaai/RuttenbergWP14</url></info>
+<url>URL#2359709</url>
+</hit>
+<hit score="1" id="2359746">
+<info><authors><author pid="62/7183">Zhengya Sun</author><author pid="153/6760">Zhuoyu Wei</author><author pid="69/393-4">Jue Wang 0004</author><author pid="12/4947">Hongwei Hao</author></authors><title>Scalable Learning for Structure in Markov Logic Networks.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/SunWWH14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8712</ee><url>https://dblp.org/rec/conf/aaai/SunWWH14</url></info>
+<url>URL#2359746</url>
+</hit>
+<hit score="1" id="2359766">
+<info><authors><author pid="16/2321">Deepak Venugopal</author><author pid="14/4229">Vibhav Gogate</author></authors><title>Evidence-Based Clustering for Scalable Inference in Markov Logic.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/VenugopalG14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8832</ee><url>https://dblp.org/rec/conf/aaai/VenugopalG14</url></info>
+<url>URL#2359766</url>
+</hit>
+<hit score="1" id="2359767">
+<info><authors><author pid="134/6612">Mihaela Verman</author><author pid="53/8838">Philip Stutz</author><author pid="b/AbrahamBernstein">Abraham Bernstein</author></authors><title>Solving Distributed Constraint Optimization Problems Using Ranks.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/VermanSB14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8778</ee><url>https://dblp.org/rec/conf/aaai/VermanSB14</url></info>
+<url>URL#2359767</url>
+</hit>
+<hit score="1" id="2359769">
+<info><authors><author pid="150/5902">Jonas Vlasselaer</author><author pid="82/334">Wannes Meert</author><author pid="96/7521">Guy Van den Broeck</author><author pid="r/LucDeRaedt">Luc De Raedt</author></authors><title>Efficient Probabilistic Inference for Dynamic Relational Models.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/VlasselaerMBR14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8817</ee><url>https://dblp.org/rec/conf/aaai/VlasselaerMBR14</url></info>
+<url>URL#2359769</url>
+</hit>
+<hit score="1" id="2359776">
+<info><authors><author pid="08/9282">William Yang Wang</author><author pid="130/3733">Kathryn Mazaitis</author><author pid="c/WWCohen">William W. Cohen</author></authors><title>ProPPR - Efficient First-Order Probabilistic Logic Programming for Structure Discovery, Parameter Learning, and Scalable Inference.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangMC14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8768</ee><url>https://dblp.org/rec/conf/aaai/WangMC14</url></info>
+<url>URL#2359776</url>
+</hit>
+<hit score="1" id="2511435">
+<info><title>Statistical Relational Artificial Intelligence, Papers from the 2014 AAAI Workshop, Québec City, Québec, Canada, July 27, 2014</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><venue>AAAI Workshops</venue><volume>WS-14-13</volume><publisher>AAAI</publisher><year>2014</year><type>Editorship</type><key>conf/aaai/2014stat</key><ee>http://www.aaai.org/Library/Workshops/ws14-13.php</ee><url>https://dblp.org/rec/conf/aaai/2014stat</url></info>
+<url>URL#2511435</url>
+</hit>
+</hits>
+</result>

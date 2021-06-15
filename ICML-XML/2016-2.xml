@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287731">:facetid:toc:db\"/\"conf\"/\"icml\"/\"automl2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">128.06</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18239674">:facetid:toc:db/conf/icml/automl2016.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="1840008">
+<info><authors><author pid="152/6169">Salisu Mamman Abdulrahman</author><author pid="14/2530">Pavel Brazdil</author></authors><title>Effect of Incomplete Meta-dataset on Average Ranking Method.</title><venue>AutoML@ICML</venue><pages>1-10</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/AbdulrahmanB16</key><ee>http://proceedings.mlr.press/v64/adbdulrahman_effect_2016.html</ee><url>https://dblp.org/rec/conf/icml/AbdulrahmanB16</url></info>
+<url>URL#1840008</url>
+</hit>
+<hit score="1" id="1840074">
+<info><authors><author pid="177/9191">Ian Dewancker</author><author pid="126/8149">Michael McCourt</author><author pid="22/11264">Scott Clark</author><author pid="42/10907">Patrick Hayes</author><author pid="177/9242">Alexandra Johnson</author><author pid="177/8858">George Ke</author></authors><title>A Strategy for Ranking Optimization Methods using Multiple Criteria.</title><venue>AutoML@ICML</venue><pages>11-20</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/DewanckerMCHJK16</key><ee>http://proceedings.mlr.press/v64/dewancker_strategy_2016.html</ee><url>https://dblp.org/rec/conf/icml/DewanckerMCHJK16</url></info>
+<url>URL#1840074</url>
+</hit>
+<hit score="1" id="1840108">
+<info><authors><author pid="31/6176">Isabelle Guyon</author><author pid="195/9871">Imad Chaabane</author><author pid="86/2693">Hugo Jair Escalante</author><author pid="77/5527">Sergio Escalera</author><author pid="195/9772">Damir Jajetic</author><author pid="126/1754">James Robert Lloyd</author><author pid="26/2319">Núria Macià</author><author pid="148/5967">Bisakha Ray</author><author pid="63/9024">Lukasz Romaszko</author><author pid="s/MicheleSebag">Michèle Sebag</author><author pid="57/4346">Alexander R. Statnikov</author><author pid="195/9836">Sébastien Treguer</author><author pid="00/4233">Evelyne Viegas</author></authors><title>A brief Review of the ChaLearn AutoML Challenge - Any-time Any-dataset Learning without Human Intervention.</title><venue>AutoML@ICML</venue><pages>21-30</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/GuyonCEEJLMRRSS16</key><ee>http://proceedings.mlr.press/v64/guyon_review_2016.html</ee><url>https://dblp.org/rec/conf/icml/GuyonCEEJLMRRSS16</url></info>
+<url>URL#1840108</url>
+</hit>
+<hit score="1" id="1840145">
+<info><authors><author pid="180/5389">Hyunjik Kim</author><author pid="88/2483">Yee Whye Teh</author></authors><title>Scalable Structure Discovery in Regression using Gaussian Processes.</title><venue>AutoML@ICML</venue><pages>31-40</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/KimT16</key><ee>http://proceedings.mlr.press/v64/kim_scalable_2016.html</ee><url>https://dblp.org/rec/conf/icml/KimT16</url></info>
+<url>URL#1840145</url>
+</hit>
+<hit score="1" id="1840183">
+<info><authors><author pid="156/3603">Gustavo Malkomes</author><author pid="191/6689">Chip Schaff</author><author pid="29/7058">Roman Garnett</author></authors><title>Bayesian optimization for automated model selection.</title><venue>AutoML@ICML</venue><pages>41-47</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/MalkomesSG16</key><ee>http://proceedings.mlr.press/v64/malkomes_bayesian_2016.html</ee><url>https://dblp.org/rec/conf/icml/MalkomesSG16</url></info>
+<url>URL#1840183</url>
+</hit>
+<hit score="1" id="1840188">
+<info><authors><author pid="195/9923">Hector Mendoza</author><author pid="178/3281">Aaron Klein</author><author pid="25/4629">Matthias Feurer</author><author pid="116/6517">Jost Tobias Springenberg</author><author pid="89/5383">Frank Hutter</author></authors><title>Towards Automatically-Tuned Neural Networks.</title><venue>AutoML@ICML</venue><pages>58-65</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/MendozaKFSH16</key><ee>http://proceedings.mlr.press/v64/mendoza_towards_2016.html</ee><url>https://dblp.org/rec/conf/icml/MendozaKFSH16</url></info>
+<url>URL#1840188</url>
+</hit>
+<hit score="1" id="1840207">
+<info><authors><author pid="132/2048">Randal S. Olson</author><author pid="07/315">Jason H. Moore</author></authors><title>TPOT - A Tree-based Pipeline Optimization Tool for Automating Machine Learning.</title><venue>AutoML@ICML</venue><pages>66-74</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/OlsonM16</key><ee>http://proceedings.mlr.press/v64/olson_tpot_2016.html</ee><url>https://dblp.org/rec/conf/icml/OlsonM16</url></info>
+<url>URL#1840207</url>
+</hit>
+<hit score="1" id="1840209">
+<info><authors><author pid="80/3790">Francesco Orabona</author><author pid="70/5148">Dávid Pál</author></authors><title>Parameter-Free Convex Learning through Coin Betting.</title><venue>AutoML@ICML</venue><pages>75-82</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/OrabonaP16</key><ee>http://proceedings.mlr.press/v64/orabona_parameter_2016.html</ee><url>https://dblp.org/rec/conf/icml/OrabonaP16</url></info>
+<url>URL#1840209</url>
+</hit>
+<hit score="1" id="1840251">
+<info><authors><author pid="124/7608">Manuel Martin Salvador</author><author pid="94/8770">Marcin Budka</author><author pid="76/6187">Bogdan Gabrys</author></authors><title>Adapting Multicomponent Predictive Systems using Hybrid Adaptation Strategies with Auto-WEKA in Process Industry.</title><venue>AutoML@ICML</venue><pages>48-57</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/icml/SalvadorBG16</key><ee>http://proceedings.mlr.press/v64/salvador_adapting_2016.html</ee><url>https://dblp.org/rec/conf/icml/SalvadorBG16</url></info>
+<url>URL#1840251</url>
+</hit>
+<hit score="1" id="1923098">
+<info><authors><author pid="89/5383">Frank Hutter</author><author pid="42/7865">Lars Kotthoff</author><author pid="85/5045">Joaquin Vanschoren</author></authors><title>Proceedings of the 2016 Workshop on Automatic Machine Learning, AutoML 2016, co-located with 33rd International Conference on Machine Learning (ICML 2016), New York City, NY, USA, June 24, 2016</title><venue>AutoML@ICML</venue><venue>JMLR Workshop and Conference Proceedings</venue><volume>64</volume><publisher>JMLR.org</publisher><year>2016</year><type>Editorship</type><key>conf/icml/2016automl</key><ee>http://proceedings.mlr.press/v64/</ee><url>https://dblp.org/rec/conf/icml/2016automl</url></info>
+<url>URL#1923098</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288874">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"meta2010\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">124.70</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18218010">:facetid:toc:db/conf/aaai/meta2010.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="3405098">
+<info><authors><author pid="49/7272">Jason Bernardino Alonso</author><author pid="64/7614">Kenneth C. Arnold</author><author pid="50/1568">Catherine Havasi</author></authors><title>Envisioning a Robust, Scalable Metacognitive Architecture Built on Dimensionality Reduction.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AlonsoAH10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2009</ee><url>https://dblp.org/rec/conf/aaai/AlonsoAH10</url></info>
+<url>URL#3405098</url>
+</hit>
+<hit score="1" id="3405167">
+<info><authors><author pid="76/8399">Shanjun Cheng</author><author pid="93/5894">Anita Raja</author><author pid="l/VRLesser">Victor R. Lesser</author></authors><title>Multiagent Meta-Level Control for Predicting Meteorological Phenomena.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChengRL10a</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1998</ee><url>https://dblp.org/rec/conf/aaai/ChengRL10a</url></info>
+<url>URL#3405167</url>
+</hit>
+<hit score="1" id="3405188">
+<info><authors><author pid="79/4353">Susan L. Epstein</author><author pid="88/8155">Joshua B. Gordon</author><author pid="04/696">Rebecca J. Passonneau</author><author pid="33/3613">Tiziana Ligorio</author></authors><title>Toward Spoken Dialogue as Mutual Agreement.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/EpsteinGPL10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2021</ee><url>https://dblp.org/rec/conf/aaai/EpsteinGPL10</url></info>
+<url>URL#3405188</url>
+</hit>
+<hit score="1" id="3405235">
+<info><authors><author pid="29/5724">Justin W. Hart</author><author pid="32/818">Brian Scassellati</author></authors><title>Robotic Self-Models Inspired by Human Development.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HartS10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2030</ee><url>https://dblp.org/rec/conf/aaai/HartS10</url></info>
+<url>URL#3405235</url>
+</hit>
+<hit score="1" id="3405259">
+<info><authors><author pid="80/511">Darsana P. Josyula</author><author pid="17/9324">Bette J. Donahue</author><author pid="38/11042">Matthew McCaslin</author><author pid="61/9815">Michelle Snowden</author><author pid="03/1682">Michael L. Anderson</author><author pid="34/3824">Tim Oates</author><author pid="14/755">Matthew D. Schmill</author><author pid="p/DPerlis">Donald Perlis</author></authors><title>Metacognition for Detecting and Resolving Conflicts in Operational Policies.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/JosyulaDMSAOSP10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1996</ee><url>https://dblp.org/rec/conf/aaai/JosyulaDMSAOSP10</url></info>
+<url>URL#3405259</url>
+</hit>
+<hit score="1" id="3405269">
+<info><authors><author pid="09/9179">Catriona M. Kennedy</author></authors><title>Decentralised Metacognition in Context-Aware Autonomic Systems - Some Key Challenges.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Kennedy10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1994</ee><url>https://dblp.org/rec/conf/aaai/Kennedy10</url></info>
+<url>URL#3405269</url>
+</hit>
+<hit score="1" id="3405351">
+<info><authors><author pid="94/11042">Santiago Arango Munoz</author></authors><title>Metarepresentational Versus Control Theories of Metacognition.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Munoz10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2014</ee><url>https://dblp.org/rec/conf/aaai/Munoz10</url></info>
+<url>URL#3405351</url>
+</hit>
+<hit score="1" id="3405405">
+<info><authors><author pid="76/3479">Alexei V. Samsonovich</author></authors><title>A Human-Inspired Cognitive Architecture Supporting Self Regulated Learning in Problem Solving.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Samsonovich10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2050</ee><url>https://dblp.org/rec/conf/aaai/Samsonovich10</url></info>
+<url>URL#3405405</url>
+</hit>
+<hit score="1" id="3405425">
+<info><authors><author pid="09/6868">Dustin A. Smith</author><author pid="94/1660">Bo Morgan</author></authors><title>IsisWorld - An Open Source Commonsense Simulator for AI Researchers.</title><venue>Metacognition for Robust Social Systems</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SmithM10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2032</ee><url>https://dblp.org/rec/conf/aaai/SmithM10</url></info>
+<url>URL#3405425</url>
+</hit>
+<hit score="1" id="3529296">
+<info><title>Metacognition for Robust Social Systems, Papers from the 2010 AAAI Workshop, Atlanta, Georgia, USA, July 11, 2010</title><venue>Metacognition for Robust Social Systems</venue><venue>AAAI Workshops</venue><volume>WS-10-04</volume><publisher>AAAI</publisher><year>2010</year><type>Editorship</type><key>conf/aaai/2010meta</key><ee>http://www.aaai.org/Library/Workshops/ws10-04.php</ee><url>https://dblp.org/rec/conf/aaai/2010meta</url></info>
+<url>URL#3529296</url>
+</hit>
+</hits>
+</result>

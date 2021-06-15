@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="293665">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"agents2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">119.02</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18217979">:facetid:toc:db/conf/aaai/agents2011.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="3163623">
+<info><authors><author pid="24/10135">Alessandro D&apos;Ausilio</author><author pid="33/8797">Luciano Fadiga</author></authors><title>The Common Origins of Language and Action.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/DAusilioF11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3851</ee><url>https://dblp.org/rec/conf/aaai/DAusilioF11</url></info>
+<url>URL#3163623</url>
+</hit>
+<hit score="1" id="3163745">
+<info><authors><author pid="k/JudithKlavans">Judith L. Klavans</author><author pid="02/10920">Raul Guerra</author><author pid="03/10920">Rebecca LaPlante</author><author pid="10/2397">Ed Bachta</author><author pid="70/4622">Robert Stein</author></authors><title>Beyond Flickr - Not All Image Tagging Is Created Equal.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/KlavansGLBS11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3997</ee><url>https://dblp.org/rec/conf/aaai/KlavansGLBS11</url></info>
+<url>URL#3163745</url>
+</hit>
+<hit score="1" id="3163832">
+<info><authors><author pid="29/533">Katerina Pastra</author><author pid="35/2259">Eirini Balta</author><author pid="00/10920">Panagiotis Dimitrakis</author><author pid="99/10919">Giorgos Karakatsiotis</author></authors><title>Embodied Language Processing - A New Generation of Language Technology.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/PastraBDK11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/4003</ee><url>https://dblp.org/rec/conf/aaai/PastraBDK11</url></info>
+<url>URL#3163832</url>
+</hit>
+<hit score="1" id="3163914">
+<info><authors><author pid="63/5683">Agnes Swadzba</author><author pid="81/6660">Sven Wachsmuth</author></authors><title>Aligned Scene Modeling of a Robot&apos;s Vista Space - An Evaluation.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/SwadzbaW11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3801</ee><url>https://dblp.org/rec/conf/aaai/SwadzbaW11</url></info>
+<url>URL#3163914</url>
+</hit>
+<hit score="1" id="3163923">
+<info><authors><author pid="12/883">Ching Lik Teo</author><author pid="78/7455">Yezhou Yang</author><author pid="77/2856">Hal Daumé III</author><author pid="f/CorneliaFermuller">Cornelia Fermüller</author><author pid="a/YiannisAloimonos">Yiannis Aloimonos</author></authors><title>A Corpus-Guided Framework for Robotic Visual Perception.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/TeoYDFA11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3921</ee><url>https://dblp.org/rec/conf/aaai/TeoYDFA11</url></info>
+<url>URL#3163923</url>
+</hit>
+<hit score="1" id="3163933">
+<info><authors><author pid="50/3412">Evelyne Tzoukermann</author><author pid="41/3594">Jan Neumann</author><author pid="j/JanaKosecka">Jana Kosecka</author><author pid="f/CorneliaFermuller">Cornelia Fermüller</author><author pid="12/9717">Ian Perera</author><author pid="28/5526">Frank Ferraro</author><author pid="54/5582">Benjamin Sapp</author><author pid="60/7659">Rizwan Chaudhry</author><author pid="35/2642">Gautam Singh</author></authors><title>Language Models for Semantic Extraction and Filtering in Video Action Recognition.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/TzoukermannNKFPFSCS11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3919</ee><url>https://dblp.org/rec/conf/aaai/TzoukermannNKFPFSCS11</url></info>
+<url>URL#3163933</url>
+</hit>
+<hit score="1" id="3163987">
+<info><authors><author pid="97/4403">Xiaodong Yu</author><author pid="f/CorneliaFermuller">Cornelia Fermüller</author><author pid="a/YiannisAloimonos">Yiannis Aloimonos</author></authors><title>Visual Scene Interpretation as a Dialogue between Vision and Language.</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuFA11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3989</ee><url>https://dblp.org/rec/conf/aaai/YuFA11</url></info>
+<url>URL#3163987</url>
+</hit>
+<hit score="1" id="3300565">
+<info><title>Language-Action Tools for Cognitive Artificial Agents, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 7-8, 2011</title><venue>Language-Action Tools for Cognitive Artificial Agents</venue><venue>AAAI Workshops</venue><volume>WS-11-14</volume><publisher>AAAI</publisher><year>2011</year><type>Editorship</type><key>conf/aaai/2011agents</key><ee>http://www.aaai.org/Library/Workshops/ws11-14.php</ee><url>https://dblp.org/rec/conf/aaai/2011agents</url></info>
+<url>URL#3300565</url>
+</hit>
+</hits>
+</result>

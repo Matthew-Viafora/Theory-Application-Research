@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287606">:facetid:toc:db\"/\"conf\"/\"icml\"/\"mlmmi2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">107.23</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="18239709">:facetid:toc:db/conf/icml/mlmmi2015.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="2143738">
+<info><authors><author pid="141/8895">Amir Alansary</author><author pid="180/5827">Matthew C. H. Lee</author><author pid="134/9674">Kevin Keraudren</author><author pid="76/5562">Bernhard Kainz</author><author pid="57/4740">Christina Malamateniou</author><author pid="83/1415">Mary A. Rutherford</author><author pid="24/3098">Joseph V. Hajnal</author><author pid="86/2890">Ben Glocker</author><author pid="69/2478">Daniel Rueckert</author></authors><title>Automatic Brain Localization in Fetal MRI Using Superpixel Graphs.</title><venue>MLMMI@ICML</venue><pages>13-22</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/AlansaryLKKMRHG15</key><doi>10.1007/978-3-319-27929-9_2</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_2</ee><url>https://dblp.org/rec/conf/icml/AlansaryLKKMRHG15</url></info>
+<url>URL#2143738</url>
+</hit>
+<hit score="1" id="2143739">
+<info><authors><author pid="169/4970">Rahaf Aljundi</author><author pid="158/9450">Jérôme Lehaire</author><author pid="173/6725">Fabrice Prost-Boucle</author><author pid="124/6631">Olivier Rouvière</author><author pid="77/1621">Carole Lartizien</author></authors><title>Transfer Learning for Prostate Cancer Mapping Based on Multicentric MR Imaging Databases.</title><venue>MLMMI@ICML</venue><pages>74-82</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/AljundiLPRL15</key><doi>10.1007/978-3-319-27929-9_8</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_8</ee><url>https://dblp.org/rec/conf/icml/AljundiLPRL15</url></info>
+<url>URL#2143739</url>
+</hit>
+<hit score="1" id="2143791">
+<info><authors><author pid="120/2225">Orhan Firat</author><author pid="152/9962">Emre Aksan</author><author pid="59/7495">Ilke Öztekin</author><author pid="y/FatosTYarmanVural">Fatos T. Yarman-Vural</author></authors><title>Learning Deep Temporal Representations for fMRI Brain Decoding.</title><venue>MLMMI@ICML</venue><pages>25-34</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/FiratAOY15</key><doi>10.1007/978-3-319-27929-9_3</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_3</ee><url>https://dblp.org/rec/conf/icml/FiratAOY15</url></info>
+<url>URL#2143791</url>
+</hit>
+<hit score="1" id="2143887">
+<info><authors><author pid="96/10697">Alexander Loktyushin</author><author pid="12/10671">Christian J. Schuler</author><author pid="29/10171">Klaus Scheffler</author><author pid="97/119">Bernhard Schölkopf</author></authors><title>Retrospective Motion Correction of Magnitude-Input MR Images.</title><venue>MLMMI@ICML</venue><pages>3-12</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/LoktyushinSSS15</key><doi>10.1007/978-3-319-27929-9_1</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_1</ee><url>https://dblp.org/rec/conf/icml/LoktyushinSSS15</url></info>
+<url>URL#2143887</url>
+</hit>
+<hit score="1" id="2143891">
+<info><authors><author pid="90/9763">Marco Lorenzi</author><author pid="75/11383">Gabriel Ziegler</author><author pid="37/6152">Daniel C. Alexander</author><author pid="40/2838">Sébastien Ourselin</author></authors><title>Modelling Non-stationary and Non-separable Spatio-Temporal Changes in Neurodegeneration via Gaussian Process Convolution.</title><venue>MLMMI@ICML</venue><pages>35-44</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/LorenziZAO15</key><doi>10.1007/978-3-319-27929-9_4</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_4</ee><url>https://dblp.org/rec/conf/icml/LorenziZAO15</url></info>
+<url>URL#2143891</url>
+</hit>
+<hit score="1" id="2143914">
+<info><authors><author pid="121/3944">Annegreet van Opbroek</author><author pid="96/8436">Hakim C. Achterberg</author><author pid="45/3080">Marleen de Bruijne</author></authors><title>Feature-Space Transformation Improves Supervised Segmentation Across Scanners.</title><venue>MLMMI@ICML</venue><pages>85-93</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/OpbroekAB15</key><doi>10.1007/978-3-319-27929-9_9</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_9</ee><url>https://dblp.org/rec/conf/icml/OpbroekAB15</url></info>
+<url>URL#2143914</url>
+</hit>
+<hit score="1" id="2143945">
+<info><authors><author pid="98/1638">Gerard Sanroma</author><author pid="147/3416">Oualid M. Benkarim</author><author pid="85/5508">Gemma Piella</author><author pid="03/5225-1">Guorong Wu 0001</author><author pid="60/4671-1">Xiaofeng Zhu 0001</author><author pid="14/4383">Dinggang Shen</author><author pid="75/3775">Miguel Ángel González Ballester</author></authors><title>Discriminative Dimensionality Reduction for Patch-Based Label Fusion.</title><venue>MLMMI@ICML</venue><pages>94-103</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/SanromaBPWZSB15</key><doi>10.1007/978-3-319-27929-9_10</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_10</ee><url>https://dblp.org/rec/conf/icml/SanromaBPWZSB15</url></info>
+<url>URL#2143945</url>
+</hit>
+<hit score="1" id="2143955">
+<info><authors><author pid="27/10495">Mahsa Shakeri</author><author pid="92/1233">Hervé Lombaert</author><author pid="87/6052">Samuel Kadoury</author></authors><title>Classification of Alzheimer&apos;s Disease Using Discriminant Manifolds of Hippocampus Shapes.</title><venue>MLMMI@ICML</venue><pages>65-73</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/ShakeriLK15</key><doi>10.1007/978-3-319-27929-9_7</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_7</ee><url>https://dblp.org/rec/conf/icml/ShakeriLK15</url></info>
+<url>URL#2143955</url>
+</hit>
+<hit score="1" id="2143966">
+<info><authors><author pid="167/1290">Claudio Stamile</author><author pid="167/1207">Gabriel Kocevar</author><author pid="173/6741">Salem Hannoun</author><author pid="118/9354">Françoise Durand-Dubief</author><author pid="37/6123">Dominique Sappey-Marinier</author></authors><title>A Graph Based Classification Method for Multiple Sclerosis Clinical Forms Using Support Vector Machine.</title><venue>MLMMI@ICML</venue><pages>57-64</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/StamileKHDS15</key><doi>10.1007/978-3-319-27929-9_6</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_6</ee><url>https://dblp.org/rec/conf/icml/StamileKHDS15</url></info>
+<url>URL#2143966</url>
+</hit>
+<hit score="1" id="2144020">
+<info><authors><author pid="70/6865">Jonathan Young</author><author pid="149/7487">Alex F. Mendelson</author><author pid="17/7426">Manuel Jorge Cardoso</author><author pid="04/7426">Marc Modat</author><author pid="20/3439">John Ashburner</author><author pid="40/2838">Sébastien Ourselin</author></authors><title>Improving MRI Brain Image Classification with Anatomical Regional Kernels.</title><venue>MLMMI@ICML</venue><pages>45-53</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/YoungMCMAO15</key><doi>10.1007/978-3-319-27929-9_5</doi><ee>https://doi.org/10.1007/978-3-319-27929-9_5</ee><url>https://dblp.org/rec/conf/icml/YoungMCMAO15</url></info>
+<url>URL#2144020</url>
+</hit>
+<hit score="1" id="2224547">
+<info><authors><author pid="55/7044">Kanwal K. Bhatia</author><author pid="92/1233">Herve Lombaert</author></authors><title>Machine Learning Meets Medical Imaging - First International Workshop, MLMMI 2015, Held in Conjunction with ICML 2015, Lille, France, July 11, 2015. Revised Selected Papers</title><venue>MLMMI@ICML</venue><venue>Lecture Notes in Computer Science</venue><volume>9487</volume><publisher>Springer</publisher><year>2015</year><type>Editorship</type><key>conf/icml/2015mlmmi</key><doi>10.1007/978-3-319-27929-9</doi><ee>https://doi.org/10.1007/978-3-319-27929-9</ee><url>https://dblp.org/rec/conf/icml/2015mlmmi</url></info>
+<url>URL#2224547</url>
+</hit>
+</hits>
+</result>
