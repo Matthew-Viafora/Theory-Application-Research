@@ -60,5 +60,5 @@ for folder in folders:
 
     df = pd.DataFrame(rows, columns=cols)
 # Writing pandas dataframe to csv
-    df.to_csv('/Users/mattviafora/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Python Data Science/Theory-Application-Research/'+ folder +'-output.csv')
+    df.to_csv(path+folder +'-output.csv')
 print("Total number of papers disregarded due to no authors:",count)
