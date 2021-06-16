@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-<query id="981557">:facetid:toc:db\"/\"conf\"/\"mlhc\"/\"mlhc2017\".\"bht</query>
+<query id="82122">:facetid:toc:db\"/\"conf\"/\"mlhc\"/\"mlhc2017\".\"bht</query>
 <status code="200">OK</status>
-<time unit="msecs">132.71</time>
+<time unit="msecs">0.89</time>
 <completions total="1" computed="1" sent="1">
-<c sc="27" dc="27" oc="27" id="18213882">:facetid:toc:db/conf/mlhc/mlhc2017.bht</c>
+<c sc="27" dc="27" oc="27" id="18287242">:facetid:toc:db/conf/mlhc/mlhc2017.bht</c>
 </completions>
 <hits total="27" computed="27" sent="27" first="0">
-<hit score="1" id="1552689">
+<hit score="1" id="1570722">
 <info><authors><author pid="150/5339">Silvio Amir</author><author pid="05/9578">Glen Coppersmith</author><author pid="57/4090">Paula Carvalho 0001</author><author pid="98/2258">Mário J. Silva</author><author pid="00/8247">Byron C. Wallace</author></authors><title>Quantifying Mental Health from Social Media with Neural User Embeddings.</title><venue>MLHC</venue><pages>306-321</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/AmirCCSW17</key><ee>http://proceedings.mlr.press/v68/amir17a.html</ee><url>https://dblp.org/rec/conf/mlhc/AmirCCSW17</url></info>
-<url>URL#1552689</url>
+<url>URL#1570722</url>
 </hit>
-<hit score="1" id="1552690">
+<hit score="1" id="1570723">
 <info><authors><author pid="214/4122">Yujia Bao</author><author pid="183/0951">Zhaobin Kuang</author><author pid="80/11037">Peggy L. Peissig</author><author pid="p/DavidPage">David Page</author><author pid="w/RebeccaWillett">Rebecca Willett</author></authors><title>Hawkes Process Modeling of Adverse Drug Reactions with Longitudinal Observational Data.</title><venue>MLHC</venue><pages>177-190</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/BaoKPPW17</key><ee>http://proceedings.mlr.press/v68/bao17a.html</ee><url>https://dblp.org/rec/conf/mlhc/BaoKPPW17</url></info>
-<url>URL#1552690</url>
+<url>URL#1570723</url>
 </hit>
-<hit score="1" id="1552691">
+<hit score="1" id="1570724">
 <info><authors><author pid="214/4191">Savannah L. Bergquist</author><author pid="214/4117">Gabriel A. Brooks</author><author pid="200/4705">Nancy L. Keating</author><author pid="200/4404">Mary Beth Landrum</author><author pid="04/7517">Sherri Rose</author></authors><title>Classifying Lung Cancer Severity with Ensemble Machine Learning in Health Care Claims Data.</title><venue>MLHC</venue><pages>25-38</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/BergquistBKLR17</key><ee>http://proceedings.mlr.press/v68/bergquist17a.html</ee><url>https://dblp.org/rec/conf/mlhc/BergquistBKLR17</url></info>
-<url>URL#1552691</url>
+<url>URL#1570724</url>
 </hit>
-<hit score="1" id="1552692">
+<hit score="1" id="1570725">
 <info><authors><author pid="41/3886">Edward Choi</author><author pid="171/7243">Siddharth Biswal</author><author pid="m/BradleyMalin">Bradley A. Malin</author><author pid="198/0483">Jon Duke</author><author pid="82/9250">Walter F. Stewart</author><author pid="54/4948">Jimeng Sun</author></authors><title>Generating Multi-label Discrete Patient Records using Generative Adversarial Networks.</title><venue>MLHC</venue><pages>286-305</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ChoiBMDSS17</key><ee>http://proceedings.mlr.press/v68/choi17a.html</ee><url>https://dblp.org/rec/conf/mlhc/ChoiBMDSS17</url></info>
-<url>URL#1552692</url>
+<url>URL#1570725</url>
 </hit>
-<hit score="1" id="1552693">
+<hit score="1" id="1570726">
 <info><authors><author pid="176/2914">Bryan Conroy</author><author pid="176/2848">Minnan Xu-Wilson</author><author pid="203/8480">Asif Rahman</author></authors><title>Patient Similarity Using Population Statistics and Multiple Kernel Learning.</title><venue>MLHC</venue><pages>191-203</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ConroyXR17</key><ee>http://proceedings.mlr.press/v68/conroy17a.html</ee><url>https://dblp.org/rec/conf/mlhc/ConroyXR17</url></info>
-<url>URL#1552693</url>
+<url>URL#1570726</url>
 </hit>
-<hit score="1" id="1552694">
+<hit score="1" id="1570727">
 <info><authors><author pid="214/4154">Amirreza Farnoosh</author><author pid="28/1349">Sarah Ostadabbas</author><author pid="n/MehrdadNourani">Mehrdad Nourani</author></authors><title>Spatially-Continuous Plantar Pressure Reconstruction Using Compressive Sensing.</title><venue>MLHC</venue><pages>13-24</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/FarnooshON17</key><ee>http://proceedings.mlr.press/v68/farnoosh17a.html</ee><url>https://dblp.org/rec/conf/mlhc/FarnooshON17</url></info>
-<url>URL#1552694</url>
+<url>URL#1570727</url>
 </hit>
-<hit score="1" id="1552695">
+<hit score="1" id="1570728">
 <info><authors><author pid="153/1608">Samuele Fiorini</author><author pid="79/2899">Alessandro Verri</author><author pid="32/3989">Annalisa Barla</author><author pid="60/11371">Andrea Tacchino</author><author pid="152/0261">Giampaolo Brichetto</author></authors><title>Temporal prediction of multiple sclerosis evolution from patient-centered outcomes.</title><venue>MLHC</venue><pages>112-125</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/FioriniVBTB17</key><ee>http://proceedings.mlr.press/v68/fiorini17a.html</ee><url>https://dblp.org/rec/conf/mlhc/FioriniVBTB17</url></info>
-<url>URL#1552695</url>
+<url>URL#1570728</url>
 </hit>
-<hit score="1" id="1552696">
+<hit score="1" id="1570729">
 <info><authors><author pid="05/8090">Madalina Fiterau</author><author pid="214/4094">Suvrat Bhooshan</author><author pid="182/2122">Jason A. Fries</author><author pid="214/4071">Charles Bournhonesque</author><author pid="179/0806">Jennifer L. Hicks</author><author pid="209/3526">Eni Halilaj</author><author pid="r/ChristopherRe">Christopher Ré</author><author pid="51/4259">Scott L. Delp</author></authors><title>ShortFuse - Biomedical Time Series Representations in the Presence of Structured Information.</title><venue>MLHC</venue><pages>59-74</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/FiterauBFBHHRD17</key><ee>http://proceedings.mlr.press/v68/fiterau17a.html</ee><url>https://dblp.org/rec/conf/mlhc/FiterauBFBHHRD17</url></info>
-<url>URL#1552696</url>
+<url>URL#1570729</url>
 </hit>
-<hit score="1" id="1552697">
+<hit score="1" id="1570730">
 <info><authors><author pid="214/4151">Jose Castela Forte</author><author pid="57/2565">Marco A. Wiering</author><author pid="214/4167">Hjalmar R. Bouma</author><author pid="214/4121">Fred Geus</author><author pid="214/4184">Anne H. Epema</author></authors><title>Predicting long-term mortality with first week post-operative data after Coronary Artery Bypass Grafting using Machine Learning models.</title><venue>MLHC</venue><pages>39-58</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/ForteWBGE17</key><ee>http://proceedings.mlr.press/v68/forte17a.html</ee><url>https://dblp.org/rec/conf/mlhc/ForteWBGE17</url></info>
-<url>URL#1552697</url>
+<url>URL#1570730</url>
 </hit>
-<hit score="1" id="1552698">
+<hit score="1" id="1570731">
 <info><authors><author pid="166/6109-1">Joseph Futoma 0001</author><author pid="203/4493">Sanjay Hariharan</author><author pid="32/4403">Katherine A. Heller</author><author pid="184/1569">Mark Sendak</author><author pid="214/4202">Nathan Brajer</author><author pid="214/4136">Meredith Clement</author><author pid="214/4076">Armando Bedoya</author><author pid="214/4127">Cara O&apos;Brien</author></authors><title>An Improved Multi-Output Gaussian Process RNN with Real-Time Validation for Early Sepsis Detection.</title><venue>MLHC</venue><pages>243-254</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/FutomaHHSBCBO17</key><ee>http://proceedings.mlr.press/v68/futoma17a.html</ee><url>https://dblp.org/rec/conf/mlhc/FutomaHHSBCBO17</url></info>
-<url>URL#1552698</url>
+<url>URL#1570731</url>
 </hit>
-<hit score="1" id="1552699">
+<hit score="1" id="1570732">
 <info><authors><author pid="135/6556">Albert Haque</author><author pid="185/0671">Michelle Guo</author><author pid="48/3455">Alexandre Alahi</author><author pid="147/5023">Serena Yeung</author><author pid="177/8893">Zelun Luo</author><author pid="205/2331">Alisha Rege</author><author pid="205/2298">Jeffrey Jopling</author><author pid="168/7681">N. Lance Downing</author><author pid="134/2358">William Beninati</author><author pid="39/4980">Amit Singh</author><author pid="168/7299">Terry Platchek</author><author pid="187/5803">Arnold Milstein</author><author pid="79/2528">Li Fei-Fei 0001</author></authors><title>Towards Vision-Based Smart Hospitals - A System for Tracking and Monitoring Hand Hygiene Compliance.</title><venue>MLHC</venue><pages>75-87</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/HaqueGAYLRJDBSP17</key><ee>http://proceedings.mlr.press/v68/haque17a.html</ee><url>https://dblp.org/rec/conf/mlhc/HaqueGAYLRJDBSP17</url></info>
-<url>URL#1552699</url>
+<url>URL#1570732</url>
 </hit>
-<hit score="1" id="1552700">
+<hit score="1" id="1570733">
 <info><authors><author pid="214/4181">Kazi T. Islam</author><author pid="s/ChristianRShelton">Christian R. Shelton</author><author pid="135/3679">Juan I. Casse</author><author pid="77/10040">Randall C. Wetzel</author></authors><title>Marked Point Process for Severity of Illness Assessment.</title><venue>MLHC</venue><pages>255-270</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/IslamSCW17</key><ee>http://proceedings.mlr.press/v68/islam17a.html</ee><url>https://dblp.org/rec/conf/mlhc/IslamSCW17</url></info>
-<url>URL#1552700</url>
+<url>URL#1570733</url>
 </hit>
-<hit score="1" id="1552701">
+<hit score="1" id="1570734">
 <info><authors><author pid="176/5125">Maria Jahja</author><author pid="l/DanielJLizotte">Daniel J. Lizotte</author></authors><title>Visualizing Clinical Significance with Prediction and Tolerance Regions.</title><venue>MLHC</venue><pages>217-230</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/JahjaL17</key><ee>http://proceedings.mlr.press/v68/jahja17a.html</ee><url>https://dblp.org/rec/conf/mlhc/JahjaL17</url></info>
-<url>URL#1552701</url>
+<url>URL#1570734</url>
 </hit>
-<hit score="1" id="1552702">
+<hit score="1" id="1570735">
 <info><authors><author pid="166/4043">Ronnachai Jaroensri</author><author pid="176/0969">Amy Zhao</author><author pid="72/8177">Guha Balakrishnan</author><author pid="192/1877">Derek Lo</author><author pid="75/10732">Jeremy D. Schmahmann</author><author pid="87/2617">Frédo Durand</author><author pid="g/JohnVGuttag">John V. Guttag</author></authors><title>A Video-Based Method for Automatically Rating Ataxia.</title><venue>MLHC</venue><pages>204-216</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/JaroensriZBLSDG17</key><ee>http://proceedings.mlr.press/v68/jaroensri17a.html</ee><url>https://dblp.org/rec/conf/mlhc/JaroensriZBLSDG17</url></info>
-<url>URL#1552702</url>
+<url>URL#1570735</url>
 </hit>
-<hit score="1" id="1552703">
+<hit score="1" id="1570736">
 <info><authors><author pid="167/1714">Alistair E. W. Johnson</author><author pid="204/5503">Tom J. Pollard</author><author pid="86/6416">Roger G. Mark</author></authors><title>Reproducibility in critical care - a mortality prediction case study.</title><venue>MLHC</venue><pages>361-376</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/JohnsonPM17</key><ee>http://proceedings.mlr.press/v68/johnson17a.html</ee><url>https://dblp.org/rec/conf/mlhc/JohnsonPM17</url></info>
-<url>URL#1552703</url>
+<url>URL#1570736</url>
 </hit>
-<hit score="1" id="1552704">
+<hit score="1" id="1570737">
 <info><authors><author pid="151/6539">Hei Law</author><author pid="214/4077">Khurshid Ghani</author><author pid="07/6526-1">Jia Deng 0001</author></authors><title>Surgeon Technical Skill Assessment using Computer Vision based Analysis.</title><venue>MLHC</venue><pages>88-99</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LawGD17</key><ee>http://proceedings.mlr.press/v68/law17a.html</ee><url>https://dblp.org/rec/conf/mlhc/LawGD17</url></info>
-<url>URL#1552704</url>
+<url>URL#1570737</url>
 </hit>
-<hit score="1" id="1552705">
+<hit score="1" id="1570738">
 <info><authors><author pid="92/4467">Yuan Ling</author><author pid="92/5132">Sadid A. Hasan</author><author pid="44/8736">Vivek V. Datla</author><author pid="25/10489">Ashequl Qadir</author><author pid="65/7982">Kathy Lee</author><author pid="160/9050">Joey Liu</author><author pid="119/3097">Oladimeji Farri</author></authors><title>Diagnostic Inferencing via Improving Clinical Concept Extraction with Deep Reinforcement Learning - A Preliminary Study.</title><venue>MLHC</venue><pages>271-285</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LingHDQLLF17</key><ee>http://proceedings.mlr.press/v68/ling17a.html</ee><url>https://dblp.org/rec/conf/mlhc/LingHDQLLF17</url></info>
-<url>URL#1552705</url>
+<url>URL#1570738</url>
 </hit>
-<hit score="1" id="1552706">
+<hit score="1" id="1570739">
 <info><authors><author pid="214/4099">Elizabeth C. Lorenzi</author><author pid="214/4142">Stephanie L. Brown</author><author pid="210/0412">Zhifei Sun</author><author pid="32/4403">Katherine A. Heller</author></authors><title>Predictive Hierarchical Clustering - Learning clusters of CPT codes for improving surgical outcomes.</title><venue>MLHC</venue><pages>231-242</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/LorenziBSH17</key><ee>http://proceedings.mlr.press/v68/lorenzi17a.html</ee><url>https://dblp.org/rec/conf/mlhc/LorenziBSH17</url></info>
-<url>URL#1552706</url>
+<url>URL#1570739</url>
 </hit>
-<hit score="1" id="1552707">
+<hit score="1" id="1570740">
 <info><authors><author pid="195/5521">Nathan H. Ng</author><author pid="154/1553">Rodney A. Gabriel</author><author pid="29/3483">Julian J. McAuley</author><author pid="e/CharlesElkan">Charles Elkan</author><author pid="142/2839">Zachary C. Lipton</author></authors><title>Predicting Surgery Duration with Neural Heteroscedastic Regression.</title><venue>MLHC</venue><pages>100-111</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/NgGMEL17</key><ee>http://proceedings.mlr.press/v68/ng17a.html</ee><url>https://dblp.org/rec/conf/mlhc/NgGMEL17</url></info>
-<url>URL#1552707</url>
+<url>URL#1570740</url>
 </hit>
-<hit score="1" id="1552708">
+<hit score="1" id="1570741">
 <info><authors><author pid="214/4133">Arya A. Pourzanjani</author><author pid="187/4351">Tie Bo Wu</author><author pid="70/8305">Richard M. Jiang</author><author pid="49/6848">Mitchell J. Cohen</author><author pid="03/3669">Linda R. Petzold</author></authors><title>Understanding Coagulopathy using Multi-view Data in the Presence of Sub-Cohorts - A Hierarchical Subspace Approach.</title><venue>MLHC</venue><pages>338-351</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/PourzanjaniWJCP17</key><ee>http://proceedings.mlr.press/v68/pourzanjani17a.html</ee><url>https://dblp.org/rec/conf/mlhc/PourzanjaniWJCP17</url></info>
-<url>URL#1552708</url>
+<url>URL#1570741</url>
 </hit>
-<hit score="1" id="1552709">
+<hit score="1" id="1570742">
 <info><authors><author pid="200/8793">Aniruddh Raghu</author><author pid="200/8841">Matthieu Komorowski</author><author pid="95/10052">Leo Anthony Celi</author><author pid="11/6043">Peter Szolovits</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Continuous State-Space Models for Optimal Sepsis Treatment - a Deep Reinforcement Learning Approach.</title><venue>MLHC</venue><pages>147-163</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RaghuKCSG17</key><ee>http://proceedings.mlr.press/v68/raghu17a.html</ee><url>https://dblp.org/rec/conf/mlhc/RaghuKCSG17</url></info>
-<url>URL#1552709</url>
+<url>URL#1570742</url>
 </hit>
-<hit score="1" id="1552710">
+<hit score="1" id="1570743">
 <info><authors><author pid="122/8733">Matteo Ruffini</author><author pid="86/4259">Ricard Gavaldà</author><author pid="172/7720">Esther Limon</author></authors><title>Clustering Patients with Tensor Decomposition.</title><venue>MLHC</venue><pages>126-146</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/RuffiniGL17</key><ee>http://proceedings.mlr.press/v68/ruffini17a.html</ee><url>https://dblp.org/rec/conf/mlhc/RuffiniGL17</url></info>
-<url>URL#1552710</url>
+<url>URL#1570743</url>
 </hit>
-<hit score="1" id="1552711">
+<hit score="1" id="1570744">
 <info><authors><author pid="157/8458">Harini Suresh</author><author pid="200/8601">Nathan Hunt</author><author pid="167/1714">Alistair E. W. Johnson</author><author pid="95/10052">Leo Anthony Celi</author><author pid="11/6043">Peter Szolovits</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Clinical Intervention Prediction and Understanding with Deep Neural Networks.</title><venue>MLHC</venue><pages>322-337</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/SureshHJCSG17</key><ee>http://proceedings.mlr.press/v68/suresh17a.html</ee><url>https://dblp.org/rec/conf/mlhc/SureshHJCSG17</url></info>
-<url>URL#1552711</url>
+<url>URL#1570744</url>
 </hit>
-<hit score="1" id="1552712">
+<hit score="1" id="1570745">
 <info><authors><author pid="152/5077">Zihan Wang</author><author pid="10/6530">Michael Brudno</author><author pid="76/8090">Orion J. Buske</author></authors><title>Towards a Directory of Rare Disease Specialists - Identifying Experts from Publication History.</title><venue>MLHC</venue><pages>352-360</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/WangBB17</key><ee>http://proceedings.mlr.press/v68/wang17a.html</ee><url>https://dblp.org/rec/conf/mlhc/WangBB17</url></info>
-<url>URL#1552712</url>
+<url>URL#1570745</url>
 </hit>
-<hit score="1" id="1552713">
+<hit score="1" id="1570746">
 <info><authors><author pid="117/4916">Jeremy C. Weiss</author></authors><title>Piecewise-constant parametric approximations for survival learning.</title><venue>MLHC</venue><pages>1-12</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/Weiss17</key><ee>http://proceedings.mlr.press/v68/weiss17a.html</ee><url>https://dblp.org/rec/conf/mlhc/Weiss17</url></info>
-<url>URL#1552713</url>
+<url>URL#1570746</url>
 </hit>
-<hit score="1" id="1552714">
+<hit score="1" id="1570747">
 <info><authors><author pid="172/1151">Yinchong Yang</author><author pid="147/2092">Peter A. Fasching</author><author pid="t/VolkerTresp">Volker Tresp</author></authors><title>Modeling Progression Free Survival in Breast Cancer with Tensorized Recurrent Neural Networks and Accelerated Failure Time Models.</title><venue>MLHC</venue><pages>164-176</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/mlhc/YangFT17</key><ee>http://proceedings.mlr.press/v68/yang17a.html</ee><url>https://dblp.org/rec/conf/mlhc/YangFT17</url></info>
-<url>URL#1552714</url>
+<url>URL#1570747</url>
 </hit>
-<hit score="1" id="1596561">
+<hit score="1" id="1614595">
 <info><authors><author pid="64/7056">Finale Doshi-Velez</author><author pid="65/4163">Jim Fackler</author><author pid="31/8372">David C. Kale</author><author pid="97/7057">Rajesh Ranganath</author><author pid="00/8247">Byron C. Wallace</author><author pid="63/10451">Jenna Wiens</author></authors><title>Proceedings of the Machine Learning for Health Care Conference, MLHC 2017, Boston, Massachusetts, USA, 18-19 August 2017</title><venue>MLHC</venue><venue>Proceedings of Machine Learning Research</venue><volume>68</volume><publisher>PMLR</publisher><year>2017</year><type>Editorship</type><key>conf/mlhc/2017</key><ee>http://proceedings.mlr.press/v68/</ee><url>https://dblp.org/rec/conf/mlhc/2017</url></info>
-<url>URL#1596561</url>
+<url>URL#1614595</url>
 </hit>
 </hits>
 </result>

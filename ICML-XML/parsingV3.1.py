@@ -8,14 +8,15 @@ import pandas as pd
 from urllib.request import urlopen
 
 
-
+waiting = 0
 count = 0
 
 # Current file path
 path = os.path.dirname(os.path.abspath(__file__))
 
 # List of folders to iterate over
-folders = ["IJCAI-XML", "MLHC-XML", "NeurIPS-XML", "AAAI-XML", "ICML-XML"]
+# folders = ["IJCAI-XML", "MLHC-XML", "NeurIPS-XML", "AAAI-XML", "ICML-XML"]
+folders = ['2']
 
 # Iterate over folders
 for folder in folders:
@@ -70,21 +71,39 @@ for folder in folders:
 
             # Open XML url and parse through to find "note" which is attatched to affiliation for first author
             first_author_affiliation = None
-            first_var_url = urlopen(xml_path_first)
+            
+            try:
+                first_var_url = urlopen(xml_path_first)
+            except:
+                count+=1
+                continue
+                
+                
             author_parse = parse(first_var_url)
 
             first_author_root = author_parse.getroot()
             for person in first_author_root.iter("person"):
                 first_author_affiliation = getattr(person.find("note"), 'text', 'nan')
+                break
             
             # Open XML url and parse through to find "note" which is attatched to affiliation for last author
             last_author_affiliation = None
-            last_var_url = urlopen(xml_path_last)
+            
+            try:
+                last_var_url = urlopen(xml_path_last)
+            except:
+                count+=1
+                continue
+                
             last_author_parse = parse(last_var_url)
 
             last_author_root = last_author_parse.getroot()
             for person in last_author_root.iter("person"):
                 last_author_affiliation = getattr(person.find("note"), 'text', 'nan')
+                break
+
+            waiting+=1
+            print(waiting)
             
             # print("______________________________________________________________")
             # print("Name: ",last_author)
@@ -105,5 +124,5 @@ for folder in folders:
 
     df = pd.DataFrame(rows, columns=cols)
 # Writing pandas dataframe to csv
-    df.to_csv('/Users/mattviafora/Library/Mobile Documents/com~apple~CloudDocs/GitHub/Python Data Science/Theory-Application-Research/'+ folder +'-output.csv')
-print("Total number of papers disregarded due to no authors:",count)
+    df.to_csv(path+ folder +'-output.csv')
+print("Total number of papers disregarded due to errors:",count)
