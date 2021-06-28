@@ -1,0 +1,622 @@
+,first-author,first-author-affiliation,last-author,last-author-affiliation,title
+0,Randall Balestriero,Rice University,Richard Baraniuk,OpenStax / Rice University,Spline Filters For End-to-End Deep Learning
+1,Aditya Gilra,University of Bonn,Wulfram Gerstner,EPFL,Non-linear motor control by local learning in spiking neural networks
+2,Will Dabney,DeepMind,Remi Munos,DeepMind,Implicit Quantile Networks for Distributional Reinforcement Learning
+3,Matthew Smith,McGill University,Joelle Pineau,McGill University / Facebook,An Inference-Based Policy Gradient Method for Learning Options
+4,Nataly Brukhim,Tel Aviv University,Amir Globerson,"Tel Aviv University, Google",Predict and Constrain: Modeling Cardinality in Deep Structured Prediction
+5,Prateek Jain,Microsoft Research,Abhradeep Thakurta,UCSC,Differentially Private Matrix Completion Revisited
+6,Thomas Miconi,Uber AI Labs,Jeff Clune,Uber AI Labs,Differentiable plasticity: training plastic neural networks with backpropagation
+7,Yingce Xia,University of Science and Technology of China,Tie-Yan Liu,Microsoft,Model-Level Dual Learning
+8,Kevin Tian,Stanford University,James Zou,Stanford University,CoVeR: Learning Covariate-Specific Vector Representations with Tensor Decompositions
+9,Benjamin Paaßen,Bielefeld University,CITEC Barbara Hammer,"CITEC, Bielefeld University",Tree Edit Distance Learning via Adaptive Symbol Embeddings
+10,Siyuan Qiao,Johns Hopkins University,Alan Yuille,Johns Hopkins University,Gradually Updated Neural Networks for Large-Scale Image Recognition
+11,Claudio Michaelis,Universty of Tübingen,Alexander Ecker,University of Tübingen,One-Shot Segmentation in Clutter
+12,Phuc Nguyen,UC Irvine,Charless Fowlkes,UC Irvine,Active Testing: An Efficient and Robust Framework for Estimating Accuracy
+13,Furong Huang,University of Maryland College Park,Robert Schapire,Microsoft Research,Learning Deep ResNet Blocks Sequentially using Boosting Theory
+14,JD Co-Reyes,UC Berkeley,Sergey Levine,Berkeley,Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+15,Andrea Zanette,Stanford University,Emma Brunskill,Stanford University,Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs
+16,Poorya Mianjy,Johns Hopkins University,Raman Arora,Johns Hopkins University,Stochastic PCA with $\ell_2$ and $\ell_1$ Regularization
+17,Alexandr Andoni,,Ruiqi Zhong,Columbia University in the City of New York,Subspace Embedding and Linear Regression with Orlicz Norm
+18,Sreejith Kallummil,Qualcomm India Private Limited,Sheetal Kalyani,IIT Madras,Signal and  Noise Statistics Oblivious Orthogonal Matching Pursuit
+19,Eric Wong,Carnegie Mellon University,Zico Kolter,Carnegie Mellon University / Bosch Center for AI,Provable Defenses against Adversarial Examples via the Convex Outer Adversarial Polytope
+20,Erik Talvitie,Franklin & Marshall College,Erik Talvitie,Franklin & Marshall College,Learning the Reward Function for a Misspecified Model
+21,kyowoon Lee,UNIST,Seong-Whan Lee,Korea University,Deep Reinforcement Learning in Continuous Action Spaces: a Case Study in the Game of Simulated Curling
+22,Mingda Qiao,"IIIS, Tsinghua University",Mingda Qiao,"IIIS, Tsinghua University",Do Outliers Ruin Collaboration?
+23,Wenlong Mou,UC Berkeley,Liwei Wang,Peking University,"Dropout Training, Data-dependent Regularization, and Generalization Bounds"
+24,IEMS Xingyu Wang,"IEMS, Northwestern University",Diego Klabjan,Northwestern University,Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations
+25,Christos Kaplanis,Imperial College London,Claudia Clopath,Imperial College London,Continual Reinforcement Learning with Complex Synapses
+26,Guillaume Pouliot,University of Chicago,Guillaume Pouliot,University of Chicago,Equivalence of Multicategory SVM and Simplex Cone SVM: Fast Computations and Statistical Theory
+27,Heinrich Jiang,Google,Samory Kpotufe,Princeton University,Quickshift++: Provably Good Initializations for Sample-Based Mean Shift
+28,Dimitris Kalimeris,Harvard University,Udi Weinsberg,Facebook,Learning Diffusion using Hyperparameters
+29,Flavio Chierichetti,Sapienza University,Andrew Tomkins,Google,Learning a Mixture of Two Multinomial Logits
+30,Matthäus Kleindessner,Rutgers University,Pranjal Awasthi,Rutgers University,Crowdsourcing with Arbitrary Adversaries
+31,David Inouye,Carnegie Mellon University,Pradeep Ravikumar,Carnegie Mellon University,Deep Density Destructors
+32,Abhinav Verma,Rice University,Swarat Chaudhuri,Rice University,Programmatically Interpretable Reinforcement Learning
+33,Krzysztof Choromanski,Google Brain Robotics,Adrian Weller,"University of Cambridge, Alan Turing Institute",Structured Evolution with Compact Architectures for Scalable Policy Optimization
+34,Yunlong Jiao,University of Oxford,JP Vert,ENS Paris,The Weighted Kendall and High-order Kernels for Permutations
+35,Moein Falahatgar,UC San Diego,Vaishakh Ravindrakumar,UC San Diego,"The Limits of Maxing, Ranking, and Preference Learning"
+36,Wesley Tansey,Columbia University,Raul Rabadan,Columbia University Medical Center,Black Box FDR
+37,Mao Ye,PURDUE UNIVERSITY,Yan Sun,Purdue University,Variable Selection via Penalized Neural Network: a Drop-Out-One Loss Approach
+38,Aravindan Vijayaraghavan,Northwestern University,Pranjal Awasthi,Rutgers University,Clustering Semi-Random Mixtures of Gaussians
+39,Charlie Dickens,Alan Turing Institute & University of Warwick,David Woodruff,Carnegie Mellon University,Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski $p$-Norms
+40,Martin Riedmiller,DeepMind,Jost Springenberg,DeepMind,Learning by Playing - Solving Sparse Reward Tasks from Scratch
+41,Mario Srouji,Stanford University,Russ Salakhutdinov,Carnegie Mellen University,Structured Control Nets for Deep Reinforcement Learning
+42,Yanan Sui,Stanford,Yisong Yue,Caltech,Stagewise Safe Bayesian Optimization with Gaussian Processes
+43,Ricardo Baptista,Massachusetts Institute of Technology,Matthias Poloczek,University of Arizona,Bayesian Optimization of Combinatorial Structures
+44,Jiaxuan You,Stanford University,Jure Leskovec,Stanford University,GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+45,Sikun Yang,TU Darmstadt,Heinz Koeppl,TU Darmstadt,Dependent Relational Gamma Process Models for Longitudinal Networks
+46,Kaushik Sinha,Wichita State University,Kaushik Sinha,Wichita State University,K-means clustering using random matrix sparsification
+47,Vaggos Chatziafratis,Stanford University,Moses Charikar,Stanford University,Hierarchical Clustering with Structural Constraints
+48,Cijo Jose,Idiap Research Institute,Francois Fleuret,Idiap research institute,Kronecker Recurrent Units
+49,Konstantinos Kamnitsas,Imperial College London,Aditya Nori,Microsoft Research Cambridge,Semi-Supervised Learning via Compact Latent Space Clustering
+50,Ben Krause,University of Edinburgh,Steve Renals,University of Edinburgh,Dynamic Evaluation of Neural Sequence Models
+51,Kyriacos Shiarlis,Latent Logic LTD,Ingmar Posner,University of Oxford,TACO: Learning Task Decomposition via Temporal Alignment for Control
+52,Jiaxin Shi,Tsinghua University,Jun Zhu,Tsinghua University,A Spectral Approach to Gradient Estimation for Implicit Distributions
+53,Alexander Buchholz,ENSAE-CREST Paris,Stephan Mandt,UC Irvine,Quasi-Monte Carlo Variational Inference
+54,Nir Rosenfeld,Harvard University,Yaron Singer,Harvard,Learning to Optimize Combinatorial Functions
+55,Shipra Agarwal,Columbia,Vahab Mirrokni,Google Research,"Proportional Allocation: Simple, Distributed, and Diverse Matching with High Entropy"
+56,Keyulu Xu,MIT,Stefanie Jegelka,MIT,Representation Learning on Graphs with Jumping Knowledge Networks
+57,Aleksandar Bojchevski,Technical University of Munich,Stephan Günnemann,Technical University of Munich,NetGAN: Generating Graphs via Random Walks
+58,Jayadev Acharya,Cornell University,Huanyu Zhang,Cornell University,INSPECTRE: Privately Estimating the Unseen
+59,Or Sheffet,University of Alberta,Or Sheffet,University of Alberta,Locally Private Hypothesis Testing
+60,Tuomas Haarnoja,UC Berkeley,Sergey Levine,Berkeley,Latent Space Policies for Hierarchical Reinforcement Learning
+61,Mehrdad Farajtabar,Georgia Tech,Mohammad Ghavamzadeh,Facebook AI Research,More Robust Doubly Robust Off-policy Evaluation
+62,Jianbo Chen,"University of California, Berkeley",Michael Jordan,UC Berkeley,Learning to Explain: An Information-Theoretic Perspective on Model Interpretation
+63,Wenhan Luo,Tencent AI Lab,Yizhou Wang,Peking University,End-to-end Active Object Tracking via Reinforcement Learning
+64,Rizal Fathony,University of Illinois at Chicago,Brian Ziebart,University of Illinois at Chicago,Efficient and Consistent Adversarial Bipartite Matching
+65,Vlad Niculae,Cornell University,Claire Cardie,Cornell University,SparseMAP: Differentiable Sparse Structured Inference
+66,Luca Franceschi,Istituto Italiano di Tecnologia - University College London,Massimiliano Pontil,University College London,Bilevel Programming for Hyperparameter Optimization and Meta-Learning
+67,Ron Amit,Technion – Israel Institute of Technology,Ron Meir,Technion Israeli Institute of Technology,Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory
+68,Robert Ganian,TU Wien,Stefan Szeider,TU Wien,Parameterized Algorithms for the Matrix Completion Problem
+69,Praneeth Narayanamurthy,Iowa State University,Namrata Vaswani,Iowa State University,Nearly Optimal Robust Subspace Tracking
+70,Zeyuan Allen-Zhu,Microsoft Research AI,Zeyuan Allen-Zhu,Microsoft Research AI,Katyusha X: Simple Momentum Method for Stochastic Sum-of-Nonconvex Optimization
+71,Jeremy Bernstein,Caltech,Anima Anandkumar,Amazon AI & Caltech,signSGD: Compressed Optimisation for Non-Convex Problems
+72,Anish Athalye,MIT CSAIL,Kevin Kwok,LabSix,Synthesizing Robust Adversarial Examples
+73,Matthew Mirman,ETH Zürich,Martin Vechev,ETH Zurich,Differentiable Abstract Interpretation for Provably Robust Neural Networks
+74,Jianfei Chen,Tsinghua University,Le Song,Georgia Institute of Technology,Stochastic Training of Graph Convolutional Networks with Variance Reduction
+75,Thomas Kipf,University of Amsterdam,Richard Zemel,Vector Institute,Neural Relational Inference for Interacting Systems
+76,Lars Mescheder,MPI Tübingen,Sebastian Nowozin,Microsoft Research,Which Training Methods for GANs do actually Converge?
+77,Giambattista Parascandolo,Max Planck Institute for Intelligent Systems and ETH Zurich,Bernhard Schölkopf,"MPI for Intelligent Systems Tübingen, Germany",Learning Independent Causal Mechanisms
+78,Junpei Komiyama,U-Tokyo,Hajime Shimao,Purdue University,Nonconvex Optimization for Regression with Fairness Constraints
+79,Tatsunori Hashimoto,Stanford,Percy Liang,Stanford University,Fairness Without Demographics in Repeated Loss Minimization
+80,Bo Zhao,Peking University,Yizhou Wang,Peking University,MSplit LBI: Realizing Feature Selection and Dense Estimation Simultaneously in Few-shot and Zero-shot Learning
+81,Pengtao Xie,Carnegie Mellon University,Eric Xing,Petuum Inc. and CMU,Nonoverlap-Promoting Variable Selection
+82,Zebang Shen,Zhejiang University,Hui Qian,Zhejiang University,Towards More Efficient Stochastic Decentralized Learning: Faster Convergence and Sparse Communication
+83,Alvaro Sanchez-Gonzalez,DeepMind,Peter Battaglia,DeepMind,Graph Networks as Learnable Physics Engines for Inference and Control
+84,Bobby Kleinberg,Cornell,Yang Yuan,Cornell University,An Alternative View: When Does SGD Escape Local Minima?
+85,Xiangru Lian,University of Rochester,Ji Liu,University of Rochester,Asynchronous Decentralized Parallel Stochastic Gradient Descent
+86,Andrew Lan,Princeton University,Christoph Studer,Cornell University,An Estimation and Analysis Framework for the Rasch Model
+87,Seth Neel,University of Pennsylvania,Aaron Roth,University of Pennsylvania,Mitigating Bias in Adaptive Data Gathering via Differential Privacy
+88,Marco Gaboardi,Univeristy at Buffalo,Ryan Rogers,Apple,Local Private Hypothesis Testing: Chi-Square Tests
+89,Hyunjik Kim,"DeepMind, University of Oxford",Andriy Mnih,DeepMind,Disentangling by Factorising
+90,Ronan Fruit,Inria Lille Nord-Europe,Ronald Ortner,Montanuniversitaet Leoben,Efficient Bias-Span-Constrained Exploration-Exploitation in Reinforcement Learning
+91,Arthur Guez,Google DeepMind,David Silver,Google DeepMind,Learning to search with MCTSnets
+92,Zhouyuan Huo,University of Pittsburgh,Heng Huang,University of Pittsburgh,Decoupled Parallel Backpropagation with Convergence Guarantee
+93,Thanh Nguyen,Iowa State University,Chinmay Hegde,Iowa State University,On Learning Sparsely Used Dictionaries from Incomplete Samples
+94,Amir Dezfouli,UNSW,Richard Nock,"Data61, The Australian National University and the University of Sydney",Variational Network Inference: Strong and Stable with Concrete Support
+95,Lin Chen,Yale University,Amin Karbasi,Yale,Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?
+96,Marko Mitrovic,Yale University,Amin Karbasi,Yale,Data Summarization at Scale: A Two-Stage Submodular Approach
+97,Chao Tao,Indiana University Bloomington,Yuan Zhou,Indiana University Bloomington,Best Arm Identification in Linear Bandits with Linear Dimension Dependency
+98,Sven Schmit,Stanford University,Ramesh Johari,Stanford University,Learning with Abandonment
+99,Octavian-Eugen Ganea,ETH Zurich,Thomas Hofmann,ETH Zurich,Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
+100,Marco Fraccaro,Technical University of Denmark,Fabio Viola,DeepMind,Generative Temporal Models with Spatial Memory for Partially Observed Environments
+101,Jakob Foerster,Facebook AI Research,Shimon Whiteson,University of Oxford,DiCE: The Infinitely Differentiable Monte Carlo Estimator
+102,Kyle Helfrich,University of Kentucky,Qiang Ye,University of Kentucky,Orthogonal Recurrent Neural Networks with Scaled Cayley Transform
+103,Stephen Tu,UC Berkeley,Benjamin Recht,Berkeley,Least-Squares Temporal Difference Learning for the Linear Quadratic Regulator
+104,Yuanxiang Gao,University of Toronto,Baochun Li,University of Toronto,Spotlight: Optimizing Device Placement for Training Deep Neural Networks
+105,Aravind Srinivas,UC Berkeley,Chelsea Finn,"Stanford, Google, UC Berkeley",Universal Planning Networks: Learning Generalizable Representations for Visuomotor Control
+106,Maria Dimakopoulou,Stanford,Benjamin Van Roy,Stanford University,Coordinated Exploration in Concurrent Reinforcement Learning
+107,Akifumi Okuno,Kyoto University / RIKEN AIP,Hidetoshi Shimodaira,Kyoto University / RIKEN AIP,A probabilistic framework for multi-view feature learning with many-to-many associations via neural networks
+108,Hanjun Dai,Georgia Tech,Le Song,Georgia Institute of Technology,Learning Steady-States of Iterative Algorithms over Graphs
+109,Anish Athalye,MIT CSAIL,David Wagner,UC Berkeley,Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples
+110,L. Elisa Celis,Yale,Nisheeth Vishnoi,EPFL,Fair and Diverse DPP-Based Data Summarization
+111,Suman Ravuri,DeepMind,Oriol Vinyals,DeepMind,Learning Implicit Generative Models with the Method of Learned Moments
+112,Chenyang Tao,Duke University,Lawrence Carin,Duke,Chi-square Generative Adversarial Network
+113,Teodor Vanislavov Marinov,Johns Hopkins University,Raman Arora,Johns Hopkins University,Streaming Principal Component Analysis in Noisy Setting
+114,Jan-Hendrik Lange,Max Planck Institute for Informatics,Bjoern Andres,MPI for Informatics,Partial Optimality and Fast Lower Bounds for Weighted Correlation Clustering
+115,Lam Nguyen,Lehigh University & IBM T.J. Watson Research Center,Martin Takac,Lehigh University,SGD and Hogwild! Convergence Without the Bounded Gradients Assumption
+116,Pavel Dvurechenskii,Weierstrass Institute for Applied Analysis and Stochastics,Alexey Kroshnin,Institute for Information Transmission Problems,Computational Optimal Transport: Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm
+117,Zachary Charles,University of Wisconsin-Madison,Dimitris Papailiopoulos,ECE at University of Wisconsin-Madison,Stability and Generalization of Learning Algorithms that Converge to Global Optima
+118,Junhong Lin,EPFL,Volkan Cevher,EPFL,Optimal Rates of Sketched-regularized Algorithms for Least-Squares Regression over Hilbert Spaces
+119,Noam Shazeer,Google,Mitchell Stern,UC Berkeley,Adafactor: Adaptive Learning Rates with Sublinear Memory Cost
+120,Jack Rae,DeepMind,Tim Lillicrap,Google DeepMind,Fast Parametric Learning with Activation Memorization
+121,Felix Draxler,Heidelberg University,Fred Hamprecht,Heidelberg Collaboratory for Image Processing,Essentially No Barriers in Neural Network Energy Landscape
+122,Thomas Laurent,Loyola Marymount University,James von Brecht,CSULB,Deep Linear Networks with Arbitrary Loss: All Local Minima Are Global
+123,Haitao Liu,Rolls-Royce@NTU Corp Lab,Yew Soon ONG,Nanyang Technological University,Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression
+124,Xiaoyue Xi,Imperial College London,Mark Girolami,Imperial College London,Bayesian Quadrature for Multiple Related Integrals
+125,Haiguang Wen,Purdue University,Zhongming Liu,Purdue University,Deep Predictive Coding Network for Object Recognition
+126,Tatsunori Taniai,RIKEN AIP,Takanori Maehara,RIKEN AIP,Neural Inverse Rendering for General Reflectance Photometric Stereo
+127,Steve Mussmann,Stanford University,Percy Liang,Stanford University,On the Relationship between Data Efficiency and Error for Uncertainty Sampling
+128,Yewen Pu,MIT,Leslie Kaelbling,(organization),Selecting Representative Examples for Program Synthesis
+129,Marta Garnelo,DeepMind,S. M. Ali Eslami,DeepMind,Conditional Neural Processes
+130,Nevan Wichers,Google,Honglak Lee,Google Brain,Hierarchical Long-term Video Prediction without Supervision
+131,Jonathan Uesato,DeepMind,Aäron van den Oord,Google Deepmind,Adversarial Risk and the Dangers of Evaluating Against Weak Attacks
+132,Shibani Santurkar,MIT,Aleksander Madry,MIT,A Classification-Based Study of Covariate Shift in GAN Distributions
+133,Lisa Lee,Carnegie Mellon University,Russ Salakhutdinov,Carnegie Mellen University,Gated Path Planning Networks
+134,Carlos Florensa,UC Berkeley,Pieter Abbeel,OpenAI / UC Berkeley,Automatic Goal Generation for Reinforcement Learning Agents
+135,Guilherme Franca,Johns Hopkins University,Rene Vidal,Johns Hopkins University,ADMM and Accelerated ADMM as Continuous Dynamical Systems
+136,Bin Hu,University of Wisconsin-Madison,Laurent Lessard,University of Wisconsin-Madison,Dissipativity Theory for Accelerating Stochastic Variance Reduction: A Unified Analysis of SVRG and Katyusha Using Semidefinite Programs
+137,Davide Bacciu,University of Pisa,Alessio Micheli,Universita di Pisa,Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing
+138,Max Nickel,Facebook AI Research,Douwe Kiela,Facebook AI Research,Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry
+139,University of California Xuanqing Liu,"University of California, Davis",Cho-Jui Hsieh,"University of California, Davis",Fast Variance Reduction Method with Stochastic Batch Size
+140,Adrien Taylor,INRIA/ENS,Laurent Lessard,University of Wisconsin-Madison,Lyapunov Functions for First-Order Methods: Tight Automated Convergence Guarantees
+141,Yichong Xu,Carnegie Mellon University,Artur Dubrawski,CMU,Nonparametric Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information
+142,Yuanzhi Li,Princeton University,Yoram Singer,Princeton University and Google Brain,The Well-Tempered Lasso
+143,Ying WEI,Tencent AI Lab,Qiang Yang,Hong Kong UST,Transfer Learning via Learning to Transfer
+144,Elliot Meyerson,UT Austin - Sentient Technologies,Risto Miikkulainen,UT Austin - Sentient Technologies,Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing—and Back
+145,Hideaki Imamura,The University of Tokyo,Masashi Sugiyama,RIKEN / The University of Tokyo,Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model
+146,Lukas Ruff,Hasso Plattner Institute,Marius Kloft,TU Kaiserslautern,Deep One-Class Classification
+147,Eduardo Laber,PUC-RIO,Felipe de A. Mello Pereira,PUC-Rio,Binary Partitions with Approximate  Minimum Impurity
+148,Ashkan Norouzi-Fard,EPFL,Ola Svensson,EPFL,Beyond 1/2-Approximation for Submodular Maximization on Massive Data Streams
+149,Yuling Yao,Columbia University,Andrew Gelman,Columbia University,"Yes, but Did It Work?: Evaluating Variational Inference"
+150,Tom Ryder,Newcastle University,Dennis Prangle,Newcastle University,Black-Box Variational Inference for Stochastic Differential Equations
+151,Yaqing WANG,Hong Kong University of Science and Technology,Lionel NI,University of Macau,Online Convolutional Sparse Coding with Sample-Dependent Dictionary
+152,Xingyuan Pan,University of Utah,Vivek Srikumar,University of Utah,Learning to Speed Up Structured Output Prediction
+153,Maryam Aliakbarpour,MIT,MIT Ronitt Rubinfeld,"MIT, TAU",Differentially Private Identity and Equivalence Testing of Discrete Distributions
+154,Ibrahim Alabdulmohsin,Saudi Aramco,Ibrahim Alabdulmohsin,Saudi Aramco,Information Theoretic Guarantees for Empirical Risk Minimization with Applications to Model Selection and Large-Scale Optimization
+155,ChangYong Oh,University of Amsterdam,Max Welling,University of Amsterdam,BOCK : Bayesian Optimization with Cylindrical Kernels
+156,Stefan Falkner,University of Freiburg,Frank Hutter,University of Freiburg,BOHB: Robust and Efficient Hyperparameter Optimization at Scale
+157,Yuancheng Zhu,University of Pennsylvania,John Lafferty,Yale University,Distributed Nonparametric Regression under Communication Constraints
+158,Ganggang Xu,SUNY-Binghamton University,Guang Cheng,Purdue University,Optimal Tuning for Divide-and-conquer Kernel Ridge Regression with Massive Data
+159,Marine LE MORVAN,Mines Paristech,JP Vert,ENS Paris,WHInter: A Working set algorithm for High-dimensional sparse second order Interaction models
+160,Weizhong Zhang,Tencent AI Lab,Tong Zhang,Tecent AI Lab,Safe Element Screening for Submodular Function Minimization
+161,Daniel Jiang,Facebook,Han Liu,Northwestern,Feedback-Based Tree Search for Reinforcement Learning
+162,Andre Barreto,DeepMind,Remi Munos,DeepMind,Transfer in Deep Reinforcement Learning Using Successor Features and Generalised Policy Improvement
+163,Ilja Kuzborskij,University of Milan,Christoph H. Lampert,IST Austria,Data-Dependent Stability of Stochastic Gradient Descent
+164,Gellért Weisz,DeepMind,Csaba Szepesvari,Deepmind,LeapsAndBounds: A Method for Approximately Optimal Algorithm Configuration
+165,Ehsan Kazemi,Yale,Amin Karbasi,Yale,Scalable Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints
+166,Jinghui Chen,University of Virginia,Quanquan Gu,UCLA,Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization
+167,Marco Baity-Jesi,Columbia University,Giulio Biroli,,Comparing Dynamics: Deep Neural Networks versus Glassy Systems
+168,Qianxiao Li,"Institute of High Performance Computing, A*STAR, Singapore",IHPC Shuji Hao,"IHPC, A*STAR",An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks
+169,Angelos Katharopoulos,Idiap,Francois Fleuret,Idiap research institute,Not All Samples Are Created Equal: Deep Learning with Importance Sampling
+170,Lechao Xiao,Google AI,Jeffrey Pennington,Google Brain,"Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks"
+171,Yinlam Chow,DeepMind,Mohammad Ghavamzadeh,Facebook AI Research,Path Consistency Learning in Tsallis Entropy Regularized MDPs
+172,Kavosh Asadi,Brown University,Michael L. Littman,Brown University,Lipschitz Continuity in Model-based Reinforcement Learning
+173,Ramina Ghods,Cornell University,Christoph Studer,Cornell University,Linear Spectral Estimators and an Application to Phase Retrieval
+174,Mohammad Mehrabi,Sharif University of Technology,MANSOOR I YOUSEFI,Telecom ParisTech,Bounds on the Approximation Power of Feedforward Neural Networks
+175,Siddharth Barman,Indian Institute of Science,Suprovat Ghoshal,Indian Institute of Science,Testing Sparsity over Known and Unknown Bases
+176,Chris Cremer,University of Toronto,David Duvenaud,University of Toronto,Inference Suboptimality in Variational Autoencoders
+177,Mingzhang Yin,University of Texas at Austin,Mingyuan Zhou,University of Texas at Austin,Semi-Implicit Variational Inference
+178,Hang Wu,Georgia Institute of Technology,May Wang,Georgia Institute of Technology,Variance Regularized Counterfactual Risk Minimization via Variational Divergence Minimization
+179,Ahmed M. Alaa,UCLA,Mihaela van der Schaar,UCLA,Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design
+180,Jingyi Xu,"University of California, Los Angeles",Guy Van den Broeck,"University of California, Los Angeles",A Semantic Loss Function for Deep Learning with Symbolic Knowledge
+181,Jiong Zhang,University of Texas at Austin,Inderjit Dhillon,UT Austin & Amazon,Stabilizing Gradients for Deep Neural Networks via Efficient SVD Parameterization
+182,Yancheng Yuan,National University of Singapore,Kim-Chuan Toh,National University of Singapre,An Efficient Semismooth Newton based Algorithm for Convex Clustering
+183,Shuai Zheng,Hong Kong University of Science and Technology,James Kwok,Hong Kong University of Science and Technology,Lightweight Stochastic Optimization for Minimizing Finite Sums with Infinite Data
+184,Masanori SUGANUMA,RIKEN AIP / Tohoku University,Takayuki Okatani,Tohoku University/RIKEN AIP,Exploiting the Potential of Standard Convolutional Autoencoders for Image Restoration by Evolutionary Search
+185,Hieu Pham,Carnegie Mellon University,Jeff Dean,Google Brain,Efficient Neural Architecture Search via Parameters Sharing
+186,chao qu,technion,Huan Xu,Georgia Tech,Non-convex Conditional Gradient Sliding
+187,Dongruo Zhou,"University of California, Los Angeles",Quanquan Gu,UCLA,Stochastic Variance-Reduced Cubic Regularized Newton Method
+188,Sanjeev Arora, Princeton University and Institute for Advanced Study,Elad Hazan,Google Brain and Princeton University,On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization
+189,Zhenyu Liao,"L2S, CentraleSupelec",Romain Couillet,CentralSupélec,The Dynamics of Learning: A Random Matrix Approach
+190,Ting Chen,UCLA,Yizhou Sun,UCLA,Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations
+191,Tameem Adel,University of Cambridge,Adrian Weller,"University of Cambridge, Alan Turing Institute",Discovering Interpretable Representations for Both Deep Generative and Discriminative Models
+192,Changyou Chen,SUNY at Buffalo,Lawrence Carin,Duke,Continuous-Time Flows for Efficient Inference and Density Estimation
+193,Tom Rainforth,University of Oxford,Yee Whye Teh,Oxford and DeepMind,Tighter Variational Bounds are Not Necessarily Better
+194,Yunbo Wang,Tsinghua University,Philip Yu,UIC,PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning
+195,Jinsung Yoon,"University of California, Los Angeles",Mihaela van der Schaar,University of Oxford,RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks
+196,Shengyang Sun,University of Toronto,Roger Grosse,University of Toronto and Vector Institute,Differentiable Compositional Kernel Learning for Gaussian Processes
+197,Minyoung Kim,"SeoulTech, Rutgers University",Minyoung Kim,"SeoulTech, Rutgers University",Markov Modulated Gaussian Cox Processes for Semi-Stationary Intensity Modeling of Events Data
+198,Marc Abeille,Criteo,Alessandro Lazaric,Facebook AI Research,Improved Regret Bounds for Thompson Sampling in Linear Quadratic Control Problems
+199,Simon Olofsson,Imperial College London,Ruth Misener,Imperial College London,Design of Experiments for Model Discrimination Hybridising Analytical and Data-Driven Approaches
+200,Sergey Ivanov,Criteo,Evgeny Burnaev,Skoltech,Anonymous Walk Embeddings
+201,Robert Bamler,UC Irvine,Stephan Mandt,UC Irvine,Improving Optimization in Models With Continuous Symmetry Breaking
+202,Ciwan Ceylan,RWTH,Michael Gutmann,University of Edinburgh,Conditional Noise-Contrastive Estimation of Unnormalised Models
+203,Timothee Lacroix,Facebook,Guillaume Obozinski,Ecole des Ponts - ParisTech,Canonical Tensor Decomposition for Knowledge Base Completion
+204,Siyuan Ma,The Ohio State University,Mikhail Belkin,Ohio State University,The Power of Interpolation:  Understanding the Effectiveness of SGD in Modern Over-parametrized Learning
+205,Kaiwen Zhou,The Chinese University of Hong Kong,James Cheng,CUHK,A Simple Stochastic Variance Reduced Algorithm with Fast Convergence Rates
+206,Hadi Daneshmand,ETH Zurich,Thomas Hofmann,ETH Zurich,Escaping Saddles with Stochastic Gradients
+207,Hanlin Tang,University of Rochester,Ji Liu,University of Rochester,$D^2$: Decentralized Training over Decentralized Data
+208,Neil Rabinowitz,DeepMind,Matthew Botvinick,DeepMind,Machine Theory of Mind
+209,Sam Ritter,DeepMind,Matthew Botvinick,DeepMind,"Been There, Done That: Meta-Learning with Episodic Recall"
+210,Bin Gu,University of Pittsburgh,Heng Huang,University of Pittsburgh,Faster Derivative-Free Stochastic Algorithm for Shared Memory Machines
+211,Sinong Wang,The Ohio State University,Ness Shroff,The Ohio State University,Coded Sparse Matrix Multiplication
+212,Francisco Ruiz,University of Cambridge / Columbia University,David Blei,Columbia University,Augment and Reduce: Stochastic Inference for Large Categorical Distributions
+213,Oleg Arenz,TU Darmstadt,Mingjun Zhong,University of Lincoln,Efficient Gradient-Free Variational Inference using Policy Search
+214,Alex Alemi,Google,Kevin Murphy,Google Brain,Fixing a Broken ELBO
+215,Liqun Chen,Duke University,Lawrence Carin,Duke,Variational Inference and Model Selection with Generalized Evidence Bounds
+216,ALEXANDROS GEORGOGIANNIS,TECHNICAL UNIVERSITY OF CRETE,ALEXANDROS GEORGOGIANNIS,TECHNICAL UNIVERSITY OF CRETE,The Generalization Error of Dictionary Learning with Moreau Envelopes
+217,Jiashun Jin,Carnegie Mellon University,Shengming Luo,CMU,Network Global Testing by Counting Graphlets
+218,Richard Zhang,"University of California, Berkeley",Somayeh Sojoudi,"University of California, Berkeley",Large-Scale Sparse Inverse Covariance Estimation via Thresholding and Max-Det Matrix Completion
+219,Travis Gibson,Harvard Medical School,Georg Gerber,Harvard Medical School,Robust and Scalable Models of Microbiome Dynamics
+220,Xuhong LI,CNRS/UTC Heudiasyc,Franck Davoine,"CNRS, Université de technologie de Compiègne",Explicit Inductive Bias for Transfer Learning with Convolutional Networks
+221,Zhao Chen,"Magic Leap, Inc",Andrew Rabinovich,"Magic Leap, Inc.",GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks
+222,Piotr Bojanowski,Facebook,Arthur Szlam,Facebook,Optimizing the Latent Space of Generative Networks
+223,Morino Pan,Fudan University,Daizong Ding,Fudan University,Theoretical Analysis of Image-to-Image Translation with Adversarial Learning
+224,Tuomas Haarnoja,UC Berkeley,Sergey Levine,Berkeley,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+225,Paavo Parmas,Okinawa Institute of Science and Technology Graduate University,Kenji Doya,Okinawa Institute of Science and Technology,PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos
+226,Andreas Doerr,"Bosch Center for Artificial Intelligence, Max Planck Institute for Intelligent Systems",Sebastian Trimpe,Max Planck Institute for Intelligent Systems,Probabilistic Recurrent State-Space Models
+227,Xiaoyu Lu,University of Oxford,Neil Lawrence,Amazon,Structured Variationally Auto-encoded Optimization
+228,Sue Zheng,MIT,John Fisher,MIT,A Robust Approach to Sequential Information Theoretic Planning
+229,Miles Lopes,"University of California, Davis",Michael Mahoney,UC Berkeley,Error Estimation for Randomized Least-Squares Algorithms via the Bootstrap
+230,Zhengyuan Zhou,Stanford University,Li Fei-Fei,Stanford University,Distributed Asynchronous Optimization with Unbounded Delays: How Slow Can You Go?
+231,Jiaxiang Wu,Tencent AI Lab,Tong Zhang,Tecent AI Lab,Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization
+232,Ahmed Douik,California Institute of technology,Babak Hassibi,Caltech,Low-Rank Riemannian Optimization on Positive Semidefinite Stochastic Matrices with Applications to Graph Clustering
+233,Lukas Balles,Max Planck Institute for Intelligent Systems,Philipp Hennig,University of Tübingen,"Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients"
+234,Thomas Dietterich,(organization),Zhitang Chen,Huawei Noah’s Ark Lab,Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning
+235,Matej Balog,University of Cambridge and MPI Tübingen,Bernhard Schölkopf,"MPI for Intelligent Systems Tübingen, Germany",Differentially Private Database Release via Kernel Mean Embeddings
+236,Gail Weiss,Technion,Eran Yahav,Technion,Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
+237,Christian Walder,"Data61, the Australian National University",Dongwoo Kim,The Australian National University,Neural Dynamic Programming for Musical Self Similarity
+238,Jiong Zhang,University of Texas at Austin,Inderjit Dhillon,UT Austin & Amazon,Learning long term dependencies via Fourier recurrent units
+239,Mikolaj Binkowski,Imperial College London,Philippe Donnat,Hellebore Capital Limited,Autoregressive Convolutional Neural Networks for Asynchronous Time Series
+240,Dane Corneil,EPFL,Johanni Brea,EPFL,Efficient Model-Based Deep Reinforcement Learning with Variational State Tabulation
+241,Peter Jin,UC Berkeley,Sergey Levine,Berkeley,Regret Minimization for Partially Observable Deep Reinforcement Learning
+242,Jiasen Yang,Purdue University,Jennifer Neville,Purdue University,Goodness-of-fit Testing for Discrete Distributions via Stein Discrepancy
+243,Shinji Ito,NEC Corporation,Ryohei Fujimaki,-,Unbiased Objective Estimation in Predictive Optimization
+244,Amirali Aghazadeh,Stanford University,Richard Baraniuk,OpenStax / Rice University,Ultra Large-Scale Feature Selection using Count-Sketches
+245,Vladimir Braverman,Johns Hopkins University,Lin Yang,Princeton,"Matrix Norms in Data Streams: Faster, Multi-Pass and Row-Order"
+246,Maithra Raghu,Google Brain / Cornell University,Jon Kleinberg,Cornell University,Can Deep Reinforcement Learning Solve Erdos-Selfridge-Spencer Games?
+247,George Tucker,Google Brain,Sergey Levine,Berkeley,The Mirage of Action-Dependent Baselines in Reinforcement Learning
+248,Zhibing Zhao,Rensselaer Polytechnic Institute,Lirong Xia,RPI,Composite Marginal Likelihood Methods for Random Utility Models
+249,Adil El Mesaoudi-Paul,University of Paderborn,Robert Busa-Fekete,Yahoo Research,Ranking Distributions based on Noisy Sorting
+250,Thomas Moreau,"CMLA, ENS Paris-Saclay",Nicolas Vayatis,"CMLA, ENS Paris Saclay",DICOD: Distributed Convolutional Coordinate Descent for Convolutional Sparse Coding
+251,Zhihao Jia,Stanford University,Alex Aiken,Stanford University,Exploring Hidden Dimensions in Accelerating Convolutional Neural Networks
+252,Jason Hartford,University of British Columbia,Siamak Ravanbakhsh,University of British Columbia,Deep Models of Interactions Across Sets
+253,Noble Kennamer,"University of California, Irvine",University of California Francisco Javier Sanchez-Lopez,"University of California, Irvine",ContextNet: Deep learning for Star Galaxy Classification
+254,Calvin Seward,Zalando Research,Sepp Hochreiter,Johannes Kepler University Linz,First Order Generative Adversarial Networks
+255,Tianyu Pang,Tsinghua University,Jun Zhu,Tsinghua University,Max-Mahalanobis Linear Discriminant Analysis Networks
+256,Asish Ghoshal,Purdue University,Jean Honorio,Purdue University,Learning Maximum-A-Posteriori Perturbation Models for Structured Prediction in Polynomial Time
+257,Alexandre Garcia,Telecom Paristech,Florence d'Alche-Buc,"Télécom ParisTech, Université Paris-Saclay,Paris, France",Structured Output Learning with Abstention: Application to Accurate Opinion Prediction
+258,Bo Dai,Georgia Institute of Technology,Le Song,Georgia Institute of Technology,SBEED: Convergent Reinforcement Learning with Nonlinear Function Approximation
+259,Ofir Nachum,Google Brain,Dale Schuurmans,University of Alberta,Smoothed Action Value Functions for Learning Gaussian Policies
+260,RJ Skerry-Ryan,"Google, Inc.",Rif Saurous,,Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron
+261,Yuxuan Wang,Google,Rif Saurous,,"Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis"
+262,Ahmed M. Alaa,UCLA,Mihaela van der Schaar,UCLA,AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning
+263,Amartya Sanyal,University of Oxford,Varun Kanade,University of Oxford,TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service
+264,Di Chen,Cornell University,Carla Gomes,Cornell University,End-to-End Learning for the Deep Multivariate Probit Model
+265,Arthur Mensch,Inria Parietal,Mathieu Blondel,NTT,Differentiable Dynamic Programming for Structured Prediction and Attention
+266,Junhong Lin,EPFL,Volkan Cevher,EPFL,Optimal Distributed Learning with Multi-pass Stochastic Gradient Methods
+267,Dong Yin,UC Berkeley,Peter Bartlett,UC Berkeley,Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates
+268,LIWEI WU,"University of California, Davis",University of California James Sharpnack,"University of California, Davis",SQL-Rank: A Listwise Approach to Collaborative Ranking
+269,Minhao Cheng,UC Davis,Cho-Jui Hsieh,"University of California, Davis",Extreme Learning to Rank via Low Rank Assumption
+270,Hanjun Dai,Georgia Tech,Le Song,Georgia Institute of Technology,Adversarial Attack on Graph Structured Data
+271,Xi Wu,Google,Somesh Jha,"University of Wisconsin, Madison",Reinforcing Adversarial Robustness using Model Confidence Induced by Adversarial Training
+272,Louis Filstroff,"CNRS, Toulouse",Cedric Fevotte,CNRS,Closed-form Marginal Likelihood in Gamma-Poisson Matrix Factorization
+273,Ariel Jaffe,Weizmann Institute of Science,Yuval Kluger,Yale School of Medicine,Learning Binary Latent Variable Models: A Tensor Eigenpair Approach
+274,Siwei Wang,Tsinghua University,Wei Chen,Microsoft,Thompson Sampling for Combinatorial Semi-Bandits
+275,Ehsan Asadi Kangarshahi,University of Cambridge,Volkan Cevher,EPFL,Let’s be Honest: An Optimal No-Regret Framework for Zero-Sum Games
+276,Hae Beom Lee,UNIST,Sung Ju Hwang,KAIST,Deep Asymmetric Multi-task Feature Learning
+277,Ashwin Kalyan,Georgia Tech,Dhruv Batra,Georgia Institute of Technology / Facebook AI Research,Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations
+278,Dilin Wang,UT Austin,Qiang Liu,UT Austin,Stein Variational Message Passing for Continuous Graphical Models
+279,Yi Wu,UC Berkeley,Stuart Russell,UC Berkeley,Discrete-Continuous Mixtures in Probabilistic Programming: Generalized Semantics and Inference Algorithms
+280,Zhuohan Li,Peking University,Tie-Yan Liu,Microsoft Research Asia,Towards Binary-Valued Gates for Robust LSTM Training
+281,Eliya Nachmani,Facebook AI Research and Tel Aviv University,Lior Wolf,Facebook AI Research and Tel Aviv University,Fitting New Speakers Based on a Short Untranscribed Sample
+282,Matteo Papini,Politecnico di Milano,Marcello Restelli,Politecnico di Milano,Stochastic Variance-Reduced Policy Gradient
+283,Ahmed Touati,MILA / FAIR,Pascal Vincent,U Montreal,Convergent Tree Backup and Retrace with Function Approximation
+284,Jelena Diakonikolas,Boston University,Orecchia Lorenzo,Boston,Alternating Randomized Block Coordinate Descent
+285,Vineet Gupta,Google,Yoram Singer,Google,Shampoo: Preconditioned Stochastic Tensor Optimization
+286,Sebastian Claici,MIT,Justin Solomon,MIT,Stochastic Wasserstein Barycenters
+287,Yang Song,Stanford University,Stefano Ermon,Stanford University,Accelerating Natural Gradient with Higher-Order Invariance
+288,Markus Heinonen,Aalto University,Harri Lähdesmäki,Aalto University,Learning unknown ODE models with Gaussian processes
+289,Marco Lorenzi,Inria Sophia Antipolis,Maurizio Filippone,Eurecom,Constraining the Dynamics of Deep Probabilistic Models
+290,Lukasz Kaiser,Google,Noam Shazeer,Google,Fast Decoding in Sequence Models Using Discrete Latent Variables
+291,Jiyuan Zhang,Cargenie Mellon University,Tze Meng Low,Carnegie Mellon University,High Performance Zero-Memory Overhead Direct Convolutions
+292,Shuaiwen Wang,Columbia University,Vahab Mirrokni,Google Research,Approximate Leave-One-Out for Fast Parameter Tuning in High Dimensions
+293,Daniele Calandriello,INRIA Lille,Michal Valko,DeepMind,Improved large-scale graph learning through ridge spectral sparsification
+294,Jackson Wang,Univeristy of Toronto,Richard Zemel,Vector Institute,Distilling the Posterior in Bayesian Neural Networks
+295,Ruoxi Sun,Columbia University,Department of Statistics Liam Paninski,"Department of Statistics, Columbia University",Scalable approximate Bayesian inference for particle tracking data
+296,Alexey Drutsa,Yandex,Alexey Drutsa,Yandex,Weakly Consistent Optimal Pricing Algorithms in Repeated Posted-Price Auctions with Strategic Buyer
+297,Dylan Foster,Cornell University,Robert Schapire,Microsoft Research,Practical Contextual Bandits with Regression Oracles
+298,Difan Zou,University of Virginia,Quanquan Gu,UCLA,Stochastic Variance-Reduced Hamilton Monte Carlo Methods
+299,Umut Simsekli,Telecom ParisTech,Gaël RICHARD,Télécom ParisTech,Asynchronous Stochastic Quasi-Newton MCMC for Non-Convex Optimization
+300,Jinsung Yoon,"University of California, Los Angeles",Mihaela van der Schaar,University of Oxford,GAIN: Missing Data Imputation using Generative Adversarial Nets
+301,Yaroslav Ganin,Montreal Institute for Learning Algorithms,Oriol Vinyals,DeepMind,Synthesizing Programs for Images using Reinforced Adversarial Learning
+302,Valentin Khrulkov,Skolkovo Institute Of Science And Technology,Ivan Oseledets,Skoltech,Geometry Score: A Method For Comparing Generative Adversarial Networks
+303,Scott Fujimoto,McGill University,David Meger,McGill University,Addressing Function Approximation Error in Actor-Critic Methods
+304,Clint Ho,Imperial College London,Wolfram Wiesemann,Imperial College,Fast Bellman Updates for Robust MDPs
+305,Alberto Maria Metelli,Politecnico di Milano,Marcello Restelli,Politecnico di Milano,Configurable Markov Decision Processes
+306,Matt Bonakdarpour,University of Chicago,John Lafferty,Yale University,Prediction Rule Reshaping
+307,Daniel Ma,The University of Melbourne,James Bailey,The University of Melbourne,Dimensionality-Driven Learning with Noisy Labels
+308,Milad Hashemi,Google,Partha Ranganathan,"Google, USA",Learning Memory Access Patterns
+309,Pierre Baque,EPFL,EPFL Pascal Fua,"EPFL, Switzerland",Geodesic Convolutional Shape Optimization
+310,Samuel Greydanus,Oregon State University,Alan Fern,Oregon State University,Visualizing and Understanding Atari Agents
+311,Dhruv Malik,UC Berkeley,Anca Dragan,"EECS Department, University of California, Berkeley","An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning"
+312,Augustus Odena,Google Brain,Ian Goodfellow,Google Brain,Is Generator Conditioning Causally Related to GAN Performance?
+313,Jihun Hamm,The Ohio State University,Yung-Kyun Noh,Seoul National University,K-Beam Minimax: Efficient Optimization for Deep Adversarial Learning
+314,Vignesh Ganapathiraman,University of Illinois at Chicago,Yaoliang Yu,University of Waterloo,Inductive Two-Layer Modeling with Parametric Bregman Transfer
+315,Weihua Hu,The University of Tokyo,Masashi Sugiyama,RIKEN / The University of Tokyo,Does Distributionally Robust Supervised Learning Give Robust Classifiers?
+316,Pan Zhou,National University of Singapore,Jiashi Feng,National University of Singapore,Understanding Generalization and Optimization Performance of Deep CNNs
+317,Thomas Laurent,Loyola Marymount University,James von Brecht,CSULB,The Multilinear Structure of ReLU Networks
+318,Hossein Esfandiari,Harvard University,Vahab Mirrokni,Google Research,Parallel and Streaming Algorithms for K-Core Decomposition
+319,Lionel Martin,EPFL,Pierre Vandergheynst,École polytechnique fédérale de Lausanne,Fast Approximate Spectral Clustering for Dynamic Networks
+320,Simon Du,Carnegie Mellon University,Barnabás Póczos,CMU,Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima
+321,Quynh Nguyen,Saarland University,Matthias Hein,University of Tuebingen,Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions
+322,Wenruo Bai,University of Washington,Jeff Bilmes,UW,Greed is Still Good: Maximizing Monotone Submodular+Supermodular (BP) Functions
+323,Andrew Ilyas,Massachusetts Institute of Technology,Jessy Lin,MIT,Black-box Adversarial Attacks with Limited Queries and Information
+324,Abhishek Bansal,IBM Research,Chiru Bhattacharyya,Indian Institute of Science,Using Inherent Structures to design Lean 2-layer RBMs
+325,Patrick Schwab,ETH Zurich,Walter Karlen,ETH Zurich,Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care
+326,Amy Zhang,Facebook AI Research,Facebook Rob Fergus,"Facebook AI Research, NYU",Composable Planning with Attributes
+327,Adam Santoro,DeepMind,Tim Lillicrap,Google DeepMind,Measuring abstract reasoning in neural networks
+328,Lin Chen,Yale University,Amin Karbasi,Yale,Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity
+329,Dongwoo Kim,The Australian National University,Christian Walder,"Data61, the Australian National University",Self-Bounded Prediction Suffix Tree via Approximate String Matching
+330,Lu Jiang,Google,Li Fei-Fei,Stanford University & Google,MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels
+331,Daphna Weinshall,"Hebrew University of Jerusalem, Israel",Dan Amir,Hebrew University of Jerusalem,Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks
+332,Rie Johnson,RJ Research Consulting,Tong Zhang,Tecent AI Lab,Composite Functional Gradient Learning of Generative  Adversarial Models
+333,Danny Karmon,Bar Ilan University,Yoav Goldberg,Bar Ilan University,LaVAN: Localized and Visible Adversarial Noise
+334,Eric Balkanski,Harvard,Yaron Singer,Harvard,Approximation Guarantees for Adaptive Sampling
+335,Andrew Cotter,Google AI,Jeff Bilmes,UW,Constrained Interacting Submodular Groupings
+336,Nathan Kallus,Cornell University,Angela Zhou,Cornell University,Residual Unfairness in Fair Machine Learning from Prejudiced Data
+337,Liang Tong,Vanderbilt University,Yevgeniy Vorobeychik,Vanderbilt University,Adversarial Regression with Multiple Learners
+338,Fred Sala,Stanford,Christopher Re,Stanford,Representation Tradeoffs for Hyperbolic Embeddings
+339,Keegan Kang,Singapore University Of Technology And Design,Wei Pin Wong,Singapore University of Technology and Design,Improving Sign Random Projections With Additional Information
+340,Ciara Pike-Burke,Lancaster University,Steffen Grünewälder,Lancaster University,"Bandits with Delayed, Aggregated Anonymous Feedback"
+341,Zeyuan Allen-Zhu,Microsoft Research AI,Yuanzhi Li,Princeton University,Make the Minority Great Again: First-Order Regret Bound for Contextual Bandits
+342,Aditya Grover,Stanford University,Harrison Edwards,OpenAI / University of Edinburgh,Learning Policy Representations in Multiagent Systems
+343,Eugenio Bargiacchi,Vrije Universiteit Brussel,Hado van Hasselt,DeepMind,Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems
+344,Yiping Lu,Peking University,Bin Dong,Peking University,Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations
+345,Bin Dai,Tsinghua University,David Wipf,Microsoft Research,Compressing Neural Networks using the Variational Information Bottelneck
+346,Yichen Chen,Princeton University,Mengdi Wang,Princeton University,Scalable Bilinear Pi Learning Using State and Action Features
+347,Fabio Pardo,Imperial College London,Petar Kormushev,Imperial College London,Time Limits in Reinforcement Learning
+348,Tal Wagner,MIT,Nina Mishra,Amazon,Semi-Supervised Learning on Data Streams via Temporal Label Propagation
+349,Cong Ma,Princeton University,Yuxin Chen,Princeton University,Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval and Matrix Completion
+350,Beilun Wang,University of Virginia,Yanjun Qi,University of Virginia,A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models
+351,Sungsoo Ahn,KAIST,Jinwoo Shin,KAIST,Bucket Renormalization for Approximate Inference
+352,Takafumi Kajihara,NEC,Kenji Fukumizu,Institute of Statistical Mathematics,Kernel Recursive ABC: Point Estimation with Intractable Likelihood
+353,Roberta Raileanu,NYU,Facebook Rob Fergus,"Facebook AI Research, NYU",Modeling Others using Oneself in Multi-Agent Reinforcement Learning
+354,Liwen Zhang,University of Chicago,Lek-Heng Lim,University of Chicago,Tropical Geometry of Deep Neural Networks
+355,Arnu Pretorius,Stellenbosch University,Herman Kamper,Stellenbosch University,Learning Dynamics of Linear Denoising Autoencoders
+356,Jean Feng,University of Washington,Marco Carone,University of Washington,Nonparametric variable importance using an augmented neural network with multi-task learning
+357,Matthew Mirman,ETH Zürich,Martin Vechev,ETH Zurich,Training Neural Machines with Trace-Based Supervision
+358,Si Liu,Oregon State University,Dan Hendrycks,UC Berkeley,Open Category Detection with PAC Guarantees
+359,Aaditya Ramdas,UC Berkeley,Michael Jordan,UC Berkeley,SAFFRON: an Adaptive Algorithm for Online Control of the False Discovery Rate
+360,Muhammad Osama,Uppsala University,Thomas Schön,Uppsala University,Learning Localized Spatio-Temporal Models From Streaming Data
+361,Julian Katz-Samuels,University of Michigan,Clay Scott,University of Michigan,Feasible Arm Identification
+362,Alan Kuhnle,University of Florida,My T. Thai,University of Florida,"Fast Maximization of Non-Submodular, Monotonic Functions on the Integer Lattice"
+363,Aryan Mokhtari,MIT,Amin Karbasi,Yale,Decentralized Submodular Maximization: Bridging Discrete and Continuous Settings
+364,Lily Weng,MIT,Inderjit Dhillon,UT Austin & Amazon,Towards Fast Computation of Certified Robustness for ReLU Networks
+365,Huidong Liu,Stony Brook University,Samaras Dimitris,Stony Brook University,A Two-Step Computation of the Exact GAN Wasserstein Distance
+366,Jeremias Knoblauch,Warwick University,Theo Damoulas,University of Warwick,Spatio-temporal Bayesian On-line Changepoint Detection with Model Selection
+367,Mingrui Liu,The University of Iowa,Tianbao Yang,The University of Iowa,Fast Stochastic AUC Maximization with $O(1/n)$-Convergence Rate
+368,Volodymyr Kuleshov,Stanford University,Stefano Ermon,Stanford University,Accurate Uncertainties for Deep Learning Using Calibrated Regression
+369,Chin-Wei Huang,MILA,Aaron Courville,University of Montreal,Neural Autoregressive Flows
+370,Tammo Rukat,University of Oxford,Christopher Yau,University of Birmingham,Probabilistic Boolean Tensor Decomposition
+371,Xiao Zhang,University of Virginia,Quanquan Gu,UCLA,A Primal-Dual Analysis of Global Optimality in Nonconvex Low-Rank Matrix Recovery
+372,Konstantin Mishchenko,King Abdullah University of Science & Technology (KAUST),Massih-Reza Amini,Univ. Grenoble Alpes,A Delay-tolerant Proximal-Gradient Algorithm for Distributed Learning
+373,Nikita Doikov,National Research University Higher School of Economics,Peter Richtarik,"King Abdullah University of Science and Technology (KAUST) - University of Edinburgh, Scotland",Randomized Block Cubic Newton Method
+374,Grigory Yaroslavtsev,Indiana University,Adithya Vadapalli,INDIANA UNIVERSITY,Massively Parallel Algorithms and Hardness for Single-Linkage Clustering under $\ell_p$ Distances
+375,Xian Wu,Stanford University,Vishnu Natchu,,Local Density Estimation in High Dimensions
+376,Mikhail Belkin,Ohio State University,Soumik Mandal,,To Understand Deep Learning We Need to Understand Kernel Learning
+377,Dino Oglic,King's College London,Thomas Gaertner,The University of Nottingham,Learning in Reproducing Kernel Kreı̆n Spaces
+378,Atsushi Nitanda,The University of Tokyo / RIKEN,Taiji Suzuki,The University of Tokyo / RIKEN,Functional Gradient Boosting based on Residual Network Perception
+379,Bowei Yan,University of Texas at Austin,Pradeep Ravikumar,Carnegie Mellon University,"Binary Classification with Karmic, Threshold-Quasi-Concave Metrics"
+380,Suriya Gunasekar,Toyota Technological Institute at Chicago,Nati Srebro,Toyota Technological Institute at Chicago,Characterizing Implicit Bias in Terms of Optimization Geometry
+381,Christopher Metzler,Rice University,Richard Baraniuk,OpenStax / Rice University,prDeep: Robust Phase Retrieval with a Flexible Deep Network
+382,Paidamoyo Chapfuwa,Duke University,Ricardo Henao,Duke University,Adversarial Time-to-Event Modeling
+383,Matt Amodio,Yale University,Smita Krishnaswamy,Yale University,MAGAN: Aligning Biological Manifolds
+384,Ursula Hebert-Johnson,Stanford University,Guy Rothblum,Weizmann Institute of Science,Multicalibration: Calibration for the (Computationally-Identifiable) Masses
+385,Xueru Zhang,University of Michigan,Mingyan Liu,"University of Michigan, Ann Arbor",Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms
+386,Xi Chen,covariant.ai,Pieter Abbeel,OpenAI / UC Berkeley,PixelSNAIL: An Improved Autoregressive Generative Model
+387,Rosemary Nan Ke,"MILA, University of Montreal",Christopher Pal,École Polytechnique de Montréal,Focused Hierarchical RNNs for Conditional Sequence Processing
+388,Jaakko Lehtinen,Aalto University & NVIDIA,Timo Aila,NVIDIA,Noise2Noise: Learning Image Restoration without Clean Data
+389,Mengye Ren,Uber ATG / University of Toronto,Raquel Urtasun,University of Toronto,Learning to Reweight Examples for Robust Deep Learning
+390,David Abel,Brown University,Michael L. Littman,Brown University,Policy and Value Transfer in Lifelong Reinforcement Learning
+391,Cédric Colas,Inria,Pierre-Yves Oudeyer,Inria,GEP-PG: Decoupling Exploration and Exploitation in Deep Reinforcement Learning Algorithms
+392,Adam Roberts,Google Brain,Douglas Eck,Google Brain,A Hierarchical Latent Vector Model for Learning Long-Term Structure in Music
+393,SHIYU LIANG,UIUC,R Srikant,UIUC,Understanding the Loss Surface of Neural Networks for Binary Classification
+394,Minmin Chen,Google research,Samuel Schoenholz,Google Brain,Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks
+395,Renjie Liao,University of Toronto,Richard Zemel,Vector Institute,Reviving and Improving Recurrent Back-Propagation
+396,Hiroyuki Kasai,The University of Electro-Communications,Bamdev Mishra,Microsoft,Riemannian Stochastic Recursive Gradient Algorithm with Retraction and Vector Transport and Its Convergence Analysis
+397,Samet Oymak,"University of California, Riverside",Samet Oymak,"University of California, Riverside",Learning Compact Neural Networks with Regularization
+398,Rachit Dubey,"University of California, Berkeley",Alexei Efros,UC Berkeley,Investigating Human Priors for Playing Video Games
+399,Philip Thomas,University of Massachusetts Amherst,Emma Brunskill,Stanford University,Decoupling Gradient-Like Learning Rules from Representations
+400,Russell Tsuchida,The University of Queensland,Marcus Gallagher,University of Queensland,Invariance of Weight Distributions in Rectified MLPs
+401,Sanjeev Arora, Princeton University and Institute for Advanced Study,Yi Zhang,Princeton University,Stronger Generalization Bounds for Deep Nets via a Compression Approach
+402,Zengfeng Huang,Fudan University,Zengfeng Huang,Fudan University,Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices
+403,Ian Yen,Carnegie Mellon University,Pradeep Ravikumar,Carnegie Mellon University,Loss Decomposition for Fast Learning in Large Output Spaces
+404,Michael Natole Jr,University at Albany,Siwei Lyu,"University at Albany, State University of New York",Stochastic Proximal Algorithms for AUC Maximization
+405,Arpit Agarwal,University of Pennsylvania,Shivani Agarwal,University of Pennsylvania,Accelerated Spectral Ranking
+406,Stefan Depeweg,TU Munich,Steffen Udluft,Siemens AG,Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning
+407,Emti Khan,RIKEN,Akash Srivastava,"MIT, IBM",Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam
+408,Surbhi Goel,University of Texas at Austin,Raghu Meka,UCLA,Learning One Convolutional Layer with Overlapping Patches
+409,Randall Balestriero,Rice University,Richard Baraniuk,OpenStax / Rice University,A Spline Theory of Deep Learning
+410,Soumya Ghosh,IBM Research,Finale Doshi-Velez,Harvard University,Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors
+411,Jiri Hron,University of Cambridge,Zoubin Ghahramani,University of Cambridge & Uber,Variational Bayesian dropout: pitfalls and fixes
+412,Jiezhang Cao,South China University of Technology,Mingkui Tan,South China University of Technology,Adversarial Learning with Local Coordinate Coding
+413,Panos Achlioptas,Stanford,Leonidas Guibas,Stanford University,Learning Representations and Generative Models for 3D Point Clouds
+414,Mattias Teye,KTH / EA SEED,Kevin Smith,KTH Royal Institute of Technology,Bayesian Uncertainty Estimation for Batch Normalized Deep Networks
+415,Guodong Zhang,University of Toronto,Roger Grosse,University of Toronto and Vector Institute,Noisy Natural Gradient as Variational Inference
+416,Maximilian Igl,University of Oxford,Shimon Whiteson,University of Oxford,Deep Variational Reinforcement Learning for POMDPs
+417,Ahmed Hefny,Carnegie Mellon University,Geoff Gordon,Carnegie Mellon University,Recurrent Predictive State Policy Networks
+418,David Balduzzi,DeepMind,Thore Graepel,DeepMind,The Mechanics of n-Player Differentiable Games
+419,Duhyeon Bang,Yonsei univ.,Hyunjung Shim,Yonsei University,Improved Training of Generative Adversarial Networks Using Representative Features
+420,Jonatas Wehrmann,Pontifícia Universidade Catolica do Rio Grande do Sul - PUCRS,Rodrigo Barros,PUCRS,Hierarchical Multi-Label Classification Networks
+421,Suraj Srinivas,Idiap,Francois Fleuret,Idiap research institute,Knowledge Transfer with Jacobian Matching
+422,Weiyang Liu,Georgia Tech,Le Song,Georgia Institute of Technology,Towards Black-box Iterative Machine Teaching
+423,Borja de Balle Pigem,Amazon Research,Yu-Xiang Wang,UC Santa Barbara,Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising
+424,Andrea Tirinzoni,Politecnico di Milano,Marcello Restelli,Politecnico di Milano,Importance Weighted Transfer of Samples in Reinforcement Learning
+425,Yonathan Efroni,Technion,Shie Mannor,Technion,Beyond the One-Step Greedy Approach in Reinforcement Learning
+426,Mark McLeod,University of Oxford,Michael A Osborne,U Oxford,"Optimization, fast and slow: optimally switching between local and Bayesian optimization"
+427,Wenlong Lyu,Fudan University,Xuan Zeng,Fudan University,Batch Bayesian Optimization via Multi-objective Acquisition Ensemble for Automated Analog Circuit Design
+428,Qiang Sun,University of Toronto,Tong Zhang,Tecent AI Lab,Graphical Nonconvex Optimization via an Adaptive Convex Relaxation
+429,Junjie Ma,Columbia University,Arian Maleki,Columbia,Approximate message passing for amplitude based optimization
+430,Lydia T. Liu,University of California Berkeley,University of California Moritz Hardt,"University of California, Berkeley",Delayed Impact of Fair Machine Learning
+431,Mehdi S. M. Sajjadi,Max Planck Institute for Intelligent Systems,Bernhard Schölkopf,"MPI for Intelligent Systems Tübingen, Germany",Tempered Adversarial Networks
+432,Robin Ru,University of Oxford,Diego Granziol,Oxford,Fast Information-theoretic Bayesian Optimisation
+433,Jonathan Scarlett,National University of Singapore,Jonathan Scarlett,National University of Singapore,Tight Regret Bounds for Bayesian Optimization in One Dimension
+434,Niki Parmar,Google,Dustin Tran,Google,Image Transformer
+435,Lorenz Müller,ETH Zurich and University of Zurich,Giacomo Indiveri,University of Zurich,Kernelized Synaptic Weight Matrices
+436,Celestine Mendler-Dünner,IBM Research,Martin Jaggi,EPFL,A Distributed Second-Order Algorithm You Can Trust
+437,Michael Cohen,,Orecchia Lorenzo,Boston,On Acceleration with Noise-Corrupted Gradients
+438,Netanel Raviv,California Institute of Technology,Itzhak Tamo,Tel-Aviv University,Gradient Coding from Cyclic MDS Codes and Expander Graphs
+439,Haihao Lu,MIT,Vahab Mirrokni,Google Research,Accelerating Greedy Coordinate Descent Methods
+440,Boris Sharchilev,Yandex,Maarten de Rijke,University of Amsterdam,Finding Influential Training Samples for Gradient Boosted Decision Trees
+441,Ehsan Imani,University of Alberta,Martha White,University of Alberta,Improving Regression Performance with Distributional Losses
+442,Tabish Rashid,University of Oxford,Shimon Whiteson,University of Oxford,QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning
+443,Jilles Dibangoye,INRIA,Olivier Buffet,INRIA,Learning to Act in Decentralized Partially Observable MDPs
+444,Clarice Poon,University of Cambridge,Carola-Bibiane Schönlieb,University of Cambridge,Local Convergence Properties of SAGA/Prox-SVRG and Acceleration
+445,Wilson Ye Chen,University of Technology Sydney,Chris J Oates,Newcastle University,Stein Points
+446,Ti John,PROWLER.io,James Hensman,PROWLER.io,Large-Scale Cox Process Inference using Variational Fourier Features
+447,Zaiyi Chen,University of Science and Technology of China,Tianbao Yang,The University of Iowa,SADAGRAD: Strongly Adaptive Stochastic Gradient Methods
+448,Mingyi Hong,University of Minnesota,Jason Lee,University of Southern California,Gradient Primal-Dual Algorithm Converges to Second-Order Stationary Solution for  Nonconvex Distributed Optimization Over Networks
+449,Raghu Bollapragada,Northwestern University,Ping Tak Tang,Intel Corporation,A Progressive Batching L-BFGS Method for Machine Learning
+450,Xiaojie Jin,National University of Singapore,Shuicheng Yan,Qihoo/360,WSNet: Compact and Efficient Networks Through Weight Sampling
+451,Gintare Karolina Dziugaite,University of Cambridge,Daniel Roy,Univ of Toronto | Toronto,Entropy-SGD optimizes the prior of a PAC-Bayes bound: Generalization properties of Entropy-SGD and data-dependent priors
+452,Tim Pearce,University of Cambridge / The Alan Turing Institute,Andy Neely,,"High-Quality Prediction Intervals for Deep Learning: A Distribution-Free, Ensembled Approach"
+453,Thodoris Lykouris,Cornell University,Sergei Vassilvitskii,Google,Competitive Caching with Machine Learned Advice
+454,Matthew Streeter,Google,Matthew Streeter,Google,Approximation Algorithms for Cascading Prediction Models
+455,Ilias Zadik,MIT,Vasilis Syrgkanis,Microsoft Research,Orthogonal Machine Learning: Power and Limitations
+456,Akihiro Yabe,NEC Corporation,Ken-ichi Kawarabayashi,National Institute of Informatics,Causal Bandits with Propagating Inference
+457,Wojciech Czarnecki,DeepMind,Razvan Pascanu,DeepMind,Mix & Match - Agent Curricula for Reinforcement Learning
+458,Brendan O'Donoghue,DeepMind,Vlad Mnih,Google Deepmind,The Uncertainty Bellman Equation and Exploration
+459,Hoang Le,Caltech,Hal Daume,Microsoft Research,Hierarchical Imitation and Reinforcement Learning
+460,Bingyi Kang,National University of Singapore,Jiashi Feng,National University of Singapore,Policy Optimization with Demonstrations
+461,Arman Sharifi Kolarijani,Delft University of Technology,Tamas Keviczky,Delft University of Technology,Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework
+462,Qihang Lin,Univ Iowa,Tianbao Yang,The University of Iowa,Level-Set Methods for Finite-Sum Constrained Convex Optimization
+463,Weili Nie,Rice University,Ankit Patel,"Rice University, Baylor College of Medicine",A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations
+464,Ondrej Bajgar,IBM Watson,Jan Kleindienst,IBM Watson,A Boo(n) for Evaluating Architecture Performance
+465,Eric Liang,"University of California, Berkeley",Ion Stoica,UC Berkeley,RLlib: Abstractions for Distributed Reinforcement Learning
+466,Maryam Fazel,University of Washington,Mehran Mesbahi,,Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator
+467,Hao Lu,Princeton University,Zhaoran Wang,Northwestern U,The Edge Density Barrier: Computational-Statistical Tradeoffs in Combinatorial Inference
+468,Steven Holtzen,"University of California, Los Angeles",Todd Millstein,"University of California, Los Angeles",Sound Abstraction and Decomposition of Probabilistic Programs
+469,Aäron van den Oord,Google Deepmind,Demis Hassabis,Deepmind,Parallel WaveNet: Fast High-Fidelity Speech Synthesis
+470,Manik Dhar,Stanford University,Stefano Ermon,Stanford University,Modeling Sparse Deviations for Compressed Sensing using Generative Models
+471,Andrey Zhitnikov,Technion,Tomer Michaeli,Technion,Revealing Common Statistical Behaviors in Heterogeneous Populations
+472,Omid Keivani,Wichita State University,Kaushik Sinha,Wichita State University,Improved nearest neighbor search using auxiliary information and priority functions
+473,Aviral Kumar,IIT Bombay,Ujjwal Jain,IIT Bombay,Trainable Calibration Measures for Neural Networks from Kernel Mean Embeddings
+474,Giacomo Boracchi,Politecnico di Milano,Danilo Macciò,,QuantTree: Histograms for Change Detection in Multivariate Data Streams
+475,Agniva Chowdhury,Purdue University,Petros Drineas,Purdue University,"An Iterative, Sketching-based Framework for Ridge Regression"
+476,Bing Su,"Institute of Software, Chinese Academy of Sciences",Ying Wu,Northwestern University,Learning Low-Dimensional Temporal Representations
+477,Tsendsuren Munkhdalai,Microsoft Research,Adam Trischler,Microsoft Research,Rapid Adaptation with Conditionally Shifted Neurons
+478,Zichao Long,Peking University,Bin Dong,Peking University,PDE-Net: Learning PDEs from Data
+479,Manolis Tsakiris,Johns Hopkins University,Rene Vidal,Johns Hopkins University,Theoretical Analysis of Sparse Subspace Clustering with Missing Entries
+480,Steve Huntsman,BAE Systems FAST Labs,Steve Huntsman,BAE Systems FAST Labs,Topological mixture estimation
+481,Francesco Locatello,MPI - ETH,Martin Jaggi,EPFL,On Matching Pursuit and Coordinate Descent
+482,Thomas Kerdreux,INRIA,Alex d'Aspremont,"CNRS, Ecole Normale Superieure",Frank-Wolfe with Subsampling Oracle
+483,Yangchen Pan,University of Alberta,Daniel Nikovski,Mitsubishi Electric Research Labs,Reinforcement Learning with Function-Valued Action Spaces for Partial Differential Equation Control
+484,Matthew Fellows,University of Oxford,Shimon Whiteson,University of Oxford,Fourier Policy Gradients
+485,Fabian Pedregosa,UC Berkeley,Gauthier Gidel,MILA,Adaptive Three Operator Splitting
+486,Alp Yurtsever,EPFL,Volkan Cevher,EPFL,A Conditional Gradient Framework for Composite Convex Minimization with Applications to Semidefinite Programming
+487,Shaoan Xie,Sun Yat-sen University,Chuan Chen,Sun Yat-sen University,Learning Semantic Representations for Unsupervised Domain Adaptation
+488,David Madras,University of Toronto,Richard Zemel,Vector Institute,Learning Adversarially Fair and Transferable Representations
+489,Itay Safran,Weizmann Institute of Science,Ohad Shamir,Weizmann Institute of Science,Spurious Local Minima are Common in Two-Layer ReLU Neural Networks
+490,Yeonwoo Jeong,Seoul National University,Hyun Oh Song,Seoul National University,Efficient end-to-end learning for quantizable representations
+491,Charu Sharma,Indian Institute of Technology Hyderabad,Manu Kaul,IIT Hyderabad,Solving Partial Assignment Problems using Random Clique Complexes
+492,Siyuan Qi,UCLA,Song-Chun Zhu,UCLA,Generalized Earley Parser: Bridging Symbolic Grammars and Sequence Data for Future Prediction
+493,Koulik Khamaru,University Of California Berkeley,Martin Wainwright,University of California at Berkeley,Convergence guarantees for a class of non-convex and   non-smooth optimization problems
+494,XUDONG LI,Princeton Univerisity,Anru Zhang,University of Wisconsin-Madison,Estimation of Markov Chain via Rank-constrained Likelihood
+495,Dmitrii Ostrovskii,INRIA,Zaid Harchaoui,University of Washington,Efficient First-Order Algorithms for Adaptive Signal Denoising
+496,Pan Xu,"University of California, Los Angeles",Quanquan Gu,UCLA,Continuous and Discrete-time Accelerated Stochastic Mirror Descent for Strongly Convex Functions
+497,Adji Bousso Dieng,Columbia University,David Blei,Columbia University,Noisin: Unbiased Regularization for Recurrent Neural Networks
+498,Zhengping Che,University of Southern California,Yan Liu,University of Southern California,Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series
+499,Yingzhen Li,Microsoft Research Cambridge,Stephan Mandt,UC Irvine,Disentangled Sequential Autoencoder
+500,Emily Denton,New York University,Rob Fergus,Facebook / NYU,Stochastic Video Generation with a Learned Prior
+501,Mohamed Ishmael Belghazi,MILA,Aaron Courville,University of Montreal,Mutual Information Neural Estimation
+502,Jake Zhao,NYU / Facebook AI Research,Yann LeCun,New York University,Adversarially Regularized Autoencoders
+503,RUIYI (ROY) ZHANG,Duke University,Lawrence Carin,Duke,Policy Optimization as Wasserstein Gradient Flows
+504,Junhyuk Oh,University of Michigan,Honglak Lee,Google / U. Michigan,Self-Imitation Learning
+505,Andreas Loukas,EPFL,Pierre Vandergheynst,École polytechnique fédérale de Lausanne,Spectrally Approximating Large Graphs with Smaller Graphs
+506,Zhenyu Liao,"L2S, CentraleSupelec",Romain Couillet,CentralSupélec,On the Spectrum of Random Features Maps of High Dimensional Data
+507,Hongteng Xu,"InfiniaML, Inc.",Hongyuan Zha,Georgia Institute of Technology,Learning Registered Point Processes from Idiosyncratic Observations
+508,Aonan Zhang,Columbia University,John Paisley,Columbia University,Deep Bayesian Nonparametric Tracking
+509,Sat Chatterjee,Two Sigma Investments,Sat Chatterjee,Two Sigma Investments,Learning and Memorization
+510,Maximilian Ilse,University of Amsterdam,Max Welling,University of Amsterdam,Attention-based Deep Multiple Instance Learning
+511,Han Bao,The University of Tokyo / RIKEN,Masashi Sugiyama,RIKEN / The University of Tokyo,Classification from Pairwise Similarity and Unlabeled Data
+512,Yizhen Wang,UCSD,Kamalika Chaudhuri,University of California at San Diego,Analyzing the Robustness of Nearest Neighbors to Adversarial Examples
+513,Poorya Mianjy,Johns Hopkins University,Rene Vidal,Johns Hopkins University,On the Implicit Bias of Dropout
+514,Qingyun Sun,Stanford University,stephen boyd,stanford university,Convolutional Imputation of Matrix Networks
+515,Zachary Lipton,Carnegie Mellon University,Alexander Smola,Amazon,Detecting and Correcting for Label Shift with Black Box Predictors
+516,Pengtao Xie,Carnegie Mellon University,Eric Xing,Petuum Inc. and CMU,Orthogonality-Promoting Distance Metric Learning: Convex Relaxation and Theoretical Analysis
+517,Siavash Haghiri,University of Tübingen,Ulrike von Luxburg,University of Tübingen,Comparison-Based Random Forests
+518,Robin Vogel,Télécom ParisTech,Stéphan Clémençon,Télécom ParisTech,A Probabilistic Theory of Supervised Similarity Learning for Pointwise ROC Curve Optimization
+519,Jing Wang,Cornell University,Ping Li,Rugters University,Provable Variable Selection for Streaming Features
+520,Keith Levin,University of Michigan,Carey Priebe,Johns Hopkins University,Out-of-sample extension of graph adjacency spectral embedding
+521,Yao Ma,Boston University,Venkatesh Saligrama,Boston University,Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers
+522,Xiao Zhang,University of Virginia,Quanquan Gu,UCLA,Fast and Sample Efficient Inductive Matrix Completion via Multi-Phase Procrustes Flow
+523,Qiang Qiu,Duke University,Guillermo Sapiro,Duke University,DCFNet: Deep Neural Network with Decomposed Convolutional Filters
+524,Quynh Nguyen,Saarland University,Matthias Hein,University of Tuebingen,Optimization Landscape and Expressivity of Deep CNNs
+525,Trefor Evans,University of Toronto,Prasanth B Nair,University of Toronto,Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
+526,Daniel Sheldon,University of Massachusetts Amherst,Debora Sujono,University of Massachusetts Amherst,Learning in Integer Latent Variable Models with Nested Automatic Differentiation
+527,Judy Hoffman,UC Berkeley and Georgia Tech,Prof. Darrell,University of California at Berkeley,CyCADA: Cycle-Consistent Adversarial Domain Adaptation
+528,Han-Jia Ye,Nanjing University,Zhi-Hua Zhou,Nanjing University,Rectify Heterogeneous Models with Semantic Mapping
+529,Arash Vahdat,"Quadrant.ai, D-Wave",Evgeny Andriyash,D-Wave,DVAE++: Discrete Variational Autoencoders with Overlapping Transformations
+530,Joe Marino,Caltech,Stephan Mandt,UC Irvine,Iterative Amortized Inference
+531,Niki Kilbertus,MPI Tübingen & Cambridge,Adrian Weller,"University of Cambridge, Alan Turing Institute",Blind Justice: Fairness with Encrypted Sensitive Attributes
+532,Songbai Yan,University of California San Diego,Tara Javidi,University of California San Diego,Active Learning with Logged Data
+533,Alekh Agarwal,Microsoft Research,Hanna Wallach,Microsoft Research,A Reductions Approach to Fair Classification
+534,Michael Kearns,University of Pennsylvania,Steven Wu,Microsoft Research,Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness
+535,othmane mazhar,KTH Royal Institute of Technology,Mohammad Reza Hesamzadeh,KTH Royal Institute of Technology,Bayesian Model Selection for Change Point Detection and Clustering
+536,Pratik Kumar Jawanpuria,Microsoft,Bamdev Mishra,Microsoft,A Unified Framework for Structured Low-rank Matrix Learning
+537,Lalit Jain,University of Washington,Kevin Jamieson,University of Washington,Firing Bandits: Optimizing Crowdfunding
+538,Rajat Sen,University of Texas at Austin,Sanjay Shakkottai,University of Texas at Austin,Multi-Fidelity Black-Box Optimization with Hierarchical Partitions
+539,Frederic Koriche,"CRIL UMR CNRS 8188, Univ. Artois",Frederic Koriche,"CRIL UMR CNRS 8188, Univ. Artois",Compiling Combinatorial Prediction Games
+540,Jiaming Xu,Duke University,Jiaming Xu,Duke University,Rates of Convergence of Spectral Methods for Graphon Estimation
+541,Karren Yang,Massachusetts Institute of Technology,Caroline Uhler,Massachusetts Institute of Technology,Characterizing and Learning Equivalence Classes of Causal DAGs under Interventions
+542,Raj Agrawal,MIT,Tamara Broderick,MIT,Minimal I-MAP MCMC for Scalable Structure Discovery in Causal DAG Models
+543,Michael Tschannen,ETH Zurich,Animashree Anandkumar,Caltech,StrassenNets: Deep Learning with a Multiplication Budget
+544,Yoonho Lee,Pohang University of Science and Techonology,Seungjin Choi,POSTECH,Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace
+545,Lei Han,Tencent AI Lab,Tong Zhang,Tecent AI Lab,Candidates vs. Noises Estimation for Large Multi-Class Classification Problem
+546,Wissam Siblini,Orange Labs,Pascale Kuntz,LS2N,"CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning"
+547,Joan Serrà,"Telefónica Research, Barcelona",Alexandros Karatzoglou,Telefonica,Overcoming Catastrophic Forgetting with Hard Attention to the Task
+548,Junru Wu,Texas A&M University,Yingyan Lin,Rice University,Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions
+549,Nal Kalchbrenner,Google Brain Amsterdam,koray kavukcuoglu,DeepMind,Efficient Neural Audio Synthesis
+550,Tommaso Furlanello,University of Southern California,Anima Anandkumar,Amazon,Born Again Neural Networks
+551,Guy Blanc,Stanford University,Steffen Rendle,Google,Adaptive Sampled Softmax with Kernel Based Sampling
+552,Yunchen Pu,Duke,Lawrence Carin,Duke,JointGAN: Multi-Domain Joint Distribution Learning with Generative Adversarial Nets
+553,Georg Ostrovski,DeepMind,Remi Munos,DeepMind,Autoregressive Quantile Networks for Generative Modeling
+554,Simon Du,Carnegie Mellon University,Jason Lee,University of Southern California,On the Power of Over-parametrization in Neural Networks with Quadratic Activation
+555,Jerry Li,MIT,Ludwig Schmidt,UC Berkeley,On the Limitations of First-Order Approximation in GAN Dynamics
+556,Tianbing Xu,"Baidu Research, USA",Jian Peng,UIUC,Learning to Explore via Meta-Policy Gradient
+557,Yaodong Yang,University College London,Jun Wang,UCL,Mean Field Multi-Agent Reinforcement Learning
+558,Alon Cohen,Google Inc.,Kunal Talwar,Google,Online Linear Quadratic Control
+559,Corinna Cortes,Google Research,Scott Yang,D. E. Shaw & Co.,Online Learning with Abstention
+560,Mathurin MASSIAS,INRIA,Alexandre Gramfort,Inria,Celer: a Fast Solver for the Lasso with Dual Extrapolation
+561,Hugo Raguet,LIVE (CNRS),loic landrieu,IGN,Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation
+562,Amjad Almahairi,Element AI,Aaron Courville,University of Montreal,Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data
+563,Thomas LUCAS,Inria,Jakob Verbeek,INRIA,Mixed batches and symmetric discriminators for GAN training
+564,Li Shen,Tencent AI Lab,Tong Zhang,Tecent AI Lab,An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method
+565,Kejun Huang,University of Minnesota,Nicholas Sidiropoulos,University of Virginia,Learning Hidden Markov Models from Pairwise Co-occurrences with Application to Topic Modeling
+566,Lingjiao Chen,University of Wisconsin-Madison,Dimitris Papailiopoulos,ECE at University of Wisconsin-Madison,DRACO: Byzantine-resilient Distributed Training via Redundant Gradients
+567,Min Ye,Princeton University,Emmanuel Abbe,,Communication-Computation Efficient Gradient Coding
+568,Pan Li,University of Illinois Urbana-Champaign,Olgica Milenkovic,University of Illinois UC,"Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering"
+569,cbajaj bajaj,University of Texas at Austin,Zhenxiao Liang,Tsinghua University,SMAC: Simultaneous Mapping and Clustering Using Spectral Decompositions
+570,Tom Rainforth,University of Oxford,Frank Wood,University of Oxford,On Nesting Monte Carlo Estimators
+571,Jun Han,Dartmouth College,Qiang Liu,UT Austin,Stein Variational Gradient Descent Without Gradient
+572,Dominik Janzing,Amazon Research Tübingen,Bernhard Schölkopf,"MPI for Intelligent Systems Tübingen, Germany",Detecting non-causal artifacts in multivariate linear regression models
+573,Vincent Moens,Université catholique de Louvain,Vincent Moens,Université catholique de Louvain,The Hierarchical Adaptive Forgetting Variational Filter
+574,Wengong Jin,MIT Computer Science and Artificial Intelligence Laboratory,Tommi Jaakkola,MIT,Junction Tree Variational Autoencoder for Molecular Graph Generation
+575,Yoon Kim,Harvard University,Alexander Rush,Harvard University,Semi-Amortized Variational Autoencoders
+576,Huasen Wu,Twitter,Xin Liu,"University of California, Davis",Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits
+577,Akshay Krishnamurthy,Microsoft Research,Vasilis Syrgkanis,Microsoft Research,Semiparametric Contextual Bandits
+578,Been Kim,Google,Rory sayres,Google,Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)
+579,Brandon Reagen,Harvard University,David Brooks,Harvard University,Weightless: Lossy weight encoding for deep neural network compression
+580,Tian Gao,IBM Research,Dennis Wei,IBM Research,Parallel Bayesian Network Structure Learning
+581,Sinong Geng,UW-Madison; Princeton University,University of Wisconsin David Page,"University of Wisconsin, Madison",Temporal Poisson Square Root Graphical Models
+582,xue wang,THE PENNSYLVANIA STATE UNIVERSITY,Tao Yao,penn state university,Minimax Concave Penalized Multi-Armed Bandit Model with High-Dimensional Covariates
+583,Lijun Zhang,Nanjing University,Zhi-Hua Zhou,Nanjing University,Dynamic Regret of Strongly Adaptive Methods
+584,Aditya Bhaskara,University of Utah,Maheshakya Wijewardena,University of Utah,Distributed Clustering via LSH Based Data Partitioning
+585,Nina Balcan,Carnegie Mellon University,Ellen Vitercik,Carnegie Mellon University,Learning to Branch
+586,Christopher De Sa,Cornell, Wong,Stanford university,Minibatch Gibbs Sampling on Large Graphical Models
+587,Niladri S Chatterji,UC Berkeley,Michael Jordan,UC Berkeley,On the Theory of Variance Reduction for Stochastic Gradient Monte Carlo
+588,Rodrigo A Toro Icarte,University of Toronto,Sheila McIlraith,University of Toronto,Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning
+589,Brenden Lake,New York University,Marco Baroni,Facebook Artificial Intelligence Research,Generalization without Systematicity: On the Compositional Skills of Sequence-to-Sequence Recurrent Networks
+590,Martin Jankowiak,Uber AI Labs,Fritz Obermeyer,Uber AI Labs,Pathwise Derivatives Beyond the Reparameterization Trick
+591,Jingwei Zhuo,Tsinghua University,Bo Zhang,Tsinghua University,Message Passing Stein Variational Gradient Descent
+592,Hannes Nickisch,Philips Research,Alexander Grigorevskiy,Aalto University,State Space Gaussian Processes with Non-Gaussian Likelihood
+593,Geoff Pleiss,Cornell University,Andrew Wilson,Cornell University,Constant-Time Predictive Distributions for Gaussian Processes
+594,Peter Bartlett,UC Berkeley,Phil Long,Google,Gradient descent with identity initialization efficiently learns positive definite linear transformations by deep residual networks
+595,Risi Kondor,The University of Chicago,Shubhendu Trivedi,Toyota Technological Institute,On the Generalization of Equivariance and Convolution in Neural Networks to the Action of Compact Groups
+596,Yichi Zhou,Tsinghua University,Jingwei Zhuo,Tsinghua University,Racing Thompson: an Efficient Algorithm for Thompson Sampling with Non-conjugate Priors
+597,Gal Yona,Weizmann Institute of Science,Guy Rothblum,Weizmann Institute of Science,Probably Approximately Metric-Fair Learning
+598,Shao-Hua Sun,University of Southern California,Joseph Lim,Univ. of Southern California,Neural Program Synthesis from Diverse Demonstration Videos
+599,Yunseok Jang,Seoul National University,Yale Song,Microsoft AI & Research,Video Prediction with Appearance and Motion Conditions
+600,Ghazal Fazelnia,Columbia University,John Paisley,Columbia University,CRVI: Convex Relaxation for Variational Inference
+601,Trevor Campbell,MIT,Tamara Broderick,MIT,Bayesian Coreset Construction via Greedy Iterative Geodesic Ascent
+602,Junier Oliva,Carnegie Mellon University,Jeff Schneider,Uber/CMU,Transformation Autoregressive Networks
+603,Subham S Sahoo,Indian Institute of Technology,Georg Martius,Max Planck Institute for Intelligent Systems,Learning equations for extrapolation and control
+604,Myle Ott,Facebook,Marc'Aurelio Ranzato,Facebook AI Research,Analyzing Uncertainty in Neural Machine Translation
+605,Denis Yarats,Facebook AI Research,Mike Lewis,Facebook,Hierarchical Text Generation and Planning for Strategic Dialogue
+606,AmirEmad Ghassami,UIUC,Elias Bareinboim,Purdue,Budgeted Experiment Design for Causal Structure Learning
+607,Yash Deshpande,Massachusetts Institute of Technology,Matt Taddy,MICROSOFT,Accurate Inference for Adaptive Linear Models
+608,Han Cai,Shanghai Jiao Tong University,Yong Yu,Shanghai Jiao Tong University,Path-Level Network Transformation for Efficient Architecture Search
+609,Jonathan Schwarz,DeepMind,Raia Hadsell,DeepMind,Progress & Compress: A scalable framework for continual learning
+610,Trieu H Trinh,Google Brain,Quoc Le,Google Brain,Learning Longer-term Dependencies in RNNs with Auxiliary Losses
+611,Gabriel Bender,Google,Quoc Le,Google Brain,Understanding and Simplifying One-Shot Architecture Search
+612,Kaiqing Zhang,University of Illinois at Urbana-Champaign (UIUC),Tamer Basar,University of Illinois at Urbana-Champaign,Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents
+613,David Abel,Brown University,Michael L. Littman,Brown University,State Abstractions for Lifelong Reinforcement Learning
+614,Thiago Serra,Carnegie Mellon University,Srikumar Ramalingam,University of Utah,Bounding and Counting Linear Regions of Deep Neural Networks
+615,Yasuhiro Fujita,"Preferred Networks, Inc.",Shin-ichi Maeda,"Preferred Networks, Inc.",Clipped Action Policy Gradient
+616,Lasse Espeholt,Google Brain Amsterdam,koray kavukcuoglu,DeepMind,IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures
+617,He Zhao,"FIT, Monash University",Mingyuan Zhou,University of Texas at Austin,Inter and Intra Topic Structure Learning with Word Embeddings
+618,Samuel Ainsworth,University of Washington,Emily Fox,University of Washington,oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis
+619,El Mahdi El Mhamdi,EPFL,Sébastien Rouault,EPFL,The Hidden Vulnerability of Distributed Learning in Byzantium
+620,Georgios Damaskinos,EPFL,Mahsa Taziki,EPFL,Asynchronous Byzantine Machine Learning (the case of SGD)
