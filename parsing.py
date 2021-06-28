@@ -12,14 +12,14 @@ count = 0
 path = os.path.dirname(os.path.abspath(__file__))
 
 # List of folders to iterate over
-folders = ["IJCAI-XML", "MLHC-XML", "NeurIPS-XML", "AAAI-XML", "ICML-XML"]
+folders = ["NeurIPS-XML"]
 
 # Iterate over folders
 for folder in folders:
     file_arr = os.listdir(path+'/'+folder)
 
     # Iterate over files in that folder
-    cols = ["year","first-author","last-author","journal/conference","title","number-of-authors", "paper-url", "DBLP-url"]
+    cols = ["year","first-author","first-author-affiliation","last-author","last-author-affiliation","journal/conference","title","number-of-authors", "paper-url", "DBLP-url"]
     rows = []
     for file in file_arr:
         # Parsing the XML file
@@ -60,5 +60,5 @@ for folder in folders:
 
     df = pd.DataFrame(rows, columns=cols)
 # Writing pandas dataframe to csv
-    df.to_csv(path+folder +'-output.csv')
+    df.to_csv(folder +'-output.csv')
 print("Total number of papers disregarded due to no authors:",count)
