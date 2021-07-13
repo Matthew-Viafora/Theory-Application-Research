@@ -3,8 +3,8 @@ import os
 
 path = os.path.dirname(os.path.abspath(__file__))
 
-aDF = pd.read_csv('/Users/hchachko/Documents/GitHub/Theory-Application-Research/Affiliation_Parsing/NeurIPS affiliations/NeurIPSaffiliations-2010-affiliation.csv')
-mDF = pd.read_csv(path+'/NeurIPS-XML-output.csv')
+aDF = pd.read_csv(path + '/NeurIPS affiliations-2020-affiliation.csv')
+mDF = pd.read_csv(path+'/T12020.csv')
 count= 0
 
 for aIndex, aRow in aDF.iterrows():
@@ -18,4 +18,4 @@ for aIndex, aRow in aDF.iterrows():
             print(aDF.iloc[aIndex,6])
             break
 
-mDF.to_csv(path+'/NeurIPSTEST.csv')
+mDF.to_csv(path+'/Final2020.csv')

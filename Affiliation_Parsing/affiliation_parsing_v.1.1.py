@@ -10,12 +10,12 @@ import re
 
 path = os.path.dirname(os.path.abspath(__file__))
 
-year = '2010'
+year = '2020'
 
 cols = ['first-author', 'first-author-affiliation', 'last-author', 'last-author-affiliation', 'title']
 rows = []
 
-nuerips_url = 'https://neurips.cc/Conferences/2010/Schedule?type=Poster'
+nuerips_url = 'https://neurips.cc/Conferences/2020/Schedule?type=Poster'
 
 html = requests.get(nuerips_url)
 soup = BeautifulSoup(html.content, 'html.parser')
@@ -37,7 +37,7 @@ for tag in tags:
             onclick = tag['onclick']
 
 
-            paper_tag_url = 'https://neurips.cc/Conferences/2010/Schedule?showEvent=' + onclick[11:15]
+            paper_tag_url = 'https://neurips.cc/Conferences/2020/Schedule?showEvent=' + onclick[11:15]
             html_2 = requests.get(paper_tag_url)
             soup_2 = BeautifulSoup(html_2.content, 'html.parser')
 
@@ -76,8 +76,8 @@ for tag in tags:
             number_regex_last = re.findall(r'\d+\-\d+', author_tag_last)
 
 
-            first_author_url = 'https://neurips.cc/Conferences/2010/Schedule?showSpeaker=' + number_regex_first[0]
-            last_author_url = 'https://neurips.cc/Conferences/2010/Schedule?showSpeaker=' + number_regex_last[0]
+            first_author_url = 'https://neurips.cc/Conferences/2020/Schedule?showSpeaker=' + number_regex_first[0]
+            last_author_url = 'https://neurips.cc/Conferences/2020/Schedule?showSpeaker=' + number_regex_last[0]
 
         
 
