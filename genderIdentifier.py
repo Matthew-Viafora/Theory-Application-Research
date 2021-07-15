@@ -12,7 +12,7 @@ url = 'https://www.microsoft.com/applied-sciences/people/saeed-amizadeh'
 htmlText = requests.get(url).text
 soup = BeautifulSoup(htmlText, 'html.parser')
 
-
+#test class
 # gathers all the p tags from the html
 soupstring = str(soup.find_all("p"))
 shetags = [" she ", " She "," her ", " Her "," hers "," Hers "]
