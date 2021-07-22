@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," MIT, CSAIL, Cambridge, MA"," MIT, CSAIL, Cambridge, MA",Learning to rank for synthesizing planning heuristics
+1," School of Info. Systems, Singapore Management Univ."," School of Info. Systems, Singapore Management Univ.",Robust repositioning to counter unpredictable demand in bike sharing systems
+2," Université Laval, Québec, QC, Canada"," Université Laval, Québec, QC, Canada",Generalizing the edge-finder rule for the cumulative constraint
+3," Saarland University, Saarbrücken, Germany"," Saarland University, Saarbrücken, Germany",Decoupled strong stubborn sets
+4, Xerox Research Center India, Xerox Research Center India,Demand prediction and placement optimization for electric vehicle charging stations
+5," Dept. of Computer Science and Engineering, Mississippi State University, Mississippi State, MS"," Dept. of Computer Science and Engineering, Mississippi State University, Mississippi State, MS",A POMDP approach to influence diagram evaluation
+6," Ben Gurion University of the Negev, Be'er Sheva, Israel"," Jerusalem College of Technology, Jerusalem, Israel",Anticipatory troubleshooting
+7," State Key Laboratory for Novel Software Technology, Nanjing University, China"," State Key Laboratory for Novel Software Technology, Nanjing University, China",Hierarchical model predictive control for multi-robot navigation
+8," Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Mumbai, India"," Department of Computer Science and Engineering, Indian Institute of Technology Bombay, Mumbai, India",Batch-switching policy iteration
+9," IBM Watson Health, Israel"," Huawei Technologies, Israel",In search of tractability for partial satisfaction planning
+10," University of Basel, Switzerland"," University of Freiburg, Germany",State-dependent cost partitionings for cartesian abstractions in classical planning
+11, Technion-Israel Institute of Technology, Technion-Israel Institute of Technology,Privacy preserving plans in partially observable environments
+12," Computer Science Department, Carnegie Mellon University, Pittsburgh, PA"," Computer Science Department, Carnegie Mellon University, Pittsburgh, PA",Sequential planning for steering immune system adaptation
+13," Dept. de Informática, Universidade Federal de Viçosa, Brazil"," Dept. Comp. Science, University of Alberta, Edmonton, Canada",Heuristic subset selection in classical planning
+14," Department of Automation, Xiamen University, China"," Department of Automation, Xiamen University, China",Learning predictive state representations via Monte-Carlo tree search
+15," Dept. Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain"," Dept. Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain",Automatic generation of high-level state features for generalized planning
+16," Department of Computing and Information Systems, University of Melbourne"," Department of Computing and Information Systems, University of Melbourne",Planning for a single agent in a multi-agent environment using FOND
+17," Department of Informatics, King's College London, United Kingdom"," Department of Statistics and Quantitative Methods, CRISP Research Centre, University of Milan-Bicocca, Italy",Heuristic planning for PDDL+ domains
+18, University of Amsterdam," University of Liverpool, University of Amsterdam",PAC greedy maximization with efficient bounds on information gain for sensor selection
+19," Research School of Computer Science, The Australian National University"," Research School of Computer Science, The Australian National University and NICTA, Canberra, ACT, Australia",Heuristics for numeric planning via subgoaling
+20," Dept. Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain"," Dept. Information and Communication Technologies, Universitat Pompeu Fabra, Barcelona, Spain",Hierarchical finite state controllers for generalized planning
+21," University of Basel, Basel, Switzerland"," University of Basel, Basel, Switzerland",Correlation complexity of classical planning domains
+22," Faculty of Industrial Engineering and Management, Technion, Israel"," Faculty of Industrial Engineering and Management, Technion, Israel",Blind search for Atari-like online planning revisited
+23," IBM T.J. Watson Research Center, Yorktown Heights, NY"," IBM T.J. Watson Research Center, Yorktown Heights, NY",Plan recognition as planning revisited
+24," Saarland University, Saarbrücken, Germany"," Saarland University, Saarbrücken, Germany",On state-dominance criteria in fork-decoupled search
+25," Saarland University, Saarbrücken, Germany"," Universidad Carlos III de Madrid, Madrid, Spain",Abstraction heuristics for symbolic bidirectional search
+26," New Mexico State University, Las Cruces, NM"," New Mexico State University, Las Cruces, NM",Goal recognition design with stochastic agent action outcomes
+27," University of Basel, Switzerland"," University of Basel, Switzerland",Graph-based factorization of classical planning problems
+28," University of Freiburg, Germany"," IBM Watson Health, Israel",Structural symmetries for fully observable nondeterministic planning
+29, MIT, MIT,Resolving over-constrained conditional temporal problems using semantically similar alternatives

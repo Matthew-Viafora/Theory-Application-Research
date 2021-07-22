@@ -1,0 +1,39 @@
+,first-author-affiliation,last-author-affiliation,title
+0," LAMSADE, Université Paris-Dauphine"," LIPADE, Université Paris-Dauphine",Rationalisation of profiles of abstract argumentation frameworks: extended abstract
+1," DEMACS, University of Calabria, Italy"," DIBRIS, University of Genova, Italy",Unsatisfiable core shrinking for anytime answer set optimization
+2," Vrije Universiteit Amsterdam Amsterdam, The Netherlands"," Max-Planck-Institut für Informatik, Saarland Informatics Campus, Saarbrücken, Germany","A verified SAT solver framework with learn, forget, restart and incrementality"
+3," Department of Computer Science, Rutgers University, New Brunswick"," Cheriton School of Computer Science, University of Waterloo, Canada",Concerning referring expressions in query answers
+4," Faculty of Computer Science, Technische Universität Dresden, Germany"," Computer Science Department, University of California, Los Angeles",Open-world probabilistic databases: an abridged report
+5, UC Santa Cruz, Google Inc. and UC Santa Cruz,Efficient techniques for crowdsourced top-k lists
+6," Computational Cognitive Science Lab., University of Adelaide"," School of Psychology, University of New South Wales",Predicting human similarity judgments with distributional models: the value of word associations
+7," Stanford University, Stanford, California"," Stanford University, Stanford, California",Ensuring rapid mixing and low bias for asynchronous Gibbs sampling
+8, University College London, University College London,Intuitionistic layered graph logic
+9," Insight Centre for Data Analytics, School of Computer Science, University College Dublin, Ireland"," Insight Centre for Data Analytics, School of Computer Science, University College Dublin, Ireland",User-based opinion-based recommendation
+10, Harvard University, Vanderbilt University,Enhancing crowdworkers' vigilance
+11," Robotics and Biology Laboratory, Technische Universität Berlin, Germany"," Robotics and Biology Laboratory, Technische Universität Berlin, Germany",Lessons from the Amazon picking challenge: four aspects of building robotic systems
+12, Stanford University, Stanford University,Lexicons on demand: neural word embeddings for large-scale text analysis
+13," Ben-Gurion University, Israel"," National University of Singapore, Singapore",Which is the fairest (rent division) of them all?: extended abstract
+14," Université Clermont Auvergne, LIMOS, France"," Université de Lyon, INSA-Lyon, LIRIS, CNRS, UMR, France",Using constraint programming to solve a cryptanalytic problem
+15," Computer and Vision Research Center, The University of Texas at Austin, Austin, TX"," School of Informatics and Computing, Indiana University, Bloomington, IN",Multi-type activity recognition from a Robot's viewpoint
+16," IBM T. J. Watson Research Center, Yorktown Heights, NY"," Weill Cornell Medical College, New York City, NY",Model accuracy and runtime tradeoff in distributed deep learning: a systematic study
+17, University of Texas at Austin, University of Nebraska Omaha,First-order modular logic programs and their conservative extensions: extended abstract
+18, The University of Texas at Austin and National Science Foundation, University of Kentucky,"Solving very hard problems: cube-and-conquer, a hybrid SAT solving method"
+19," Department of Computer Science, University of Southern California"," Department of Computer Science, University of Southern California",Summary: multi-agent path finding with kinematic constraints
+20, Indiana University, University of Houston,Learning and applying case adaptation rules for classification: an ensemble approach
+21, Cornell Univ., Cornell Univ.,An end-to-end system for accomplishing tasks with modular robots: perspectives for the AI community
+22," TU Wien, Austria"," JKU Linz, Austria",Blockedness in propositional logic: are you satisfied with your neighborhood?
+23," DeepMind and FHI, University of Oxford", Australian National University,On Thompson sampling and asymptotic optimality
+24," Algorithms and Complexity Group, TU Wien, Austria"," Algorithms and Complexity Group, TU Wien, Austria",A SAT approach to branchwidth
+25," Bielefeld University, Bielefeld"," HONDA Research Institute Europe, Offenbach am Main",Self-adjusting memory: how to deal with diverse drift types
+26," Department of Computer Science and Engineering, Indian Institute of Technology Madras, Chennai"," Department of Computer Science and Engineering, Indian Institute of Technology Madras, Chennai",Competence guided model for casebase maintenance
+27," Dept. of Computer Science, University of Texas at Austin"," School of Information, University of Texas at Austin",The many benefits of annotator rationales for relevance judgments
+28," LASA Laboratory, Ecole Polytechnique Federale de Lausanne, Switzerland"," LASA Laboratory, Ecole Polytechnique Federale de Lausanne, Switzerland",Dynamical system-based motion planning for multi-arm systems: reaching for moving objects
+29," Department of Computer Science, University of Brasília"," Department of Computer Science, University of Liverpool",KSP: a resolution-based prover for multimodal K abridged report
+30," Department of Informatics, University of Oslo, Norway"," Department of Informatics, University of Oslo, Norway",nanoCoP: natural non-clausal theorem proving
+31, Massachusetts Institute of Technology, University of Rochester,Grounding abstract spatial concepts for language interaction with robots
+32, UC Berkeley, UC Berkeley,Adapting deep network features to capture psychological representations: an abridged report
+33," University of Southampton, Southampton, United Kingdom"," Imperial College, London, United Kingdom",Evaluating market user interfaces for electric vehicle charging using Bid2Charge
+34," Korea University, Seoul, South Korea"," Virginia Tech., Arlington, VA",Local topic discovery via boosted ensemble of nonnegative matrix factorization
+35, UC Berkeley, UC Berkeley and OpenAI,Value iteration networks
+36," Data61, CSIRO, Australian National University"," MERS Group, Massachusetts Institute of Technology",I-dual: solving constrained SSPs via heuristic search in the dual space
+37," Center for Artificial Intelligence in Society, University of Southern California, LA, CA"," Center for Artificial Intelligence in Society, University of Southern California, LA, CA",Maximizing awareness about HIV in social networks of homeless youth with limited information

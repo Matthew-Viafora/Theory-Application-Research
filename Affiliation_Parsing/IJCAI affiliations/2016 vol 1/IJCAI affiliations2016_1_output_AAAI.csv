@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Data61, NICTA"," UNSW and Data61, NICTA",Interdependent scheduling games
+1," Singapore Management University, Singapore"," New Mexico State Univ., Las Cruces, NM",Scalable greedy algorithms for task/resource constrained multi-agent stochastic planning
+2," North Carolina State University, Raleigh, NC"," North Carolina State University, Raleigh, NC",Coco: runtime reasoning about conflicting commitments
+3, University of Nottingham, University of Nottingham,Verifying existence of resource-bounded coalition uniform strategies
+4," Department of Informatics, Athens University of Economics and Business, Athens, Greece"," Department of Informatics, Athens University of Economics and Business, Athens, Greece",On truthful mechanisms for maximin share allocations
+5," DEMACS, University of Calabria, Italy"," DEMACS, University of Calabria, Italy",Modeling and reasoning about NTU games via answer set programming
+6," Rensselaer Polytechnic Institute, Troy, NY"," Rensselaer Polytechnic Institute, Troy, NY",Randomized social choice functions under metric preferences
+7, University of Salerno, University of Salerno,Generalized discrete preference games
+8," NICTA and UNSW, Sydney, Australia"," LAMSADE, Université Paris-Dauphine, Paris, France",Computing pareto optimal committees
+9," Data61 and UNSW, Australia", UNSW Australia and Data61,Control of fair division
+10," Microsoft Research, UK", Carnegie Mellon Univ.,A characterization of voting power for discrete weight distributions
+11," Microsoft Research, UK", Carnegie Mellon Univ.,Misrepresentation in district voting
+12," CNRS, LAMSADE, Université Paris-Dauphine, France"," CNRS, LAMSADE, Université Paris-Dauphine, France",Conditional and sequential approval voting on combinatorial domains
+13," IBISC, Univ. Evry, France"," IRIT, Univ. Toulouse, France",On logics of strategic ability based on propositional control
+14," TU Wien, Vienna, Austria"," TU Berlin, Germany","Complexity of efficient and envy-free resource allocation: few agents, resources, or utility levels"
+15," Institute for Computer Science and Control, Hungarian Academy of Sciences, Budapest, Hungary"," Institute for Computer Science and Control, Hungarian Academy of Sciences, Budapest, Hungary",The complexity of playing durak
+16, Technische Universität München, Technische Universität München,Proving the incompatibility of efficiency and strategyproofness via SMT solving
+17," Hebrew University of Jerusalem, Jerusalem, Israel"," University of Illinois Urbana-Champaign, Champaign",To give or not to give: fair division for single minded valuations
+18," University of Oxford, United Kingdom"," University of Toulouse, France",Pairwise diffusion of preference rankings in social networks
+19," Tsinghua University, China"," Tsinghua University, China",Facility location with minimax envy
+20," University of Patras & CTI 'Diophantus', Greece"," CNRS, Université Paris-Dauphine, France",Achieving proportional representation in conference programs
+21," University of Patras, Greece", Carnegie Mellon University,Subset selection via implicit utilitarian voting
+22, Washington University in St. Louis, Washington University in St. Louis,Trading on a rigged game: outcome manipulation in prediction markets
+23," Department of Computer Science, Trinity University, San Antonio, TX"," Department of Computer Science, Trinity University, San Antonio, TX",Congestion games with polytopal strategy spaces
+24, IST Austria, IST Austria,Robust draws in balanced knockout tournaments
+25," Department of Computer Science, Middlesex University, London, UK"," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, China",Verifying pushdown multi-agent systems against strategy logics
+26," Zhejiang University of Finance and Economics, Hangzhou, China"," Shanghai Jiao Tong University, Shanghai, China",Truthfulness of a proportional sharing mechanism in resource exchange
+27," University of Vienna, Faculty of Computer Science, Vienna, Austria"," University of Vienna, Faculty of Computer Science, Vienna, Austria",Better strategyproof mechanisms without payments or prior: an analytic approach
+28," Teesside University, Middlesbrough, UK"," Teesside University, Middlesbrough, UK",Approximating value equivalence in interactive dynamic influence diagrams using behavioral coverage
+29," King's College London, UK"," Lancaster University, UK",Selective norm monitoring

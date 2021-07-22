@@ -1,0 +1,80 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Department of Computer Science, North Carolina State University, Raleigh, NC"," Department of Computer Science, North Carolina State University, Raleigh, NC",Robust norm emergence by revealing and reasoning about context: socially intelligent agents for enhancing privacy
+1, University of Oxford, University of Oxford,Synthesis of controllable nash equilibria in quantitative objective games
+2," Centrum Wiskunde & Informatica, Amsterdam, The Netherlands"," Department of Informatics, Athens University of Economics and Business, Athens, Greece",Comparing approximate relaxations of envy-freeness
+3," University of Salerno, Italy"," University of Calabria, Italy",Reasoning about consensus when opinions diffuse through majority dynamics
+4," UNSW Sydney and Data61, CSIRO, Australia"," Ben-Gurion University, Be'er Sheva, Israel",Egalitarian committee scoring rules
+5," School of Physical and Mathematical Sciences, Nanyang Technological University"," Department of Computer Science, Stanford University",Truthful fair division without free disposal
+6," Laboratoire Genie Industriel, CentraleSupélec, Université Paris-Saclay, Gif-sur-Yvette, France"," Laboratoire Genie Industriel, CentraleSupélec, Université Paris-Saclay, Gif-sur-Yvette, France",Accountable approval sorting
+7," Laboratoire IBISC, UEVE, France"," DIETI, Università degli Studi di Napoli, Italy",Alternating-time temporal logic on finite traces
+8, Massachusetts Institute of Technology, Massachusetts Institute of Technology,Managing communication costs under temporal uncertainty
+9, Indian Institute of Science, Indian Institute of Science,Fair division under cardinality constraints
+10, University of Toronto, University of Toronto,Big city vs. the great outdoors: voter distribution and how it affects gerrymandering
+11," Department of Informatics, University of Zurich"," Department of Informatics, University of Zurich",Non-decreasing payment rules for combinatorial auctions
+12, Technische Universität München, Technische Universität München,An analytical and experimental comparison of maximal lottery schemes
+13," Faculty of Informatics, Masaryk University, Brno, Czech Republic"," Faculty of Informatics, Masaryk University, Brno, Czech Republic",Solving patrolling problems in the internet environment
+14," Department of Informatics, University of Zurich"," Department of Informatics, University of Zurich",Combinatorial auctions via machine learning-based preference elicitation
+15," TU Berlin, Berlin, Germany"," Ben-Gurion University, Be'er Sheva, Israel",Pairwise liquid democracy
+16," EPFL, Switzerland"," EPFL, Switzerland",Multiwinner voting with fairness constraints
+17," University of Nebraska-Lincoln, Lincoln, NE"," Trinity University, San Antonio, TX",An FPTAS for computing nash equilibrium in resource graph games
+18," IIIA, CSIC, Barcelona, Spain and Universitat Autònoma de Barcelona, Barcelona, Spain"," University of Southampton, Southampton, United Kingdom",Vocabulary alignment for collaborative agents: a study with real-world multilingual how-to instructions
+19, The University of Texas at El Paso, Washington University in St. Louis,Bidding in periodic double auctions using heuristics and dynamic Monte Carlo tree search
+20, New York University, University of Texas at Austin,When does diversity of agent preferences improve outcomes in selfish routing?
+21," TU Wien, Austria"," TU Wien, Austria",Computing the schulze method for large-scale preference data sets
+22, University of Liverpool, University of Liverpool,Facility reallocation on the line
+23," Institute for Advanced Manufacturing, University of Nottingham, Nottingham, UK"," School of Computer Science, University of Nottingham, Nottingham, UK",An operational semantics for a fragment of PRS
+24," Department of Informatics, University of Bergen, Norway"," Algorithms group, University of Sheffield, UK",A structural approach to activity selection
+25," Department of Computer Science, Ariel University"," Department of Computer Science, Bar-Ilan University",Negotiation strategies for agents with ordinal preferences
+26," AGH University of Science and Technology, Krakow, Poland"," Ben-Gurion University, Be'er Sheva, Israel",Opinion diffusion and campaigning on society graphs
+27," University of Maryland, College Park"," University of Maryland, College Park",On the complexity of chore division
+28," Carnegie Mellon University, Pittsburgh, PA"," Carnegie Mellon University, Pittsburgh, PA",Trembling-hand perfection in extensive-form games with commitment
+29," University of Salerno, Italy"," University of Essex, UK",Probabilistic verification for obviously strategyproof mechanisms
+30," Gran Sasso Science Institute, L'Aquila, Italy and University of L'Aquila, L'Aquila, Italy"," Gran Sasso Science Institute, L'Aquila, Italy",On fair price discrimination in multi-unit markets
+31, Duke University, Microsoft Research,An axiomatic view of the parimutuel consensus wagering mechanism
+32," Harvard University, SEAS, Cambridge, MA"," Harvard University, SEAS, Cambridge, MA",Deep learning for multi-facility location mechanism design
+33, PROWLER.io, PROWLER.io,Balancing two-player stochastic games with soft Q-learning
+34," University of Bergen, Bergen, Norway"," Ben-Gurion University, Beersheba, Israel","When rigging a tournament, let greediness blind you"
+35," University of Bergen, Bergen, Norway"," Ben-Gurion University, Beersheba, Israel",Winning a tournament by any means necessary
+36," School of Computing, Media and the Arts, Teesside University"," INESC-ID and Instituto Superior Tecnico, Universidade de Lisboa",Fostering cooperation in structured populations through local and global interference strategies
+37," University of Electronic Science and Technology of China, Chengdu, China"," University of Electronic Science and Technology of China, Chengdu, China",Payoff control in the iterated prisoner's dilemma
+38," TU Wien, Institut für Logic and Computation, Wien, Austria"," Université Paris-Dauphine, PSL Research University, CNRS, LAMSADE, Paris cedex 16, France",Ceteris paribus majority for social ranking
+39, RIKEN Center for Advanced Intelligence Project, National Institute of Informatics,Computational aspects of the preference cores of supermodular two-scenario cooperative games
+40," Technion, Israel", Drexel University,Computational social choice meets databases
+41," University of Cyprus, Department of Computer Science"," Imperial College London, Department of Computing",Symbolic synthesis of fault-tolerance ratios in parameterised multi-agent systems
+42," Thales Research & Technology, Palaiseau cedex, France"," Thales Research & Technology, Palaiseau cedex, France",Explaining multi-criteria decision aiding models with an extended shapley value
+43," Technische Universität Wien, Austria"," University of Warsaw, Poland",Approval-based multi-winner rules and strategic voting
+44," Bristol Robotics Laboratory and University of Bristol and University of the West of England, Bristol"," Bristol Robotics Laboratory and University of the West of England, Bristol",Combining opinion pooling and evidential updating for multi-agent consensus
+45," Université Paris-Dauphine, PSL Research University, CNRS, LAMSADE, Paris, France"," Department of Informatics, Kyushu University, Fukuoka, Japan",Service exchange problem
+46," Department of Computer Science, Bar Ilan University, Israel"," Department of Computer Science, Bar Ilan University, Israel",Tractable (simple) contests
+47," University of Electronic Science and Technology of China, Chengdu, China"," University of Electronic Science and Technology of China, Chengdu, China",Customer sharing in economic networks with costs
+48, Stony Brook University, Northwestern University,Dynamic fair division problem with general valuations
+49," School of Engineering, RMIT University"," School of ITEE, University of Queensland",Integrating demand response and renewable energy in wholesale market
+50, Washington University in St. Louis, University of Maryland,Equilibrium behavior in competing dynamic matching markets
+51," School of Computer Science, Carnegie Mellon University"," School of Computer Science, Carnegie Mellon University",What game are we playing? end-to-end learning in normal and extensive form games
+52," Department of Computing, Imperial College London, UK"," Department of Computing, Imperial College London, UK",Verifying emergence of bounded time properties in probabilistic swarm systems
+53," Warsaw University of Technology, Poland", University of Kentucky,Maximin share allocations on cycles
+54, University of Southern California, University of Southern California,Multi-agent path finding with deadlines
+55, RIKEN Center for Advanced Intelligence Project, CyberAgent Inc.,Optimal bidding strategy for brand advertising
+56," TU Wien, Austria"," TU Wien, Austria",Preference orders on families of sets: when can impossibility results be avoided?
+57," Shanghai Key Laboratory of Scalable Computing and Systems, Shanghai Jiao Tong University, China"," Department of Computer Science and Technology, Nanjing University, China",Online pricing for revenue maximization with unknown time discounting valuations
+58," Politecnico di Milano, Milano, Italy"," Politecnico di Milano, Milano, Italy",Leadership in singleton congestion games
+59, University of Southern California, University of Southern California,The price of usability: designing operationalizable strategies for security games
+60, Kyoto University, Kyoto University,Dynamically forming a group of human forecasters and machine forecaster for forecasting economic indicators
+61," IRIT, University of Toulouse"," IRIT, CNRS, Toulouse",Goal-based collective decisions: axiomatics and computational complexity
+62," Department of Computer Science, University of Bath, United Kingdom"," Department of Computer Science, University of Bath, United Kingdom",Deontic sensors
+63," Department of Computer Science, Ariel University"," Department of Computer Science, Stanford University",Democratic fair allocation of indivisible goods
+64," Ariel University, Ariel, Israel"," Bar-Ilan University, Ramat-Gan, Israel",Double auctions in markets for multiple kinds of goods
+65," Ariel University, Ariel, Israel"," Ariel University, Ariel, Israel",Redividing the cake
+66," Institute for Interdisciplinary Information Sciences, Tsinghua University"," Institute for Interdisciplinary Information Sciences, Tsinghua University",Ex-post IR dynamic auctions with cost-per-action payments
+67, Swarthmore College, Carnegie Mellon University,Designing the game to play: optimizing payoff structure in security games
+68," Nokia Bell Labs, Nozay, France"," Nokia Bell Labs, Nozay, France",Efficient computation of approximate equilibria in discrete colonel blotto games
+69," Université de Lyon, CNRS, Université Lyon 1, LIRIS, Lyon, France and University of Transport and Communications, Hanoi, Vietnam"," University of Southampton, Southampton, United Kingdom",A decentralised approach to intersection traffic management
+70," University of Denver, Denver, CO"," Ben-Gurion University, Be'er-Sheva, Israel",Extended increasing cost tree search for non-unit cost domains
+71," University of Michigan, Ann Arbor"," University of Michigan, Ann Arbor",A cloaking mechanism to mitigate market manipulation
+72," School of Computer Science and Engineering, Southeast University, China"," Department of Computer Science, City University of Hong Kong, Hong Kong, China",Budget-feasible procurement mechanisms in two-sided markets
+73," School of Computer Science and Engineering, University of Electronic Science and Technology of China, China"," School of Computer Science and Engineering, University of Electronic Science and Technology of China, China",Exact algorithms and complexity of kidney exchange
+74," Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China"," Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China",Keeping in touch with collaborative UAVs: a deep reinforcement learning approach
+75," School of Computer Software, Tianjin University", Imperial College London,Recurrent deep multiagent Q-learning for autonomous brokers in smart grid
+76," School of Information Science and Engineering, Central South University, Changsha, China and Chair of Economic Theory, Saarland University, Saarbrücken, Germany"," School of Information Science and Engineering, Central South University, Changsha, China",Multiwinner voting with restricted admissible sets: complexity and strategyproofness
+77," Ben-Gurion University of the Negev, Beer-Sheva, Israel"," Ben-Gurion University of the Negev, Beer-Sheva, Israel",Socially motivated partial cooperation in multi-agent local search
+78, Kyushu University," Kyushu University and RIKEN, Center for Advanced Intelligence Project AIP",Strategyproof and fair matching mechanism for union of symmetric M-convex constraints

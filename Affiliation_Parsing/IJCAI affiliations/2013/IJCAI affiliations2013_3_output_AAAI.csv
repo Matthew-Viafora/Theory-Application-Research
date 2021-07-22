@@ -1,0 +1,36 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Department of Computer Science, University of Oxford"," University of California, Santa Cruz and IBM Research, Almaden",Robust constraint satisfaction and local hidden variables in quantum mechanics
+1," Univ. Lille-Nord de France, CRIL, CNRS UMR, Lens"," Univ. Paris-Sud, LRI, CNRS UMR, INRIA Saclay, Orsay",Just-in-time compilation of knowledge bases
+2," IRIT, University of Toulouse, France"," IRIT, University of Toulouse, France",Maintaining alternative values in constraint-based configuration
+3," LERIA, Université d'Angers, Angers Cedex 01, France"," LERIA, Université d'Angers, Angers Cedex 01, France",Breakout local search for the vertex separator problem
+4," Université Montpellier, Montpellier, France"," NICTA & UNSW, Sydney, Australia",Detecting and exploiting subproblem tractability
+5," CNRS, U. Montpellier, France"," NICTA, UNSW, Sydney, Australia",Constraint acquisition via partial queries
+6," LAMSADE, Université Paris-Dauphine, Paris, France"," LAMSADE, Université Paris-Dauphine, Paris, France",On the complexity of trick-taking card games
+7," Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia and Key Laboratory of High Confidence Software Technologies, Peking University, Beijing, China"," Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia and Key Laboratory of High Confidence Software Technologies, Peking University, Beijing, China",Comprehensive score: towards efficient local search for SAT with long clauses
+8," Department of Computer Science, Sun Yat-Sen University"," Department of Management Sciences, City University of Hong Kong",A tree-based tabu search algorithm for the manpower allocation problem with time windows and job-teaming constraints
+9," Univ. of Melbourne, Melbourne, Australia"," NICTA and UNSW, Sydney, Australia",On the complexity of global scheduling constraints under structural restrictions
+10," Dept. of Computer Science, Ben-Gurion Univ. of the Negev, Beer-Sheva, Israel"," Dept. of Comp. Sci. and SE and NICTA Victoria Laboratory, University of Melbourne, Australia",Breaking symmetries in graph representation
+11," Royal Holloway, University of London, UK"," University of Warwick, UK",Variable elimination in binary CSP via forbidden patterns
+12," Institute for Integrated and Intelligent Systems, Griffith University and NICTA, Australia"," Institute for Integrated and Intelligent Systems, Griffith University and NICTA, Australia",Weight-enhanced diversification in stochastic local search for satisfiability
+13," University of Grenoble, CNRS, Grenoble INP, LIG"," University of Grenoble, CNRS, Grenoble INP, LIG",An approach to abductive reasoning in equational logic
+14," Lamsade, Université Paris Dauphine, France"," LIP6, UPMC, France",Dominance rules for the choquet integral in multiobjective dynamic programming
+15," University of Calabria, Italy"," University of Calabria, Italy","Constraint satisfaction and fair multi-objective optimization problems: foundations, complexity, and islands of tractability"
+16," CRIL, Université d'Artois & CNRS, Lens, France"," CRIL, Université d'Artois & CNRS, Lens, France",Preserving partial solutions while relaxing constraint networks
+17," School of Computer Science, Reykjavik University, Iceland"," School of Computer Science, Reykjavik University, Iceland",Sufficiency-based selection strategy for MCTS
+18," National Institute of Informatics, Tokyo, Japan and JST, ERATO, Japan and Kobe University, Kobe, Japan"," Kobe University, Kobe, Japan",DeQED: an efficient divide-and-coordinate algorithm for DCOP
+19," School of Computer Science, University of St Andrews, Fife, UK"," School of Computer Science, University of St Andrews, Fife, UK",Extending simple tabular reduction with short supports
+20," Department of Knowledge Engineering, Maastricht University, Netherlands"," Department of Knowledge Engineering, Maastricht University, Netherlands",Monte Carlo *-minimax search
+21," Computer Science Department, Cornell University"," Computer Science Department, Cornell University",Double-wheel graphs are graceful
+22," Computing Science Dept., University of Alberta, Edmonton, Canada"," Dept. of Computer Science, University of California, Irvine, Irvine",Predicting the size of depth-first branch and bound search trees
+23," Planning and Learning Group, Universidad Carlos III de Madrid, Leganés, Madrid, Spain"," Information Systems Engineering, Ben Gurion University, Beer-Sheva, Israel",Target-value search revisited
+24," Cork Constraint Computation Centre, University College Cork, Ireland"," IBM Watson Research Center, Yorktown Heights, NY",Algorithm portfolios based on cost-sensitive hierarchical clustering
+25," CASL, UCD, Ireland and IST, INESC-ID, Portugal"," CASL, UCD, Ireland",On computing minimal correction subsets
+26, IBM Corp., IBM Corp.,Search strategies for optimal multi-way number partitioning
+27," NICTA and UNSW, Sydney, Australia"," NICTA and UNSW, Sydney, Australia",Three generalizations of the FOCUS constraint
+28," University of Alberta, Edmonton, AB, Canada"," University of Alberta, Edmonton, AB, Canada",Subset selection of search heuristics
+29," Universitat Politècnica de Catalunya, Barcelona, Spain"," University of California, Irvine",Semiring-based mini-bucket partitioning schemes
+30," Department of Computer Science, University of California, Los Angeles, Los Angeles, CA"," Department of Computer Science, University of California, Los Angeles, Los Angeles, CA",Improved bin completion for optimal bin packing and number partitioning
+31," Zuse Institute Berlin, Germany"," Zuse Institute Berlin, Germany",Forward perimeter search with controlled use of memory
+32," University of Denver, Denver, CO"," University of Denver, Denver, CO",Minimizing writes in parallel external memory search
+33," CS Department, Ben-Gurion University, Israel"," Faculty of IE&M, Technion, Israel",Towards rational deployment of multiple heuristics in A*
+34," State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China"," State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China",A unified approximate nearest neighbor search scheme by combining data structure and hashing

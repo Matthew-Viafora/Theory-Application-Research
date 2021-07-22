@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Graduate School of Arts and Sciences, The University of Tokyo"," IBM Research, Ireland",Efficient optimal search under expensive edge cost computation
+1, University of Texas at Austin, University of Texas at Austin,Reduction techniques for model checking and learning in MDPs
+2, Massachusetts Institute of Technology, Massachusetts Institute of Technology,Faster conflict generation for dynamic controllability
+3," University of Alberta, Canada"," University of Alberta, Canada",Additive merge-and-shrink heuristics for diverse action costs
+4," Universitat Pompeu Fabra, Spain"," Universitat Pompeu Fabra, Spain and ICREA",Purely declarative action representations are overrated: classical planning with simulators
+5," School of Computing and Engineering, University of Huddersfield, UK"," Computer Science Department, Auckland University, New Zealand",On creating complementary pattern databases
+6," Saarland University, Saarbrücken, Germany"," Saarland University, Saarbrücken, Germany",Beyond forks: finding and ranking star factorings for decoupled search
+7," Data61, Canberra, Australia and The Australian National University, Canberra, Australia"," The Australian National University, Canberra, Australia and Fondazione Bruno Kessler, Trento, Italy",Intelligent belief state sampling for conformant planning
+8," Carnegie Mellon University, Pittsburgh, PA"," Carnegie Mellon University, Pittsburgh, PA",Softpressure: a schedule-driven backpressure algorithm for coping with network congestion
+9," State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China"," State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China",Switched linear multi-robot navigation using hierarchical model predictive control
+10," Department of Computer Science, University of Toronto, Toronto, Canada"," Department of Computer Science, University of Toronto, Toronto, Canada",Numeric planning via abstraction and policy guided search
+11, Institute of Statistical Mathematics, NEC Corporation,Factorized asymptotic bayesian policy search for POMDPs
+12, Technion-Israel Institute of Technology," College of Information and Computer Sciences, University of Massachusetts Amherst",Equi-reward utility maximizing design in stochastic environments
+13," School of Computer Science and Technology, University of Science and Technology of China, China"," School of Computer Science and Technology, University of Science and Technology of China, China",Integrating answer set programming with semantic dictionaries for robot task planning
+14," RMIT University, Melbourne, Australia"," RMIT University, Melbourne, Australia",Deceptive path-planning
+15," Department of Computer Science, University of Regina, Canada"," Department of Computer Science, University of Regina, Canada",Lossy compression of pattern databases using acyclic random hypergraphs
+16," The Australian National University, Canberra (AUS)"," The Australian National University, Canberra (AUS)",Landmarks for numeric planning problems
+17," Universitat Pompeu Fabra, Barcelona, Spain"," Universitat Pompeu Fabra, Barcelona, Spain",Generating context-free grammars using classical planning
+18," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany"," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany","Search and learn: on dead-end detectors, the traps they set, and trap learning"
+19," Ben Gurion University of the Negev, Be'er Sheva, Israel"," Washington University in St. Louis, St. Louis, MO","Efficient, safe, and probably approximately complete learning of action models"
+20, National Institute of Informatics, National Institute of Informatics,An improved approximation algorithm for the subpath planning problem and its generalization
+21," Naveen Jindal School of Management, University of Texas at Dallas"," Naveen Jindal School of Management, University of Texas at Dallas",Robust advertisement allocation
+22," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany"," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany",From qualitative to quantitative dominance pruning for optimal planning
+23," School of Information Systems, Singapore Management University"," School of Information Systems, Singapore Management University",Mechanism design for strategic project scheduling
+24," Quantum Artificial Intelligence Laboratory, NASA Ames Research Center and USRA Research Institute for Advanced Computer Science (RIACS)"," Planning and Scheduling Group, NASA Ames Research Center",Temporal planning for compilation of quantum approximate optimization circuits
+25," Bar Ilan University, Ramat-Gan, Israel"," Bar Ilan University, Ramat-Gan, Israel",Heuristic online goal recognition in continuous domains
+26," Computer Science Department, New Mexico State University, Las Cruces, NM"," Computer Science Department, New Mexico State University, Las Cruces, NM",New metrics and algorithms for stochastic goal recognition design problems
+27," IRIT, University of Toulouse, Toulouse, France and AIRG, Western Sydney University, Penrith, Australia"," School of Data and Computer Science, Sun Yat-sen University, Guangzhou, China",Hierarchical task network planning with task insertion and state constraints
+28, Google Canada," IBM Research, Ireland",A scalable approach to chasing multiple moving targets with multiple agents
+29," The Institute of Simulation Engineering, College of Information System and Management, NUDT, Changsha, China"," Science and Technology on Information Systems Engineering Laboratory, College of Information System and Management, NUDT, Changsha, China",Bridging the gap between observation and decision making: goal recognition and flexible resource allocation in dynamic network interdiction
