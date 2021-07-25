@@ -1,0 +1,20 @@
+1839,1839,Xiao-Ming Wu,Columbia University,Shuo-Yen Robert Li,None,Improved Analysis of Clipping Algorithms for Non-convex Optimization.
+1840,1840,Samory Kpotufe,Princeton University,Samory Kpotufe,Princeton University,A Continuous-Time Mirror Descent Approach to Sparse Phase Retrieval.
+1841,1841,Yusuke Watanabe,The Institute of Statistical Mathematics,Kenji Fukumizu,Institute of Statistical Mathematics / Preferred Networks / RIKEN AIP,Federated Accelerated Stochastic Gradient Descent.
+1842,1842,Jean-Pascal Pfister,Cambridge University,Mate Lengyel,University of Cambridge,AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients.
+1843,1843,Emily Fox,"University of Washington, Apple",Alan S Willsky,Massachusetts Institute of Technology,SGD with shuffling: optimal rates without component convexity and large epoch requirements.
+1844,1844,Jong Kyoung Kim,POSTECH,Seungjin Choi,BARO AI,No-Regret Learning and Mixed Nash Equilibria: They Do Not Mix.
+1845,1845,Edward Vul,Massachusetts Institute of Technology,Josh Tenenbaum,MIT,Generalized Leverage Score Sampling for Neural Networks.
+1846,1846,Shobha Venkataraman,AT&T Labs -- Research,Oliver Spatscheck,None,Passport-aware Normalization for Deep Model Protection.
+1847,1847,Novi Quadrianto,University of Sussex and HSE,Dale Schuurmans,Google Brain & University of Alberta,"Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets."
+1848,1848,Arthur Choi,UCLA,Adnan Darwiche,UCLA,Neural Networks Fail to Learn Periodic Functions and How to Fix It.
+1849,1849,Shuheng Zhou,ETH Zurich,Shuheng Zhou,ETH Zurich,Understanding Approximate Fisher Information for Fast Convergence of Natural Gradient Descent in Wide Neural Networks.
+1850,1850,Manqi Zhao,Boston Univesity,Venkatesh Saligrama,Boston University,Collegial Ensembles.
+1851,1851,Bernhard Nessler,TU-Graz,Wolfgang Maass,Graz University of Technology,Accelerating Training of Transformer-Based Language Models with Progressive Layer Dropping.
+1852,1852,Sundeep Rangan,Qualcomm,Vivek K Goyal,Massachusetts Institute of Technology,Top-k Training of GANs: Improving GAN Performance by Throwing Away Bad Samples.
+1853,1853,Menachem Fromer,Hebrew University,Amir Globerson,"Tel Aviv University, Google",Towards Theoretically Understanding Why Sgd Generalizes Better Than Adam in Deep Learning.
+1854,1854,Yoshinobu Kawahara,Osaka University / RIKEN,Jeff A Bilmes,"University of Washington, Seattle",A Generalized Neural Tangent Kernel Analysis for Two-layer Neural Networks.
+1855,1855,Brian Kulis,UC Berkeley,Trevor Darrell,UC Berkeley,Delta-STN: Efficient Bilevel Optimization for Neural Networks using Structured Response Jacobians.
+1856,1856,Le Song,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Coresets for Robust Training of Deep Neural Networks against Noisy Labels.
+1857,1857,Matthew B Blaschko,KU Leuven,Andreas Bartels,Centre for Integrative Neuroscience,Learning Deep Attribution Priors Based On Prior Knowledge.
+1858,1858,Ingo Steinwart,Los Alamos National Laboratory,Andreas Christmann,University of Bayreuth,Estimating Training Data Influence by Tracing Gradient Descent.

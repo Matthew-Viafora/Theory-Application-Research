@@ -1,0 +1,20 @@
+839,839,George Konidaris,Duke University,Andrew G Barto,University of Massachusetts,Invertible Gaussian Reparameterization: Revisiting the Gumbel-Softmax.
+840,840,Hamid R Maei,Stanford University,Rich Sutton,"DeepMind, U Alberta",DisARM: An Antithetic Gradient Estimator for Binary Latent Variables.
+841,841,Allie Fletcher,UCLA,Sundeep Rangan,Qualcomm,Efficient semidefinite-programming-based inference for binary and multi-class MRFs.
+842,842,Pari Ram,IBM Research,Alexander Gray,Skytree Inc. and Georgia Tech,Gradient Estimation with Stochastic Softmax Tricks.
+843,843,Liefeng Bo,Intel Labs,Cristian Sminchisescu,Lund University/Google,Quantized Variational Inference.
+844,844,Arno Onken,University of Glasgow,Klaus H Obermayer,Technical University of Berlin,Approximation Based Variance Reduction for Reparameterization Gradients.
+845,845,Kaushik Sinha,The Ohio State University,Mikhail Belkin,Ohio State University,VarGrad: A Low-Variance Gradient Estimator for Variational Inference.
+846,846,Jaakko Luttinen,Aalto University,Alexander Ilin,Helsinki University of Technology,Optimal Variance Control of the Score-Function Gradient Estimator for Importance-Weighted Bounds.
+847,847,Aurelie C Lozano,IBM Research,Naoki Abe,None,AutoPrivacy: Automated Layer-wise Parameter Selection for Secure Neural Network Inference.
+848,848,Dilip Krishnan,NYU,Rob Fergus,DeepMind / NYU,Group-Fair Online Allocation in Continuous Time.
+849,849,John Duchi,UC Berkeley,Yoram Singer,Princeton,Fair Hierarchical Clustering.
+850,850,Paris Smaragdis,University of Illinois Urbana-Champaign,Bhiksha Raj,Carnegie Mellon University,Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.
+851,851,Baback Moghaddam,Caltech,Kevin P Murphy,Google,Metric-Free Individual Fairness in Online Learning.
+852,852,Vinod Nair,University of Toronto,Geoffrey E Hinton,Google & University of Toronto,Fair regression via plug-in estimator and recalibration with statistical guarantees.
+853,853,Gal Chechik,"NVIDIA, BIU",Samy Bengio,Apple,Fair Multiple Decision Making Through Soft Interventions.
+854,854,Matthias Hein,University of Tübingen,Matthias Hein,University of Tübingen,Intra-Processing Methods for Debiasing Neural Networks.
+855,855,Jonathan Chang,Facebook,David Blei,Columbia University,Ensuring Fairness Beyond the Training Data.
+856,856,Jean-Pascal Pfister,Cambridge University,Mate Lengyel,University of Cambridge,Fair Performance Metric Elicitation.
+857,857,Pari Ram,IBM Research,Alexander Gray,Skytree Inc. and Georgia Tech,Fairness without Demographics through Adversarially Reweighted Learning.
+858,858,Vivek Farias,Massachusetts Institute of Technology,Devavrat Shah,Massachusetts Institute of Technology,Exploiting MMD and Sinkhorn Divergences for Fair and Transferable Representation Learning.

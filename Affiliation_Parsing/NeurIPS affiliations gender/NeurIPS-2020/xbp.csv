@@ -1,0 +1,20 @@
+819,819,Shobha Venkataraman,AT&T Labs -- Research,Oliver Spatscheck,None,Kernel Methods Through the Roof: Handling Billions of Points Efficiently.
+820,820,Honglak Lee,U. Michigan,Andrew Y Ng,DeepLearning.AI,Discovering conflicting groups in signed networks.
+821,821,Guillermo Cecchi,IBM Research,Jean-Baptiste Poline,CEA-INSERM,StratLearner: Learning a Strategy for Misinformation Prevention in Social Networks.
+822,822,Ian H Stevenson,University of Connecticut,Konrad Koerding,None,Learning Differentiable Programs with Admissible Neural Heuristics.
+823,823,Theodore Perkins,Ottawa Hospital Research Institute,Theodore Perkins,Ottawa Hospital Research Institute,Neural Execution Engines: Learning to Execute Subroutines.
+824,824,Stephen Gould,ANU,Daphne Koller,insitro,Multimodal Graph Networks for Compositional Generalization in Visual Question Answering.
+825,825,Hanna Wallach,Microsoft,Andrew McCallum,UMass Amherst,RL Unplugged: A Suite of Benchmarks for Offline Reinforcement Learning.
+826,826,Sundeep Rangan,Qualcomm,Vivek K Goyal,Massachusetts Institute of Technology,SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology.
+827,827,Hanna Wallach,Microsoft,Andrew McCallum,UMass Amherst,"Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients."
+828,828,Hamed Pirsiavash,University of California Irvine,Charless Fowlkes,UC Irvine,Fast geometric learning with symbolic matrices.
+829,829,Hanna Wallach,Microsoft,Andrew McCallum,UMass Amherst,Synbols: Probing Learning Algorithms with Synthetic Datasets.
+830,830,Aaron Courville,U. Montreal,Yoshua Bengio,University of Montreal,Evaluating Attribution for Graph Neural Networks.
+831,831,Alexandre Bouchard-Côté,UBC,Dan Klein,UC Berkeley,Accelerating Reinforcement Learning through GPU Atari Emulation.
+832,832,Vinayak Rao,Purdue University,Yee Whye Teh,"University of Oxford, DeepMind",Adaptive Gradient Quantization for Data-Parallel SGD.
+833,833,Tao Hu,"JFRC, HHMI",Dmitri B Chklovskii,HHMI,Universally Quantized Neural Compression.
+834,834,Daniel Cavagnaro,Cal State Fullerton,Jay Myung,Ohio State University,Searching for Low-Bit Weights in Quantized Neural Networks.
+835,835,Vijay Desai,None,Ciamac C Moallemi,Columbia University,Bayesian Bits: Unifying Quantization and Pruning.
+836,836,Chong Wang,ByteDance Inc.,David Blei,Columbia University,FleXOR: Trainable Fractional Quantization.
+837,837,Feng Zhou,Carnegie Mellon University,Fernando D De la Torre,Carnegie Mellon University,Robust Quantization: One Model to Rule Them All.
+838,838,Dilip Krishnan,NYU,Rob Fergus,DeepMind / NYU,A Statistical Framework for Low-bitwidth Training of Deep Neural Networks.
