@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-affiliation,last-author,last-author-affiliation,title
+0,0,Zeyuan Allen-Zhu,Microsoft Research,Xinshang Wang,MIT,The Lingering of Gradients: How to Reuse Gradients Over Time.
+1,1,Pan Li,University of Illinois Urbana-Champaign,Olgica Milenkovic,University of Illinois at Urbana-Champaign,Quadratic Decomposable Submodular Function Minimization.
+2,2,Pierre-Alexandre Mattei,ITU Copenhagen,Jes Frellsen,IT University of Copenhagen,Leveraging the Exact Likelihood of Deep Latent Variable Models.
+3,3,Arash Vahdat,Quadrant.ai (D-Wave),William Macready,D-Wave,DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors.
+4,4,Rui Shu,Stanford University,Stefano Ermon,Stanford,Amortized Inference Regularization.
+5,5,Amir H Khoshaman,D-Wave Systems Inc,Mohammad Amin,D-Wave Systems Inc,GumBolt: Extending Gumbel trick to Boltzmann priors.
+6,6,Tengfei Ma,IBM Research,Cao Xiao,IBM Research,Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders.
+7,7,Fangchang Ma,MIT,Sertac Karaman,MIT,Invertibility of Convolutional Generative Networks from Partial Measurements.
+8,8,Huaibo Huang,"Institute of Automation, Chinese Academy of Science",Tieniu Tan,Chinese Academy of Sciences,IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis.
+9,9,Sandeep Subramanian,University of Montreal,Chris Pal,"MILA, Polytechnique Montréal, Element AI",Towards Text Generation with Adversarially Learned Neural Outlines.
+10,10,Hadi Kazemi,WVU,Nasser Nasrabadi,WVU,Unsupervised Image-to-Image Translation Using Domain-Specific Variational Information Bound.
+11,11,Jonas Adler,KTH - Royal Institute of Technology,Sebastian Lunz,University of Cambridge,Banach Wasserstein GAN.
+12,12,Farzan Farnia,Stanford University,David Tse,Stanford University,A Convex Duality Framework for GANs.
+13,13,Maziar Sanjabi,University of Southern California,Jason Lee,University of Southern California,On the Convergence and Robustness of Training GANs with Regularized Optimal Transport.
+14,14,Zinan Lin,Carnegie Mellon University,Sewoong Oh,University of Washington,PacGAN: The power of two samples in generative adversarial networks.
+15,15,Zhewei Yao,UC Berkeley,Michael W Mahoney,UC Berkeley,Hessian-based Analysis of Large Batch Training and Robustness to Adversaries.
+16,16,Gagandeep Singh,ETH Zurich,Martin Vechev,"DeepCode and ETH Zurich, Switzerland",Fast and Effective Robustness Certification.
+17,17,Chongxuan LI,Tsinghua University,Bo Zhang,Tsinghua University,Graphical Generative Adversarial Networks.
+18,18,Jacob Harer,Boston University,Peter Chin,boston university,Learning to Repair Software Vulnerabilities with Generative Adversarial Networks.

@@ -1,0 +1,20 @@
+259,259,Qiang Liu,UT Austin,Dilin Wang,UT Austin,Stein Variational Gradient Descent as Moment Matching.
+260,260,Anthony L Caterini,University of Oxford,Dino Sejdinovic,University of Oxford,Hamiltonian Variational Auto-Encoder.
+261,261,Yingxiang Yang,University of Illinois at Urbana Champaign,Niao He,UIUC,Predictive Approximate Bayesian Computation via Saddle Points.
+262,262,Sebastian Stich,EPFL,Martin Jaggi,EPFL,Sparsified SGD with Memory.
+263,263,Filip Hanzely,KAUST,Peter Richtarik,KAUST,SEGA: Variance Reduction via Gradient Sketching.
+264,264,Eric Balkanski,Harvard University,Yaron Singer,Harvard University,Non-monotone Submodular Maximization in Exponentially Fewer Iterations.
+265,265,Conghui Tan,The Chinese University of Hong Kong,Prof. Ji Liu Liu,"University of Rochester, Tencent AI lab",Stochastic Primal-Dual Method for Empirical Risk Minimization with O(1) Per-Iteration Complexity.
+266,266,Hiroyuki Kasai,The University of Electro-Communications,Bamdev Mishra,Microsoft,Inexact trust-region algorithms on Riemannian manifolds.
+267,267,Tao Sun,National university of defense technology,Wotao Yin,"University of California, Los Angeles",On Markov Chain Gradient Descent.
+268,268,Zhiqiang Xu,Baidu Inc.,Zhiqiang Xu,Baidu Inc.,Gradient Descent Meets Shift-and-Invert Preconditioning for Eigenvector Computation.
+269,269,Murat Erdogdu,University of Toronto,Ohad Shamir,Weizmann Institute of Science,Global Non-convex Optimization with Discretized Diffusions.
+270,270,Cedric Josz,UC Berkeley,Somayeh Sojoudi,"University of California, Berkeley",A theory on the absence of spurious solutions for nonconvex and nonsmooth optimization.
+271,271,Constantinos Daskalakis,MIT,Ioannis Panageas,Singapore University of Technology and Design,The Limit Points of (Optimistic) Gradient Descent in Min-Max Optimization.
+272,272,Soheil Feizi,"University of Maryland, College Park",David Tse,Stanford University,Porcupine Neural Networks: Approximating Neural Network Landscapes.
+273,273,SHIYU LIANG,UIUC,R. Srikant,University of Illinois at Urbana-Champaign,Adding One Neuron Can Eliminate All Bad Local Minima.
+274,274,Eli Schwartz,IBM-Research,Alex Bronstein,Technion,Delta-encoder: an effective sample synthesis method for few-shot object recognition.
+275,275,Joseph Antognini,Whisper AI,Jascha Sohl-Dickstein,Google Brain,PCA of high dimensional random walks with comparison to neural network training.
+276,276,Alhussein Fawzi,DeepMind,Omar Fawzi,ENS Lyon,Adversarial vulnerability for any classifier.
+277,277,Julius Adebayo,MIT,Been Kim,Google,Sanity Checks for Saliency Maps.
+278,278,Ruixiang ZHANG,MILA,Yangqiu Song,Hong Kong University of Science and Technology,MetaGAN: An Adversarial Approach to Few-Shot Learning.

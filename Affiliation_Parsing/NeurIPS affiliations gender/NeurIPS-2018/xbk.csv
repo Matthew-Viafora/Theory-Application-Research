@@ -1,0 +1,19 @@
+719,719,Pierre Gaillard,"INRIA Paris, DI ENS",Olivier Wintenberger,,Efficient online algorithms for fast-rate regret bounds under sparsity.
+720,720,Shinji Ito,"NEC Corporation,      University of Tokyo",Ken-Ichi Kawarabayashi,National Institute of Informatics,Regret Bounds for Online Portfolio Selection with a Cardinality Constraint.
+721,721,Kuang Xu,Stanford Graduate School of Business,Kuang Xu,Stanford Graduate School of Business,Query Complexity of Bayesian Private Learning.
+722,722,Jonathan Ullman,Northeastern University,Thomas Steinke,IBM Research - Almaden,The Limits of Post-Selection Generalization.
+723,723,Emilie Kaufmann,CNRS & CRIStAL (SequeL),Aurélien Garivier,ENS Lyon,Sequential Test for the Lowest Mean: From Thompson to Murphy Sampling.
+724,724,Lixing Chen,University of Miami,Zhuo  Lu,University of South Florida,Contextual Combinatorial Multi-armed Bandits with Volatile Arms and Submodular Reward.
+725,725,Kevin Jamieson,U Washington,Lalit Jain,University of Washington,A Bandit Approach to Sequential Experimental Design with False Discovery Control.
+726,726,Xiaowei Chen,The Chinese University of Hong Kong,John C. S. Lui,The Chinese University of Hong Kong,Community Exploration: From Offline Optimization to Online Learning.
+727,727,Yonatan Gur,Stanford University,Ahmad Momeni,Stanford University,Adaptive Learning with Unknown Information Flows.
+728,728,Siwei Wang,"IIIS, Tsinghua University",Longbo Huang,"IIIS, Tsinghua Univeristy",Multi-armed Bandits with Compensation.
+729,729,Yi Qi,Tsinghua University,Maosong Sun,,Bandit Learning with Implicit Feedback.
+730,730,Jean-Bastien Grill,Google DeepMind,Remi Munos,DeepMind,Optimistic optimization of a Brownian.
+731,731,Virag Shah,Stanford,Ramesh Johari,Stanford University,Bandit Learning with Positive Externalities.
+732,732,Ilai Bistritz,Stanford,Amir Leshem,Bar-Ilan University,Distributed Multi-Player Bandits - a Game of Thrones Approach.
+733,733,Bianca Dumitrascu,Princeton University,Barbara Engelhardt,Princeton University,PG-TS: Improved Thompson Sampling for Logistic Contextual Bandits.
+734,734,Tyler Lu,Google,Craig Boutilier,Google,Non-delusional Q-learning and value-iteration.
+735,735,Jack Umenberger,Uppsala University,Thomas Schön,Uppsala University,Learning convex bounds for linear quadratic control policy synthesis.
+736,736,Jacob Buckman,Johns Hopkins University,Honglak Lee,Google Brain,Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion.
+737,737,Andrea Tirinzoni,Politecnico di Milano,Brian Ziebart,University of Illinois at Chicago,Policy-Conditioned Uncertainty Sets for Robust Markov Decision Processes.
