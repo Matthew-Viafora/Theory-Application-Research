@@ -1,0 +1,20 @@
+59,59,Ian H Stevenson,University of Connecticut,Konrad Koerding,None,Inferring spike-timing-dependent plasticity from spike train data.
+60,60,Soumya Ghosh,IBM Research,David Blei,Columbia University,Spatial distance dependent Chinese Restaurant Process for image segmentation.
+61,61,Victor Lempitsky,Yandex,Andrew Zisserman,DeepMind & University of Oxford,Pylon Model for Semantic Segmentation.
+62,62,Vinayak Rao,Purdue University,Yee Whye Teh,"University of Oxford, DeepMind",Gaussian process modulated renewal processes.
+63,63,T.-K. Huang,Microsoft,Jeff Schneider,CMU,Learning Auto-regressive Models from Sequence and Non-sequence Data.
+64,64,Wouter M Koolen,Centrum Wiskunde & Informatica,Manfred K. Warmuth,Google Brain,Learning Eigenvectors for Free.
+65,65,Jakob H Macke,University of Tübingen & MPI IS Tübingen,Peter E Latham,"Gatsby Unit, UCL",How biased are maximum entropy models?.
+66,66,Sungwoong Kim,Qualcomm,Chang D. D Yoo,KAIST,Higher-Order Correlation Clustering for Image Segmentation.
+67,67,Ricardo S Cabral,Instituto Superio Tecnico,Alexandre Bernardino,ISR/ Instituto Superior Tecnico,Matrix Completion for Image Classification.
+68,68,Andre S Barreto,Brazilian National Laboratory for Scientific Computing (LNCC),Joelle Pineau,McGill University,Reinforcement Learning using Kernel-Based Stochastic Factorization.
+69,69,Jun Wang,University of Geneva,Alexandros Kalousis,"University of Applied Sciences, Western Switzerland",Metric Learning with Multiple Kernels.
+70,70,Le Song,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Kernel Embeddings of Latent Tree Graphical Models.
+71,71,Nico Goernitz,TU Berlin,Gunnar Rätsch,ETH Zürich,Hierarchical Multitask Structured Output Learning for Large-scale Sequence Segmentation.
+72,72,Liefeng Bo,Intel Labs,Dieter Fox,University of Washington,Hierarchical Matching Pursuit for Recognition: Architecture and Fast Algorithms.
+73,73,Puru Kar,Indian Institute of Technology Kanpur,Prateek Jain,Microsoft Research,Similarity-based Learning via Data Driven Embeddings.
+74,74,Sebastian A Kurtek,Florida State University,Wei Wu,Florida State University,Signal Estimation Under Random Time-Warpings and Nonlinear Signal Alignment.
+75,75,Dong Dai,Rutgers University,Tong Zhang,Tencent,Greedy Model Averaging.
+76,76,Zhan Wei Lim,NUS,Wee Sun Lee,National University of Singapore,Monte Carlo Value Iteration with Macro-Actions.
+77,77,Shinichi Nakajima,Technische Universität Berlin,S. Derin Babacan,Google Research,Global Solution of Fully-Observed Variational Bayesian Matrix Factorization is Column-Wise Independent.
+78,78,Liang Xiong,Carnegie Mellon University,Jeff Schneider,CMU,Group Anomaly Detection using Flexible Genre Models.

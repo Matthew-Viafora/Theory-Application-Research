@@ -1,0 +1,20 @@
+119,119,Andrew Guillory,University of Washington,Jeff A Bilmes,"University of Washington, Seattle","Online Submodular Set Cover, Ranking, and Repeated Active Learning."
+120,120,Yong Zhang,Simon Fraser University,Zhaosong Lu,Simon Frasor University,Penalty Decomposition Methods for Rank Minimization.
+121,121,Michael Kapralov,Stanford University,Rina Panigrahy,Microsoft Research,Prediction strategies without loss.
+122,122,Ardavan Saeedi,University of British Columbia,Alexandre Bouchard-Côté,UBC,Priors over Recurrent Continuous Time Processes.
+123,123,Yoshinobu Kawahara,Osaka University / RIKEN,Takashi Washio,Osaka University,Prismatic Algorithm for Discrete D.C. Programming Problem.
+124,124,Makoto Yamada,Kyoto University,Masashi Sugiyama,RIKEN / University of Tokyo,Relative Density-Ratio Estimation for Robust Distribution Comparison.
+125,125,Nam H Nguyen,Johns Hopkins University,Trac D Tran,Johns Hopkins University,Robust Lasso with missing and grossly corrupted observations.
+126,126,Denis Maua,University of Sao Paulo,Cassio P de Campos,Queen's University Belfast,Solving Decision Problems with Limited Information.
+127,127,Anima Anandkumar,Caltech,Tong Zhang,Tencent,Spectral Methods for Learning Multivariate Latent Tree Structure.
+128,128,Levi Boyles,UC Irvine,Max Welling,University of Amsterdam / Qualcomm AI Research,Statistical Tests for Optimization Efficiency.
+129,129,J. Zico Kolter,Carnegie Mellon University / Bosch Center for AI,J. Zico Kolter,Carnegie Mellon University / Bosch Center for AI,The Fixed Points of Off-Policy TD.
+130,130,Lu Ren,Duke University,Lawrence Carin,Duke University,The Kernel Beta Process.
+131,131,Marius Kloft,TU Kaiserslautern,Gilles Blanchard,Universität Potsdam (DE),The Local Rademacher Complexity of Lp-Norm Multiple Kernel Learning.
+132,132,Edouard Grave,Inria - Ecole normale supérieure,Francis Bach,INRIA - Ecole Normale Superieure,Trace Lasso: a trace norm regularization for correlated designs.
+133,133,Mijung Park,University of Texas,Jonathan W Pillow,UT Austin,Active learning of neural response functions with Gaussian processes.
+134,134,Alessandro Lazaric,Facebook Artificial Intelligence Research,Marcello Restelli,Politecnico di Milano,Transfer from Multiple MDPs.
+135,135,Carl Vondrick,Massachusetts Institute of Technology,Deva Ramanan,None,Video Annotation and Tracking with Active Learning.
+136,136,Andreas Krause,ETH Zurich,Cheng Soon Ong,"NICTA, Melbourne",Contextual Gaussian Process Bandit Optimization.
+137,137,Gilles Blanchard,Universität Potsdam (DE),Clay Scott,University of Michigan,Generalizing from Several Related Classification Tasks to a New Unlabeled Sample.
+138,138,Simon Wiesler,RWTH Aachen,Hermann Ney,RWTH Aachen,A Convergence Analysis of Log-Linear Training.
