@@ -1,0 +1,20 @@
+919,919,Rixon Crane,The University of Queensland,Fred Roosta,University of Queensland,DINGO: Distributed Newton-Type Method for Gradient-Norm Optimization.
+920,920,Wenqing Hu,Missouri S&T,Huizhuo Yuan,Peking University,Efficient Smooth Non-Convex Stochastic Compositional Optimization via Stochastic Recursive Gradient Descent.
+921,921,Manolis Vlatakis-Gkaragkounis,Columbia University,Georgios Piliouras,Singapore University of Technology and Design,Efficiently avoiding saddle points with zero order methods: No gradients required .
+922,922,Yue Sun,University of Washington,Maryam Fazel,University of Washington,Escaping from saddle points on Riemannian manifolds.
+923,923,Cheng Tang,Amazon,Cheng Tang,Amazon,Exponentially convergent stochastic k-PCA without variance reduction.
+924,924,Ioannis Panageas,SUTD,Xiao Wang,Singapore university of technology and design,First-order methods almost always avoid saddle points: The case of vanishing step-sizes.
+925,925,Jacky Zhang,UIUC,Sanmi Koyejo,UIUC,Learning Sparse Distributions using Iterative Hard Thresholding.
+926,926,Farzin Haddadpour,Pennsylvania State university,Viveck Cadambe,Penn State,Local SGD with  Periodic Averaging: Tighter Analysis  and Adaptive Synchronization .
+927,927,Syrine Belakaria,Washington State University,Jana Doppa,Washington State University,Max-value Entropy Search for Multi-Objective Bayesian Optimization.
+928,928,Maher Nouiehed,American University of Beirut,Meisam Razaviyayn,University of Southern California,Solving a Class of Non-Convex Min-Max Games Using Iterative First Order Methods.
+929,929,Pierre Monteiller,ENS Ulm,Mikhail Yurochkin,"IBM Research, MIT-IBM Watson AI Lab",Alleviating Label Switching with Optimal Transport.
+930,930,Antonio Orvieto,ETH Zurich,Aurelien Lucchi,ETH Zurich,Continuous-time Models for Stochastic Optimization Algorithms.
+931,931,Michal Derezinski,UC Berkeley,Michael W Mahoney,UC Berkeley,Distributed estimation of the inverse Hessian by determinantal averaging.
+932,932,Rong Ge,Duke University,Praneeth Netrapalli,Microsoft Research,"The Step Decay Schedule: A Near Optimal, Geometrically Decaying Learning Rate Procedure For Least Squares."
+933,933,Yair Carmon,Stanford University,Kevin Tian,Stanford University,Variance Reduction for Matrix Games.
+934,934,Sebastian Blaes,"Max-Planck Institute for Intelligent Systems, Tuebingen, Germany",Georg Martius,MPI for Intelligent Systems,Control What You Can: Intrinsically Motivated Task-Planning Agent.
+935,935,Akihiro Kishimoto,IBM Research,Adi Botea,IBM Research,Depth-First Proof-Number Search with Heuristic Edge Cost and Application to Chemical Synthesis Planning.
+936,936,Chenjun Xiao,University of Alberta,Martin Müller,University of Alberta,Maximum Entropy Monte-Carlo Planning.
+937,937,Erwan Lecarpentier,Université de Toulouse,Emmanuel Rachelson,ISAE-SUPAERO / University of Toulouse,"Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning."
+938,938,Kishor Jothimurugan,University of Pennsylvania,Osbert Bastani,University of Pennysylvania,A Composable Specification Language for Reinforcement Learning Tasks.
