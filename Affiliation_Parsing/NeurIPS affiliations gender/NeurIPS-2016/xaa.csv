@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-affiliation,last-author,last-author-affiliation,title
+0,0,Zhe Li,The University of Iowa,Tianbao Yang,University of Iowa,Improved Dropout for Shallow and Deep Learning.
+1,1,Jiecao Chen,Indiana University Bloomington,Qin Zhang,Indiana University Bloomington,Communication-Optimal Distributed Clustering.
+2,2,Bowei Yan,University of Texas at Austin,Purnamrita Sarkar,U.C. Berkeley,On Robustness of Kernel Clustering.
+3,3,Rémy Degenne,Université Paris Diderot,Vianney Perchet,Ensae - Criteo Labs,Combinatorial semi-bandit with known covariance.
+4,4,Nicolò Colombo,University College London,Nikos Vlassis,Adobe Research,A posteriori error bounds for joint matrix decomposition problems.
+5,5,Mandar D Dixit,UC San Diego,Nuno Vasconcelos,UC San Diego,Object based Scene Representations using Fisher Scores of Local Subspace Projections.
+6,6,Gregory Rogez,Inria,Cordelia Schmid,Inria / Google,MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild.
+7,7,Subhashini Krishnasamy,The University of Texas at Austin,Sanjay Shakkottai,The University of Texas at Aus,Regret of Queueing Bandits.
+8,8,Shashank Singh,Carnegie Mellon University,Barnabas Poczos,Carnegie Mellon University,Efficient Nonparametric Smoothness Estimation.
+9,9,Tue Herlau,Technical University of Denmark,Morten Mørup,Technical University of Denmark,Completely random measures for modelling block-structured sparse networks.
+10,10,Diane Bouchacourt,University of Oxford,Sebastian Nowozin,Microsoft Research,DISCO Nets : DISsimilarity COefficients Networks.
+11,11,Philip Bachman,Microsoft Research,Philip Bachman,Microsoft Research,"An Architecture for Deep, Hierarchical Generative Models."
+12,12,Albert Berahas,Northwestern University,Martin Takac,Lehigh University,A Multi-Batch L-BFGS Method for Machine Learning.
+13,13,Mathieu Blondel,NTT,Masakazu Ishihata,Hokkaido University,Higher-Order Factorization Machines.
+14,14,Anh Tuan Nguyen,University of Minnesota,Zhi Yang,University of Minnesota,A Bio-inspired Redundant Sensing Architecture.
+15,15,Lev Bogolubsky,"Yandex, Moscow State University",Maksim Zhukovskii,,Learning Supervised PageRank with Gradient-Based and Gradient-Free Optimization Methods.
+16,16,Aditya Bhaskara,University of Utah,Ola Svensson,EPFL,Linear Relaxations for Finding Diverse Elements in Metric Spaces.
+17,17,Aude Genevay,Université Paris Dauphine,Francis Bach,INRIA - Ecole Normale Superieure,Stochastic Optimization for Large-scale Optimal Transport.
+18,18,Jacob D Abernethy,University of Michigan,Ruihao Zhu,MIT,"Threshold Bandits, With and Without Censored Feedback."
