@@ -41,5 +41,5 @@ class Iterate:
         self.getPathList()
         print(os.listdir(self.path+"\\"+self.data_lst[0]))
 
-a = File()
+a = Iterate()
 print(a.run())
