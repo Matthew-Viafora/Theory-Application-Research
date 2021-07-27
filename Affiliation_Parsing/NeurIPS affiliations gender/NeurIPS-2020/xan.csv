@@ -1,0 +1,20 @@
+259,259,Zhirong Yang,Aalto University,Erkki Oja,Aalto University,GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators.
+260,260,Han Liu,Carnegie Mellon University,Xi Chen,NYU,Private Identity Testing for High-Dimensional Distributions.
+261,261,Le Song,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Optimal Private Median Estimation under Minimal Distributional Assumptions.
+262,262,Vijay Desai,None,Ciamac C Moallemi,Columbia University,Learning discrete distributions: user vs item-level privacy.
+263,263,Ilya Sutskever,OpenAI,Josh Tenenbaum,MIT,Locally private non-asymptotic testing of discrete distributions is faster using interactive mechanisms.
+264,264,Ingo Steinwart,Los Alamos National Laboratory,Andreas Christmann,University of Bayreuth,Mitigating Manipulation in Peer Review via Randomized Reviewer Assignments.
+265,265,Robert E Tillman,Carnegie Mellon University,Peter Spirtes,Carnegie Mellon University,Phase retrieval in high dimensions: Statistical and computational phase transitions.
+266,266,Le Song,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Higher-Order Spectral Clustering of Directed Graphs.
+267,267,Liefeng Bo,Intel Labs,Cristian Sminchisescu,Lund University/Google,Deep Transformation-Invariant Clustering.
+268,268,Marius Kloft,TU Kaiserslautern,Alexander Zien,LIFE Biosystems GmbH,Faster DBSCAN via subsampled similarity queries.
+269,269,Chun-Nan Hsu,USC,Yuh-Jye Lee,National Taiwan University of Science and Technology,From Trees to Continuous Embeddings and Back: Hyperbolic Hierarchical Clustering.
+270,270,Daniel Hsu,Columbia University,Tong Zhang,Tencent,Strongly local p-norm-cut algorithms for semi-supervised learning and local graph clustering.
+271,271,Peter Orbanz,Columbia University,Peter Orbanz,Columbia University,Exact Recovery of Mangled Clusters with Same-Cluster Queries.
+272,272,Arkadas Ozakin,Georgia Institute of Technology,Alexander Gray,Skytree Inc. and Georgia Tech,Simple and Scalable Sparse k-means Clustering via Feature Ranking.
+273,273,Volkan Cevher,EPFL,Volkan Cevher,EPFL,Efficient Clustering for Stretched Mixtures: Landscape and Optimality.
+274,274,Kaushik Sinha,The Ohio State University,Mikhail Belkin,Ohio State University,Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian.
+275,275,Jonathan Huang,google.com,Carlos Guestrin,University of Washington,Classification with Valid and Adaptive Coverage.
+276,276,Youngmin Cho,"University of California, San Diego",Lawrence Saul,UC San Diego,Self-Supervised Learning by Cross-Modal Audio-Video Clustering.
+277,277,Percy Liang,Stanford University,Michael Jordan,UC Berkeley,HyNet: Learning Local Descriptor with Hybrid Similarity Measure and Triplet Loss.
+278,278,Chenghui Cai,Cantor Fitzgerald,Lawrence Carin,Duke University,Distributionally Robust Local Non-parametric Conditional Estimation.

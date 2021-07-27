@@ -1,0 +1,20 @@
+99,99,Risi Kondor,U. Chicago,Shubhendu Trivedi,Brown University,Clebsch–Gordan Nets: a Fully Fourier Space Spherical Convolutional Neural Network.
+100,100,Marco Ciccone,Politecnico di Milano,Faustino Gomez,NNAISENSE,NAIS-Net: Stable Deep Networks from Non-Autonomous  Differential Equations.
+101,101,Aladin Virmaux,Huawei,Kevin Scaman,"Huawei Technologies, Noah's Ark",Lipschitz regularity of deep neural networks: analysis and efficient estimation.
+102,102,Mario Drumond,EPFL,Babak Falsafi,"EcoCloud, EPFL",Training DNNs with Hybrid Block Floating Point.
+103,103,Noam Shazeer,Google,Blake Hechtman,Google,Mesh-TensorFlow: Deep Learning for Supercomputers.
+104,104,Mitali Bafna,Harvard University,Nikhil Vyas,MIT,Thwarting Adversarial Examples: An $L_0$-Robust Sparse Fourier Transform.
+105,105,Lincoln Ye,University of Cambridge,Zhanxing Zhu,Peking University,Bayesian Adversarial Learning.
+106,106,Anqi Wu,Princeton University,Jonathan Pillow,Princeton University,Learning a latent manifold of odor representations from neural responses in piriform cortex.
+107,107,Bolton Bailey,University of Illinois Urbana-Champaign,Matus Telgarsky,UIUC,Size-Noise Tradeoffs in Generative Networks.
+108,108,Yuanzhi Li,Princeton,Yingyu Liang,University of Wisconsin Madison,Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data.
+109,109,Weiyang Liu,Georgia Institute of Technology,Le Song,Ant Financial & Georgia Institute of Technology,Learning towards Minimum Hyperspherical Energy.
+110,110,Haoye Dong,Sun Yat-sen University,Jian Yin,Sun Yat-Sen University,Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis.
+111,111,Shi Pu,Beijing University of Posts and Telecommunications,Ming-Hsuan Yang,UC Merced / Google,Deep Attentive Tracking via Reciprocative Learning.
+112,112,Guilhem Chéron,Inria,Cordelia Schmid,Inria / Google,A flexible model for training action localization with varying levels of supervision.
+113,113,Zichao  Yang,Carnegie Mellon University,Taylor Berg-Kirkpatrick,Carnegie Mellon University,Unsupervised Text Style Transfer using Language Models as Discriminators.
+114,114,Yu-An Chung,Massachusetts Institute of Technology,Jim Glass,Massachusetts Institute of Technology,Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces.
+115,115,Mingchao Yu,University of Southern California,Salman Avestimehr,University of Southern California,GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training.
+116,116,Jianqiao Wangni,University of Pennsylvania,Tong Zhang,Tencent AI Lab,Gradient Sparsification for Communication-Efficient Distributed Optimization.
+117,117,Ehsan Hajiramezanali,Texas A&M University,Xiaoning Qian,Texas A&M,Bayesian multi-domain learning for cancer subtype discovery from next-generation sequencing count data.
+118,118,Xing Yan,The Chinese University of Hong Kong,Qi Wu,City University of Hong Kong,Parsimonious Quantile Regression of Financial Asset Tail Dynamics via Sequential Learning.

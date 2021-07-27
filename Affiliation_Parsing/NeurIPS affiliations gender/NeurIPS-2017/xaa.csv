@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-affiliation,last-author,last-author-affiliation,title
+0,0,Ksenia Konyushkova,EPFL,Pascal Fua,"EPFL, Switzerland",Learning Active Learning from Data.
+1,1,Nico S Gorbach,Swiss Federal Institute of Technology Zurich (ETHZ),Joachim M Buhmann,ETH Zurich,Scalable Variational Inference for Dynamical Systems.
+2,2,Keerthiram Murugesan,Carnegie Mellon University,Jaime Carbonell,CMU,Active Learning from Peers.
+3,3,David Lopez-Paz,Facebook AI Research,Marc'Aurelio Ranzato,Facebook,Gradient Episodic Memory for Continual Learning.
+4,4,Carlo Ciliberto,University College London,Massimiliano Pontil,IIT & UCL,Consistent Multitask Learning with Nonlinear Output Relations.
+5,5,Nicolas Courty,IRISA / University South Brittany,Alain Rakotomamonjy,Université de Rouen Normandie,Joint distribution optimal transportation for domain adaptation.
+6,6,Mingsheng Long,Tsinghua University,Philip S Yu,UIC,Learning Multiple Tasks with Multilinear Relationship Networks.
+7,7,Alan Luo,Stanford University,Li Fei-Fei,Stanford University & Google,Label Efficient Learning of Transferable Representations acrosss Domains and Tasks.
+8,8,Nikolay Savinov,ETH Zurich,Marc Pollefeys,ETH Zurich,Matching neural paths: transfer from recognition to correspondence search.
+9,9,Anna Volokitin,ETH Zurich,Tomaso Poggio,MIT,Do Deep Neural Networks Suffer from Crowding?.
+10,10,Maithra Raghu,Cornell University and Google Brain,Jascha Sohl-Dickstein,Google Brain,SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability.
+11,11,Klaus Greff,IDSIA,Jürgen Schmidhuber,"Swiss AI Lab, IDSIA (USI & SUPSI) - NNAISENSE",Neural Expectation Maximization.
+12,12,Charles Ruizhongtai Qi,Stanford University,Leonidas Guibas,stanford.edu,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.
+13,13,Yi-An Lai,National Taiwan University,Shou-De Lin,National Taiwan University,PRUNE: Preserving Proximity and Global Ranking for Network Embedding.
+14,14,Tatsunori Hashimoto,Stanford,John Duchi,Stanford,Unsupervised Transformation Learning via Convex Relaxations.
+15,15,Saurabh Verma,University of Minnesota Twin Cities,Zhi-Li Zhang,University of Minnesota,"Hunt For The Unique, Stable, Sparse And Fast Feature Learning On Graphs."
+16,16,Pan Ji,NEC Labs America,Ian Reid,University of Adelaide,Deep Subspace Clustering Networks.
+17,17,Alberto Garcia Duran,NEC Europe,Mathias Niepert,NEC Labs Europe,Learning Graph Representations with Embedding Propagation.
+18,18,Yu Liu,Citadel LLC,Li Deng,Citadel,Unsupervised Sequence Classification using Sequential Output Statistics.

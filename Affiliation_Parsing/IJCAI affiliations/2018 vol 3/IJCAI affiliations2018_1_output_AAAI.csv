@@ -1,0 +1,33 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Cleveland State University, Cleveland, OH"," The University of Texas at Austin, Austin, TX",Multi-modal predicate identification using dynamically learned robot controllers
+1," Sorbonne Université, CNRS, Laboratoire d'Informatique de Paris 6, LIP6, Paris, France"," Sorbonne Université, CNRS, Laboratoire d'Informatique de Paris 6, LIP6, Paris, France",Scheduling under uncertainty: a query-based approach
+2," Department of Computer and Information Science, Linköping University, Sweden"," Algorithms group, University of Sheffield, UK",Novel structural parameters for acyclic planning using tree embeddings
+3, Massachusetts Institute of Technology, Massachusetts Institute of Technology,Variable-delay controllability
+4," Universidad Simón Bolívar, Caracas, Venezuela"," ICREA & Universitat Pompeu Fabra, Barcelona, Spain","Features, projections, and representation change for generalized planning"
+5, Google Research, Google Research,Planning and learning with stochastic action sets
+6," Department of Computer Science, University of Toronto"," Department of Computer Science, University of Toronto",LTL realizability via safety and reachability games
+7," Institute of Science and Technology Austria, Klosterneuburg, Austria"," École Normale Supérieure de Rennes, Rennes, France",Expectation optimization with probabilistic guarantees in POMDPs with discounted-sum objectives
+8, IST Austria, Ferdowsi University of Mashhad,Computational approaches for stochastic shortest path on succinct MDPs
+9," Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, Canada"," Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, Canada","Local minima, heavy tails, and search effort for GBFS"
+10," University of Basel, Switzerland"," Federal University of Rio Grande do Sul, Brazil",Analyzing tie-breaking strategies for the A* algorithm
+11," School of EECS, Oregon State University, Corvallis, OR"," School of EECS, Oregon State University, Corvallis, OR",Emergency response optimization using online hybrid planning
+12," Univ. Roma ""La Sapienza"", Italy"," Univ. Napoli ""Federico II"", Italy",Automata-theoretic foundations of FOND planning for LTLf and LDLf goals
+13," Delft University of Technology, Delft, The Netherlands"," Delft University of Technology, Delft, The Netherlands",Complexity of scheduling charging in the smart grid
+14," Leverhulme Research Centre, University of Liverpool"," Industrial Engineering and Management, Technion","Traffic light scheduling, value of time, and incentives"
+15," Saarland University, Saarbrücken, Germany"," Saarland University, Saarbrücken, Germany","Unchaining the power of partial delete relaxation, part II: finding plans with red-black state space search"
+16," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences"," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences",Model checking probabilistic epistemic logic for probabilistic multiagent systems
+17," Department of Computer Science, FEE, Czech Technical University in Prague"," IST Austria, Klosterneuburg, Austria",Goal-HSVI: heuristic search value iteration for goal-POMDPs
+18," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology"," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology",Learning to infer final plans in human team planning
+19," Univ Rennes, CNRS, IRISA"," Univ Rennes, CNRS, IRISA",Small undecidable problems in epistemic planning
+20, The Australian National University, The Australian National University,Effect-abstraction based relaxation for linear numeric planning
+21, University of Alberta, University of Alberta,Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains
+22," Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN"," Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN",Scalable initial state interdiction for factored MDPs
+23," Departamento de Informática, Universidad Carlos III de Madrid, Leganés, Madrid, Spain"," Departamento de Informática, Universidad Carlos III de Madrid, Leganés, Madrid, Spain",Counterplanning using goal recognition and landmarks
+24," Department of Mechanical & Industrial Engineering, University of Toronto, Canada"," Department of Mechanical & Industrial Engineering, University of Toronto, Canada",Planning in factored state and action spaces with learned binarized neural network transition models
+25," Ludwig-Maximilians-Universität, Munich, Germany"," Ludwig-Maximilians-Universität, Munich, Germany",Dynamic resource routing using real-time dynamic programming
+26," School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ"," School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, Tempe, AZ",Hierarchical expertise level modeling for user specific contrastive explanations
+27," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany"," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany","LP heuristics over conjunctions: compilation, convergence, nogood learning"
+28," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany"," Saarland University, Saarland Informatics Campus, Saarbrücken, Germany",Completeness-preserving dominance techniques for satisficing planning
+29, Massachusetts Institute of Technology, Massachusetts Institute of Technology,Admissible abstractions for near-optimal task and motion planning
+30," Maana Inc., Bellevue, WA"," Maana Inc., Bellevue, WA",PEORL: integrating symbolic planning and hierarchical reinforcement learning for robust decision-making
+31," Computer Science and Engineering, University of Michigan"," Computer Science and Engineering, University of Michigan",Minimax-regret querying on side effects for safe optimality in factored Markov decision processes

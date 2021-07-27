@@ -1,0 +1,20 @@
+619,619,Xiangru Lian,University of Rochester,Ji Liu,University of Rochester,Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent.
+620,620,Mohammad Ali Bashiri,University of Illinois at Chicago,Xinhua Zhang,University of Illinois at Chicago (UIC),Decomposition-Invariant Conditional Gradient for General Polytopes with Line Search.
+621,621,Can Karakus,UCLA,Wotao Yin,"University of California, Los Angeles",Straggler Mitigation in Distributed Optimization Through Data Encoding.
+622,622,Yi Xu,The University of Iowa,Tianbao Yang,The University of Iowa,ADMM without a Fixed Penalty Parameter: Faster Convergence with New Adaptive Penalization.
+623,623,Chaobing Song,Tsinghua University,Shu-Tao Xia,Tsinghua University,Accelerated Stochastic Greedy Coordinate Descent by Soft Thresholding Projection onto Simplex.
+624,624,Sebastian Stich,EPFL,Martin Jaggi,EPFL,Safe Adaptive Importance Sampling.
+625,625,Vincent Roulet,University of Washington,Alexandre d'Aspremont,CNRS - Ecole Normale Supérieure,"Sharpness, Restart and Acceleration."
+626,626,Alberto Bietti,Inria,Julien Mairal,Inria,Stochastic Optimization with Variance Reduction for Infinite Datasets with Finite Sum Structure.
+627,627,Christopher Srinivasa,University of Toronto/Borealis AI,Brendan J Frey,"Deep Genomics, Vector Institute, Univ. Toronto",Min-Max Propagation.
+628,628,Marco Fraccaro,Technical University of Denmark (DTU),Ole Winther,Technical University of Denmark,A Disentangled Recognition and Nonlinear Dynamics Model for Unsupervised Learning.
+629,629,Yarin Gal,University of Oxford,Alex Kendall,University of Cambridge,Concrete Dropout.
+630,630,George Tucker,Google Brain,Jascha Sohl-Dickstein,Google Brain,"REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models."
+631,631,Dustin Tran,Columbia University & OpenAI,David Blei,Columbia University,Hierarchical Implicit Models and Likelihood-Free Variational Inference.
+632,632,Geoffrey Roeder,University of Toronto,David Duvenaud,University of Toronto,"Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference."
+633,633,Robert Bamler,Disney Research,Stephan Mandt,Disney Research,Perturbative Black Box Variational Inference.
+634,634,Jeff Regier,UC Berkeley,Jon McAuliffe,UC Berkeley,Fast Black-box Variational Inference through Stochastic Trust-Region Optimization.
+635,635,Rishit Sheth,Microsoft Research New England,Roni Khardon,"Indiana University, Bloomington",Excess Risk Bounds for the Bayes Risk using Variational Inference in Latent Gaussian Models.
+636,636,Murat Kocaoglu,MIT-IBM Watson AI Lab,Elias Bareinboim,Purdue,Experimental Design for Learning Causal Graphs with Latent Variables.
+637,637,Yuhao Wang,MIT,Caroline Uhler,Massachusetts Institute of Technology,Permutation-based Causal Inference Algorithms with Interventions.
+638,638,AmirEmad Ghassami,University of Illinois at Urbana–Champaign,Kun Zhang,CMU,Learning Causal Structures Using Regression Invariance.

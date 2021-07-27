@@ -1,0 +1,20 @@
+1119,1119,Vijay Desai,None,Ciamac C Moallemi,Columbia University,Second Order Optimality in Decentralized Non-Convex Optimization via Perturbed Gradient Tracking.
+1120,1120,Bharath Sriperumbudur,The Pennsylvania State University,Bernhard Schölkopf,"MPI for Intelligent Systems, Tübingen",Distributed Newton Can Communicate Less and Resist Byzantine Workers.
+1121,1121,Rob Nowak,Wisconsin,Rob Nowak,Wisconsin,IDEAL: Inexact DEcentralized Accelerated Augmented Lagrangian Method.
+1122,1122,Sennay Ghebreab,None,Arnold Smeulders,None,Dual-Free Stochastic Decentralized Optimization with Variance Reduction.
+1123,1123,Tao Hu,"JFRC, HHMI",Dmitri B Chklovskii,HHMI,FedSplit: an algorithmic framework for fast federated optimization.
+1124,1124,Rob Fergus,DeepMind / NYU,Antonio Torralba,Massachusetts Institute of Technology,Distributionally Robust Federated Averaging.
+1125,1125,Jonathan W Pillow,UT Austin,Jonathan W Pillow,UT Austin,Personalized Federated Learning with Moreau Envelopes.
+1126,1126,Hamid R Maei,Stanford University,Rich Sutton,"DeepMind, U Alberta",Minibatch vs Local SGD for Heterogeneous Distributed Learning.
+1127,1127,Guillermo Cecchi,IBM Research,Jean-Baptiste Poline,CEA-INSERM,Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach.
+1128,1128,Samuel J Gershman,Harvard University,Josh Tenenbaum,MIT,A Simple and Efficient Smoothing Method for Faster Optimization and Local Exploration.
+1129,1129,John Duchi,UC Berkeley,Yoram Singer,Princeton,Distributed Training with Heterogeneous Data: Bridging Median- and Mean-Based Algorithms.
+1130,1130,Chun-Nan Hsu,USC,Yuh-Jye Lee,National Taiwan University of Science and Technology,Linearly Converging Error Compensated SGD.
+1131,1131,Nir Ailon,Technion,Claire Monteleoni,University of Colorado Boulder,The All-or-Nothing Phenomenon in Sparse Tensor PCA.
+1132,1132,Le Song,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Closing the Dequantization Gap: PixelCNN as a Single-Layer Flow.
+1133,1133,Michael Wick,Oracle Labs,Andrew McCallum,UMass Amherst,ImpatientCapsAndRuns: Approximately Optimal Algorithm Configuration from an Infinite Pool.
+1134,1134,Brian Kulis,UC Berkeley,Trevor Darrell,UC Berkeley,Normalizing Kalman Filters for Multivariate Time Series Analysis.
+1135,1135,Yiming Ying,State University of New York at Albany,Mark A Girolami,University of Glasgow,Learning Augmented Energy Minimization via Speed Scaling.
+1136,1136,Daniel Cavagnaro,Cal State Fullerton,Jay Myung,Ohio State University,Consistent Structural Relation Learning for Zero-Shot Segmentation.
+1137,1137,Emily Fox,"University of Washington, Apple",Alan S Willsky,Massachusetts Institute of Technology,TSPNet: Hierarchical Feature Learning via Temporal Semantic Pyramid for Sign Language Translation.
+1138,1138,Yang Wang,University of Manitoba,Greg Mori,Borealis AI,AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection.

@@ -1,0 +1,20 @@
+299,Ashkan Panahi,NC state university,Chiranjib Bhattacharya,,"Clustering by Sum of Norms: Stochastic Incremental Algorithm, Convergence and Cluster Recovery"
+300,Amina Mollaysa,"University of Geneva, HES",Alexandros Kalousis,HES-UNIGE,Regularising Non-linear Models Using Feature Side-information
+301,Lin Yang,Johns Hopkins,Gereon Frahling,Linguee GmbH,Clustering High Dimensional Dynamic Data Streams
+302,Ke Li,UC Berkeley,Jitendra Malik,University of California at Berkeley,Fast k-Nearest Neighbour Search via Prioritized DCI
+303,Marc Law,University of Toronto,Richard Zemel,University of Toronto,Deep Spectral Clustering Learning
+304,Mehrtash Harandi,Data61,Richard I Hartley,Australian National University,Joint Dimensionality Reduction and Metric Learning: A Geometric Take
+305,Chirag Gupta,"Microsoft Research, India",Prateek Jain,Microsoft Research,ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices
+306,Azalia Mirhoseini,Google,Jeff Dean,Google Brain,Device Placement Optimization with Reinforcement Learning
+307,Robert Bamler,Disney Research Pittsburgh,Stephan Mandt,Disney Research,Dynamic Word Embeddings
+308,Shuxin Zheng,University of Science and Technology of China,Tie-Yan Liu,Microsoft,Asynchronous Stochastic Gradient Descent with Delay Compensation
+309,Po-Wei Chou,Carnegie Mellon University,Sebastian Scherer,Carnegie Mellon University,Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution
+310,Umut Simsekli,Telecom ParisTech,Umut Simsekli,Telecom ParisTech,Fractional Langevin Monte Carlo: Exploring Levy Driven Stochastic Differential Equations for MCMC
+311,Javier González,Amazon,Neil Lawrence,Amazon.com,Preferential Bayesian Optmization
+312,Ilias Diakonikolas,USC,Alistair Stewart,USC,Being Robust (in High Dimensions) Can Be Practical
+313,Or Sheffet,University of Alberta,Or Sheffet,University of Alberta,Differentially Private Ordinary Least Squares
+314,Hao Zhou,University of Wisconsin - Madison,Vikas Singh,University of Wisconsin Madison,"When can Multi-Site Datasets be Pooled for Regression? Hypothesis Tests, $\ell_2$-consistency and Neuroscience Applications"
+315,David Budden,MIT / DeepMind,Nir Shavit,MIT,Deep Tensor Convolution on Multicores
+316,Hairong Liu,Baidu Silicon Valley AI Lab,Sanjeev Satheesh,Baidu SVAIL,Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling
+317,Zheng Xu,University of Maryland,Tom Goldstein,University of Maryland,Adaptive Consensus ADMM for Distributed Optimization
+318,Yevgen Chebotar,University of Southern California,Sergey Levine,Berkeley,Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning

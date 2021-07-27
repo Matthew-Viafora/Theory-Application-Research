@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," GAIPS, INESC-ID and Instituto Superior Técnico, Universidade de Lisboa and Learning Algorithms and Systems Laboratory, École Polytechnique Fédérale de Lausanne"," GAIPS, INESC-ID and Instituto Superior Técnico, Universidade de Lisboa",Synthesizing robotic handwriting motion by learning from human demonstrations
+1," School of Automation, Northwestern Polytechnical University"," School of Automation, Northwestern Polytechnical University",Bridging saliency detection to weakly supervised object detection based on self-paced curriculum learning
+2," Zhejiang University, Hangzhou, China"," Zhejiang University, Hangzhou, China",Semantics-aware deep correspondence structure learning for robust person re-identification
+3," State Key Laboratory of Software Engineering, School of Computer, Wuhan University, China and School of Computer and Information Engineering, Henan University, China"," State Key Laboratory of Software Engineering, School of Computer, Wuhan University, China",Video-based person re-identification by simultaneously learning intra-video and inter-video distance metrics
+4," Indian Institute of Technology, Delhi"," Indian Institute of Technology, Delhi",Contextual symmetries in probabilistic graphical models
+5," Indian Institute of Technology, Bombay", Rice University,Algorithmic improvements in approximate counting for probabilistic inference: from linear to logarithmic SAT calls
+6, UCLA, Purdue University,Incorporating knowledge into structural equation models using auxiliary variables
+7, CUNY Graduate Center and CUNY Queens College, CUNY Graduate Center and CUNY Queens College,Solving M-modes using heuristic search
+8," SRI International, Menlo Park, CA"," U. of California, Irvine, Irvine, CA",Probabilistic inference modulo theories
+9," National Institute of Informatics, Japan and JST, ERATO, Japan"," National Institute of Informatics, Japan and JST, ERATO, Japan",Adaptive budget allocation for maximizing influence of advertisements
+10, Australian National University and Data61, Australian National University,A symbolic closed-form solution to sequential market making with inventory
+11," Institute for Computing and Information Sciences, Radboud University, The Netherlands"," Institute for Computing and Information Sciences, Radboud University, The Netherlands and LIACS, Leiden University, The Netherlands",Approximate probabilistic inference with bounded error for hybrid probabilistic logic programming
+12," Univ. of Osnabrück, Germany"," Univ. of Mannheim, Germany",Group decision making via probabilistic belief merging
+13, University of Pennsylvania, University of Texas at Austin,Probably approximately correct learning in stochastic games with temporal logic specifications
+14, UC Berkeley, University of Washington,Swift: compiled inference for probabilistic programming languages
+15," Computer Science Department, Carnegie Mellon University"," Computer Science Department, Carnegie Mellon University",Latent contextual bandits and their application to personalized recommendations for new users
+16," School of Computer, Beijing Institute of Technology, Beijing, China and School of Computing and Communications, University of Technology Sydney, Sydney, Australia"," School of Computer, Beijing Institute of Technology, Beijing, China",A generative model for recognizing mixed group activities in still images
+17," Department of Computer Science, Duke University, Durham, NC"," Department of Computer Science, Duke University, Durham, NC",ATUCAPTS: automated tests that a user cannot pass twice simultaneously
+18," Department of Computer Science, Illinois Institute of Technology, Chicago, IL"," Department of Computer Science, Illinois Institute of Technology, Chicago, IL",Domain adaptation for learning from label proportions using self-training
+19," Dept. of Computer Science, Hong Kong Baptist University, Hong Kong"," Dept. of Computer Science, Hong Kong Baptist University, Hong Kong",Inferring motif-based diffusion models for social networks
+20," Univ. Artois, France"," Univ. Artois, France",Non-objection inference for inconsistency-tolerant query answering
+21," Xerox Research Centre India, Bengaluru, India"," Xerox Research Centre India, Bengaluru, India",Multi-source iterative adaptation for cross-domain classification
+22, Yahoo Inc.," Department of Computer Science, University of Southern California",Timeline summarization from social media with life cycle models
+23," National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China"," National Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China",HIEDS: a generic and efficient approach to hierarchical dataset summarization
+24, AIST, NICT,Assessing translation ability through vocabulary ability assessment
+25," Northwest University, Xi'an, China"," Zhejiang University, Hangzhou, China",Weakly-supervised deep learning for customer review sentiment classification
+26," School of Computer Science, Carnegie Mellon University"," School of Computer Science, Carnegie Mellon University",Questimator: generating knowledge assessments for arbitrary topics
+27," The University of Tokyo and JST, ERATO"," National Institute of Informatics and Preferred Infrastructure, Inc.",Efficient algorithms for spanning tree centrality
+28," University of California, San Diego"," University of California, San Diego",Sherlock: sparse hierarchical embeddings for visually-aware one-class collaborative filtering
+29, The University of Tokyo," National Institute of Informatics, Institute of Industrial Science, The University of Tokyo",Ordering concepts based on common attribute intensity

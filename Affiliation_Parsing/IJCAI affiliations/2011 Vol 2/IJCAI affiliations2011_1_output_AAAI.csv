@@ -1,0 +1,70 @@
+,first-author-affiliation,last-author-affiliation,title
+0," School of Computer Science, The Academic College of Tel-Aviv, Israel"," School of Computer Science, Tel-Aviv University, Israel",What is an ideal logic for reasoning with inconsistency?
+1," INRIA, France"," Univ. Montpellier II, France",Walking the complexity lines for generalized guarded existential rules
+2," INRIA, France"," INRIA, France","Query reasoning on trees with types, interleaving, and counting"
+3," School of Computing, Informatics and Decision Systems Engineering, Arizona State University, Tempe"," School of Computing, Informatics and Decision Systems Engineering, Arizona State University, Tempe",First-order extension of the FLP stable model semantics via modified circumscription
+4," Airbus France, Toulouse, France and LAAS, CNRS, Toulouse, France and Université de Toulouse, UPS, INSA, INP, ISAE, LAAS, Toulouse, France"," LAAS, CNRS, Toulouse, France and Université de Toulouse, UPS, INSA, INP, ISAE, LAAS, Toulouse, France",A theory of meta-diagnosis: reasoning about diagnostic systems
+5," Department of Computing, Imperial College London"," Department of Computing, Imperial College London",A computationally-grounded semantics for artifact-centric systems and abstraction results
+6," Dept. of Computer Science, RWTH Aachen, Aachen, Germany"," Dept. of Computer Science, RWTH Aachen, Aachen, Germany",On progression and query evaluation in first-order knowledge bases with function symbols
+7," Université Lille-Nord de France, CRIL, CNRS, UMR, Artois, Lens"," Université Paris Descartes, LIPADE, France",Interval-based possibilistic logic
+8," Laboratoire d'Informatique, LIX, CNRS, UMR, École Polytechnique, France"," Department of Computer Science, University of Freiburg, Germany",RCC8 is polynomial on networks of bounded treewidth
+9," Dep. of Physics, University of Naples ""Federico II"""," Dep. of Physics, University of Naples ""Federico II""",On the complexity of EL with defeasible inclusions
+10," TU Dresden, Germany"," TU Dresden, Germany",Description logics over lattices with multi-valued ontologies
+11," University of Barcelona, Barcelona, Spain"," IIIA, CSIC, Bellaterra, Spain",Finite-valued Lukasiewicz modal logic Is PSPACE-complete
+12," Computer Science Institute, Univ. of Leipzig, Germany"," Institute of Information Systems, Vienna Univ. of Technology, Austria",Relating the semantics of abstract dialectical frameworks and standard AFs
+13," University of Leipzig, Department of Computer Science"," Vienna University of Technology, Institute of Information Systems",Managed multi-context systems
+14," Utrecht University, Department of Information and Computing Sciences, Utrecht, The Netherlands"," Utrecht University, Department of Information and Computing Sciences, Utrecht, The Netherlands",Modeling attempt and action failure in probabilistic stit logic
+15," KRDB Research Centre, Free Univ. of Bozen-Bolzano, Bolzano, Italy"," Institute of Information Systems, Vienna Univ. of Technology, Vienna, Austria",A practical automata-based technique for reasoning in expressive description logics
+16," KRDB Research Centre, Free University of Bozen-Bolzano, Bolzano, Italy"," Institute of Information Systems, Vienna University of Technology, Vienna, Austria",Containment of regular path queries under description logic constraints
+17," Scuola Normale Superiore, Pisa, Italy"," ISTI, CNR, Pisa, Italy",Defeasible inheritance-based description logics
+18," Computer Science Department, UCLA"," Computer Science Department, UCLA",SDD: a new canonical representation of propositional knowledge bases
+19," Sapienza Università di Roma, Rome, Italy"," University of Toronto, Toronto, Canada",Efficient reasoning in proper knowledge bases with unknown individuals
+20," School of Computing Science, Simon Fraser University, Burnaby, BC, Canada"," School of Computing Science, Simon Fraser University, Burnaby, BC, Canada",Revising by an inconsistent set of formulas
+21," School of Computing Science, Simon Fraser University, Burnaby, BC, Canada"," Dept of Business Administration, University of Patras, Patras, Greece",Revising horn theories
+22," University of Salerno, Italy and University of Udine, Italy"," University of Murcia, Spain, and UIST Ohrid, Macedonia",Expressiveness of the interval logics of Allen's relations on the class of all linear orders: complete classification
+23," Institute of Information Systems, Vienna Univ. of Tech., Austria"," Institute of Information Systems, Vienna Univ. of Tech., Austria",Parametric properties of ideal semantics
+24," Group for Logic, Language and Information, Universidad de Sevilla, Seville, Spain"," Group for Logic, Language and Information, Universidad de Sevilla, Seville, Spain",Tangled modal logic for spatial reasoning
+25," Vienna University of Technology, Vienna, Austria"," Vienna University of Technology, Vienna, Austria",Backdoors to tractable answer-set programming
+26," Dipartimento di Metodi Quantitativi per le Scienze Economiche ed Aziendali, Università di Milano-Bicocca, Milano, Italy"," Dipartimento di Metodi Quantitativi per le Scienze Economiche ed Aziendali, Università di Milano-Bicocca, Milano, Italy",Refutation in dummett logic using a sign to express the truth at the next possible world
+27," Faculty of Computer Science, Free University of Bozen-Bolzano, Italy"," D.R. Chariton School of Computer Science, University of Waterloo, Canada",Fixpoints in temporal description logics
+28," Computer Science, Univ. of Western Australia"," Philosophy, Univ. of Groningen",Succinctness of epistemic languages
+29," Qualitative Reasoning Group, Northwestern University, Evanston, IL"," Qualitative Reasoning Group, Northwestern University, Evanston, IL",Repairing incorrect knowledge with model formulation and metareasoning
+30," Dip. di Informatica, Univ. del Piemonte Orientale, Alessandria, Italy"," Dip. di Informatica, Università degli Studi di Torino, Italy",Reasoning about typicality in low complexity DLs: the logics EL⊥Tmin and DL-LitecTmin
+31," Institute for Software Technology, Graz University of Technology, Graz, Austria"," Knowledge-Based Systems Group, RWTH Aachen University, Aachen, Germany",Belief management for high-level robot programs
+32," Department of Computer Science, University of Toronto"," Department of Mechanical and Industrial Engineering, University of Toronto",Multidimensional mereotopology with betweenness
+33," Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands"," Institute for Computing and Information Sciences, Radboud University Nijmegen, Nijmegen, The Netherlands",Generalising the interaction rules in probabilistic logic
+34," Department of Computer Science, University of Toronto, Toronto, ON, Canada"," Dipartimento di Informatica e Sistemistica, SAPIENZA Università di Roma, Roma, Italy",Generalized planning: synthesizing plans that work for multiple environments
+35," National Institute of Informatics, Tokyo, Japan"," National Institute of Informatics, Tokyo, Japan",Logic programming for Boolean networks
+36," Department of Computer and Information Science, Linköping University"," Department of Computer and Information Science, Linköping University",Discrete-time temporal reasoning with horn DLRs
+37," Technische Universität Dortmund, Dortmund, Germany"," Technische Universität Dortmund, Dortmund, Germany",A constructive approach to independent and evidence retaining belief revision by general information sets
+38," Columbia University, New York, NY"," Columbia University, New York, NY",A logic for causal inference in time series with discrete and continuous variables
+39," CRIL, CNRS, Université d'Artois, Lens, France"," CRIL, CNRS, Université d'Artois, Lens, France",Belief base rationalization for propositional merging
+40," Department of Computer Science and Information Systems, Birkbeck College London, UK"," Department of Computer Science and Information Systems, Birkbeck College London, UK",On the decidability of connectedness constraints in 2D and 3D Euclidean spaces
+41," University of Oxford, UK"," Karlsruhe Institute of Technology, Germany",Extending decidable existential rules by joining acyclicity and guardedness
+42," University of Brescia, Italy"," University of Brescia, Italy",Context-sensitive diagnosis of discrete-event systems
+43," Dept. of Computer Science, Sun Yat-sen University, Guangzhou, China"," Dept. of Computer Science, Sun Yat-sen University and Guangdong Institute of Public Administration, Guangzhou, China",On the progression of knowledge in the situation calculus
+44," Fachbereich Informatik, Universität Bremen, Germany"," Department of Computer Science, University of Liverpool, UK",Description logic TBoxes: model-theoretic characterizations and rewritability
+45," Fachbereich Informatik, Universität Bremen, Germany"," Department of Computer Science, University of Liverpool, UK",Foundations for uniform interpolation and forgetting in expressive description logics
+46," CRIL, CNRS, Université d'Artois, Lens, France"," CRIL, CNRS, Université d'Artois, Lens, France",Existential closures for knowledge compilation
+47," CRIL, CNRS, Université d'Artois, Lens, France"," CRIL, CNRS, Université d'Artois, Lens, France",Lost in translation: language independence in propositional logic-application to belief revision and belief merging
+48," Department of Humanistic Informatics, Kyoto University, Japan"," Department of Humanistic Informatics, Kyoto University, Japan",Reasoning about fuzzy belief and common belief: with emphasis on incomparable beliefs
+49, Open University of Cyprus, Open University of Cyprus,Causal learnability
+50," Department of Infomatics, King's College London"," Department of Information and Computing Sciences, Utrecht University and Faculty of Law, University of Groningen",Revisiting preferences and argumentation
+51, Karlsruhe Institute of Technology," Oxford University Computing Laboratory, UK",Reasoning-supported interactive revision of knowledge bases
+52," Vienna University of Technology, Vienna, Austria"," Vienna University of Technology, Vienna, Austria",Augmenting tractable fragments of abstract argumentation
+53," Vienna University of Technology, Austria"," Vienna University of Technology, Austria",Query answering in the horn fragments of the description logics SHOIQ and SROIQ
+54," Universidad Politécnica de Madrid, Universidad Rey Juan Carlos, Madrid, Spain"," Universidad Politécnica de Madrid, Universidad Rey Juan Carlos, Madrid, Spain",An approach to minimal belief via objective belief
+55," Cheriton School of Computer Science, University of Waterloo, Canada"," Cheriton School of Computer Science, University of Waterloo, Canada",An assertion retrieval algebra for object queries over knowledge bases
+56," Dipartimento di Informatica e Sistemistica, Sapienza Università di Roma, Italy"," Dipartimento di Informatica e Sistemistica, Sapienza Università di Roma, Italy",On the complexity of dealing with inconsistency in description logic ontologies
+57," Department of Computer and Communication Sciences, Wakayama University, Japan"," Department of Computer and Communication Sciences, Wakayama University, Japan",Dishonest reasoning by abduction
+58," Dept. Computer and Communication Sciences, Wakayama University, Wakayama, Japan"," Department of Computer Science, New Mexico State University, Las Cruces, NM",A logical formulation for negotiation among dishonest agents
+59," DFKI GmbH, Bremen", Imperial College London,Description logics and fuzzy probability
+60," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China"," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China",Well-supported semantics for description logic programs
+61," National University of Sciences and Technology, Islamabad, Pakistan"," National University of Sciences and Technology, Islamabad, Pakistan",Computing minimum-cardinality diagnoses by model relaxation
+62," Department of Computer Science, University of Oxford"," Department of Computer Science, University of Oxford",Consequence-based reasoning beyond horn ontologies
+63, UC Santa Cruz, Free University of Bozen-Bolzano,Beth definability in expressive description logics
+64," School of Computer Science and Engineering, The University of New South Wales, Australia"," School of Computer Science and Engineering, The University of New South Wales, Australia",The general game playing description language is universal
+65, Utrecht University, Utrecht University & University of Groningen,Relating Carneades with abstract argumentation
+66," Department of Computer Science, University of Freiburg, Germany"," Research School of Computer Science, The Australian National University, Canberra, Australia",On qualitative route descriptions: representation and computational complexity
+67," Department of Computer Science and Technology, Tsinghua University, Beijing, China"," School of Computing and Mathematics, University of Western Sydney, NSW, Australia",Translating first-order theories into logic programs
+68," National ICT Australia and ARC Centre of Excellence in Autonomous Systems, School of Computer Science and Engineering, The University of New South Wales, Sydney, NSW, Australia"," National ICT Australia and ARC Centre of Excellence in Autonomous Systems, School of Computer Science and Engineering, The University of New South Wales, Sydney, NSW, Australia",Transitively relational partial meet horn contraction

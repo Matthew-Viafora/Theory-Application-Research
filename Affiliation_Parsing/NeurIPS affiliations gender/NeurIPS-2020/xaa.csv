@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-affiliation,last-author,last-author-affiliation,title
+0,0,Ali Shojaie,University of Washington,George Michailidis,University of Michigan,Joint Affinity Groups Poster Session.
+1,1,Andrew McCallum,UMass Amherst,Sameer Singh,"University of California, Irvine",Rankmax: An Adaptive Projection Alternative to the Softmax Function.
+2,2,Yee Whye Teh,"University of Oxford, DeepMind",DILAN Gorur,DeepMind,Field-wise Learning for Multi-field Categorical Data.
+3,3,Daniel Cavagnaro,Cal State Fullerton,Jay Myung,Ohio State University,Deep Diffusion-Invariant Wasserstein Distributional Classification.
+4,4,Alexander Ihler,UC Irvine,Padhraic Smyth,"University of California, Irvine",No Subclass Left Behind: Fine-Grained Robustness in Coarse-Grained Classification Problems.
+5,5,Bryan C Russell,U Washington,Andrew Zisserman,DeepMind & University of Oxford,Efficient Clustering Based On A Unified View Of K-means And Ratio-cut.
+6,6,Arkadas Ozakin,Georgia Institute of Technology,Alexander Gray,Skytree Inc. and Georgia Tech,Probabilistic Fair Clustering.
+7,7,Nino Shervashidze,"INRIA, Laboratoire d'Informatique de l'ENS",Karsten Borgwardt,ETH Zurich,Sampling-Decomposable Generative Adversarial Recommender.
+8,8,Ruben Coen-Cagli,Albert Einstein College of Medicine,Odelia Schwartz,Albert Einstein College of Medicine,Trading Personalization for Accuracy: Data Debugging in Collaborative Filtering.
+9,9,Elad Hazan,Princeton University,Nimrod Megiddo,IBM Almaden Research Center,Ratio Trace Formulation of Wasserstein Discriminant Analysis.
+10,10,Zenglin Xu,University of Electronic Science & Technology of China,Zhirong Yang,Aalto University,Coresets for Regressions with Panel Data.
+11,11,Matthias Seeger,Amazon,Matthias Seeger,Amazon,Adversarial Learning for Robust Deep Clustering.
+12,12,Gideon S Mann,Google Inc.,Dan Walker,None,Adversarial Counterfactual Learning and Evaluation for Recommender System.
+13,13,Barry W Chai,Stanford,Fei-Fei Li,Princeton University,Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion.
+14,14,Bryan C Russell,U Washington,Andrew Zisserman,DeepMind & University of Oxford,Interventional Few-Shot Learning.
+15,15,Theodore Perkins,Ottawa Hospital Research Institute,Theodore Perkins,Ottawa Hospital Research Institute,Neural Methods for Point-wise Dependency Estimation.
+16,16,Emily Fox,"University of Washington, Apple",Alan S Willsky,Massachusetts Institute of Technology,Multi-label Contrastive Predictive Coding.
+17,17,Menachem Fromer,Hebrew University,Amir Globerson,"Tel Aviv University, Google",Self-Supervised Relationship Probing.
+18,18,Sahand N Negahban,"University of California, Berkeley",Bin Yu,None,Debiased Contrastive Learning.

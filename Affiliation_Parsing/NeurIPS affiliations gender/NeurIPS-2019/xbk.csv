@@ -1,0 +1,20 @@
+719,719,Tom Eccles,DeepMind,Thore Graepel,DeepMind,Biases for Emergent Communication in Multi-agent Reinforcement Learning.
+720,720,Fushan Li,University of Alberta,Michael Bowling,University of Alberta / DeepMind,Ease-of-Teaching and Language Structure from Emergent Communication.
+721,721,Jiechuan Jiang,Peking University,Zongqing Lu,Peking University,Learning Fairness in Multi-Agent Systems.
+722,722,Anuj Mahajan,University of Oxford,Shimon Whiteson,University of Oxford,MAVEN: Multi-Agent Variational Exploration.
+723,723,Shuyue Hu,The Chinese University of Hong Kong,Ho-fung Leung,The Chinese University of Hong Kong,Modelling the Dynamics of Multiagent Q-Learning in Repeated Symmetric Games: a Mean Field Theoretic Approach.
+724,724,Christian Schroeder de Witt,University of Oxford,Shimon Whiteson,University of Oxford,Multi-Agent Common Knowledge Reinforcement Learning.
+725,725,Nicolas Carrara,ULille,Olivier Pietquin,Google Research    Brain Team,Budgeted Reinforcement Learning in Continuous State Space.
+726,726,Bin Hu,University of Illinois at Urbana-Champaign,Usman Syed,University of Illinois Urbana Champaign,Characterizing the Exact Behaviors of Temporal Difference Learning Algorithms Using Markov Jump Linear System Theory.
+727,727,Krzysztof M Choromanski,Google Brain Robotics,Vikas Sindhwani,Google,From Complexity to Simplicity: Adaptive ES-Active Subspaces for Blackbox Optimization.
+728,728,Alex Trott,Salesforce Research,Richard Socher,Salesforce,Keeping Your Distance: Solving Sparse Reward Tasks Using Self-Balancing Shaped Rewards.
+729,729,Sujoy Paul,UC Riverside,Amit Roy-Chowdhury ,"University of California, Riverside, USA ",Learning from Trajectories via Subgoal Discovery.
+730,730,Gregory Farquhar,University of Oxford,Jakob Foerster,Facebook AI Research,Loaded DiCE: Trading off Bias and Variance in Any-Order Score Function Gradient Estimators for Reinforcement Learning.
+731,731,Tengyang Xie,University of Illinois at Urbana-Champaign,Yu-Xiang Wang,UC Santa Barbara,Towards Optimal Off-Policy Evaluation for Reinforcement Learning with Marginalized Importance Sampling.
+732,732,Lantao Yu,Stanford University,Stefano Ermon,Stanford,Meta-Inverse Reinforcement Learning with Probabilistic Context Variables.
+733,733,Boyi Liu,Northwestern University,Zhaoran Wang,Northwestern University,Neural Proximal/Trust Region Policy Optimization Attains Globally Optimal Policy.
+734,734,Qi Cai,Northwestern University,Zhaoran Wang,Northwestern University,Neural Temporal-Difference Learning Converges to Global Optima.
+735,735,Zhuoran Yang,Princeton University,Zhaoran Wang,Northwestern University,Provably Global Convergence of Actor-Critic: A Case for Linear Quadratic Regulator with Ergodic Cost.
+736,736,Wenjie Shi,Tsinghua University,Gao Huang,Tsinghua,Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning.
+737,737,Debmalya Mandal,Columbia University,David Woodruff,Carnegie Mellon University,Efficient and Thrifty Voting by Any Means Necessary.
+738,738,Gabriele Farina,Carnegie Mellon University,Tuomas Sandholm,"CMU, Strategic Machine, Strategy Robot, Optimized Markets",Efficient Regret Minimization Algorithm for Extensive-Form Correlated Equilibrium.

@@ -1,0 +1,20 @@
+279,279,Elad Hazan,Princeton University,Nimrod Megiddo,IBM Almaden Research Center,Differentially Private Clustering: Tight Approximation Ratios.
+280,280,Lei ShiUpdateMe,"University of California, Berkeley",Tom Griffiths,Princeton,Faster Differentially Private Samplers via Rényi Divergence Analysis of Discretized Langevin MCMC.
+281,281,Guillermo Cecchi,IBM Research,Jean-Baptiste Poline,CEA-INSERM,Learning to Decode: Reinforcement Learning for Decoding of Sparse Graph-Based Channel Codes.
+282,282,Tomer D Ullman,Massachusetts Institute of Technology,Josh Tenenbaum,MIT,WoodFisher: Efficient Second-Order Approximation for Neural Network Compression.
+283,283,Hamid R Maei,Stanford University,Rich Sutton,"DeepMind, U Alberta",Deep Transformers with Latent Depth.
+284,284,Piyush Rai,Duke University,Hal Daumé III,Univ of Maryland / Microsoft Research,Movement Pruning: Adaptive Sparsity by Fine-Tuning.
+285,285,Chunxiao Zhou,NIH (National Institutes of Health),Yongmei Michelle Wang,None,Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot.
+286,286,Corinna Cortes,Google Research,Afshin Rostamizadeh,Google Research,Pruning Filter in Filter.
+287,287,Marek Petrik,IBM,Shlomo Zilberstein,Univ of Mass,The Lottery Ticket Hypothesis for Pre-trained BERT Networks.
+288,288,Rob Nowak,Wisconsin,Rob Nowak,Wisconsin,The Generalization-Stability Tradeoff In Neural Network Pruning.
+289,289,Lawrence Cayton,Max Planck Institute for Biological Cybernetics,Lawrence Cayton,Max Planck Institute for Biological Cybernetics,Greedy Optimization Provably Wins the Lottery: Logarithmic Number of Winning Tickets is Enough.
+290,290,Xiaolin Yang,Carnegie Mellon University,Eric Xing,Petuum Inc. /  Carnegie Mellon University,Firefly Neural Architecture Descent: a General Approach for Growing Neural Networks.
+291,291,Vinayak Rao,Purdue University,Yee Whye Teh,"University of Oxford, DeepMind",HYDRA: Pruning Adversarially Robust Neural Networks.
+292,292,Shobha Venkataraman,AT&T Labs -- Research,Oliver Spatscheck,None,Logarithmic Pruning is All You Need.
+293,293,Baback Moghaddam,Caltech,Kevin P Murphy,Google,Optimal Lottery Tickets via Subset Sum: Logarithmic Over-Parameterization is Sufficient.
+294,294,Tao Hu,"JFRC, HHMI",Dmitri B Chklovskii,HHMI,Higher-Order Certification For Randomized Smoothing.
+295,295,John Duchi,UC Berkeley,Yoram Singer,Princeton,Adversarial robustness via robust low rank representations.
+296,296,Shakir Mohamed,DeepMind,Finale P Doshi-Velez,Harvard,Denoised Smoothing: A Provable Defense for Pretrained Classifiers.
+297,297,Stephen Gould,ANU,Daphne Koller,insitro,Margins are Insufficient for Explaining Gradient Boosting.
+298,298,Mladen Kolar,University of Chicago,Eric Xing,Petuum Inc. /  Carnegie Mellon University,On the Power of Louvain in the Stochastic Block Model.

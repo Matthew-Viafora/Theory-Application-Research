@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," State Key Laboratory of Intelligent Technology and System, Tsinghua University, Beijing, China"," HTC Research, Beijing, China",Scalable Gaussian process regression using deep neural networks
+1," Department of Mathematics, Statistics, and Computer Science, University of Illinois at Chicago, Chicago, IL"," Department of Mathematics, Statistics, and Computer Science, University of Illinois at Chicago, Chicago, IL",Training-time optimization of a budgeted booster
+2," University of Texas at Arlington, Arlington, Texas"," University of Texas at Arlington, Arlington, Texas",Robust dictionary learning with capped l1-norm
+3," Department of Computing Science, University of Alberta, Edmonton, AB, Canada"," Department of Computing Science, University of Alberta, Edmonton, AB, Canada",Fast cross-validation for incremental learning
+4," Carnegie Mellon University, Pittsburgh, PA"," Carnegie Mellon University, Pittsburgh, PA",Bayesian active learning for posterior estimation
+5, Foursquare Labs, Columbia University,Collaborative place models
+6," Duke University, Durham, NC"," MIT, CSAIL, Cambridge, MA",Symbol acquisition for probabilistic high-level planning
+7," Computer Science Department, University of Western Ontario, Canada"," Computer Science Department, University of Western Ontario, Canada",Data sparseness in linear SVM
+8," Department of Computer and Information Sciences, Temple University, Philadelphia, PA"," Department of Computer and Information Sciences, Temple University, Philadelphia, PA",Multi-label classification with feature-aware non-linear label space transformation
+9, University of Science and Technology of China," University of Technology, Sydney",Multi-task model and feature joint learning
+10," University of Science and Technology of China, Hefei, Anhui, China"," University of Science and Technology of China, Hefei, Anhui, China",Word embedding revisited: a new representation learning and explicit matrix factorization perspective
+11," Zhejiang University of Technology, Hangzhou, China"," Zhejiang University of Technology, Hangzhou, China",Mixed error coding for face recognition with mixed occlusions
+12," Carnegie Mellon University, Pittsburgh, PA"," Carnegie Mellon University, Pittsburgh, PA",Density corrected sparse recovery when R.I.P. condition is broken
+13, UNC Charlotte, UNC Charlotte,Regularizing flat latent variables with hierarchical structures
+14," Department of Computer Science and Technology, Tsinghua University, Beijing, China and State Key Lab. of Intelligent Technology and Systems, TNLIST, Beijing, China"," Department of Computer Science and Technology, Tsinghua University, Beijing, China and State Key Lab. of Intelligent Technology and Systems, TNLIST, Beijing, China",Robust kernel dictionary learning using a whole sequence convergent algorithm
+15," SEIEE, Shanghai Jiao Tong University, Shanghai, China"," SEIEE, Shanghai Jiao Tong University, Shanghai, China",Multi-task multi-dimensional hawkes processes for modeling event sequences
+16, Brown University, Brown University,Between imitation and intention learning
+17," NLPR, Institute of Automation, Chinese Academy of Sciences, China"," NLPR, Institute of Automation, Chinese Academy of Sciences, China",Optimizing locally linear classifiers with supervised anchor point learning
+18," Artificial Intelligence Center, University of Oviedo at Gijón, (Asturias) Spain and Universidad Tecnológica del Chocó, Colombia"," Artificial Intelligence Center, University of Oviedo at Gijón, (Asturias) Spain",Using A* for inference in probabilistic classifier chains
+19, Open University of Cyprus, Open University of Cyprus,Introspective forecasting
+20," CSA, Department, Indian Institute of Science, Bangalore, India"," EE, Department, Indian Institute of Science, Bangalore, India",EntScene: nonparametric Bayesian temporal segmentation of videos aimed at entity-driven scene detection
+21," Hong Kong University of Science and Technology, Hong Kong, China"," Tencent Inc., Shenzhen, China",Image feature learning for cold start problem in display advertising
+22," Inria, Bordeaux, France"," Inria, Bordeaux, France",Inverse reinforcement learning in relational domains
+23," Optimisation and Logistics, School of Computer Science, The University of Adelaide, Adelaide, Australia"," DTU Compute, Technical University of Denmark, Denmark",On the runtime of randomized local search and simple evolutionary algorithms for dynamic makespan scheduling
+24," School of Information, Renmin University of China, Beijing, China"," School of Information, Renmin University of China, Beijing, China",Weakly supervised matrix factorization for noisily tagged image parsing
+25," Department of Computer Science, Katholieke Universiteit Leuven, Heverlee, Belgium"," Department of Computer Science, Katholieke Universiteit Leuven, Heverlee, Belgium",Graph invariant kernels
+26," Department of Computer Science, Purdue University, West Lafayette, IN"," Departments of Computer Science and Statistics, Purdue University, West Lafayette, IN",EigenGP: Gaussian process models with adaptive eigenfunctions
+27," Department of Electrical & Computer Engineering, Duke University, Durham, NC"," Department of Electrical & Computer Engineering, Duke University, Durham, NC",Scalable probabilistic tensor factorization for binary and count data
+28," Dept. of Statistics and Machine Learning Dept., Carnegie Mellon University"," Machine Learning Dept., Carnegie Mellon University",Nonparametric independence testing for small sample sizes
+29," Computer Science Department, University of California, Los Angeles"," Computer Science Department, University of California, Los Angeles",Data compression for learning MRF parameters

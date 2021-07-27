@@ -1,0 +1,20 @@
+619,619,Dan Alistarh,IST Austria,Jerry Li,Berkeley,Byzantine Stochastic Gradient Descent.
+620,620,Dylan Foster,Cornell University,Akshay Krishnamurthy,Microsoft,Contextual bandits with surrogate losses: Margin bounds and efficient algorithms.
+621,621,Scott Aaronson,UT Austin,Ashwin Nayak,University of Waterloo,Online Learning of Quantum States.
+622,622,Michael Mitzenmacher,Harvard University,Michael Mitzenmacher,Harvard University,A Model for Learned Bloom Filters and Optimizing by Sandwiching.
+623,623,Aditya Grover,Stanford University,Stefano Ermon,Stanford,Streamlining Variational Inference for Constraint Satisfaction Problems.
+624,624,RUI GAO,GEORGIA TECH,Huan Xu,Georgia Inst. of Technology,Robust Hypothesis Testing Using Wasserstein Uncertainty Sets.
+625,625,Thomas Pumir,Princeton University,Nicolas Boumal,Princeton,Smoothed analysis of the low-rank approach for smooth semidefinite programs.
+626,626,Yi Zhou,The Ohio State University,Yingbin Liang,The Ohio State University,Convergence of Cubic Regularization for Nonconvex Optimization under KL Property.
+627,627,Zhize Li,Tsinghua University,Jian Li,Tsinghua University,A Simple Proximal Stochastic Gradient Method for Nonsmooth Nonconvex Optimization.
+628,628,Insu Han,KAIST,Jinwoo Shin,KAIST; AITRICS,Stochastic Chebyshev Gradient Descent for Spectral Optimization.
+629,629,Tianyi Chen,University of Minnesota,Wotao Yin,"University of California, Los Angeles",LAG: Lazily Aggregated Gradient for Communication-Efficient Distributed Learning.
+630,630,Jingzhao Zhang,MIT,Ali Jadbabaie,MIT,Direct Runge-Kutta Discretization Achieves Acceleration.
+631,631,Kevin Scaman,"Huawei Technologies, Noah's Ark",Yin Tat Lee,UW,Optimal Algorithms for Non-Smooth Distributed Optimization in Networks.
+632,632,Haggai Maron,Weizmann Institute of Science,Yaron Lipman,Weizmann Institute of Science,(Probably) Concave Graph Matching.
+633,633,Xiaohan Wei,USC,Michael Neely,USC,Solving Non-smooth Constrained Programs with Lower Complexity than $\mathcal{O}(1/\varepsilon)$: A Primal-Dual Homotopy Smoothing Approach.
+634,634,Soroosh Shafieezadeh Abadeh,EPFL,Peyman Mohajerin Esfahani,TU Delft,Wasserstein Distributionally Robust Kalman Filtering.
+635,635,Pavel Dvurechenskii,"Weierstrass Institute, Berlin",Angelia Nedich,Arizona State University,Decentralize and Randomize: Faster Algorithm for Wasserstein Barycenters.
+636,636,Song Zhou,Cornell University,Madeleine Udell,Cornell University,Limited Memory Kelley's Method Converges for Composite Convex and Submodular Objectives.
+637,637,Dmitry Kovalev,KAUST,Elnur Gasanov,MIPT,Stochastic Spectral and Conjugate Descent Methods.
+638,638,Yaodong Yu,University of Virginia / Petuum,Quanquan Gu,UCLA,Third-order Smoothness Helps: Faster Stochastic Optimization Algorithms for Finding Local Minima.

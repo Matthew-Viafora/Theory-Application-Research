@@ -1,0 +1,20 @@
+99,99,Jun-ichiro Hirayama,Kyoto University,Aapo Hyvarinen,University of Helsinki,Structural equations and divisive normalization for energy-dependent component analysis.
+100,100,"Asela ""Zilla"" Gunawardana",Microsoft Research,Puyang Xu,Johns Hopkins University,A Model for Temporal Dependencies in Event Streams.
+101,101,Mohammad Gheshlaghi Azar,Radboud University of Nijmegen,Hilbert J Kappen,Radboud University,Speedy Q-Learning.
+102,102,Bo Chen,Caltech,Pietro Perona,California Institute of Technology,Predicting response time and error rates in visual search.
+103,103,Shuai Huang,Arizona State University,Eric Reiman,Banner Alzheimer's Institute,Identifying Alzheimer's Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis.
+104,104,Tom Walsh,Sony AI,Clayton T Morrison,University of Arizona,Blending Autonomous Exploration and Apprenticeship Learning.
+105,105,Armen Allahverdyan,Yerevan Physics Institute,Aram Galstyan,USC Information Sciences Institute,Comparative Analysis of Viterbi Training and Maximum Likelihood Estimation for HMMs.
+106,106,Elodie Vernet,ENS Cachan,Mark Reid,Apple,Composite Multiclass Losses.
+107,107,Ryan G Gomes,Caltech,Pietro Perona,California Institute of Technology,Crowdclustering.
+108,108,Wieland Brendel,Champalimaud Neuroscience Programme,Christian Machens,Fundacao Champalimaud PT507131827,Demixed Principal Component Analysis.
+109,109,Alan Qi,Purdue university,Feng Yan,Facebook,EigenNet: A Bayesian hybrid of generative and conditional models for sparse learning.
+110,110,Dylan A Simon,New York University,Nathaniel D Daw,New York University,Environmental statistics and the trade-off between model-based and TD learning in humans.
+111,111,Jasmina Bogojeska,Max-Planck Institute for Informatics,Jasmina Bogojeska,Max-Planck Institute for Informatics,History distribution matching method for predicting effectiveness of HIV combination therapies.
+112,112,Charles Kemp,Carnegie Mellon University,Charles Kemp,Carnegie Mellon University,Inductive reasoning about chimeric creatures.
+113,113,Florian Stimberg,TU Berlin,Andreas Ruttor,TU Berlin,Inference in continuous time changepoint point models.
+114,114,Kamiar Rahnama Rad,Columbia University,Liam Paninski,Columbia University,Information Rates and Optimal Decoding in Large Neural Populations.
+115,115,Blake Shaw,Foursquare,Tony Jebara,Spotify,Learning a Distance Metric from a Network.
+116,116,Angela Yao,National University of Singapore,Raquel Urtasun,University of Toronto,Learning Probabilistic Non-Linear Latent Variable Models for Tracking Complex Activities.
+117,117,Christoph Lampert,IST Austria,Christoph Lampert,IST Austria,Maximum Margin Multi-Label Structured Prediction.
+118,118,Jiarong Jiang,Two Sigma Investments LP,Hal Daumé III,Univ of Maryland / Microsoft Research,Message-Passing for Approximate MAP Inference with Latent Variables.

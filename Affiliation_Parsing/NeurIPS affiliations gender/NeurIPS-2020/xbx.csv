@@ -1,0 +1,20 @@
+979,979,Percy Liang,Stanford University,Michael Jordan,UC Berkeley,Demystifying Orthogonal Monte Carlo and Beyond.
+980,980,Sahand N Negahban,"University of California, Berkeley",Bin Yu,None,Unfolding recurrence by Green’s functions for optimized reservoir computing.
+981,981,Arno Onken,University of Glasgow,Klaus H Obermayer,Technical University of Berlin,A Group-Theoretic Framework for Data Augmentation.
+982,982,Hamid R Maei,Stanford University,Rich Sutton,"DeepMind, U Alberta",Understanding Double Descent Requires A Fine-Grained Bias-Variance Decomposition.
+983,983,Samory Kpotufe,Princeton University,Samory Kpotufe,Princeton University,Triple descent and the two kinds of overfitting: where & why do they appear?.
+984,984,Hamid R Maei,Stanford University,Rich Sutton,"DeepMind, U Alberta",The interplay between randomness and structure during learning in RNNs.
+985,985,M. Pawan Kumar,Stanford University,Daphne Koller,insitro,"A random matrix analysis of random Fourier features: beyond the Gaussian kernel, a precise phase transition, and the corresponding double descent."
+986,986,Liefeng Bo,Intel Labs,Cristian Sminchisescu,Lund University/Google,When Do Neural Networks Outperform Kernel Methods?.
+987,987,Nir Ailon,Technion,Claire Monteleoni,University of Colorado Boulder,The Statistical Cost of Robust Kernel Hyperparameter Turning.
+988,988,Bharath Sriperumbudur,The Pennsylvania State University,Gert Lanckriet,U.C. San Diego,Asymptotic normality and confidence intervals for derivatives of 2-layers neural network in the random features model.
+989,989,Anne Hsu,UC Berkeley,Tom Griffiths,Princeton,Randomized tests for high-dimensional regression: A more efficient and powerful solution.
+990,990,Arthur Gretton,"Gatsby Unit, UCL",Bharath Sriperumbudur,The Pennsylvania State University,Sample complexity and effective dimension for regression on manifolds.
+991,991,Marius Leordeanu,None,Rahul Sukthankar,Intel Labs and CMU,An analytic theory of shallow networks dynamics for hinge loss classification.
+992,992,Siamac Fazli,TU Berlin,Klaus-Robert Müller,TU Berlin,Mix and Match: An Optimistic Tree-Search Approach for Learning Models from Mixture Distributions.
+993,993,Menachem Fromer,Hebrew University,Amir Globerson,"Tel Aviv University, Google",One-bit Supervision for Image Classification.
+994,994,Peter Orbanz,Columbia University,Peter Orbanz,Columbia University,Your Classifier can Secretly Suffice Multi-Source Domain Adaptation.
+995,995,Jonathan Huang,google.com,Carlos Guestrin,University of Washington,Early-Learning Regularization Prevents Memorization of Noisy Labels.
+996,996,Cosmin A Bejan,The University of Texas at Dallas,Sanda Harabagiu,University of Texas at Dallas,Compositional Zero-Shot Learning via Fine-Grained Dense Feature Composition.
+997,997,Russ Salakhutdinov,Carnegie Mellon University,Russ Salakhutdinov,Carnegie Mellon University,Universal Domain Adaptation through Self Supervision.
+998,998,Lei ShiUpdateMe,"University of California, Berkeley",Tom Griffiths,Princeton,Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift.

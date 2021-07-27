@@ -1,0 +1,20 @@
+399,399,Lei Wu,Peking University,Weinan E,Princeton University,How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective.
+400,400,Lingjiao Chen,University of Wisconsin-Madison,Paraschos Koutris,University of Wisconsin-Madison,The Effect of Network Width on the Performance of  Large-batch Training.
+401,401,Lie He,EPFL,Martin Jaggi,EPFL,COLA: Decentralized Linear Learning.
+402,402,Ashok Cutkosky,Google,Róbert Busa-Fekete,Yahoo! Research,Distributed Stochastic Optimization via Adaptive SGD.
+403,403,Quoc Tran Dinh,"Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, North Carolina",Quoc Tran Dinh,"Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, North Carolina",Non-Ergodic Alternating Proximal  Augmented Lagrangian Algorithms with Optimal Rates.
+404,404,Robert Hannah,UCLA,Wotao Yin,"University of California, Los Angeles",Breaking the Span Assumption Yields Fast Finite-Sum Minimization.
+405,405,Yaron Singer,Harvard University,Avinatan Hassidim,Bar Ilan University,Optimization for Approximate Submodularity.
+406,406,Jennifer Gillenwater,Google,Zelda Mariet,MIT,Maximizing Induced Cardinality Under a Determinantal Point Process.
+407,407,Pan Li,University of Illinois Urbana-Champaign,Olgica Milenkovic,University of Illinois at Urbana-Champaign,Revisiting Decomposable Submodular Function Minimization with Incidence Relations.
+408,408,Farnood Salehi,EPFL,ecelis Celis,EPFL,Coordinate Descent with Bandit Sampling.
+409,409,Robert Gower,ParisTech,Sebastian Stich,EPFL,Accelerated Stochastic Matrix Inversion:  General Theory and  Speeding up BFGS Rules for Faster Second-Order Optimization.
+410,410,Dongruo Zhou,UCLA,Quanquan Gu,UCLA,Stochastic Nested Variance Reduced Gradient Descent for Nonconvex Optimization.
+411,411,Zeyuan Allen-Zhu,Microsoft Research,Yuanzhi Li,Princeton,NEON2: Finding Local Minima via First-Order Oracles.
+412,412,Richard Zhang,"University of California, Berkeley",Javad Lavaei,"University of California, Berkeley",How Much Restricted Isometry is Needed In Nonconvex Matrix Recovery?.
+413,413,Aryan Mokhtari,MIT,Ali Jadbabaie,MIT,Escaping Saddle Points in Constrained Optimization.
+414,414,Yair Carmon,Stanford,John Duchi,Stanford,Analysis of Krylov Subspace Solutions of  Regularized Non-Convex Quadratic Problems.
+415,415,Cong Fang,Peking University,Tong Zhang,Tencent AI Lab,SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator.
+416,416,Zeyuan Allen-Zhu,Microsoft Research,Zeyuan Allen-Zhu,Microsoft Research,Natasha 2: Faster Non-Convex Optimization Than SGD.
+417,417,Sijia Liu,"MIT-IBM Watson AI Lab, IBM Research AI",Lisa Amini,IBM Research,Zeroth-Order Stochastic Variance Reduction for Nonconvex Optimization.
+418,418,Yuqian Zhang,Cornell University,John Wright,Columbia University,Structured Local Minima in Sparse Blind Deconvolution.
