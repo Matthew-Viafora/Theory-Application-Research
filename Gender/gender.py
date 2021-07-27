@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from googlesearch import search
 
 #reads in data
-data = pd.read_csv(r"Affiliation_Parsing\NeurIPS affiliations gender\NeurIPS-2010\xaa.csv")
+data = pd.read_csv(r"D:\Theory-Application-Research\Affiliation_Parsing\NeurIPS affiliations gender\NeurIPS-2010\xaa.csv")
 
 class Gender:
 
