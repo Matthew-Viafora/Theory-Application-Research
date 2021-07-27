@@ -1,16 +1,14 @@
 import os
 
 
-class Iterate:   
+class File:
+    
 
     def __init__(self):
         self.path = os.path.dirname(os.path.abspath(__file__))
-
         #folders to iterate over
         self.main_affiliation = "Affiliation_Parsing"
         self.conference_affiliations = ["NeurIPS affiliations gender", "ICML affiliations gender"]
-
-        #initializes lists
         self.conference_lst = []
         self.data_lst = []
 
@@ -35,11 +33,10 @@ class Iterate:
             for conference in conference_year:
                 self.data_lst.append("Affiliation_Parsing\\"+self.affiliationType(conference)+" affiliations gender\\"+conference)
 
-    #example of running program
     def run(self):
         self.getConferenceList()
         self.getPathList()
         print(os.listdir(self.path+"\\"+self.data_lst[0]))
 
 a = File()
-print(a.run())
+print(a.getConferenceList())
