@@ -1,0 +1,20 @@
+219,Travis Gibson,Harvard Medical School,Georg Gerber,Harvard Medical School,Robust and Scalable Models of Microbiome Dynamics
+220,Xuhong LI,CNRS/UTC Heudiasyc,Franck Davoine,"CNRS, Université de technologie de Compiègne",Explicit Inductive Bias for Transfer Learning with Convolutional Networks
+221,Zhao Chen,"Magic Leap, Inc",Andrew Rabinovich,"Magic Leap, Inc.",GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks
+222,Piotr Bojanowski,Facebook,Arthur Szlam,Facebook,Optimizing the Latent Space of Generative Networks
+223,Morino Pan,Fudan University,Daizong Ding,Fudan University,Theoretical Analysis of Image-to-Image Translation with Adversarial Learning
+224,Tuomas Haarnoja,UC Berkeley,Sergey Levine,Berkeley,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+225,Paavo Parmas,Okinawa Institute of Science and Technology Graduate University,Kenji Doya,Okinawa Institute of Science and Technology,PIPPS: Flexible Model-Based Policy Search Robust to the Curse of Chaos
+226,Andreas Doerr,"Bosch Center for Artificial Intelligence, Max Planck Institute for Intelligent Systems",Sebastian Trimpe,Max Planck Institute for Intelligent Systems,Probabilistic Recurrent State-Space Models
+227,Xiaoyu Lu,University of Oxford,Neil Lawrence,Amazon,Structured Variationally Auto-encoded Optimization
+228,Sue Zheng,MIT,John Fisher,MIT,A Robust Approach to Sequential Information Theoretic Planning
+229,Miles Lopes,"University of California, Davis",Michael Mahoney,UC Berkeley,Error Estimation for Randomized Least-Squares Algorithms via the Bootstrap
+230,Zhengyuan Zhou,Stanford University,Li Fei-Fei,Stanford University,Distributed Asynchronous Optimization with Unbounded Delays: How Slow Can You Go?
+231,Jiaxiang Wu,Tencent AI Lab,Tong Zhang,Tecent AI Lab,Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization
+232,Ahmed Douik,California Institute of technology,Babak Hassibi,Caltech,Low-Rank Riemannian Optimization on Positive Semidefinite Stochastic Matrices with Applications to Graph Clustering
+233,Lukas Balles,Max Planck Institute for Intelligent Systems,Philipp Hennig,University of Tübingen,"Dissecting Adam: The Sign, Magnitude and Variance of Stochastic Gradients"
+234,Thomas Dietterich,(organization),Zhitang Chen,Huawei Noah’s Ark Lab,Discovering and Removing Exogenous State Variables and Rewards for Reinforcement Learning
+235,Matej Balog,University of Cambridge and MPI Tübingen,Bernhard Schölkopf,"MPI for Intelligent Systems Tübingen, Germany",Differentially Private Database Release via Kernel Mean Embeddings
+236,Gail Weiss,Technion,Eran Yahav,Technion,Extracting Automata from Recurrent Neural Networks Using Queries and Counterexamples
+237,Christian Walder,"Data61, the Australian National University",Dongwoo Kim,The Australian National University,Neural Dynamic Programming for Musical Self Similarity
+238,Jiong Zhang,University of Texas at Austin,Inderjit Dhillon,UT Austin & Amazon,Learning long term dependencies via Fourier recurrent units
