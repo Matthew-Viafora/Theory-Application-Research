@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0, Erasmus University Rotterdam, University of Minnesota,Autonomous agents in future energy markets: the 2012 power trading agent competition
+1," Cornell University, Ithaca, NY"," Oregon State University, Corvallis, OR",Robust network design for multispecies conservation
+2," Machine Learning Department, Carnegie Mellon University, Pittsburgh"," Computer Science Department, Carnegie Mellon University, Pittsburgh",Negotiated learning for smart grid agents: entity selection based on dynamic partially observable features
+3," INRA-MIAT, Toulouse, France"," INRA, LUNAM Université, Oniris, Nantes, France",A tractable leader-follower MDP model for animal disease management
+4," Discovery Analytics Center and Department of Computer Science, Virginia Tech, Blacksburg, VA"," Discovery Analytics Center and Department of Computer Science, Virginia Tech, Blacksburg, VA",A temporal motif mining approach to unsupervised energy disaggregation: applications to residential and commercial buildings
+5," University of Massachusetts Amherst, Amherst, MA"," Cornell Lab of Ornithology, Ithaca, NY",Approximate Bayesian inference for reconstructing velocities of migrating birds from weather radar
+6," Albert-Ludwigs-Universität Freiburg, Institut für Informatik, Freiburg, Germany"," Universität Stuttgart, Institut für Formale Methoden der Informatik, Stuttgart, Germany",Enabling E-mobility: facility location for battery loading stations
+7," The Robotics Institute, Carnegie Mellon University"," The Robotics Institute, Carnegie Mellon University",Model predictive control with uncertainty in human driven systems
+8," Cheriton School of Computer Science, University of Waterloo, Waterloo, ON, Canada"," Aviation, Forest Fire and Emergency Services, Ontario Ministry of Natural Resources, Sault Ste Marie, ON, Canada",Resource sharing for control of wildland fires
+9," Karlsruhe Institute of Technology, Karlsruhe, Germany"," Carnegie Mellon University, Pittsburgh, PA",Multiagent coordination for energy consumption scheduling in consumer cooperatives
+10," Cornell University, Ithaca, NY"," Oregon State University, Corvallis, OR",Large landscape conservation: synthetic and real-world datasets
+11," Department of Advanced Robotics, Istituto Italiano di Tecnologia (IIT), Genova"," Department of Advanced Robotics, Istituto Italiano di Tecnologia (IIT), Genova",Bayesian nonparametric multi-optima policy search in reinforcement learning
+12," Université de Toulouse, ISAE, Institut Supérieur de l'Aéronautique et de l'Espace and Onera, The French Aerospace Lab, Toulouse, France"," Onera, The French Aerospace Lab, Toulouse, France",Multi-target detection and recognition by UAVs using online POMDPs
+13," University of Illinois at Urbana-Champaign, Department of Computer Science, Urbana, IL"," University of Illinois at Urbana-Champaign, Department of Computer Science, Urbana, IL","A simple, but NP-hard, motion planning problem"
+14," Massachusetts Institute of Technology, Cambridge, Masachusetts"," Massachusetts Institute of Technology, Cambridge, Masachusetts",Inferring robot task plans from human team meetings: a generative modeling approach with logic-based prior
+15," Department of Electrical and Computer Engineering, National University of Singapore"," Intelligent Autonomous Systems Lab, Technische Unversität Darmstadt",Data-efficient generalization of robot skills with contextual policy search
+16," Institute for Systems and Robotics, Instituto Superior Técnico, Lisbon, Portugal"," Institute for Systems and Robotics, Instituto Superior Técnico, Lisbon, Portugal",GSMDPs for multi-robot sequential decision-making
+17," Department of Electrical Engineering and Computer Science, Catholic University of America, Washington DC"," Department of Electrical Engineering and Computer Science, Catholic University of America, Washington DC",Robot motion planning with dynamics as hybrid search
+18," Department of Advanced Robotics, Istituto Italiano di Tecnologia, Genoa, Italy"," Institut de Robòtica i Informàtica Industrial CSIC-UPC, Barcelona, Spain",Learning collaborative impedance-based robot behaviors
+19, University of Freiburg, University of Freiburg,Compact RGBD surface models based on sparse coding
+20, Rutgers University, Brown University,Open-loop planning in large-scale stochastic domains
+21," Department of Electrical and Computer Engineering, University of Illinois, Urbana, IL"," Department of Computer Science, University of Illinois, Urbana, IL",Structure and intractability of optimal multi-robot path planning on graphs
+22," Department of Computer Science, Université de Sherbrooke, Canada"," Department of Microbiology and Infectiology, Université de Sherbrooke, Canada",An antimicrobial prescription surveillance system that learns from experience
+23," G-SCOP, Université de Grenoble, France"," Cork Constraint Computation Centre, University College Cork, Ireland",The deployment of a constraint-based dental school timetabling system
+24," German Research Center for AI, Saarbrücken, Germany"," Imaging Science Institute, University Hospital Erlangen, Erlangen, Germany",Integrating digital pens in breast imaging for instant knowledge acquisition
+25," Siemens AG, Corporate Technology, Munich, Germany"," Siemens Energy Inc., Orlando",USI answers: natural language question answering over (semi-) structured industry data
+26," Department of Computer Science, University of Texas, Austin, TX"," Department of Computer Science, University of Texas, Austin, TX",GRADE: machine learning support for graduate admissions
+27, The University of Tokyo, Lancers Inc.,Leveraging crowdsourcing to detect improper tasks in crowdsourcing marketplaces
+28," Air Force Research Laboratory, Information Directorate, Rome, NY"," Raytheon BBN Technologies, Cambridge, MA",Interactive information extraction and navigation to enable effective link analysis and visualization of unstructured text
+29," Brown University, RI and US Army Research Institute of Environmental Medicine, Natick, MA"," Brown University, RI",Policies to optimize work performance and thermal safety in exercising humans

@@ -1,0 +1,66 @@
+,first-author-affiliation,last-author-affiliation,title
+0, Univeristy of Maryland, Univeristy of Maryland,Market pricing for data streams
+1," Department of Computer Science, Duke University, Durham, NC"," Department of Computer Science, University of Texas at Austin, Austin, TX",Automated design of robust mechanisms
+2," University of Nottingham, Nottingham, UK"," University of Nottingham, Nottingham, UK",Incentivising monitoring in open normative systems
+3, Duke University, University of Michigan - Ann Arbor,Envy-free mechanisms with minimum number of cuts
+4," Bar-Ilan University, Israel"," Bar-Ilan University, Israel",Strategic signaling and free information disclosure in auctions
+5," Data61, CSIRO and UNSW, Sydney, Australia"," Carnegie Mellon University, Pittsburg",Complexity of manipulating sequential allocation
+6," Data61 and UNSW, Sydney, NSW, Australia"," UNSW, Data61 and TU Berlin, Sydney, NSW, Australia",Algorithms for max-min share fair allocation of indivisible chores
+7," Gran Sasso Science, Institute, Italy."," Gran Sasso Science Institute, Italy",Nash stability in social distance games
+8," Gran Sasso Science Institute, Italy."," Gran Sasso Science Institute, Italy",On pareto optimality in social distance games
+9," University of Milan, Milano, Italy"," Politecnico di Milano, Milano, Italy",Team-maxmin equilibrium: efficiency bounds and algorithms
+10, Google, University of Maryland,A study of compact reserve pricing languages
+11," Department of Computer Science, University of Maryland"," Department of Computer Science, University of Maryland",Faster and simpler algorithm for optimal strategies of blotto game
+12, Carnegie Mellon University, Harvard University,Preference elicitation for participatory budgeting
+13," Aalto University School of Science, Dept. of Mathematics and Systems Analysis"," Carnegie Mellon University, Computer Science Department",Exclusion method for finding Nash equilibrium in multiplayer games
+14," University of Oxford, United Kingdom"," I-CORE, Weizmann Institute of Science, Israel",Teams in online scheduling polls: game-theoretic aspects
+15," Department of Informatics, University of Zurich"," Department of Informatics, University of Zurich",Probably approximately efficient combinatorial auctions via machine learning
+16, University of Oxford, University of Oxford,Phragmén's voting methods and justified representation
+17, University of Oxford, University of Oxford,Multiwinner approval rules as apportionment methods
+18," Carnegie Mellon University, Computer Science Department"," Carnegie Mellon University, Computer Science Department",Dynamic thresholding and pruning for regret minimization
+19, University of Patras, University of Patras,Optimizing positional scoring rules for rank aggregation
+20," THINC Lab, University of Georgia, Athens, GA"," THINC Lab, University of Georgia, Athens, GA",On Markov games played by bayesian and boundedly-rational players
+21," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China"," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China",Bounded rationality of restricted turing machines
+22," TU Wien, Austria"," University of Oxford, UK",Winner determination in huge elections with MapReduce
+23," University of Warsaw, Poland"," University of Wrocław, Poland",Approximation and parameterized complexity of minimax approval voting
+24," Department of Computer Science, University of Liverpool, UK"," Department of Computer Science, University of Liverpool, UK and Computer Technology Institute, Greece",The computational complexity of weighted greedy matching
+25," Department of Computer Science, Duke University, Durham, NC"," Department of Computer Science, Duke University, Durham, NC",Disarmament games
+26," Department of Computer Science, Duke University, Durham, NC"," Department of Computer Science, University of Pennsylvania, Philadelphia, PA",The complexity of stable matchings under substitutable Preferences
+27, University of Maryland and Carnegie Mellon University, Carnegie Mellon University,Small representations of big kidney exchange graphs
+28," University of Oxford, Oxford, UK"," Weizmann Institute of Science, Rehovot, Israel",What do multiwinner voting rules do? an experiment over the two-dimensional euclidean domain
+29," Computer Science Department, Carnegie Mellon University, Pittsburgh, PA"," Dipartimento di Elettronica, Informazione e Bioingegneria, Politecnico di Milano, Milan, Italy",Extensive-form perfect equilibrium computation in two-player games
+30," Lehman College and the Graduate Center, City University of New York"," Lehman College and the Graduate Center, City University of New York",Selfish knapsack
+31," DIEM, Università degli Studi di Salerno, Italy"," CSEE, University of Essex, UK",Obvious strategyproofness needs monitoring for good approximations
+32, Duke University, Microsoft Research,Crowdsourced outcome determination in prediction markets
+33," School of Computer Science and Engineering, Nanyang Technological University, Singapore"," Electrical Engineering and Computer Science, Vanderbilt University, Nashville, TN",Security games on a plane
+34, Stony Brook University, University of Michigan,Engineering agreement: the naming game with asymmetric and heterogeneous agents
+35," Rensselaer Polytechnic Institute, Troy, NY"," Rensselaer Polytechnic Institute, Troy, NY",Vote until two of you agree: mechanisms with small distortion and sample complexity
+36," National Institute of Informatics, JST, ERATO, Kawarabayashi Large Graph Project"," National Institute of Informatics and Preferred Infrastructure, Inc.",Computing least cores of supermodular cooperative games
+37," Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague"," Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague",Heuristic search value iteration for one-sided partially observable stochastic games
+38," Department of Computer Science, University of Oxford, UK"," Department of Computer Science, University of Oxford, UK",Group activity selection on social networks
+39," Department of Computer Science, Trinity University, San Antonio, TX"," Department of Computer Science, University of British Columbia, Vancouver, BC, Canada",Resource graph games: a compact representation for games with structured strategy spaces
+40," Computer Science Department, Stanford University"," Computer Science Department, Stanford University",Complexity of the stable invitations problem
+41," Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China"," Big Data Research Center, University of Electronic Science and Technology of China, Chengdu, China",Mechanism design in social networks
+42," School of Computer Science and Technology, Tianjin University, China"," School of Computer Engineering, Nanyang Technological University, Singapore",Optimal personalized defense strategy against man-in-the-middle attack
+43," The University of Auckland, Department of Computer Science, Auckland, New Zealand"," The University of Auckland, Department of Computer Science, Auckland, New Zealand","Network, popularity and social cohesion: a game-theoretic approach"
+44," Harvard University, Cambridge MA"," Harvard University, Cambridge MA",Sequential peer prediction: learning to elicit effort using posted prices
+45," School of Computer Science, South China Normal University, Guangzhou, China"," School of Computer Science, South China Normal University, Guangzhou, China",An ambiguity aversion model for decision making under ambiguity
+46, Shizuoka University, National Institute of Informatics,Optimal pricing for submodular valuations with bounded curvature
+47," BTECH, Aarhus University, Denmark"," BTECH, Aarhus University, Denmark",On covering codes and upper bounds for the dimension of simple games
+48," Computer and Information Science, University of Michigan - Dearborn, Dearborn, MI"," Digital & Comp. Studies and Computer Science, Bowdoin College, Brunswick, ME",Tractable algorithms for approximate nash equilibria in generalized graphical games with tree structure
+49," Department of Computer Science, University of Oxford, UK"," Department of Computer Science, University of Oxford, UK",Recognising multidimensional euclidean preferences
+50," Department of Computer Science, University of Oxford, UK"," Department of Computer Science, University of Oxford, UK",Preferences single-peaked on a circle
+51," Technion - Israel Institute of Technology, Haifa, Israel"," Technion - Israel Institute of Technology, Haifa, Israel",Psychological forest: predicting human behavior
+52," The Key Lab of Intelligent Information Processing, ICT, CAS, University of Chinese Academy of Sciences, Beijing, China"," Microsoft Research, Beijing, China",Revenue maximization for finitely repeated ad auctions
+53," Universidad Carlos III, de Madrid, Spain"," University of Oxford, United Kingdom",Proportional justified representation
+54," Kyushu University, Fukuoka, Japan"," Kyushu University, Fukuoka, Japan",Achieving sustainable cooperation in generalized prisoner's dilemma with observation errors
+55," Department of Computer Science, Rensselaer Polytechnic Institute"," Department of Computer Science, Rensselaer Polytechnic Institute",Mechanism design for multi-type housing markets
+56," IIT Kanpur, Kanpur, India"," University of Liverpool, Liverpool, U.K.",Constrained pure nash equilibria in polymatrix games
+57," Institute of Informatics, University of Warsaw, Poland"," Masdar Institute of Science and Technology, United Arab Emirates",Axiomatic characterization of game-theoretic network centralities
+58," University of Oxford, United Kingdom"," University of Oxford, United Kingdom",Social choice under metric preferences: scoring rules and STV
+59," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China"," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, China",Fans economy and all-pay auctions with proportional allocations
+60," Department of Computer Science, University of British Columbia, Canada"," Department of Computer Science, University of British Columbia, Canada",The positronic economist: a computational system for analyzing economic mechanisms
+61," Department of ECE, The Ohio State University, Columbus, OH"," Departments of ECE and CSE, The Ohio State University, Columbus, OH",Non-additive security games
+62, University of Warsaw, Imperial College London,The dollar auction with spiteful players
+63, ETH Zurich, ETH Zurich,Proper proxy scoring rules
+64," CAS Key Lab of Network Data Science and Technology, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China and University of Chinese Academy of Sciences, Beijing, China"," Microsoft Research, Beijing, China",Randomized mechanisms for selling reserved instances in cloud

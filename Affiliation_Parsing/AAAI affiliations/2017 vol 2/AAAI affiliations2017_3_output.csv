@@ -1,0 +1,22 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Department of Computer and Information Science, Linköping University, Linköping, Sweden"," Department of Computer and Information Science, Linköping University, Linköping, Sweden",Plan reordering and parallel execution — a parameterized complexity view
+1," Fondazione Bruno Kessler, Trento, Italy"," Fondazione Bruno Kessler, Trento, Italy",Validating domains and plans for temporal planning via encoding into infinite-state linear temporal logic
+2," Sapienza - Universitá di Roma, Italy"," Sapienza - Universitá di Roma, Italy",On the disruptive effectiveness of automated planning for LTLf-based trace alignment
+3," Delft University of Technology, Delft, The Netherlands"," Delft University of Technology, Delft, The Netherlands",Bounding the probability of resource constraint violations in multi-agent MDPs
+4," Sorbonne Universités, UPMC Univ Paris 06, CNRS, LIP6 UMR 7606, Paris, France"," SYSU-CMU Joint Institute of Engineering, Guangzhou, China and School of Electronics and Information Technology, Guangzhou, China and SYSU-CMU Shunde International Joint Research Institute, Shunde, China",Optimizing quantiles in preference-based Markov decision processes
+5," University of the Witwatersrand, Johannesburg, South Africa"," University of the Witwatersrand, Johannesburg, South Africa and Council for Scientific and Industrial Research, Pretoria, South Africa",An analysis of monte carlo tree search
+6," School of Computing, National University of Singapore and Google Korea, LLC"," School of Information Systems, Singapore Management University",An efficient approach to model-based hierarchical reinforcement learning
+7," The University of Melbourne, Melbourne, Australia"," ICREA & Universitat Pompeu Fabra, Barcelona, Spain",Best-first width search: exploration and exploitation in classical planning
+8," Human Experience & Agent Teamwork Laboratory, Harvey Mudd College, Claremont, CA"," Human Experience & Agent Teamwork Laboratory, Harvey Mudd College, Claremont, CA",Robust execution of probabilistic temporal plans
+9," Department of Computer Science, University of Southern California"," Department of Computer Science, University of Southern California",Multi-agent path finding with delay probabilities
+10," Department of Computer Science, University of Toronto"," Department of Computer Science, University of Toronto",Logical filtering and smoothing: state estimation in partially observable domains
+11," Pontifical Catholic University of Rio Grande do Sul, Brazil"," Pontifical Catholic University of Rio Grande do Sul, Brazil",Landmark-based heuristics for goal recognition
+12," College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA"," College of Information and Computer Sciences, University of Massachusetts Amherst, Amherst, MA",Fast SSP solvers using short-sighted labeling
+13," University of Basel, Switzerland"," Universidad Simón Bolívar, Venezuela",Higher-dimensional potential heuristics for optimal classical planning
+14," Department of Computer Science, Aalto University, Helsinki, Finland and Griffith University, Brisbane, Australia and the Helsinki Institute for Information Technology, Finland"," Department of Computer Science, Aalto University, Helsinki, Finland and Griffith University, Brisbane, Australia and the Helsinki Institute for Information Technology, Finland",Schematic invariants by reduction to ground invariants
+15," University of Basel, Basel, Switzerland"," University of Basel, Basel, Switzerland",Narrowing the gap between saturated and optimal cost partitioning for classical planning
+16," Knexus Research Corporation, National Harbor, MD"," Navy Center for Applied Research in AI, Naval Research Laboratory, Washington, DC",Incorporating domain-independent planning heuristics in hierarchical planning
+17, Tsinghua University, Carnegie Mellon University,Computational issues in time-inconsistent planning
+18," Delft University of Technology, Delft, The Netherlands"," Delft University of Technology, Delft, The Netherlands",Accelerated vector pruning for optimal POMDP solvers
+19," Department of Computer Science, Tulane University"," Department of Computer Science, University of California, Davis",When to reset your keys: optimal timing of security updates via learning
+20," Department of Computer Science, Sun Yat-Sen University, Guangzhou, China"," Department of Computer Science, Sun Yat-Sen University, Guangzhou, China",Human-aware plan recognition

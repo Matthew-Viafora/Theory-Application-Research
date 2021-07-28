@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Los Angeles, CA"," Los Angeles, CA",Limitations of front-to-end bidirectional heuristic search
+1," Sorbonne Universites, UPMC Univ ParisParis, France"," Sorbonne Universites, UPMC Univ ParisParis, France",Incremental weight elicitation for multiobjective state space search
+2," IBM Research, Ireland"," NICTA, Australia",Complexity results for compressing optimal paths
+3," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China"," Institute for Integrated and Intelligent Systems, Griffith University, Brisbane, Australia",Two weighting local search for minimum vertex cover
+4, University of Freiburg, University of British Columbia,Efficient benchmarking of hyperparameter optimizers via surrogates
+5," National ICT Australia (NICTA), Melbourne, Australia"," National ICT Australia (NICTA), Melbourne, Australia and Australian National University (ANU), Canberra, Australia",Convergent plans for large-scale evacuations
+6," Computer Science Department, University of Freiburg, Freiburg, Germany"," Computer Science Department, University of Freiburg, Freiburg, Germany",Initializing bayesian hyperparameter optimization via meta-learning
+7, Johannes Kepler University, Microsoft Research,Stochastic local search for satisfiability modulo theories
+8," National Institute of Informatics, JST, ERATO, Kawarabayashi Large Graph Project"," National Institute of Informatics, JST, ERATO, Kawarabayashi Large Graph Project",Lagrangian decomposition algorithm for allocating marketing channels
+9," Department of Computer Science, University of New Hampshire, Durham, NH"," Department of Computer Science, University of New Hampshire, Durham, NH",Recursive best-first search with bounded overhead
+10," Depto. de Ingeniería Informática, Univ. Católica de la Ssma. Concepción, Concepción, Chile"," Depto. de Ciencia de la Computación, Pontificia Universidad Católica de Chile, Santiago, Chile",Reusing previously found a* paths for fast goal-directed navigation in dynamic terrain
+11, Microsoft Research, Microsoft Research,Pruning game tree by rollouts
+12," Department of Computer Science, New Mexico State University"," Department of Computer Science, New Mexico State University",Solving distributed constraint optimization problems using logic programming
+13," Department of Computer Science, University of Toronto"," Department of Computer Science, University of Toronto",Value-directed compression of large-scale assignment problems
+14," Center for Brain-Like Computing and Machine Intelligence, Department of Computer Science and Engineering, Key Laboratory of Shanghai Education Commission for Intelligent Interaction and Cognitive Engineering, Shanghai Jiao Tong University, Shanghai, China"," Center for Brain-Like Computing and Machine Intelligence, Department of Computer Science and Engineering, Key Laboratory of Shanghai Education Commission for Intelligent Interaction and Cognitive Engineering, Shanghai Jiao Tong University, Shanghai, China",On unconstrained quasi-submodular function optimization
+15," Univ. Grenoble Alps/CNRS, Grenoble, France"," Univ. Rennes I/CNRS, Rennes, France",Improved local search for binary matrix factorization
+16," Computer Science and Artificial Intelligence Lab. (CSAIL), Massachusetts Institute of Technology (MIT)"," Computer Science and Artificial Intelligence Lab. (CSAIL), Massachusetts Institute of Technology (MIT)",A theoretical analysis of optimization by gaussian continuation
+17, University Paris 1/CRI, JFLI-CNRS/UPMC University of Tokyo,Solving hard stable matching problems via local search and cooperative parallelization
+18," NTT Communication Science Laboratories, NTT Corporation"," NTT Communication Science Laboratories, NTT Corporation",BDD-constrained search: a unified approach to constrained shortest path problems
+19," Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan"," Graduate School of Information Science and Technology, Osaka University, Suita, Osaka, Japan",Exploiting variable associations to configure efficient local search in large-scale set partitioning problems
+20," Rutgers University, New Brunswick, NJ"," Los Alamos National Laboratory, Los Alamos, NM",Resilient upgrade of electrical distribution grids
+21," Computing Science, University of Alberta, Edmonton, Canada"," Computing Science, University of Alberta, Edmonton, Canada",TDS+: improving temperature discovery search
+22," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, P. R. China"," Institute for Interdisciplinary Information Sciences, Tsinghua University, Beijing, P. R. China",Massively parallel a* search on a GPU
+23," Indian Institute of Science, Bangalore, India and Hewlett Packard, Bangalore, India"," IBM Research, Bangalore, India and Hewlett Packard.","Novel mechanisms for online crowdsourcing with unreliable, strategic agents"
+24," Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois"," Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, Illinois",Acquiring speech transcriptions using mismatched crowdsourcing
+25," Tsinghua University, Beijing, China"," Microsoft Research & Tsinghua University, Beijing, China",Incentive networks
+26," Institute of Informatics, Federal University of Rio Grande do Sul - Porto Alegre, Brazil"," Institute of Informatics, Federal University of Rio Grande do Sul - Porto Alegre, Brazil",Collaboration in social problem-solving: when diversity trumps network efficiency
+27," CA Labs, CA Technologies, Barcelona (Spain)"," Barcelona Supercomputing Center (BSC), Universitat Politècnica de Catalunya - BarcelonaTech, Barcelona (Spain)",CrowdWON: a modelling language for crowd processes based on workflow nets
+28, U.C. Berkeley, Microsoft Research,On the impossibility of convex inference in human computation
+29," University of Southampton, UK"," University of Southampton, UK",Crowdsourcing complex workflows under budget constraints

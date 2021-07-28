@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," ISE Department, Ben-Gurion University, Israel"," Department of Computer Science, University of Denver",Exponential deepening A* for real-time agent-centered search
+1," Department of Computer Science, University of Southern California, Los Angeles"," Department of Computer Science, University of Southern California, Los Angeles",Identifying hierarchies for fast optimal search
+2, University of Alberta, University of Alberta,Worst-case solution quality analysis when not re-expanding nodes in best-first search
+3," State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China"," State Key Lab of CAD&CG, College of Computer Science, Zhejiang University, Hangzhou, China",Sparse learning for stochastic composite optimization
+4," École Polytechnique Fédérale de Lausanne, Artificial Intelligence Laboratory, Lausanne, Switzerland"," École Polytechnique Fédérale de Lausanne, Artificial Intelligence Laboratory, Lausanne, Switzerland",Acquiring commonsense knowledge for sentiment analysis through human computation
+5," Department of Computer Science and Engineering, University of Washington, Seattle, WA"," Microsoft Research, Redmond, WA",Signals in the silence: models of implicit feedback in a recommendation system for crowdsourcing
+6," Department of Computer Science, University of Maryland, College Park, Maryland"," Department of Computer Science, Bar-Ilan University, Ramat-Gan, Israel","Leveraging fee-based, imperfect advisors in human-agent games of trust"
+7," Department of Computer Science, Bar-Ilan University, Israel"," Department of Computer Science, Bar-Ilan University, Israel",Can agent development affect developer's strategy?
+8," Department of Computer Science, Bar-Ilan University, Israel"," Department of Computer Science, Bar-Ilan University, Israel",Ordering effects and belief adjustment in the use of comparison shopping agents
+9, North Carolina State University, North Carolina State University,A strategy-aware technique for learning behaviors from discrete human feedback
+10, Western New England University, Georgia Institute of Technology,Dramatis: a computational model of suspense
+11," Brain-Like Computing Lab, Shanghai Jiao Tong University, P. R. China"," Microsoft Research, Beijing, P. R. China",Sketch recognition with natural correction and editing
+12," Department of Computer Science and Technology, Tsinghua University"," Department of Computer Science and Technology, Tsinghua University",Role-aware conformity influence modeling and analysis in social networks
+13," Institute of Information Systems, Vienna Univ. of Technology, Austria"," Institute of Information Systems, Vienna Univ. of Technology, Austria",Managing change in graph-structured data using description logics
+14," IBM Research Lab, Haifa, Israel"," IBM Research Lab, Haifa, Israel",The computational complexity of structure-based causality
+15," CIDSE, Arizona State University, Tempe, AZ"," CIDSE, Arizona State University, Tempe, AZ",Pathway specification and comparative queries: a high level language with petri net semantics
+16," Dept. of Computer Science, University of Toronto, Toronto, Ontario, Canada"," Dept. of Computer Science, University of Toronto, Toronto, Ontario, Canada",PREGO: an action language for belief-based cognitive robotics in continuous domains
+17," LRI, CNRS & Université Paris-Sud, Orsay, France"," IRISA, Université de Rennes 1, Lannion, France",Querying inconsistent description logic knowledge bases under preferred repair semantics
+18," KRDB Research Centre, Free Univ. of Bozen-Bolzano, Italy"," Institute of Information Systems, Vienna Univ. of Technology, Austria",Capturing relational schemas and functional dependencies in RDFS
+19," Knowledge-Based Systems Group, RWTH Aachen University, Germany"," Theoretical Computer Science, TU Dresden, Germany",Exploring the boundaries of decidable verification of non-terminating Golog programs
+20," Dipartimento di Ingegneria Informatica, Automatica e, Sapienza Università di Roma, Roma, Italy"," Dipartimento di Ingegneria Informatica, Automatica e, Sapienza Università di Roma, Roma, Italy",Data quality in ontology-based data access: the case of consistency
+21," Dip. di Ing. Informatica, Automatica e Gestionale, Sapienza Università di Roma, Italy"," KRDB Research Centre for Knowledge and Data, Free University of Bozen-Bolzano, Italy",Reasoning on LTL on finite traces: insensitivity to infiniteness
+22," Guangdong University of Foreign Studies, Guangzhou, China"," State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China",A tractable approach to abox abduction over description logic ontologies
+23," Institute of Information Systems, Vienna University of Technology, Vienna, Austria"," Institute of Information Systems, Vienna University of Technology, Vienna, Austria",Exploiting support sets for answer set programs with external evaluations
+24," IRIT-CNRS, Univ. Paul Sabatier, Toulouse, France"," IRIT-CNRS, Univ. Paul Sabatier, Toulouse, France and CRIL-CNRS, Univ. Artois, Lens, France",A knowledge compilation map for ordered real-valued decision diagrams
+25," Department of Computer Science, Tufts University, Medford, MA"," Department of Computer Science, Tufts University, Medford, MA",The complexity of reasoning with FODD and GFODD
+26," School of Computer Science and Technology, University of Science and Technology of China, Hefei, China"," School of Information Science and Technology, Sun Yat-sen University, Guangzhou, China",Elementary loops revisited
+27," LIRMM, UMR, University of Montpellier 2, Montpellier Cedex 5, France"," CRIL, UMR, University of Artois, Lens Cedex, France",A constructive argumentation framework
+28," Department of Computer Science, University of Oxford, UK"," Department of Computer Science, University of Oxford, UK",Datalog rewritability of disjunctive datalog programs and its applications to ontology reasoning
+29," Palo Alto Research Center, Palo Alto, CA"," Palo Alto Research Center, Palo Alto, CA",Qualitative reasoning with modelica models
