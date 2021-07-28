@@ -1,0 +1,20 @@
+399,Philip Thomas,University of Massachusetts Amherst,Emma Brunskill,Stanford University,Decoupling Gradient-Like Learning Rules from Representations
+400,Russell Tsuchida,The University of Queensland,Marcus Gallagher,University of Queensland,Invariance of Weight Distributions in Rectified MLPs
+401,Sanjeev Arora, Princeton University and Institute for Advanced Study,Yi Zhang,Princeton University,Stronger Generalization Bounds for Deep Nets via a Compression Approach
+402,Zengfeng Huang,Fudan University,Zengfeng Huang,Fudan University,Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices
+403,Ian Yen,Carnegie Mellon University,Pradeep Ravikumar,Carnegie Mellon University,Loss Decomposition for Fast Learning in Large Output Spaces
+404,Michael Natole Jr,University at Albany,Siwei Lyu,"University at Albany, State University of New York",Stochastic Proximal Algorithms for AUC Maximization
+405,Arpit Agarwal,University of Pennsylvania,Shivani Agarwal,University of Pennsylvania,Accelerated Spectral Ranking
+406,Stefan Depeweg,TU Munich,Steffen Udluft,Siemens AG,Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning
+407,Emti Khan,RIKEN,Akash Srivastava,"MIT, IBM",Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam
+408,Surbhi Goel,University of Texas at Austin,Raghu Meka,UCLA,Learning One Convolutional Layer with Overlapping Patches
+409,Randall Balestriero,Rice University,Richard Baraniuk,OpenStax / Rice University,A Spline Theory of Deep Learning
+410,Soumya Ghosh,IBM Research,Finale Doshi-Velez,Harvard University,Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors
+411,Jiri Hron,University of Cambridge,Zoubin Ghahramani,University of Cambridge & Uber,Variational Bayesian dropout: pitfalls and fixes
+412,Jiezhang Cao,South China University of Technology,Mingkui Tan,South China University of Technology,Adversarial Learning with Local Coordinate Coding
+413,Panos Achlioptas,Stanford,Leonidas Guibas,Stanford University,Learning Representations and Generative Models for 3D Point Clouds
+414,Mattias Teye,KTH / EA SEED,Kevin Smith,KTH Royal Institute of Technology,Bayesian Uncertainty Estimation for Batch Normalized Deep Networks
+415,Guodong Zhang,University of Toronto,Roger Grosse,University of Toronto and Vector Institute,Noisy Natural Gradient as Variational Inference
+416,Maximilian Igl,University of Oxford,Shimon Whiteson,University of Oxford,Deep Variational Reinforcement Learning for POMDPs
+417,Ahmed Hefny,Carnegie Mellon University,Geoff Gordon,Carnegie Mellon University,Recurrent Predictive State Policy Networks
+418,David Balduzzi,DeepMind,Thore Graepel,DeepMind,The Mechanics of n-Player Differentiable Games
