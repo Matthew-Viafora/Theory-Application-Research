@@ -1,0 +1,31 @@
+,first-author-affiliation,last-author-affiliation,title
+0," Electrical Engineering and Computer Science, Northwestern University"," Electrical and Computer Engineering, University of Texas at Austin",Approximately optimal risk-averse routing policies via adaptive discretization
+1," University of Freiburg, Freiburg, Germany"," University of Freiburg, Freiburg, Germany",Better be lucky than good: exceeding expectations in MDP evaluation
+2," Department of Computer Science, Korea Advanced Institute of Science and Technology, Daejeon, Korea"," Department of Computer Science, Korea Advanced Institute of Science and Technology, Daejeon, Korea",Reward shaping for model-based bayesian reinforcement learning
+3," Department of Computer Science, Korea Advanced Institute of Science and Technology, Daejeon, Korea"," Department of Computer Science, Korea Advanced Institute of Science and Technology, Daejeon, Korea",Tighter value function bounds for bayesian reinforcement learning
+4," Dept. of Computer Science, Indiana University, Bloomington, IN"," School of Informatics, and Computing, Indiana University, Bloomington, IN",Knowledge-based probabilistic logic learning
+5," Machine Learning Department, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA and Department of Statistics, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA"," Department of Statistics, Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA",On the decreasing power of kernel and distance based nonparametric hypothesis tests in high dimensions
+6," School of Computer Science, McGill University, Montreal, QC, Canada"," School of Computer Science, McGill University, Montreal, QC, Canada",Representation discovery for MDPs using bisimulation metrics
+7, School of Computer Science and Engineering The University of New South Wales, School of Computer Science and Engineering The University of New South Wales,Lifting model sampling for general game playing to incomplete-information models
+8," Technion - Israel Institute of Technology, Haifa, Israel"," Technion - Israel Institute of Technology, Haifa, Israel",On interruptible pure exploration in multi-armed bandits
+9," Department of Computer, Science KU Leuven, Belgium"," Computer Science and Engineering, University of Washington, Seattle",Lifted probabilistic inference for asymmetric graphical models
+10, Department of Computer Science The University of Texas at Dallas, Department of Computer Science The University of Texas at Dallas,Just count the satisfied groundings: scalable local-search and sampling based inference in MLNs
+11," Machine Learning and Robotics Lab University of Stuttgart, Germany"," Machine Learning and Robotics Lab University of Stuttgart, Germany",Hierarchical monte-carlo planning
+12," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology"," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology",Chance-constrained scheduling via conflict-directed risk allocation
+13," University of Wisconsin-Madison Madison, WI"," University of Wisconsin-Madison Madison, WI",Learning to reject sequential importance steps for continuous-time bayesian networks
+14," Carnegie Mellon University, Pittsburgh, PA"," Microsoft Research, New York, NY",Nonparametric scoring rules
+15," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Cambridge, MA"," Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Cambridge, MA","On fairness in decision-making under uncertainty: definitions, computation, and comparison"
+16," Queens College, City University of New York, Queens, NY"," Queens College, City University of New York, Queens, NY",An exact algorithm for solving most relevant explanation in bayesian networks
+17, Boston College, Disney Research Boston,Proximal operators for multi-agent path planning
+18," Department of Computer Science at Rice University, Houston, TX"," Department of Computer Science at Rice University, Houston, TX",This time the robot settles for a cost: a quantitative approach to temporal logic planning with partial satisfaction
+19," Department of Computer Science, University of Illinois at Chicago, Chicago, IL"," Department of Computer Science, University of Illinois at Chicago, Chicago, IL",Intent prediction and trajectory forecasting via predictive inverse linear-quadratic regulation
+20," Jet Propulsion Laboratory California, Institute of Technology, Pasadena, CA"," Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA",Spatio-spectral exploration combining in situ and remote measurements
+21, University of Maryland, University of Maryland,"Robot learning manipulation action plans by ""Watching"" unconstrained videos from the world wide web"
+22," GIEE, National Taiwan University, Taipei, Taiwan"," Vienna University of Technology, Austria",Efficient extraction of QBF (counter)models from long-distance resolution proofs
+23, Univ. of British Columbia, Univ. of British Columbia,SAT modulo monotonic theories
+24," IRIT, CNRS UMR 5505, Toulouse, France"," CRIL, Universite d'Artois & CNRS, Lens, France",On computing maximal subsets of clauses that must be satisfiable with possibly mutually-contradictory assumptive contexts
+25," CNRS, University of Montpellier Montpellier, France"," University of Western Macedonia Kozani, Greece",Strong bounds consistencies and their application to linear constraints
+26, Fondazione Bruno Kessler - Italy, Fondazione Bruno Kessler - Italy,SMT-based validation of timed failure propagation graphs
+27, Royal Holloway University of London, University of Oxford,Binarisation via dualisation for valued constraints
+28, UC Berkeley, Carnegie Mellon University,SAT-based strategy extraction in reachability games
+29," Aix-Marseille Université, CNRS LSIS UMR, Escadrille Normandie-Niemen, Marseille, (France)"," Aix-Marseille Université, CNRS LSIS UMR, Escadrille Normandie-Niemen, Marseille, (France)",The extendable-triple property: a new CSP tractable class beyond BTP

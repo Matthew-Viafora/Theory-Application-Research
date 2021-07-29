@@ -39,7 +39,7 @@ class Iterate:
     def run(self):
         self.getConferenceList()
         self.getPathList()
-        print(os.listdir(self.path+"\\"+self.data_lst[0]))
+        print(os.listdir(self.path+"\\"+self.data_lst[1]))
 
 a = Iterate()
 print(a.run())
