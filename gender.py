@@ -5,15 +5,15 @@ import pandas as pd
 from re import I
 import requests
 from bs4 import BeautifulSoup
-
 #imports googlesearch to use requests and BS4 to scrape google
 from googlesearch import search
+
 
 #reads in data
 data = pd.read_csv(r"D:\Theory-Application-Research\Affiliation_Parsing\NeurIPS affiliations gender\NeurIPS-2010\xaa.csv")
 
 class Gender:
-
+    Iterate.run()
     #initializes new column for the gender of the first/last author
     data['first-gender'] = ''
     data['last-gender'] = ''
