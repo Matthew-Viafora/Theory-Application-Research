@@ -38,10 +38,9 @@ ________________________________________
 - CSV files containing data parsed from XML files
 - CSV files are sorted by conference
 
-**genderIdentifier.py contains:**
-- Code to extract HTML from a website and lookover text to pickout pronouns
-- Decides if an author is male or female
+**gender.py contains:**
+- Python script to iterate over affiliation csv folders and its contents
+- Python script to webscrape for an authors gender
 
 **dataAnalysis.ipynb contains:**
 - Notebook to check datasets, identify potential issues, clean data
-- Will test genderIdentifier.py script and visually represent findings
