@@ -1,0 +1,20 @@
+39,Zhao Song,Baidu Research,Lawrence Carin,Duke University,Revisiting the Softmax Bellman Operator: New Benefits and New Perspective
+40,Arthur Guez,Google DeepMind,Tim Lillicrap,Google DeepMind,An Investigation of Model-Free Planning
+41,Cédric Colas,Inria,Mohamed Chetouani,UPMC,CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning
+42,Yilun Du,MIT,Karthik Narasimhan,Princeton,Task-Agnostic Dynamics Priors for Deep Reinforcement Learning
+43,Justin Fu,"University of California, Berkeley",Sergey Levine,UC Berkeley,Diagnosing Bottlenecks in Deep Q-learning Algorithms
+44,Shaw Khadka,Intel AI,Kagan Tumer,Oregon State University US,Collaborative Evolutionary Reinforcement Learning
+45,Harry Kim,Seoul National University,Hyun Oh Song,Seoul National University,EMI: Exploration with Mutual Information
+46,Yueh-Hua Wu,National Taiwan University / RIKEN,Masashi Sugiyama,RIKEN / The University of Tokyo,Imitation Learning from Imperfect Demonstration
+47,Youngjin Kim,NALBI Inc.,Gunhee Kim,Seoul National University,Curiosity-Bottleneck: Exploration By Distilling Task-Specific Novelty 
+48,Axel Abels,Université Libre de Bruxelles,Denis Steckelmacher,Vrije Universiteit Brussel,Dynamic Weights in Multi-Objective Deep Reinforcement Learning
+49,Supratik Paul,University of Oxford,Shimon Whiteson,University of Oxford,Fingerprint Policy Optimisation for Robust Reinforcement Learning
+50,Behrooz Ghorbani,Stanford University,Ying Xiao,Google Inc,An Investigation into Neural Net Optimization via Hessian Eigenvalue Density
+51,Xingyu Xie,Peking Unversity,Zhouchen Lin,Peking University,Differentiable Linearized ADMM
+52,Youhei Akimoto,University of Tsukuba / RIKEN AIP,Kouhei Nishida,Shinshu University,Adaptive Stochastic Natural Gradient Method for One-Shot Neural Architecture Search
+53,YongQiang Cai,National University of Singapore,Zuowei Shen,National University of Singapore,A Quantitative Analysis of the Effect of Batch Normalization on Gradient Descent
+54,Daniel Park,Google Brain,Samuel Smith,DeepMind,The Effect of Network Width on Stochastic Gradient Descent and Generalization: an Empirical Study
+55,Rachel Ward,University of Texas,Leon Bottou,Facebook,AdaGrad stepsizes: sharp convergence over nonconvex landscapes
+56,Anna Choromanska,New York University,Djallel Bouneffouf,IBM Research,Beyond Backprop: Online Alternating Minimization with Auxiliary Variables
+57,Guandao Yang,Cornell University,Christopher De Sa,Cornell,SWALP : Stochastic Weight Averaging in Low Precision Training
+58,Alex Beatson,Princeton University,Ryan P Adams,Princeton University,Efficient optimization of loops and limits with randomized telescoping sums

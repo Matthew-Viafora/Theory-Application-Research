@@ -1,0 +1,20 @@
+619,Konstantinos Panousis,National and Kapodistrian University of Athens,Sergios Theodoridis,National and Kapodistrian University of Athens,Nonparametric Bayesian Deep Networks with Local Competition
+620,Simone Rossi,EURECOM,Maurizio Filippone,Eurecom,Good Initializations of Variational Bayes for Deep Models
+621,Eric Nalisnick,University of Cambridge & DeepMind,Padhraic Smyth,UC Irvine,Dropout as a Structured Shrinkage Prior
+622,Mingzhang Yin,University of Texas at Austin,Mingyuan Zhou,University of Texas at Austin,ARSM: Augment-REINFORCE-Swap-Merge Estimator for Gradient Backpropagation Through Categorical Variables
+623,Ben Poole,Google Brain,George Tucker,Google Brain,On Variational Bounds of Mutual Information
+624,Samuel Wiqvist,Lund University,Jes Frellsen,IT University of Copenhagen,Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation
+625,Chin-Wei Huang,MILA,Aaron Courville,Université de Montréal,Hierarchical Importance Weighted Autoencoders
+626,Karl Stelzner,TU Darmstadt,Kristian Kersting,TU Darmstadt,Faster Attend-Infer-Repeat with Tractable Probabilistic Models
+627,Mariia Vladimirova,Inria,Julyan Arbel,Inria Grenoble Rhone-Alpes,Understanding Priors in Bayesian Neural Networks at the Unit Level
+628,Dong Yin,UC Berkeley,Peter Bartlett,UC Berkeley,Defending Against Saddle Point Attack in Byzantine-Robust Distributed Learning
+629,Baojian Zhou,"University at Albany, SUNY",Yiming Ying,SUNY Albany,Stochastic Iterative Hard Thresholding for Graph-structured Sparsity Optimization
+630,Grant Rotskoff,New York University,Eric Vanden-Eijnden,New York University,Neuron birth-death dynamics accelerates gradient descent and converges asymptotically
+631,Simon Du,Carnegie Mellon University,Wei Hu,Princeton University,Width Provably Matters in Optimization for Deep Linear Neural Networks
+632,Samet Oymak,"University of California, Riverside",Mahdi Soltanolkotabi,University of Southern California,Overparameterized Nonlinear Learning: Gradient Descent Takes the Shortest Path?
+633,Jason Xu,Duke University,Kenneth Lange,UCLA,Power k-Means Clustering
+634,Chen Yu,University of Rochester,Ji Liu,"Kwai Seattle AI lab, University of Rochester",Distributed Learning over Unreliable Networks
+635,Matt Staib,MIT,Suvrit Sra,MIT,Escaping Saddle Points with Adaptive Gradient Methods
+636,Hanlin Tang,University of Rochester,Ji Liu,"Kwai Seattle AI lab, University of Rochester",$\texttt{DoubleSqueeze}$: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression
+637,Peter Ochs,Saarland University,Yura Malitsky,University of Göttingen,Model Function Based Conditional Gradient Method with Armijo-like Line Search
+638,Carl Allen,The University of Edinburgh,Timothy Hospedales,Samsung AI Centre / University of Edinburgh,Analogies Explained: Towards Understanding Word Embeddings

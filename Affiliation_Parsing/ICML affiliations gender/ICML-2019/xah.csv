@@ -1,0 +1,20 @@
+139,Yochai Blau,Technion,Tomer Michaeli,Technion,Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff
+140,Hanyu Peng,"Shenzhen Institutes of Advanced Technology,Chinese Academy of Sciences",Junzhou Huang,University of Texas at Arlington / Tencent AI Lab,Collaborative Channel Pruning for Deep Networks
+141,Eldad Meller,Hailo,Mark Grobman,Hailo Technologies,"Same, Same But Different: Recovering Neural Network Quantization Error Through Weight Factorization"
+142,Mohamed Elfeki,University of Central Florida,Mohamed Elhoseiny,KAUST and Baidu SVAIL,GDPP: Learning Diverse Generations using Determinantal Point Processes
+143,Fei Zhang,Xidian University,Guangming Shi,Xidian University,Co-Representation Network for Generalized Zero-Shot Learning
+144,Edward Smith,McGill University,David Meger,McGill University,GEOMetrics: Exploiting Geometric Structure for Graph-Encoded Objects
+145,Mingxing Tan,Google Brain,Quoc Le,Google Brain,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+146,Renata Khasanova,Ecole Polytechnique Federale de Lausanne (EPFL),Pascal Frossard,EPFL,Geometry Aware Convolutional Filters for Omnidirectional Images Representation
+147,Pablo Barros Barros,University of Hamburg,Stefan Wermter,University of Hamburg,A Personalized Affective Memory Model for Improving Emotion Recognition
+148,AJ Piergiovanni,Indiana University,Michael Ryoo,Indiana University / Google Brain,Temporal Gaussian Mixture Layer for Videos
+149,Gabriele Farina,Carnegie Mellon University,Tuomas Sandholm,Carnegie Mellon University,Regret Circuits: Composability of Regret Minimizers
+150,Arvind Raghunathan,Mitsubishi Electric Research Laboratories,Devesh Jha,Mitsubishi Electric Research Labs,Game Theoretic Optimization via Gradient-based Nikaido-Isoda Function
+151,Gabriele Farina,Carnegie Mellon University,Tuomas Sandholm,Carnegie Mellon University,Stable-Predictive Optimistic Counterfactual Regret Minimization
+152,Hanrui Zhang,Duke University,Vincent Conitzer,Duke,When Samples Are Strategically Selected
+153,Anson Kahng,Carnegie Mellon University,Christos-Alexandros Psomas,Carnegie Mellon University,Statistical Foundations of Virtual Democracy
+154,Paul Duetting,London School of Economics,Sai Srivatsa Ravindranath,Harvard University,Optimal Auctions through Deep Learning
+155,Weiran Shen,Tsinghua University,Renato Leme,Google Research,Learning to Clear the Market
+156,Thomas Nedelec,ENS Paris Saclay - Criteo AI Lab,Vianney Perchet,ENS Paris Saclay & Criteo AI Lab,Learning to bid in revenue-maximizing auctions
+157,David Balduzzi,DeepMind,Thore Graepel,DeepMind,Open-ended learning in symmetric zero-sum games
+158,Noam Brown,Facebook AI Research,Tuomas Sandholm,Carnegie Mellon University,Deep Counterfactual Regret Minimization
