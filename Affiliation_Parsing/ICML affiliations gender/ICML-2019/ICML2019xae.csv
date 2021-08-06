@@ -1,0 +1,20 @@
+79,Simon Du,Carnegie Mellon University,Xiyu Zhai,Massachusetts Institute of Technology,Gradient Descent Finds Global Minima of Deep Neural Networks
+80,Sepideh Mahabadi,Toyota Technological Institute at Chicago,Alireza Rezaei,University of Washington,Composable Core-sets for Determinant Maximization: A Simple Near-Optimal Algorithm
+81,Yifan Lei,National University of Singapore,Anthony Tung,NUS,Sublinear Time Nearest Neighbor Search over Generalized Weighted Space
+82,Ryan Spring,Rice University,Anshumali Shrivastava,Rice University,Compressing Gradient Optimizers via Count-Sketches
+83,Arturs Backurs,Toyota Technological Institute at Chicago (TTIC),Tal Wagner,MIT,Scalable Fair Clustering
+84,Alp Yurtsever,EPFL,Volkan Cevher,EPFL,Conditional Gradient Methods via Stochastic Path-Integrated Differential Estimator
+85,Aurick Qiao,"Petuum, Inc. and Carnegie Mellon University",Eric Xing,Petuum Inc. and CMU, Fault Tolerance in Iterative-Convergent Machine Learning
+86,Ashish Agarwal,Google Brain,Ashish Agarwal,Google Brain,Static Automatic Batching In TensorFlow
+87,Ritchie Zhao,Cornell University,Zhiru Zhang,Cornell Univeristy,Improving Neural Network Quantization without Retraining using Outlier Channel Splitting
+88,Albert Gural,Stanford University,Boris Murmann,Stanford University,Memory-Optimal Direct Convolutions for Maximizing Classification Accuracy in Embedded Applications
+89,Marc Fischer,ETH Zurich,Martin Vechev,ETH Zurich,DL2: Training and Querying Neural Networks with Logic
+90,Songtao Lu,University of Minnesota Twin Cities,Zhengdao Wang,Iowa State University,PA-GD: On the Convergence of Perturbed Alternating Gradient Descent to Second-Order Stationary Points for Structured Nonconvex Optimization
+91,Kaiyi Ji,The Ohio State University,Yingbin LIANG,The Ohio State University,Improved Zeroth-Order Variance Reduced Algorithms and Analysis for Nonconvex Optimization
+92,Feihu Huang,University of Pittsburgh,Heng Huang,University of Pittsburgh,Faster Stochastic Alternating Direction Method of Multipliers for Nonconvex Optimization
+93,Dongruo Zhou,UCLA,Quanquan Gu,"University of California, Los Angeles",Lower Bounds for Smooth Nonconvex Finite-Sum Optimization
+94,Samuel Horvath,KAUST,Peter Richtarik,KAUST,Nonconvex Variance Reduced Optimization with Arbitrary Sampling
+95,Praneeth Karimireddy,EPFL,Martin Jaggi,EPFL,Error Feedback Fixes SignSGD and other Gradient Compression Schemes
+96,Junyu Zhang,"University of Minnesota, Twin Cities",Lin Xiao,Microsoft Research,A Composite Randomized Incremental Gradient Method
+97,Yatao Bian,ETH Zürich,Andreas Krause,ETH Zurich,Optimal Continuous DR-Submodular Maximization and Applications to Provable Mean Field Inference
+98,Ioannis Panageas,SUTD,xiao wang,Singapore university of technology and design,Multiplicative Weights Updates as a distributed constrained optimization algorithm: Convergence to second-order stationary points almost always

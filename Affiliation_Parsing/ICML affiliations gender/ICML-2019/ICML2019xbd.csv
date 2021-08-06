@@ -1,0 +1,20 @@
+579,Lingbing Guo,Nanjing University,Wei Hu,Nanjing University,Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs
+580,Jack Rae,DeepMind,Tim Lillicrap,Google DeepMind,Meta-Learning Neural Bloom Filters
+581,Sidi Lu,Shanghai Jiao Tong University,Weinan Zhang,"Apex Data & Knowledge Management Lab, Shanghai Jiao Tong University",CoT: Cooperative Training for Generative Modeling of Discrete Data
+582,Sean Welleck,New York University,Kyunghyun Cho,New York University,Non-Monotonic Sequential Text Generation
+583,Mitchell Stern,UC Berkeley,Jakob Uszkoreit,"Google, Inc.",Insertion Transformer: Flexible Sequence Generation via Insertion Operations
+584,Eldan Cohen,University of Toronto,Christopher Beck,University of Toronto,Empirical Analysis of Beam Search Performance Degradation in Neural Sequence Models
+585,Ashwin Kalyan,Georgia Tech,Dhruv Batra,Georgia Institute of Technology / Facebook AI Research,Trainable Decoding of Sets of Sequences for Neural Sequence Models
+586,Rishabh Agarwal,"Google Research, Brain Team",Mohammad Norouzi,Google Brain,Learning to Generalize from Sparse and Underspecified Rewards
+587,Linyuan Gong,Peking University,Tie-Yan Liu,Microsoft Research Asia,Efficient Training of BERT by Progressively Stacking
+588,Raphaël Féraud,Orange Labs,Romain Laroche,Microsoft Research,Decentralized Exploration in Multi-Armed Bandits
+589,Chicheng Zhang,Microsoft Research,Sahand Negahban,YALE,Warm-starting Contextual Bandits: Robustly Combining Supervised and Bandit Feedback
+590,Pierre Perrault,Inria Lille - Nord Europe,Michal Valko,DeepMind,Exploiting structure of uncertainty for efficient matroid semi-bandits
+591,Arghya Roy Chaudhuri,Indian Institute of Technology Bombay,Shivaram Kalyanakrishnan,IIT Bombay,PAC Identification of Many Good Arms in Stochastic Multi-Armed Bandits
+592,Gi-Soo Kim,Seoul National University,Myunghee Cho Paik,Seoul National University,Contextual Multi-armed Bandit Algorithm for Semiparametric Reward Model
+593,Jakob Foerster,Facebook AI Research,Michael Bowling,DeepMind,Bayesian Action Decoder for Deep Multi-Agent Reinforcement Learning
+594,Abhishek Das,Georgia Tech,Joelle Pineau,Facebook,TarMAC: Targeted Multi-Agent Communication
+595,Kyunghwan Son,KAIST,Yung Yi,KAIST,QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning
+596,Shariq Iqbal,University of Southern California,Fei Sha,Google Research,Actor-Attention-Critic for Multi-Agent Reinforcement Learning
+597,Thinh Doan,Georgia Institute of Technology,Justin Romberg,Georgia Tech,Finite-Time Analysis of Distributed TD(0) with Linear Function Approximation on Multi-Agent Reinforcement Learning
+598,Aditya Chattopadhyay,Johns Hopkins University,Vineeth N Balasubramanian,"Indian Institute of Technology, Hyderabad",Neural Network Attributions: A Causal Perspective
