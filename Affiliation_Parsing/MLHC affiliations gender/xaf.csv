@@ -1,3 +1,4 @@
+,year,first-author,first-author-affiliation,last-author,last-author-affiliation,journal/conference,title,number-of-authors,paper-url,DBLP-url
 99,2018,Disi Ji,University of California,Padhraic Smyth,University of California,MLHC,Bayesian Trees for Automated Cytometry Data Analysis.,5,http://proceedings.mlr.press/v85/ji18a.html,https://dblp.org/rec/conf/mlhc/JiNQSS18
 100,2018,Eric P. Lehman,Northeastern University,Li-Wei H. Lehman,Massachusetts Institute of Technology,MLHC,Representation Learning Approaches to Detect False Arrhythmia Alarms from ECG Dynamics.,5,http://proceedings.mlr.press/v85/lehman18a.html,https://dblp.org/rec/conf/mlhc/LehmanKZML18
 101,2018,Bryan Lim,University of Oxford,Mihaela van der Schaar,University of Oxford,MLHC,Disease-Atlas - Navigating Disease Trajectories using Deep Learning.,2,http://proceedings.mlr.press/v85/lim18a.html,https://dblp.org/rec/conf/mlhc/LimS18
