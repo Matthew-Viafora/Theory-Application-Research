@@ -1,3 +1,4 @@
+,year,first-author,first-author-affiliation,last-author,last-author-affiliation,journal/conference,title,number-of-authors,paper-url,DBLP-url
 119,2019,Irfan Al-Hussaini,Georgia Institute of Technology,Jimeng Sun,Georgia Institute of Technology,MLHC,SLEEPER - interpretable Sleep staging via Prototypes from Expert Rules.,4,http://proceedings.mlr.press/v106/al-hussaini19a.html,https://dblp.org/rec/conf/mlhc/Al-HussainiXWS19
 120,2019,Siddharth Biswal,Georgia Institute of Technology,Jimeng Sun,Georgia Institute of Technology,MLHC,EEGtoText - Learning to Write Medical Reports from EEG Recordings.,4,http://proceedings.mlr.press/v106/biswal19a.html,https://dblp.org/rec/conf/mlhc/BiswalXWS19
 121,2019,Ian C. Covert,University of Washington,Ming Jack Po,Google AI Healthcare,MLHC,Temporal Graph Convolutional Networks for Automatic Seizure Detection.,7,http://proceedings.mlr.press/v106/covert19a.html,https://dblp.org/rec/conf/mlhc/CovertKNZSHP19
