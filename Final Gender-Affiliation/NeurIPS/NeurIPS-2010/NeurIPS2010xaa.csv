@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,0,Surya Ganguli,Male,Stanford,Haim Sompolinsky,Male,Hebrew University and Harvard University,Short-term memory in neuronal networks through dynamical compressed sensing.
+1,1,Hal Daumé III,Male,Univ of Maryland / Microsoft Research,Avishek Saha,Male,Yahoo Labs,Co-regularization Based Semi-supervised Domain Adaptation.
+2,2,Akshat Kumar,Male,"University of Massachusetts, Amherst",Shlomo Zilberstein,Male,Univ of Mass,MAP Estimation for Graphical Models by Likelihood Maximization.
+3,3,Alan Fern,Male,Oregon State University,Prasad Tadepalli,Male,Oregon State University,A Computational Decision Theory for Interactive Assistants.
+4,4,Deqing Sun,Male,Brown University,Michael J Black,Male,Max Planck Institute for Intelligent Systems,"Layered image motion with explicit occlusions, temporal consistency, and depth ordering."
+5,5,J. Zico Kolter,Male,Carnegie Mellon University / Bosch Center for AI,Andrew Y Ng,Male,DeepLearning.AI,Energy Disaggregation via Discriminative Sparse Coding.
+6,6,Ling Huang,Male,Intel,Mayur Naik,Male,Intel,Predicting Execution Time of Computer Programs Using Sparse Polynomial Regression.
+7,7,Martin A Zinkevich,Male,Yahoo! Inc.,Lihong Li,Male,Amazon,Parallelized Stochastic Gradient Descent.
+8,8,Abdeslam Boularias,Male,Max Planck Institute for Intelligent Systems,Brahim Chaib-draa,Male,Laval University,Bootstrapping Apprenticeship Learning.
+9,9,Amir-massoud Farahmand,Male,Vector Institute,Csaba Szepesvari,Male,DeepMind / University of Alberta,Error Propagation for Approximate Policy and Value Iteration.
+10,10,Paul L Ruvolo,Male,UC San Diego,javier r movellan,Male,university of california san diego,An Alternative to Low-level-Sychrony-Based Methods for Speech Detection.
+11,11,Peter B Jones,Male,Massachusetts Institute of Technology,Sanjoy K Mitter,Male,Massachusetts Institute of Technology,Probabilistic Belief Revision with Structural Constraints.
+12,12,Ulrike von Luxburg,Female,University of Tübingen,Matthias Hein,Male,University of Tübingen,Getting lost in space: Large sample analysis of the resistance distance.
+13,13,HongJing Lu,Female,UCLA,Alan L Yuille,Male,UCLA,Functional form of motion priors in human motion perception.
+14,14,Novi Quadrianto,Male,University of Sussex and HSE,James Petterson,Male,NICTA,Multitask Learning without Label Correspondences.
+15,15,Issei Sato,Male,University of Tokyo,Hiroshi Nakagawa,Male,The University of Tokyo,Deterministic Single-Pass Algorithm for LDA.
+16,16,Jose G Puertas,Male,FIAS,Jörg Lücke,Male,TU Berlin,The Maximal Causes of Natural Scenes are Edge Filters.
+17,17,David Silver,Male,DeepMind,Joel Veness,Male,DeepMind,Monte-Carlo Planning in Large POMDPs.
+18,18,Mohammad J Saberian,Male,UC San Diego,Nuno Vasconcelos,Male,UC San Diego,Boosting Classifier Cascades.
