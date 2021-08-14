@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+59,59,Ian H Stevenson,Male,University of Connecticut,Konrad Koerding,Male,None,Inferring spike-timing-dependent plasticity from spike train data.
+60,60,Soumya Ghosh,Male,IBM Research,David Blei,Male,Columbia University,Spatial distance dependent Chinese Restaurant Process for image segmentation.
+61,61,Victor Lempitsky,Male,Yandex,Andrew Zisserman,Male,DeepMind & University of Oxford,Pylon Model for Semantic Segmentation.
+62,62,Vinayak Rao,Male,Purdue University,Yee Whye Teh,Male,"University of Oxford, DeepMind",Gaussian process modulated renewal processes.
+63,63,T.-K. Huang,Male,Microsoft,Jeff Schneider,Male,CMU,Learning Auto-regressive Models from Sequence and Non-sequence Data.
+64,64,Wouter M Koolen,Male,Centrum Wiskunde & Informatica,Manfred K. Warmuth,Male,Google Brain,Learning Eigenvectors for Free.
+65,65,Jakob H Macke,Male,University of Tübingen & MPI IS Tübingen,Peter E Latham,Male,"Gatsby Unit, UCL",How biased are maximum entropy models?.
+66,66,Sungwoong Kim,Male,Qualcomm,Chang D. D Yoo,Male,KAIST,Higher-Order Correlation Clustering for Image Segmentation.
+67,67,Ricardo S Cabral,Male,Instituto Superio Tecnico,Alexandre Bernardino,Male,ISR/ Instituto Superior Tecnico,Matrix Completion for Image Classification.
+68,68,Andre S Barreto,Male,Brazilian National Laboratory for Scientific Computing (LNCC),Joelle Pineau,Female,McGill University,Reinforcement Learning using Kernel-Based Stochastic Factorization.
+69,69,Jun Wang,Male,University of Geneva,Alexandros Kalousis,Male,"University of Applied Sciences, Western Switzerland",Metric Learning with Multiple Kernels.
+70,70,Le Song,Male,Carnegie Mellon University,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Kernel Embeddings of Latent Tree Graphical Models.
+71,71,Nico Goernitz,Male,TU Berlin,Gunnar Rätsch,Male,ETH Zürich,Hierarchical Multitask Structured Output Learning for Large-scale Sequence Segmentation.
+72,72,Liefeng Bo,Male,Intel Labs,Dieter Fox,Male,University of Washington,Hierarchical Matching Pursuit for Recognition: Architecture and Fast Algorithms.
+73,73,Puru Kar,Male,Indian Institute of Technology Kanpur,Prateek Jain,Male,Microsoft Research,Similarity-based Learning via Data Driven Embeddings.
+74,74,Sebastian A Kurtek,Male,Florida State University,Wei Wu,Male,Florida State University,Signal Estimation Under Random Time-Warpings and Nonlinear Signal Alignment.
+75,75,Dong Dai,Male,Rutgers University,Tong Zhang,Male,Tencent,Greedy Model Averaging.
+76,76,Zhan Wei Lim,Male,NUS,Wee Sun Lee,Male,National University of Singapore,Monte Carlo Value Iteration with Macro-Actions.
+77,77,Shinichi Nakajima,Male,Technische Universität Berlin,S. Derin Babacan,Male,Google Research,Global Solution of Fully-Observed Variational Bayesian Matrix Factorization is Column-Wise Independent.
+78,78,Liang Xiong,Male,Carnegie Mellon University,Jeff Schneider,Male,CMU,Group Anomaly Detection using Flexible Genre Models.

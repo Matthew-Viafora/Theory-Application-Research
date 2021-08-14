@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+59,59,Stephen H Bach,Male,University of Maryland,Mark Maloof,Male,Georgetown University,A Bayesian Approach to Concept Drift.
+60,60,Felix V Agakov,Male,University of Edinburgh,Amos Storkey,Male,University of Edinburgh,Sparse Instrumental Variables (SPIV) for Genome-Wide Studies.
+61,61,Bo Thiesson,Male,Microsoft Research,Chong Wang,Male,ByteDance Inc.,Fast Large-scale Mixture Modeling with Component-specific Data Partitions.
+62,62,Li-Jia Li,Female,Stanford University,Li Fei-Fei,Female,Stanford University,Object Bank: A High-Level Image Representation for Scene Classification & Semantic Feature Sparsification.
+63,63,David J Weiss,Male,University of Pennsylvania,Ben Taskar,Male,University of Washington,Sidestepping Intractable Inference with Structured Ensemble Cascades.
+64,64,Nebojsa Jojic,Male,Microsoft Research,Vittorio Murino,Male,Istituto Italiano di Tecnologia,Structural epitome: a way to summarize one’s visual experience.
+65,65,Ariel Kleiner,Male,Google Research,Michael Jordan,Male,UC Berkeley,Random Conic Pursuit for Semidefinite Programming.
+66,66,Ken Takiyama,Male,The University of Tokyo,Masato Okada,Male,The University of Tokyo / RIKEN BSI,Switching state space model for simultaneously estimating state transitions and nonstationary firing rates.
+67,67,Matthias Broecheler,Male,University of Maryland CP,Lise Getoor,Female,UC Santa Cruz,Computing Marginal Distributions over Continuous Markov Networks for Statistical Relational Learning.
+68,68,David Pal,Male,Google,Csaba Szepesvari,Male,DeepMind / University of Alberta,Estimation of Renyi Entropy and Mutual Information Based on Generalized Nearest-Neighbor Graphs.
+69,69,Byron Boots,Male,University of Washington,Geoffrey Gordon,Male,MSR Montréal & CMU,Predictive State Temporal Difference Learning.
+70,70,Chris Barber,Male,University of Wisconsin–Milwaukee,Paul Roebber,Male,UW Milwaukee,Auto-Regressive HMM Inference with Incomplete Data for Short-Horizon Wind Forecasting.
+71,71,Javad Azimi,Male,Microsoft,Xiaoli Fern,Female,Oregon State University,Batch Bayesian Optimization via Simulation Matching.
+72,72,Mario J Fritz,Male,MPI Informatics,Trevor Darrell,Male,UC Berkeley,Size Matters: Metric Visual Search Constraints from Monocular Metadata.
+73,73,Hai-Son P Le,Male,Carnegie Mellon University,Ziv Bar-Joseph,Male,Carnegie Mellon University,Cross Species Expression Analysis using a Dirichlet Process Mixture Model with Latent Matchings.
+74,74,Finale P Doshi-Velez,Female,Harvard,Josh Tenenbaum,Female,MIT,Nonparametric Bayesian Policy Priors for Reinforcement Learning.
+75,75,Margareta Ackerman,Female,Florida State University,David R Loker,Female,University of Waterloo,Towards Property-Based Classification of Clustering Paradigms.
+76,76,Jacob Bien,Male,Stanford University,Michael W Mahoney,Male,UC Berkeley,CUR from a Sparse Optimization Viewpoint.
+77,77,Roland Memisevic,Male,Twenty Billion Neurons Inc.,Marc Pollefeys,Male,ETH Zurich,Gated Softmax Classification.
+78,78,Yung-Kyun Noh,Male,Hanyang University,Daniel Lee,Male,Cornell Tech,Generative Local Metric Learning for Nearest Neighbor Classification.
