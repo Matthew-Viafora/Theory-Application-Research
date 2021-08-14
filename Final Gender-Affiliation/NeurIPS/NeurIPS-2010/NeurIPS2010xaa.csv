@@ -18,3 +18,24 @@
 16,16,Jose G Puertas,Male,FIAS,Jörg Lücke,Male,TU Berlin,The Maximal Causes of Natural Scenes are Edge Filters.
 17,17,David Silver,Male,DeepMind,Joel Veness,Male,DeepMind,Monte-Carlo Planning in Large POMDPs.
 18,18,Mohammad J Saberian,Male,UC San Diego,Nuno Vasconcelos,Male,UC San Diego,Boosting Classifier Cascades.
+19,19,Kun Gai,Male,Alibaba group,Changshui Zhang,Male,Tsinghua University,Learning Kernels with Radiuses of Minimum Enclosing Balls.
+20,20,Hongbo Zhou,Male,Southern Illinois University,Qiang Cheng,Male,Tsinghua University,Sufficient Conditions for Generating Group Level Sparsity in a Robust Minimax Framework.
+21,21,Tao Qin,Male,Microsoft Research,Tie-Yan Liu,Male,Microsoft Research Asia,A New Probabilistic Model for Rank Aggregation.
+22,22,Hado P van Hasselt,Male,Centrum Wiskunde & Informatica (CWI),Hado P van Hasselt,Male,Centrum Wiskunde & Informatica (CWI),Double Q-learning.
+23,23,Grégoire Montavon,Male,TU Berlin,Klaus-Robert Müller,Male,TU Berlin,Layer-wise analysis of deep networks with Gaussian kernels.
+24,24,George Dahl,Male,Google Brain,Geoffrey E Hinton,Male,Google & University of Toronto,Phone Recognition with the Mean-Covariance Restricted Boltzmann Machine.
+25,25,Katya Scheinberg,Female,Cornell University,Donald Goldfarb,Male,Columbia University,Sparse Inverse Covariance Selection via Alternating Linearization Methods.
+26,26,Seunghak Lee,Male,Carnegie Mellon University,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Adaptive Multi-Task Lasso: with Application to eQTL Detection.
+27,27,Dmitry Pechyony,Male,NEC Labs,Vladimir Vapnik,Male,None,On the Theory of Learnining with Privileged Information.
+28,28,Elaine A Corbett,Female,Northwestern University,Konrad Koerding,Male,None,Mixture of time-warped trajectory models for movement decoding.
+29,29,Jacob D Abernethy,Male,University of Michigan,Manfred K. Warmuth,Male,Google Brain,Repeated Games against Budgeted Adversaries.
+30,30,Han Liu,Male,Carnegie Mellon University,Larry Wasserman,Male,Carnegie Mellon University,Stability Approach to Regularization Selection (StARS) for High  Dimensional Graphical Models.
+31,31,Martha White,Female,University of Alberta,Adam M White,Male,University of Alberta,Interval Estimation for Reinforcement-Learning Algorithms in Continuous-State Domains.
+32,32,Serhat S Bucak,Male,Michigan State University,Anil K Jain,Male,Michigan State University,Multi-label Multiple Kernel Learning by Stochastic Approximation: Application to Visual Object Recognition.
+33,33,Jonathan D Sorg,Male,University of Michigan,Richard L Lewis,Male,University of Michigan,Reward Design via Online Gradient Ascent.
+34,34,Pierre J Garrigues,Male,"IQ Engines, Inc.",Bruno Olshausen,Male,Redwood Center/UC Berkeley,Group Sparse Coding with a Laplacian Scale Mixture Prior.
+35,35,Yuzong Liu,Male,University of Washington,Eric C Leuthardt,Male,Washington University School of Medicine,Decoding Ipsilateral Finger Movements from ECoG Signals in Humans.
+36,36,David Reichert,Male,DeepMind,Amos Storkey,Male,University of Edinburgh,Hallucinations in Charles Bonnet Syndrome Induced by Homeostasis: a Deep Boltzmann Machine Model.
+37,37,Albert Xin Jiang,Male,University of British Columbia,Kevin Leyton-Brown,Male,University of British Columbia,Bayesian Action-Graph Games.
+38,38,Ji Liu,Male,University Wisconsin-Madison,Jieping Ye,Male,Arizona State University,Multi-Stage Dantzig Selector.
+
