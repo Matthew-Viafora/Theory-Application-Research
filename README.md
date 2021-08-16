@@ -6,7 +6,8 @@ ________________________________________
 ## Overview
 
 **Final Gender-Affiliation contains:**
-- The final csv data for MLHC, ICML, and NeurIPS conferences
+- The final csv data for MLHC, ICML, and NeurIPS conferences (includes first/last author affiliations and their gender)
+- 
 
 **Affiliation_Parsing contains:**
 - All csvs from NeurIPS, ICMl, MLHC, AAAI, and the the respective affiliations of the authors in each dataset
