@@ -239,4 +239,24 @@
 236,236,Yasin Abbasi Yadkori,Male,DeepMind,Csaba Szepesvari,Male,DeepMind / University of Alberta,Improved Algorithms for Linear Stochastic Bandits.
 237,237,Martin O Larsson,Male,Operations Research and Information Engineering / Cornell University,Johan Ugander,Male,Stanford University,A concave regularization technique for sparse mixture models.
 238,238,Pannagadatta K Shivaswamy,Male,Cornell University,Tony Jebara,Male,Spotify,Variance Penalizing AdaBoost.
+239,239,Salah Rifai,Male,Universite de montreal,Xavier Muller,Male,Universite of Montreal,The Manifold Tangent Classifier.
+240,240,Matus J Telgarsky,Male,University of Michigan,Matus J Telgarsky,Male,University of Michigan,The Fast Convergence of Boosting.
+241,241,arthur d szlam,Male,CCNY / IMA,Yann LeCun,Male,Facebook AI Research and New York University,Structured sparse coding via lateral inhibition.
+242,242,Alekh Agarwal,Male,Microsoft Research,Sasha Rakhlin,Female,University of Pennsylvania,Stochastic convex optimization with bandit feedback.
+243,243,Ehsan Elhamifar,Male,UC Berkeley,René Vidal,Male,Mathematical Institute for Data Science Johns Hopkins University,Sparse Manifold Clustering and Embedding.
+244,244,Jiquan Ngiam,Male,Stanford University,Andrew Y Ng,Male,DeepLearning.AI,Sparse Filtering.
+245,245,Olivier Delalleau,Male,Facebook AI Research,Yoshua Bengio,Male,University of Montreal,Shallow vs. Deep Sum-Product Networks.
+246,246,Jacquelyn A Shelton,Female,TU Berlin,Jörg Lücke,Male,TU Berlin,Select and Sample: A Model of Efficient Neural Inference and Learning.
+247,247,Richard Socher,Male,MetaMind,Christopher D Manning,Male,Stanford University,Unfolding Recursive Autoencoders for Paraphrase Detection.
+248,248,Iasonas Kokkinos,Male,Ecole Centrale Paris / INRIA Saclay,Iasonas Kokkinos,Male,Ecole Centrale Paris / INRIA Saclay,Rapid Deformable Object Detection using Dual-Tree Branch-and-Bound.
+249,249,Michael Wick,Male,Oracle Labs,Andrew McCallum,Male,UMass Amherst,Query-Aware MCMC.
+250,250,Jun Liu,Male,Siemens Corporate Research,Jieping Ye,Male,Arizona State University,Projection onto A Nonnegative Max-Heap.
+251,251,Emin Orhan,Male,University of Rochester,Robert A Jacobs,Male,University of Rochester,Probabilistic Modeling of Dependencies Among Visual Short-Term Memory Representations.
+252,252,Olana Missura,Female,University of Bonn,Thomas Gaertner,Male,Fraunhofer IAIS and University of Bonn,Predicting Dynamic Difficulty.
+253,253,Alex Graves,Male,Google DeepMind,Alex Graves,Male,Google DeepMind,Practical Variational Inference for Neural Networks.
+254,254,Bo Chen,Male,Duke University,Lawrence Carin,Male,Duke University,On the Analysis of Multi-Channel Neural Spike Data.
+255,255,Allie Fletcher,Female,UCLA,Aniruddha Bhargava,Male,Amazon,Neural Reconstruction with Approximate Message Passing (NeuRAMP).
+256,256,Maxim Raginsky,Male,University of Illinois at Urbana-Champaign,Sasha Rakhlin,Female,University of Pennsylvania,Lower Bounds for Passive and Active Learning.
+257,257,Zhouchen Lin,Male,Microsoft Research Asia,Zhixun Su,Male,Dalian University of Technology,Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation.
+258,258,Russ Salakhutdinov,Male,Carnegie Mellon University,Antonio Torralba,Male,Massachusetts Institute of Technology,Learning to Learn with Compound HD Models.
 
