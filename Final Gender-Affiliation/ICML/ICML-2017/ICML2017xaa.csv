@@ -378,3 +378,58 @@
 376,Souhaib Ben Taieb,Male,Monash University,Rob Hyndman,Male,Monash University,Coherent probabilistic forecasts for hierarchical time series
 377,Christopher Beckham,Male,MILA,Christopher Pal,Male,MILA,Unimodal Probability Distributions for Deep Ordinal Classification
 378,Yizhe Zhang,Male,Duke university,Lawrence Carin,Male,Duke,Adversarial Feature Matching for Text Generation
+379,Serban A Stan,Male,Yale,Amin Karbasi,Male,Yale,Probabilistic Submodular Maximization in Sub-Linear Time
+380,David Silver,Male,Google DeepMind,Thomas Degris,Male,DeepMind,The Predictron:  End-To-End Learning and Planning
+381,Yi-An Ma,Male,University of Washington,Emily Fox,Female,University of Washington,Stochastic Gradient MCMC Methods for Hidden Markov Models
+382,Bryant Chen,Male,IBM Research,Elias Bareinboim,Male,Purdue,Identification and Model Testing in Linear Structural Equation Models using Auxiliary Variables
+383,Rongda Zhu,Male,Facebook,Quanquan Gu,Male,University of Virginia,High-Dimensional Variance-Reduced Stochastic Gradient Expectation-Maximization Algorithm
+384,Kazuya Kakizaki,Male,University of Tsukuba / NEC,Jun Sakuma,Male,University of Tsukuba / RIKEN AIP,Differentially Private Chi-squared Test by Unit Circle Mechanism
+385,Marco Cuturi,Male,ENSAE / CREST,Mathieu Blondel,Male,NTT,Soft-DTW: a Differentiable Loss Function for Time-Series
+386,Miltos Allamanis,Male,Microsoft Research,Charles Sutton,Male,University of Edinburgh,Learning Continuous Semantic Representations of Symbolic Expressions
+387,RAJIV KHANNA,Male,UT Austin,Sahand Negahban,Male,YALE,On Approximation Guarantees for Greedy Low Rank Optimization
+388,Oron Anschel,Male,Technion,Nahum Shimkin,Male,Technion,Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning
+389,Yulai Cong,Male,Xidian University,Mingyuan Zhou,Male,University of Texas at Austin,Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC
+390,Uri Shalit,Male,NYU,David Sontag,Male,Massachusetts Institute of Technology,Estimating individual treatment effect: generalization bounds and algorithms
+391,Kai Zheng,Male,Peking University,Liwei Wang,Male,Peking University,"Collect at Once, Use Effectively: Making Non-interactive Locally Private Learning Possible"
+392,Yichen Wang,Male,Gatech,Le Song,Male,Georgia Institute of Technology,Variational Policy for Guiding Point Processes
+393,Chris Donahue,Male,"University of California, San Diego",Julian McAuley,Male,UCSD,Dance Dance Convolution
+394,Yann Dauphin,Male,Facebook AI Research,David Grangier,Male,Facebook,Language Modeling with Gated Convolutional Networks
+395,Baharan Mirzasoleiman,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,"Deletion-Robust Submodular Maximization: Data Summarization with ""the Right to be Forgotten"""
+396,Sasha Vezhnevets,Female,DeepMind,koray kavukcuoglu,Male,DeepMind,FeUdal Networks for Hierarchical Reinforcement Learning
+397,Erik Daxberger,Male,Ludwig-Maximilians-Universität München,Bryan Kian Hsiang Low,Male,National University of Singapore,Distributed Batch Gaussian Process Optimization
+398,Nathan Kallus,Male,Cornell University,Nathan Kallus,Male,Cornell University,Recursive Partitioning for Personalization using Observational Data
+399,Anshumali Shrivastava,Male,Rice University,Anshumali Shrivastava,Male,Rice University,Optimal Densification for Fast and Accurate Minwise Hashing
+400,Wittawat Jitkrittum,Male,UCL,Arthur Gretton,Male,Gatsby Computational Neuroscience Unit,An Adaptive Test of Independence with Analytic Kernel Embeddings
+401,Gygli Gygli,Male,Gifs.com,Anelia Angelova,Female,Google Brain,Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs
+402,Tim Shi,Male,Stanford University,Percy Liang,Male,Stanford University,World of Bits: An Open-Domain Platform for Web-Based Agents
+403,Jonas Gehring,Male,Facebook AI Research,Yann Dauphin,Male,Facebook AI Research,Convolutional Sequence to Sequence Learning
+404,Andrea Hornakova,Female,Max Planck Institute for Informatics,Bjoern Andres,Male,MPI for Informatics,Analysis and Optimization of Graph Decompositions by Lifted Multicuts
+405,Mason McGill,Male,California Institute of Technology,Pietro Perona,Male,caltech.edu,Deciding How to Decide: Dynamic Routing in Artificial Neural Networks
+406,Carlos Villacampa-Calvo,Male,Universidad Autónoma de Madrid,Daniel Hernandez-Lobato,Male,Universidad Autonoma de Madrid,Scalable Multi-Class Gaussian Process Classification using Expectation Propagation
+407,Rajat Sen,Male,University of Texas at Austin,Sanjay Shakkottai,Male,University of Texas at Austin,Identifying Best Interventions through Online Importance Sampling
+408,Bo Dai,Male,Georgia Tech,Le Song,Male,Georgia Institute of Technology,Stochastic Generative Hashing
+409,Mathieu Carrière,Male,Inria Saclay,Steve Oudot,Male,,Sliced Wasserstein Kernel for Persistence Diagrams
+410,Wen Sun,Male,Carnegie Mellon University,Drew Bagnell,Male,Carnegie Mellon University,Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction
+411,Oren Rippel,Male,"WaveOne, Inc.",Lubomir Bourdev,Male,"WaveOne, Inc.",Real-Time Adaptive Image Compression
+412,Zichao Yang,Male,Carnegie Mellon University,Taylor Berg-Kirkpatrick,Male,,Improved Variational Autoencoders for Text Modeling using Dilated Convolutions
+413,Zeyuan Allen-Zhu,Male,Microsoft Research / Princeton / IAS,Yining Wang,Male,CMU,Near-Optimal Design of Experiments via Regret Minimization
+414,Alexander Pritzel,Male,Deepmind,Charles Blundell,Male,DeepMind,Neural Episodic Control
+415,Kurt Cutajar,Male,EURECOM,Maurizio Filippone,Male,Eurecom,Random Feature Expansions for Deep Gaussian Processes
+416,Jason Hartford,Male,University of British Columbia,Matt Taddy,Male,MICROSOFT,Deep IV: A Flexible Approach for Counterfactual Prediction
+417,Hantian Zhang,Male,ETH Zurich,Ce Zhang,Male,ETH Zurich,"ZipML: Training Linear Models with End-to-End Low Precision, and a Little Bit of Deep Learning"
+418,Matthew Schlegel,Male,Indiana University,Martha White,Female,University of Alberta/Indiana University,Adapting Kernel Representations Online Using Submodular Maximization
+419,David Belanger,Male,Google Brain,Andrew McCallum,Male,UMass Amherst,End-to-End Learning for Structured Prediction Energy Networks
+420,Justin Gilmer,Male,Google Brain,George Dahl,Male,Google Brain,Neural Message Passing for Quantum Chemistry
+421,Matt J. Kusner,Male,Alan Turing Institute,Jose Miguel Hernandez-Lobato,Male,University of Cambridge,Grammar Variational Autoencoder
+422,Matthew J Staib,Male,MIT,Stefanie Jegelka,Female,MIT,Robust Budget Allocation via Continuous Submodular Functions
+423,Irwan Bello,Male,Google Brain,Quoc Le,Male,Google Brain,Neural Optimizer Search using Reinforcement Learning
+424,Hao Peng,Male,Purdue University,Alan Qi,Male,Ant Financial,Asynchronous Distributed Variational Gaussian Processes for Regression
+425,Andrew Forney,Male,UCLA,Elias Bareinboim,Male,Purdue,Counterfactual Data-Fusion for Online Reinforcement Learners
+426,Esteban Real,Male,Google Inc.,Alex Kurakin,Male,Google Brain,Large-Scale Evolution of Image Classifiers
+427,Yueming LYU,Male,city university of hong kong,Yueming LYU,Male,city university of hong kong,Spherical Structured Feature Maps for Kernel Approximation
+428,Xi-Zhu Wu,Male,Nanjing University,Zhi-Hua Zhou,Male,Nanjing University,A Unified View of Multi-Label Performance Measures
+429,Jonathan Tompson,Male,Google Brain,Ken Perlin,Male,New York University,Accelerating Eulerian Fluid Simulation With Convolutional Networks
+430,Jonathan Eckstein,Male,Rutgers University,Ai Kagawa,Female,Rutgers Univeristy,Rule-Enhanced Penalized Regression by Column Generation using Rectangular Maximum Agreement
+431,Santu Rana,Male,Deakin University,Svetha Venkatesh,Female,Deakin University,High Dimensional Bayesian Optimization with Elastic Gaussian Process
+432,Dino Oglic,Male,University of Bonn,Thomas Gaertner,Male,The University of Nottingham,Nyström Method with Kernel K-means++ Samples as Landmarks
+433,Vikas Jain,Male,Indian Institute of Technology Kanpur,Piyush Rai,Male,IIT Kanpur,Scalable Generative Models for Multi-label Learning with Missing Labels
