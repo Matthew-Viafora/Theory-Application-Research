@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+519,Jing Wang,Female,Cornell University,Ping Li,Male,Rugters University,Provable Variable Selection for Streaming Features
+520,Keith Levin,Male,University of Michigan,Carey Priebe,Male,Johns Hopkins University,Out-of-sample extension of graph adjacency spectral embedding
+521,Yao Ma,Male,Boston University,Venkatesh Saligrama,Male,Boston University,Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers
+522,Xiao Zhang,Male,University of Virginia,Quanquan Gu,Male,UCLA,Fast and Sample Efficient Inductive Matrix Completion via Multi-Phase Procrustes Flow
+523,Qiang Qiu,Male,Duke University,Guillermo Sapiro,Male,Duke University,DCFNet: Deep Neural Network with Decomposed Convolutional Filters
+524,Quynh Nguyen,Female,Saarland University,Matthias Hein,Male,University of Tuebingen,Optimization Landscape and Expressivity of Deep CNNs
+525,Trefor Evans,Male,University of Toronto,Prasanth B Nair,Male,University of Toronto,Scalable Gaussian Processes with Grid-Structured Eigenfunctions (GP-GRIEF)
+526,Daniel Sheldon,Male,University of Massachusetts Amherst,Debora Sujono,Female,University of Massachusetts Amherst,Learning in Integer Latent Variable Models with Nested Automatic Differentiation
+527,Judy Hoffman,Male,UC Berkeley and Georgia Tech,Prof. Darrell,Male,University of California at Berkeley,CyCADA: Cycle-Consistent Adversarial Domain Adaptation
+528,Han-Jia Ye,Male,Nanjing University,Zhi-Hua Zhou,Male,Nanjing University,Rectify Heterogeneous Models with Semantic Mapping
+529,Arash Vahdat,Male,"Quadrant.ai, D-Wave",Evgeny Andriyash,Male,D-Wave,DVAE++: Discrete Variational Autoencoders with Overlapping Transformations
+530,Joe Marino,Male,Caltech,Stephan Mandt,Male,UC Irvine,Iterative Amortized Inference
+531,Niki Kilbertus,Male,MPI Tübingen & Cambridge,Adrian Weller,Male,"University of Cambridge, Alan Turing Institute",Blind Justice: Fairness with Encrypted Sensitive Attributes
+532,Songbai Yan,Male,University of California San Diego,Tara Javidi,Female,University of California San Diego,Active Learning with Logged Data
+533,Alekh Agarwal,Male,Microsoft Research,Hanna Wallach,Female,Microsoft Research,A Reductions Approach to Fair Classification
+534,Michael Kearns,Male,University of Pennsylvania,Steven Wu,Male,Microsoft Research,Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness
+535,othmane mazhar,Male,KTH Royal Institute of Technology,Mohammad Reza Hesamzadeh,Male,KTH Royal Institute of Technology,Bayesian Model Selection for Change Point Detection and Clustering
+536,Pratik Kumar Jawanpuria,Male,Microsoft,Bamdev Mishra,Male,Microsoft,A Unified Framework for Structured Low-rank Matrix Learning
+537,Lalit Jain,Male,University of Washington,Kevin Jamieson,Male,University of Washington,Firing Bandits: Optimizing Crowdfunding
+538,Rajat Sen,Male,University of Texas at Austin,Sanjay Shakkottai,Male,University of Texas at Austin,Multi-Fidelity Black-Box Optimization with Hierarchical Partitions

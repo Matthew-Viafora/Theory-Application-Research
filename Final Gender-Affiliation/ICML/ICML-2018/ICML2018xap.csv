@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+299,Umut Simsekli,Male,Telecom ParisTech,Gaël RICHARD,Male,Télécom ParisTech,Asynchronous Stochastic Quasi-Newton MCMC for Non-Convex Optimization
+300,Jinsung Yoon,Male,"University of California, Los Angeles",Mihaela van der Schaar,Male,University of Oxford,GAIN: Missing Data Imputation using Generative Adversarial Nets
+301,Yaroslav Ganin,Male,Montreal Institute for Learning Algorithms,Oriol Vinyals,Male,DeepMind,Synthesizing Programs for Images using Reinforced Adversarial Learning
+302,Valentin Khrulkov,Male,Skolkovo Institute Of Science And Technology,Ivan Oseledets,Male,Skoltech,Geometry Score: A Method For Comparing Generative Adversarial Networks
+303,Scott Fujimoto,Male,McGill University,David Meger,Male,McGill University,Addressing Function Approximation Error in Actor-Critic Methods
+304,Clint Ho,Male,Imperial College London,Wolfram Wiesemann,Male,Imperial College,Fast Bellman Updates for Robust MDPs
+305,Alberto Maria Metelli,Male,Politecnico di Milano,Marcello Restelli,Male,Politecnico di Milano,Configurable Markov Decision Processes
+306,Matt Bonakdarpour,Male,University of Chicago,John Lafferty,Male,Yale University,Prediction Rule Reshaping
+307,Daniel Ma,Male,The University of Melbourne,James Bailey,Male,The University of Melbourne,Dimensionality-Driven Learning with Noisy Labels
+308,Milad Hashemi,Male,Google,Partha Ranganathan,Male,"Google, USA",Learning Memory Access Patterns
+309,Pierre Baque,Male,EPFL,EPFL Pascal Fua,Male,"EPFL, Switzerland",Geodesic Convolutional Shape Optimization
+310,Samuel Greydanus,Male,Oregon State University,Alan Fern,Male,Oregon State University,Visualizing and Understanding Atari Agents
+311,Dhruv Malik,Male,UC Berkeley,Anca Dragan,Female,"EECS Department, University of California, Berkeley","An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning"
+312,Augustus Odena,Male,Google Brain,Ian Goodfellow,Male,Google Brain,Is Generator Conditioning Causally Related to GAN Performance?
+313,Jihun Hamm,Male,The Ohio State University,Yung-Kyun Noh,Male,Seoul National University,K-Beam Minimax: Efficient Optimization for Deep Adversarial Learning
+314,Vignesh Ganapathiraman,Male,University of Illinois at Chicago,Yaoliang Yu,Male,University of Waterloo,Inductive Two-Layer Modeling with Parametric Bregman Transfer
+315,Weihua Hu,Male,The University of Tokyo,Masashi Sugiyama,Male,RIKEN / The University of Tokyo,Does Distributionally Robust Supervised Learning Give Robust Classifiers?
+316,Pan Zhou,Male,National University of Singapore,Jiashi Feng,Male,National University of Singapore,Understanding Generalization and Optimization Performance of Deep CNNs
+317,Thomas Laurent,Male,Loyola Marymount University,James von Brecht,Male,CSULB,The Multilinear Structure of ReLU Networks
+318,Hossein Esfandiari,Male,Harvard University,Vahab Mirrokni,Male,Google Research,Parallel and Streaming Algorithms for K-Core Decomposition

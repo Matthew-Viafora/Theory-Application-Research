@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+259,Ofir Nachum,Male,Google Brain,Dale Schuurmans,Male,University of Alberta,Smoothed Action Value Functions for Learning Gaussian Policies
+260,RJ Skerry-Ryan,Male,"Google, Inc.",Rif Saurous,Male,Google Research,Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron
+261,Yuxuan Wang,Female,Google,Rif Saurous,Male,Google Research,"Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis"
+262,Ahmed M. Alaa,Male,UCLA,Mihaela van der Schaar,Male,UCLA,AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning
+263,Amartya Sanyal,Male,University of Oxford,Varun Kanade,Male,University of Oxford,TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service
+264,Di Chen,Male,Cornell University,Carla Gomes,Female,Cornell University,End-to-End Learning for the Deep Multivariate Probit Model
+265,Arthur Mensch,Male,Inria Parietal,Mathieu Blondel,Male,NTT,Differentiable Dynamic Programming for Structured Prediction and Attention
+266,Junhong Lin,Male,EPFL,Volkan Cevher,Male,EPFL,Optimal Distributed Learning with Multi-pass Stochastic Gradient Methods
+267,Dong Yin,Male,UC Berkeley,Peter Bartlett,Male,UC Berkeley,Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates
+268,LIWEI WU,Male,"University of California, Davis",University of California James Sharpnack,Male,"University of California, Davis",SQL-Rank: A Listwise Approach to Collaborative Ranking
+269,Minhao Cheng,Male,UC Davis,Cho-Jui Hsieh,Male,"University of California, Davis",Extreme Learning to Rank via Low Rank Assumption
+270,Hanjun Dai,Male,Georgia Tech,Le Song,Male,Georgia Institute of Technology,Adversarial Attack on Graph Structured Data
+271,Xi Wu,Male,Google,Somesh Jha,Male,"University of Wisconsin, Madison",Reinforcing Adversarial Robustness using Model Confidence Induced by Adversarial Training
+272,Louis Filstroff,Male,"CNRS, Toulouse",Cedric Fevotte,Male,CNRS,Closed-form Marginal Likelihood in Gamma-Poisson Matrix Factorization
+273,Ariel Jaffe,Male,Weizmann Institute of Science,Yuval Kluger,Male,Yale School of Medicine,Learning Binary Latent Variable Models: A Tensor Eigenpair Approach
+274,Siwei Wang,Male,Tsinghua University,Wei Chen,Male,Microsoft,Thompson Sampling for Combinatorial Semi-Bandits
+275,Ehsan Asadi Kangarshahi,Male,University of Cambridge,Volkan Cevher,Male,EPFL,Let’s be Honest: An Optimal No-Regret Framework for Zero-Sum Games
+276,Hae Beom Lee,Male,UNIST,Sung Ju Hwang,Male,KAIST,Deep Asymmetric Multi-task Feature Learning
+277,Ashwin Kalyan,Male,Georgia Tech,Dhruv Batra,Male,Georgia Institute of Technology / Facebook AI Research,Learn from Your Neighbor: Learning Multi-modal Mappings from Sparse Annotations
+278,Dilin Wang,Male,UT Austin,Qiang Liu,Male,UT Austin,Stein Variational Message Passing for Continuous Graphical Models

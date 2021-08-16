@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+59,Or Sheffet,Male,University of Alberta,Or Sheffet,Male,University of Alberta,Locally Private Hypothesis Testing
+60,Tuomas Haarnoja,Male,UC Berkeley,Sergey Levine,Male,Berkeley,Latent Space Policies for Hierarchical Reinforcement Learning
+61,Mehrdad Farajtabar,Male,Georgia Tech,Mohammad Ghavamzadeh,Male,Facebook AI Research,More Robust Doubly Robust Off-policy Evaluation
+62,Jianbo Chen,Male,"University of California, Berkeley",Michael Jordan,Male,UC Berkeley,Learning to Explain: An Information-Theoretic Perspective on Model Interpretation
+63,Wenhan Luo,Male,Tencent AI Lab,Yizhou Wang,Male,Peking University,End-to-end Active Object Tracking via Reinforcement Learning
+64,Rizal Fathony,Male,University of Illinois at Chicago,Brian Ziebart,Male,University of Illinois at Chicago,Efficient and Consistent Adversarial Bipartite Matching
+65,Vlad Niculae,Male,Cornell University,Claire Cardie,Female,Cornell University,SparseMAP: Differentiable Sparse Structured Inference
+66,Luca Franceschi,Male,Istituto Italiano di Tecnologia - University College London,Massimiliano Pontil,Male,University College London,Bilevel Programming for Hyperparameter Optimization and Meta-Learning
+67,Ron Amit,Male,Technion – Israel Institute of Technology,Ron Meir,Male,Technion Israeli Institute of Technology,Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory
+68,Robert Ganian,Male,TU Wien,Stefan Szeider,Male,TU Wien,Parameterized Algorithms for the Matrix Completion Problem
+69,Praneeth Narayanamurthy,Male,Iowa State University,Namrata Vaswani,Male,Iowa State University,Nearly Optimal Robust Subspace Tracking
+70,Zeyuan Allen-Zhu,Male,Microsoft Research AI,Zeyuan Allen-Zhu,Male,Microsoft Research AI,Katyusha X: Simple Momentum Method for Stochastic Sum-of-Nonconvex Optimization
+71,Jeremy Bernstein,Male,Caltech,Anima Anandkumar,Female,Amazon AI & Caltech,signSGD: Compressed Optimisation for Non-Convex Problems
+72,Anish Athalye,Male,MIT CSAIL,Kevin Kwok,Male,LabSix,Synthesizing Robust Adversarial Examples
+73,Matthew Mirman,Male,ETH Zürich,Martin Vechev,Male,ETH Zurich,Differentiable Abstract Interpretation for Provably Robust Neural Networks
+74,Jianfei Chen,Male,Tsinghua University,Le Song,Male,Georgia Institute of Technology,Stochastic Training of Graph Convolutional Networks with Variance Reduction
+75,Thomas Kipf,Male,University of Amsterdam,Richard Zemel,Male,Vector Institute,Neural Relational Inference for Interacting Systems
+76,Lars Mescheder,Male,MPI Tübingen,Sebastian Nowozin,Male,Microsoft Research,Which Training Methods for GANs do actually Converge?
+77,Giambattista Parascandolo,Male,Max Planck Institute for Intelligent Systems and ETH Zurich,Bernhard Schölkopf,Male,"MPI for Intelligent Systems Tübingen, Germany",Learning Independent Causal Mechanisms
+78,Junpei Komiyama,Male,U-Tokyo,Hajime Shimao,Male,Purdue University,Nonconvex Optimization for Regression with Fairness Constraints

@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+459,Hoang Le,Male,Caltech,Hal Daume,Male,Microsoft Research,Hierarchical Imitation and Reinforcement Learning
+460,Bingyi Kang,Male,National University of Singapore,Jiashi Feng,Male,National University of Singapore,Policy Optimization with Demonstrations
+461,Arman Sharifi Kolarijani,Male,Delft University of Technology,Tamas Keviczky,Male,Delft University of Technology,Fast Gradient-Based Methods with Exponential Rate: A Hybrid Control Framework
+462,Qihang Lin,Male,Univ Iowa,Tianbao Yang,Male,The University of Iowa,Level-Set Methods for Finite-Sum Constrained Convex Optimization
+463,Weili Nie,Male,Rice University,Ankit Patel,Male,"Rice University, Baylor College of Medicine",A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations
+464,Ondrej Bajgar,Male,IBM Watson,Jan Kleindienst,Male,IBM Watson,A Boo(n) for Evaluating Architecture Performance
+465,Eric Liang,Male,"University of California, Berkeley",Ion Stoica,Male,UC Berkeley,RLlib: Abstractions for Distributed Reinforcement Learning
+466,Maryam Fazel,Female,University of Washington,Mehran Mesbahi,Male,,Global Convergence of Policy Gradient Methods for the Linear Quadratic Regulator
+467,Hao Lu,Male,Princeton University,Zhaoran Wang,Male,Northwestern U,The Edge Density Barrier: Computational-Statistical Tradeoffs in Combinatorial Inference
+468,Steven Holtzen,Male,"University of California, Los Angeles",Todd Millstein,Male,"University of California, Los Angeles",Sound Abstraction and Decomposition of Probabilistic Programs
+469,Aäron van den Oord,Male,Google Deepmind,Demis Hassabis,Male,Deepmind,Parallel WaveNet: Fast High-Fidelity Speech Synthesis
+470,Manik Dhar,Male,Stanford University,Stefano Ermon,Male,Stanford University,Modeling Sparse Deviations for Compressed Sensing using Generative Models
+471,Andrey Zhitnikov,Male,Technion,Tomer Michaeli,Male,Technion,Revealing Common Statistical Behaviors in Heterogeneous Populations
+472,Omid Keivani,Male,Wichita State University,Kaushik Sinha,Male,Wichita State University,Improved nearest neighbor search using auxiliary information and priority functions
+473,Aviral Kumar,Male,IIT Bombay,Ujjwal Jain,Male,IIT Bombay,Trainable Calibration Measures for Neural Networks from Kernel Mean Embeddings
+474,Giacomo Boracchi,Male,Politecnico di Milano,Danilo Macciò,Male,,QuantTree: Histograms for Change Detection in Multivariate Data Streams
+475,Agniva Chowdhury,Male,Purdue University,Petros Drineas,Male,Purdue University,"An Iterative, Sketching-based Framework for Ridge Regression"
+476,Bing Su,Male,"Institute of Software, Chinese Academy of Sciences",Ying Wu,Male,Northwestern University,Learning Low-Dimensional Temporal Representations
+477,Tsendsuren Munkhdalai,Male,Microsoft Research,Adam Trischler,Male,Microsoft Research,Rapid Adaptation with Conditionally Shifted Neurons
+478,Zichao Long,Male,Peking University,Bin Dong,Male,Peking University,PDE-Net: Learning PDEs from Data

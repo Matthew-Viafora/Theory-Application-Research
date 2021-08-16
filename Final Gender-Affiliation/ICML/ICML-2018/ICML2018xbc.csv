@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+559,Corinna Cortes,Female,Google Research,Scott Yang,Male,D. E. Shaw & Co.,Online Learning with Abstention
+560,Mathurin MASSIAS,Male,INRIA,Alexandre Gramfort,Male,Inria,Celer: a Fast Solver for the Lasso with Dual Extrapolation
+561,Hugo Raguet,Male,LIVE (CNRS),loic landrieu,Male,IGN,Cut-Pursuit Algorithm for Regularizing Nonsmooth Functionals with Graph Total Variation
+562,Amjad Almahairi,Male,Element AI,Aaron Courville,Male,University of Montreal,Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data
+563,Thomas LUCAS,Male,Inria,Jakob Verbeek,Male,INRIA,Mixed batches and symmetric discriminators for GAN training
+564,Li Shen,Male,Tencent AI Lab,Tong Zhang,Male,Tecent AI Lab,An Algorithmic Framework of Variable Metric Over-Relaxed Hybrid Proximal Extra-Gradient Method
+565,Kejun Huang,Male,University of Minnesota,Nicholas Sidiropoulos,Male,University of Virginia,Learning Hidden Markov Models from Pairwise Co-occurrences with Application to Topic Modeling
+566,Lingjiao Chen,Male,University of Wisconsin-Madison,Dimitris Papailiopoulos,Male,ECE at University of Wisconsin-Madison,DRACO: Byzantine-resilient Distributed Training via Redundant Gradients
+567,Min Ye,Male,Princeton University,Emmanuel Abbe,Male,,Communication-Computation Efficient Gradient Coding
+568,Pan Li,Male,University of Illinois Urbana-Champaign,Olgica Milenkovic,Female,University of Illinois UC,"Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities and Spectral Clustering"
+569,cbajaj bajaj,Male,University of Texas at Austin,Zhenxiao Liang,Male,Tsinghua University,SMAC: Simultaneous Mapping and Clustering Using Spectral Decompositions
+570,Tom Rainforth,Male,University of Oxford,Frank Wood,Male,University of Oxford,On Nesting Monte Carlo Estimators
+571,Jun Han,Male,Dartmouth College,Qiang Liu,Male,UT Austin,Stein Variational Gradient Descent Without Gradient
+572,Dominik Janzing,Male,Amazon Research Tübingen,Bernhard Schölkopf,Male,"MPI for Intelligent Systems Tübingen, Germany",Detecting non-causal artifacts in multivariate linear regression models
+573,Vincent Moens,Male,Université catholique de Louvain,Vincent Moens,Male,Université catholique de Louvain,The Hierarchical Adaptive Forgetting Variational Filter
+574,Wengong Jin,Male,MIT Computer Science and Artificial Intelligence Laboratory,Tommi Jaakkola,Male,MIT,Junction Tree Variational Autoencoder for Molecular Graph Generation
+575,Yoon Kim,Male,Harvard University,Alexander Rush,Male,Harvard University,Semi-Amortized Variational Autoencoders
+576,Huasen Wu,Male,Twitter,Xin Liu,Male,"University of California, Davis",Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits
+577,Akshay Krishnamurthy,Male,Microsoft Research,Vasilis Syrgkanis,Male,Microsoft Research,Semiparametric Contextual Bandits
+578,Been Kim,Male,Google,Rory sayres,Male,Google,Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)

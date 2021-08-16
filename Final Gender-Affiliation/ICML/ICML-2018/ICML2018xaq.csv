@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+319,Lionel Martin,Male,EPFL,Pierre Vandergheynst,Male,École polytechnique fédérale de Lausanne,Fast Approximate Spectral Clustering for Dynamic Networks
+320,Simon Du,Male,Carnegie Mellon University,Barnabás Póczos,Male,CMU,Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima
+321,Quynh Nguyen,Female,Saarland University,Matthias Hein,Male,University of Tuebingen,Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions
+322,Wenruo Bai,Male,University of Washington,Jeff Bilmes,Male,UW,Greed is Still Good: Maximizing Monotone Submodular+Supermodular (BP) Functions
+323,Andrew Ilyas,Male,Massachusetts Institute of Technology,Jessy Lin,Female,MIT,Black-box Adversarial Attacks with Limited Queries and Information
+324,Abhishek Bansal,Male,IBM Research,Chiru Bhattacharyya,Male,Indian Institute of Science,Using Inherent Structures to design Lean 2-layer RBMs
+325,Patrick Schwab,Male,ETH Zurich,Walter Karlen,Male,ETH Zurich,Not to Cry Wolf: Distantly Supervised Multitask Learning in Critical Care
+326,Amy Zhang,female,Facebook AI Research,Facebook Rob Fergus,Male,"Facebook AI Research, NYU",Composable Planning with Attributes
+327,Adam Santoro,Male,DeepMind,Tim Lillicrap,Male,Google DeepMind,Measuring abstract reasoning in neural networks
+328,Lin Chen,Male,Yale University,Amin Karbasi,Male,Yale,Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity
+329,Dongwoo Kim,Male,The Australian National University,Christian Walder,Male,"Data61, the Australian National University",Self-Bounded Prediction Suffix Tree via Approximate String Matching
+330,Lu Jiang,Male,Google,Li Fei-Fei,Female,Stanford University & Google,MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels
+331,Daphna Weinshall,Female,"Hebrew University of Jerusalem, Israel",Dan Amir,Male,Hebrew University of Jerusalem,Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks
+332,Rie Johnson,Female,RJ Research Consulting,Tong Zhang,Male,Tecent AI Lab,Composite Functional Gradient Learning of Generative  Adversarial Models
+333,Danny Karmon,Male,Bar Ilan University,Yoav Goldberg,Male,Bar Ilan University,LaVAN: Localized and Visible Adversarial Noise
+334,Eric Balkanski,Male,Harvard,Yaron Singer,Male,Harvard,Approximation Guarantees for Adaptive Sampling
+335,Andrew Cotter,Male,Google AI,Jeff Bilmes,Male,UW,Constrained Interacting Submodular Groupings
+336,Nathan Kallus,Male,Cornell University,Angela Zhou,Female,Cornell University,Residual Unfairness in Fair Machine Learning from Prejudiced Data
+337,Liang Tong,Male,Vanderbilt University,Yevgeniy Vorobeychik,Male,Vanderbilt University,Adversarial Regression with Multiple Learners
+338,Fred Sala,Male,Stanford,Christopher Re,Male,Stanford,Representation Tradeoffs for Hyperbolic Embeddings

@@ -1,0 +1,20 @@
+,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,Randall Balestriero,Male,Rice University,Richard Baraniuk,Male,OpenStax / Rice University,Spline Filters For End-to-End Deep Learning
+1,Aditya Gilra,Male,University of Bonn,Wulfram Gerstner,Male,EPFL,Non-linear motor control by local learning in spiking neural networks
+2,Will Dabney,Male,DeepMind,Remi Munos,Male,DeepMind,Implicit Quantile Networks for Distributional Reinforcement Learning
+3,Matthew Smith,Male,McGill University,Joelle Pineau,Female,McGill University / Facebook,An Inference-Based Policy Gradient Method for Learning Options
+4,Nataly Brukhim,Female,Tel Aviv University,Amir Globerson,Male,"Tel Aviv University, Google",Predict and Constrain: Modeling Cardinality in Deep Structured Prediction
+5,Prateek Jain,Male,Microsoft Research,Abhradeep Thakurta,Male,UCSC,Differentially Private Matrix Completion Revisited
+6,Thomas Miconi,Male,Uber AI Labs,Jeff Clune,Male,Uber AI Labs,Differentiable plasticity: training plastic neural networks with backpropagation
+7,Yingce Xia,Male,University of Science and Technology of China,Tie-Yan Liu,Male,Microsoft,Model-Level Dual Learning
+8,Kevin Tian,Male,Stanford University,James Zou,Male,Stanford University,CoVeR: Learning Covariate-Specific Vector Representations with Tensor Decompositions
+9,Benjamin Paaßen,Male,Bielefeld University,CITEC Barbara Hammer,Female,"CITEC, Bielefeld University",Tree Edit Distance Learning via Adaptive Symbol Embeddings
+10,Siyuan Qiao,,Johns Hopkins University,Alan Yuille,Male,Johns Hopkins University,Gradually Updated Neural Networks for Large-Scale Image Recognition
+11,Claudio Michaelis,Male,Universty of Tübingen,Alexander Ecker,Male,University of Tübingen,One-Shot Segmentation in Clutter
+12,Phuc Nguyen,Male,UC Irvine,Charless Fowlkes,Male,UC Irvine,Active Testing: An Efficient and Robust Framework for Estimating Accuracy
+13,Furong Huang,Male,University of Maryland College Park,Robert Schapire,Male,Microsoft Research,Learning Deep ResNet Blocks Sequentially using Boosting Theory
+14,JD Co-Reyes,Male,UC Berkeley,Sergey Levine,Male,Berkeley,Self-Consistent Trajectory Autoencoder: Hierarchical Reinforcement Learning with Trajectory Embeddings
+15,Andrea Zanette,Male,Stanford University,Emma Brunskill,Female,Stanford University,Problem Dependent Reinforcement Learning Bounds Which Can Identify Bandit Structure in MDPs
+16,Poorya Mianjy,Male,Johns Hopkins University,Raman Arora,Male,Johns Hopkins University,Stochastic PCA with $\ell_2$ and $\ell_1$ Regularization
+17,Alexandr Andoni,Male,,Ruiqi Zhong,Male,Columbia University in the City of New York,Subspace Embedding and Linear Regression with Orlicz Norm
+18,Sreejith Kallummil,Male,Qualcomm India Private Limited,Sheetal Kalyani,Female,IIT Madras,Signal and  Noise Statistics Oblivious Orthogonal Matching Pursuit
