@@ -120,4 +120,23 @@
 117,117,Christoph Lampert,Male,IST Austria,Christoph Lampert,Male,IST Austria,Maximum Margin Multi-Label Structured Prediction.
 118,118,Jiarong Jiang,Female,Two Sigma Investments LP,Hal Daumé III,Male,Univ of Maryland / Microsoft Research,Message-Passing for Approximate MAP Inference with Latent Variables.
 119,119,Andrew Guillory,Male,University of Washington,Jeff A Bilmes,Male,"University of Washington, Seattle","Online Submodular Set Cover, Ranking, and Repeated Active Learning."
-120,120,Yong Zhang,Male,Simon Fraser University,Zhaosong Lu,Male,Simon Frasor University,Penalty Decomposition Methods for Rank Minimization.,
+120,120,Yong Zhang,Male,Simon Fraser University,Zhaosong Lu,Male,Simon Frasor University,Penalty Decomposition Methods for Rank Minimization.
+121,121,Michael Kapralov,Male,Stanford University,Rina Panigrahy,Male,Microsoft Research,Prediction strategies without loss.
+122,122,Ardavan Saeedi,Male,University of British Columbia,Alexandre Bouchard-Côté,Male,UBC,Priors over Recurrent Continuous Time Processes.
+123,123,Yoshinobu Kawahara,Male,Osaka University / RIKEN,Takashi Washio,Male,Osaka University,Prismatic Algorithm for Discrete D.C. Programming Problem.
+124,124,Makoto Yamada,Male,Kyoto University,Masashi Sugiyama,Male,RIKEN / University of Tokyo,Relative Density-Ratio Estimation for Robust Distribution Comparison.
+125,125,Nam H Nguyen,Male,Johns Hopkins University,Trac D Tran,Male,Johns Hopkins University,Robust Lasso with missing and grossly corrupted observations.
+126,126,Denis Maua,Male,University of Sao Paulo,Cassio P de Campos,Male,Queen's University Belfast,Solving Decision Problems with Limited Information.
+127,127,Anima Anandkumar,Female,Caltech,Tong Zhang,Male,Tencent,Spectral Methods for Learning Multivariate Latent Tree Structure.
+128,128,Levi Boyles,Male,UC Irvine,Max Welling,Male,University of Amsterdam / Qualcomm AI Research,Statistical Tests for Optimization Efficiency.
+129,129,J. Zico Kolter,,Carnegie Mellon University / Bosch Center for AI,J. Zico Kolter,Male,Carnegie Mellon University / Bosch Center for AI,The Fixed Points of Off-Policy TD.
+130,130,Lu Ren,Male,Duke University,Lawrence Carin,Male,Duke University,The Kernel Beta Process.
+131,131,Marius Kloft,Male,TU Kaiserslautern,Gilles Blanchard,Male,Universität Potsdam (DE),The Local Rademacher Complexity of Lp-Norm Multiple Kernel Learning.
+132,132,Edouard Grave,Male,Inria - Ecole normale supérieure,Francis Bach,Male,INRIA - Ecole Normale Superieure,Trace Lasso: a trace norm regularization for correlated designs.
+133,133,Mijung Park,Female,University of Texas,Jonathan W Pillow,Male,UT Austin,Active learning of neural response functions with Gaussian processes.
+134,134,Alessandro Lazaric,Male,Facebook Artificial Intelligence Research,Marcello Restelli,Male,Politecnico di Milano,Transfer from Multiple MDPs.
+135,135,Carl Vondrick,Male,Massachusetts Institute of Technology,Deva Ramanan,Male,None,Video Annotation and Tracking with Active Learning.
+136,136,Andreas Krause,Male,ETH Zurich,Cheng Soon Ong,Male,"NICTA, Melbourne",Contextual Gaussian Process Bandit Optimization.
+137,137,Gilles Blanchard,Male,Universität Potsdam (DE),Clay Scott,Male,University of Michigan,Generalizing from Several Related Classification Tasks to a New Unlabeled Sample.
+138,138,Simon Wiesler,Male,RWTH Aachen,Hermann Ney,Male,RWTH Aachen,A Convergence Analysis of Log-Linear Training.
+
