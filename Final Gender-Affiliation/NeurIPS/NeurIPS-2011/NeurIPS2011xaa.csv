@@ -259,4 +259,51 @@
 256,256,Maxim Raginsky,Male,University of Illinois at Urbana-Champaign,Sasha Rakhlin,Female,University of Pennsylvania,Lower Bounds for Passive and Active Learning.
 257,257,Zhouchen Lin,Male,Microsoft Research Asia,Zhixun Su,Male,Dalian University of Technology,Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation.
 258,258,Russ Salakhutdinov,Male,Carnegie Mellon University,Antonio Torralba,Male,Massachusetts Institute of Technology,Learning to Learn with Compound HD Models.
+259,259,Martin Slawski,Male,Saarland University,Matthias Hein,Male,University of Tübingen,Sparse recovery by thresholded non-negative least squares.
+260,260,Jacob D Abernethy,Male,University of Michigan,Rafael Frongillo,Male,University of Colorado Boulder,A Collaborative Mechanism for Crowdsourcing Prediction Problems.
+261,261,Ke Chen,Male,The University of Manchester,Ahmad Salman,Male,University of Manchester,Extracting Speaker-Specific Information with a Regularized Siamese Deep Network.
+262,262,M Pacer,Male,Netflix,Tom Griffiths,Male,Princeton,A rational model of causal inference with continuous causes.
+263,263,Tianshi Gao,Male,Facebook,Daphne Koller,Female,insitro,Active Classification based on Value of Classifier.
+264,264,Faisal Khan,Male,University of Wisconsin-Madison,Bilge Mutlu,Male,University of Wisconsin-Madison,How Do Humans Teach: On Curriculum Learning and Teaching Dimension.
+265,265,Benjamin Recht,Male,UW-Madison,Feng Niu,Male,University of Wisconsin-Madison,Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent.
+266,266,Animashree Anandkumar,Female,UC Irvine,Alan S Willsky,Male,Massachusetts Institute of Technology,High-Dimensional Graphical Model Selection: Tractable Graph Families and Necessary Conditions.
+267,267,Mark Schmidt,Male,INRIA - SIERRA Project Team,Francis Bach,Male,INRIA - Ecole Normale Superieure,Convergence Rates of Inexact Proximal-Gradient Methods for Convex Optimization.
+268,268,Adler J Perotte,Male,Columbia University,Nicholas Bartlett,Male,Columbia,Hierarchically Supervised Latent Dirichlet Allocation.
+269,269,Ioannis A Gkioulekas,Male,Harvard University,Todd Zickler,Male,Harvard University,Dimensionality Reduction Using the Sparse Linear Model.
+270,270,Bogdan Alexe,Male,ETH ZURICH,Vittorio Ferrari,Male,University of Edinburgh,Exploiting spatial overlap to efficiently compute appearance distances between image windows.
+271,271,Michael Shindler,Male,Unaffiliated,Adam W Meyerson,Male,"Google, Inc.",Fast and Accurate k-means For Large Datasets.
+272,272,Matthew A Kayala,Male,"University of California, Irvine",Pierre Baldi,Male,UC Irvine,A Machine Learning Approach to Predict Chemical Reactions.
+273,273,Artin Armagan,Male,Duke University,Merlise Clyde,Female,Duke University,Generalized Beta Mixtures of Gaussians.
+274,274,Qibin Zhao,Male,RIKEN AIP,Andrzej S CICHOCKI,Male,RIKEB Brain Science Institute,A Multilinear Subspace Regression Method Using Orthogonal Tensors Decompositions.
+275,275,Joshua T Abbott,Male,UC Berkeley,Tom Griffiths,Male,Princeton,Testing a Bayesian Measure of Representativeness Using a Large Image Database.
+276,276,Andrew McHutchon,Male,Cambridge University,Carl Edward Rasmussen,Male,University of Cambridge,Gaussian Process Training with Input Noise.
+277,277,Cristina Savin,Female,University of Cambridge,Mate Lengyel,Male,University of Cambridge,Two is better than one: distinct roles for familiarity and recollection in retrieving palimpsest memories.
+278,278,Guido F Montufar,Male,UCLA,Nihat Ay,Male,MPI for Mathematics in the Sciences,Expressive Power and Approximation Errors of Restricted Boltzmann Machines.
+279,279,Vincent Delaitre,Male,Ecole Normale Supérieure,Ivan Laptev,Male,INRIA,Learning person-object interactions for action recognition in still images.
+280,280,Jakob H Macke,Male,University of Tübingen & MPI IS Tübingen,Maneesh Sahani,Male,"Gatsby Unit, UCL",Empirical models of spiking in neural populations.
+281,281,Viren Jain,Male,Howard Hughes Medical Institute,H. Sebastian Seung,Male,Massachusetts Institute of Technology,Learning to Agglomerate Superpixel Hierarchies.
+282,282,Joe L Austerweil,Male,"University of Wisconsin, Madison",Tom Griffiths,Male,Princeton,An ideal observer model for identifying the reference frame of objects.
+283,283,Shie Mannor,Male,Technion,Ohad Shamir,Male,Weizmann Institute of Science,From Bandits to Experts: On the Value of Side-Observations.
+284,284,Quoc V. Le,Male,Google,Andrew Y Ng,Male,DeepLearning.AI,ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning.
+285,285,Danilo J Rezende,Male,EPFL,Wulfram Gerstner,Male,EPFL,Variational Learning for Recurrent Spiking Networks.
+286,286,David R Karger,Male,MIT,Devavrat Shah,Male,Massachusetts Institute of Technology,Iterative Learning for Reliable Crowdsourcing Systems.
+287,287,Philipp Krähenbühl,Male,UT Austin,Vladlen Koltun,Male,Adobe Research,Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials.
+288,288,Lester W Mackey,Male,"University of California, Berkeley",Michael Jordan,Male,UC Berkeley,Divide-and-Conquer Matrix Factorization.
+289,289,Duy Q Vu,Male,Pennsylvania State University,Padhraic Smyth,Male,"University of California, Irvine",Continuous-Time Regression Models for Longitudinal Networks.
+290,290,David Newman,Male,"University of California, Irvine",Wray Buntine,Male,None,Improving Topic Coherence with Regularized Topic Models.
+291,291,Youwei Zhang,Male,UC Berkeley,Laurent El Ghaoui,Male,UC Berkeley,Large-Scale Sparse Principal Component Analysis with Application to Text Data.
+292,292,Ross B Girshick,Male,UC Berkeley,David Mcallester,Male,Toyota Tech Institute Chicago,Object Detection with Grammar Models.
+293,293,Dominique C Perrault-Joncas,Male,University of Washington,Marina Meila,Female,University of Washington,Directed Graph Embedding: an Algorithm based on Continuous Limits of Laplacian-type Operators.
+294,294,Dominique Tschopp,Male,None,Soheil Mohajer,Male,Princeton,Randomized Algorithms for Comparison-based Search.
+295,295,David Sontag,Male,MIT,Dan Roy,Male,Univ of Toronto & Vector,Complexity of Inference in Latent Dirichlet Allocation.
+296,296,Stefanie Jegelka,Female,MIT,Jeff A Bilmes,Male,"University of Washington, Seattle",Fast approximate submodular minimization.
+297,297,Sivaraman Balakrishnan,Male,CMU,Aarti Singh,Male,CMU,Noise Thresholds for Spectral Clustering.
+298,298,Dan Feldman,Male,Massachusetts Institute of Technology,Andreas Krause,Male,ETH Zurich,Scalable Training of Mixture Models via Coresets.
+299,299,Javad Azimi,Male,Microsoft,Xiaoli Fern,Female,Oregon State University,Budgeted Optimization with Concurrent Stochastic-Duration Experiments.
+300,300,Dan Zhang,Male,Purdue University,Richard D Lawrence,Male,IBM TJ Watson Research Center,Multiple Instance Learning on Structured Data.
+301,301,Dan Garber,Male,Technion,Elad Hazan,Male,Technion,Approximating Semidefinite Programs in Sublinear Time.
+302,302,Alex Slivkins Slivkins,Male,Microsoft Research,Alex Slivkins Slivkins,Male,Microsoft Research,Multi-armed bandits on implicit metric spaces.
+303,303,Nir Ailon,Male,Technion,Nir Ailon,Male,Technion,Active Learning Ranking from Pairwise Preferences with Almost Optimal Query Complexity.
+304,304,Yangqing Jia,Male,Alibaba Group,Trevor Darrell,Male,UC Berkeley,Heavy-tailed Distances for Gradient Based Image Descriptors.
+305,305,Vijay Mahadevan,Male,Yahoo!,Lawrence Saul,Male,UC San Diego,Maximum Covariance Unfolding : Manifold Learning for Bimodal Data.
 
