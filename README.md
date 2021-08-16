@@ -5,8 +5,14 @@ ________________________________________
 
 ## Overview
 
-**NeurIPS-XML contains:**
+**Final Gender-Affiliation contains:**
+- The final csv data for MLHC, ICML, and NeurIPS conferences
 
+**Affiliation_Parsing contains:**
+- All csvs from NeurIPS, ICMl, MLHC, AAAI, and the the respective affiliations of the authors in each dataset
+- The sub affiliations gender folders contain the same data as the affiliations folder, separated into multiple files of <= 20 rows of data
+
+**NeurIPS-XML contains:**
 - All paper information from 2010-2020 NeurIPS conference in XML files (Advances in Neural Information Processing Systems ##: Annual Conference on Neural Information Processing Systems)
 - In more recent years (2018-2020), the amount of papers surpasses 1,000 and dblp only allows for 1,000 papers per XML file so there may be some papers missing in 2018-2020
 - All papers are from "advances in neural information processsing systems..." I think that the other topics "proceedings, workshop, etc. may be application while the main one "advances in neural infromation processing..." is theory... so everything in this folder should be theory
