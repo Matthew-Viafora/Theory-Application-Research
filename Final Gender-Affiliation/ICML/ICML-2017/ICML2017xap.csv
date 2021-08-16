@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+299,Ashkan Panahi,Male,NC state university,Chiranjib Bhattacharya,Male,Indian Institute of Science,"Clustering by Sum of Norms: Stochastic Incremental Algorithm, Convergence and Cluster Recovery"
+300,Amina Mollaysa,Female,"University of Geneva, HES",Alexandros Kalousis,Male,HES-UNIGE,Regularising Non-linear Models Using Feature Side-information
+301,Lin Yang,Male,Johns Hopkins,Gereon Frahling,Male,Linguee GmbH,Clustering High Dimensional Dynamic Data Streams
+302,Ke Li,Male,UC Berkeley,Jitendra Malik,Male,University of California at Berkeley,Fast k-Nearest Neighbour Search via Prioritized DCI
+303,Marc Law,Male,University of Toronto,Richard Zemel,Male,University of Toronto,Deep Spectral Clustering Learning
+304,Mehrtash Harandi,Male,Data61,Richard I Hartley,Male,Australian National University,Joint Dimensionality Reduction and Metric Learning: A Geometric Take
+305,Chirag Gupta,Male,"Microsoft Research, India",Prateek Jain,Male,Microsoft Research,ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices
+306,Azalia Mirhoseini,Female,Google,Jeff Dean,Male,Google Brain,Device Placement Optimization with Reinforcement Learning
+307,Robert Bamler,Male,Disney Research Pittsburgh,Stephan Mandt,Male,Disney Research,Dynamic Word Embeddings
+308,Shuxin Zheng,Female,University of Science and Technology of China,Tie-Yan Liu,Male,Microsoft,Asynchronous Stochastic Gradient Descent with Delay Compensation
+309,Po-Wei Chou,Male,Carnegie Mellon University,Sebastian Scherer,Male,Carnegie Mellon University,Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution
+310,Umut Simsekli,Male,Telecom ParisTech,Umut Simsekli,Male,Telecom ParisTech,Fractional Langevin Monte Carlo: Exploring Levy Driven Stochastic Differential Equations for MCMC
+311,Javier González,Male,Amazon,Neil Lawrence,Male,Amazon.com,Preferential Bayesian Optmization
+312,Ilias Diakonikolas,Male,USC,Alistair Stewart,Male,USC,Being Robust (in High Dimensions) Can Be Practical
+313,Or Sheffet,Male,University of Alberta,Or Sheffet,Male,University of Alberta,Differentially Private Ordinary Least Squares
+314,Hao Zhou,Male,University of Wisconsin - Madison,Vikas Singh,Male,University of Wisconsin Madison,"When can Multi-Site Datasets be Pooled for Regression? Hypothesis Tests, $\ell_2$-consistency and Neuroscience Applications"
+315,David Budden,Male,MIT / DeepMind,Nir Shavit,Male,MIT,Deep Tensor Convolution on Multicores
+316,Hairong Liu,Male,Baidu Silicon Valley AI Lab,Sanjeev Satheesh,Male,Baidu SVAIL,Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling
+317,Zheng Xu,Male,University of Maryland,Tom Goldstein,Male,University of Maryland,Adaptive Consensus ADMM for Distributed Optimization
+318,Yevgen Chebotar,Male,University of Southern California,Sergey Levine,Male,Berkeley,Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning

@@ -1,0 +1,20 @@
+,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,Max Jaderberg,Male,DeepMind,koray kavukcuoglu,Male,DeepMind,Decoupled Neural Interfaces using Synthetic Gradients
+1,Alexander Kolesnikov,Male,IST Austria,Christoph H. Lampert,Male,IST Austria,PixelCNN Models with Auxiliary Variables for Natural Image Modeling
+2,Vahab Mirrokni,Male,Google Research,Sam Wong,Male,UC Berkeley,Tight Bounds for Approximate Carathéodory and Beyond
+3,Lerrel Pinto,Male,Carnegie Mellon University,Abhinav Gupta,Male,Carnegie Mellon University,Robust Adversarial Reinforcement Learning
+4,Yixin Wang,Female,Columbia University,David Blei,Female,Columbia University,Robust Probabilistic Modeling with Bayesian Data Reweighting
+5,Robert Busa-Fekete,Male,Yahoo! Research,Shie Mannor,Male,Technion,Multi-objective Bandits: Optimizing the Generalized Gini Index
+6,Dan Garber,Male,TTIC,Nati Srebro,Male,Toyota Technological Institute at Chicago,Communication-efficient Algorithms for Distributed Stochastic Principal Component Analysis
+7,Salvatore Ruggieri,Male,Università di Pisa,Salvatore Ruggieri,Male,Università di Pisa,Enumerating Distinct Decision Trees
+8,Wojciech Czarnecki,Male,DeepMind,koray kavukcuoglu,Male,DeepMind,Understanding Synthetic Gradients and Decoupled Neural Interfaces
+9,Scott Reed,Male,Google Deepmind,Nando de Freitas,Male,DeepMind,Parallel Multiscale Autoregressive Density Estimation
+10,Yossi Arjevani,Male,Weizmann Institute of Science,Ohad Shamir,Male,Weizmann Institute of Science,Oracle Complexity of Second-Order Methods for Finite-Sum Problems
+11,Mohammad Gheshlaghi Azar,Male,Deepmind,Remi Munos,Male,DeepMind,Minimax Regret Bounds for Reinforcement Learning
+12,Willie Neiswanger,Male,CMU,Eric Xing,Male,Carnegie Mellon University,Post-Inference Prior Swapping
+13,Liran Szlak,Female,Weizmann Institute of Science,Ohad Shamir,Female,Weizmann Institute of Science,Online Learning with Local Permutations and Delayed Feedback
+14,Jun-ichiro Hirayama,Male,RIKEN AIP / ATR,Motoaki Kawanabe,Male,ATR / RIKEN,SPLICE: Fully Tractable Hierarchical Extension of ICA with Pooling
+15,Yacine Jernite,Male,New York University,David Sontag,Male,Massachusetts Institute of Technology,Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation
+16,Xu SUN,Male,Peking University,Houfeng Wang,Male,,meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting
+17,Nal Kalchbrenner,Male,DeepMind,koray kavukcuoglu,Male,DeepMind,Video Pixel Networks
+18,Cédric Malherbe,Male,ENS Paris-Saclay,Nicolas Vayatis,Male,ENS Cachan,Global optimization of Lipschitz functions

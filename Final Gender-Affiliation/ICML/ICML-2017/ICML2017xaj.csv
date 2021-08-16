@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+179,Erik Lindgren,Male,University of Texas at Austin,Adam Klivans,Male,University of Texas at Austin,Exact MAP Inference by Avoiding Fractional Vertices
+180,He Zhao,Male,"FIT, Monash University",Wray Buntine,Male,Monash University,Leveraging Node Attributes for Incomplete Relational Data
+181,Andreas Loukas,Male,EPFL,Andreas Loukas,Male,EPFL,How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?
+182,Olivier Bachem,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,Distributed and Provably Good Seedings for k-Means in Constant Rounds
+183,Ping Luo,Male,The Chinese University of Hong Kong,Ping Luo,Male,The Chinese University of Hong Kong,Learning Deep Architectures via Generalized Whitened Neural Networks
+184,Eugene Vorontsov,Male,MILA,Samuel Kadoury,Male,Ecole Polytechnique de Montreal,On orthogonality and learning RNNs with long term dependencies
+185,Guanghui ,Male,George,Daniel Zink,Male,,Conditional Accelerated Lazy Stochastic Gradient Descent
+186,Simon Du,Male,Carnegie Mellon University,Dengyong Zhou,Male,Microsoft Research,Stochastic Variance Reduction Methods for Policy Evaluation
+187,Kevin Winner,Male,"University of Massachusetts, Amherst",Daniel Sheldon,Male,University of Massachusetts Amherst,Exact Inference for Integer Latent-Variable Models
+188,Juho Lee,Male,POSTECH,Seungjin Choi,Male,POSTECH,Bayesian inference on random simple graphs with power law degree distributions
+189,Zeyuan Allen-Zhu,Male,Microsoft Research / Princeton / IAS,Yuanzhi Li,Male,Princeton University,Faster Principal Component Regression and Stable Matrix Chebyshev Approximation
+190,Silvio Lattanzi,Male,Google,Sergei Vassilvitskii,Male,Google,Consistent k-Clustering
+191,Friedemann Zenke,Male,Stanford,Surya Ganguli,Male,Stanford,Continual Learning Through Synaptic Intelligence
+192,Li Jing,Male,Massachusetts Institute of Technology,Marin Solja\v{c}i\'{c},Male,MIT,Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs
+193,Lam Nguyen,Male,Lehigh University,Martin Takac,Male,Lehigh University,SARAH: A Novel Method for Machine Learning Problems Using Stochastic Recursive Gradient
+194,Yu-Xiang Wang,Male,Carnegie Mellon University / Amazon AWS,Miro Dudik,Male,Microsoft Research,Optimal and Adaptive Off-policy Evaluation in Contextual Bandits
+195,Arturs Backurs,Male,MIT,Christos Tzamos,Male,MIT,Improving Viterbi is Hard: Better Runtimes Imply Faster Clique Algorithms
+196,Hanxiao Liu,Male,CMU/Google DeepMind,Yiming Yang,Female,Carnegie Mellon University,Analogical Inference for Multi-relational Embeddings
+197,Borja de Balle Pigem,Male,Amazon Research Cambridge,Odalric Maillard,Male,,Spectral Learning from a Single Trajectory under Finite-State Policies
+198,Bo Yang,Male,University of Minnesota,Mingyi Hong,Male,Iowa State University,Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering

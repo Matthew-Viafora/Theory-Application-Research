@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+59,Hoai An Le Thi,Female,"Theoretical and Applied Computer Science Laboratory, University of Lorraine",Bach Tran,Male,University of Lorraine,Stochastic DCA for the Large-sum of Non-convex Functions Problem and its Application to Group Variable Selection in Classification
+60,Nikhil Mishra,Male,UC Berkeley,Igor Mordatch,Male,OpenAI,Prediction and Control with Temporal Segment Models
+61,John C Urschel,Male,Massachusetts Institute of Technology,Victor-Emmanuel Brunel,Male,Massachusetts Institute of Technology,Learning Determinantal Point Processes with Moments and Cycles
+62,Zeyuan Allen-Zhu,Male,Microsoft Research / Princeton / IAS,Yuanzhi Li,Male,Princeton University,Follow the Compressed Leader: Faster Online Learning of Eigenvectors and Faster MMWU
+63,Xueyu Mao,Male,University of Texas at Austin,Deepayan Chakrabarti,Male,"University of Texas, Austin",On Mixed Memberships and Symmetric Nonnegative Matrix Factorizations
+64,Charbel Sakr,Male,University of Illinois at Urbana-Champaign,Naresh Shanbhag,Male,University of Illinois,Analytical Guarantees on Numerical Precision of Deep Neural Networks
+65,Haim Avron,Male,Tel Aviv University,Amir Zandieh,Male,EPFL,Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees
+66,Tao Lei,Male,MIT CSAIL,Tommi Jaakkola,Male,MIT,Deriving Neural Architectures from Sequence and Graph Kernels
+67,Taeksoo Kim,Male,SK T-Brain,Jiwon Kim,Female,SK T-Brain,Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+68,Junqi Tang,Male,the University of Edinburgh,Mike E Davies,Male,University of Edinburgh,Gradient Projection Iterative Sketch for Large-Scale Constrained Least-Squares
+69,Kavosh Asadi,Male,Brown University,Michael L. Littman,Male,Brown University,An Alternative Softmax Operator for Reinforcement Learning
+70,Yarin Gal,Male,University of Cambridge,Zoubin Ghahramani,Male,University of Cambridge & Uber,Deep Bayesian Active Learning with Image Data
+71,Sayak Ray Chowdhury,Male,Indian Institute of Science,Aditya Gopalan,Male,Indian Institute of Science,On Kernelized Multi-armed Bandits
+72,Jiali Mei,Male,EDF R&D & Université Paris-Sud,Georges Hébrail,Male,EDF Lab Paris-Saclay,Nonnegative Matrix Factorization for Time Series Recovery From a Few Temporal Aggregates
+73,Shuai Zheng,Male,Hong Kong University of Science and Technology,James Kwok,Male,Hong Kong University of Science and Technology,Follow the Moving Leader in Deep Learning
+74,Hal Daumé,Male,University of Maryland,Paul Mineiro,Male,Microsoft,Logarithmic Time One-Against-Some
+75,Piotr Bojanowski,Male,Facebook,Armand Joulin,Male,Facebook,Unsupervised Learning by Predicting Noise
+76,Martin Arjovsky,Male,New York University,Léon Bottou,Male,Facebook,Wasserstein Generative Adversarial Networks
+77,Cem Aksoylar,Male,,Venkatesh Saligrama,Male,Boston University,Connected Subgraph Detection with Mirror Descent on SDPs
+78,Mehrdad Farajtabar,Male,Georgia Tech,Hongyuan Zha,Male,Georgia Institute of Technology,Fake News Mitigation via Point Process Based Intervention

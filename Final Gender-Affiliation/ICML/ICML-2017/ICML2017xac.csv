@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+39,Siamak Ravanbakhsh,Male,Carnegie Mellon University,Barnabás Póczos,Male,CMU,Equivariance Through Parameter-Sharing
+40,Sanjeev Arora,Male,Princeton University,Yi Zhang,Male,Princeton University,Generalization and Equilibrium in Generative Adversarial Nets (GANs)
+41,Li Shen,Male,"School of Mathematics, South China University of Technology",Shiqian Ma,Male,The Chinese University of Hong Kong,GSOS: Gauss-Seidel Operator Splitting Algorithm for Multi-Term Nonsmooth Convex Composite Optimization
+42,Joshua Achiam,Male,UC Berkeley,Pieter Abbeel,Male,OpenAI / UC Berkeley,Constrained Policy Optimization
+43,Arun SUGGALA,Male,Carnegie Mellon University,Pradeep Ravikumar,Male,Carnegie Mellon University,Ordinal Graphical Models: A Tale of Two Approaches
+44,Elad Hazan,Male,Princeton University,Cyril Zhang,Male,Princeton University,Efficient Regret Minimization in Non-Convex Games
+45,Dan Feldman,Male,The University of Haifa,Daniela Rus,Female,MIT CSAIL,Coresets for Vector Summarization with Applications to Network Graphs
+46,Kai Zhong,Male,University of Texas at Austin,Inderjit Dhillon,Male,UT Austin & Amazon,Recovery Guarantees for One-hidden-layer Neural Networks
+47,Yingce Xia,Male,University of Science and Technology of China,Tie-Yan Liu,Male,Microsoft,Dual Supervised Learning
+48,Joao Henriques,Male,University of Oxford,Andrea Vedaldi,Male,University of Oxford,Warped Convolutions: Efficient Invariance to Spatial Transformations
+49,Youssef Mroueh,Male,IBM T.J Watson Research Center,Vaibhava Goel,Male,IBM,McGan: Mean and Covariance Feature Matching GAN
+50,Stephen Tu,Male,UC Berkeley,Benjamin Recht,Male,Berkeley,Breaking Locality Accelerates Block Gauss-Seidel
+51,Tuomas Haarnoja,Male,UC Berkeley,Sergey Levine,Male,Berkeley,Reinforcement Learning with Deep Energy-Based Policies
+52,Hongyu Yang,Male,Massachusetts Institute of Technology,Margo Seltzer,Male,Harvard University,Scalable Bayesian Rule Lists
+53,Yichi Zhou,Male,Tsinghua University,Jun Zhu,Male,Tsinghua University,Identify the Nash Equilibrium in Static Games with Random Payoffs
+54,Zilong Tan,Male,Duke University,Sayan Mukherjee,Male,Duke University,Partitioned Tensor Factorizations for Learning Mixed Membership Models
+55,Shaked Shammah,Male,"Hebrew University, Jerusalem",Ohad Shamir,Male,Weizmann Institute of Science,Failures of Gradient-Based Deep Learning
+56,ROI Livni,Male,Princeton,Amir Globerson,Male,Tel Aviv University,Learning Infinite Layer Networks without the Kernel Trick
+57,Renata Khasanova,Female,Ecole Polytechnique Federale de Lausanne (EPFL),Pascal Frossard,Male,EPFL,Graph-based Isometry Invariant Representation Learning
+58,Augustus Odena,Male,Google Brain,Jon Shlens,Male,Google Brain,Conditional Image Synthesis with Auxiliary Classifier GANs

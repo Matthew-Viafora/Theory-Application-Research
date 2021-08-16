@@ -1,0 +1,21 @@
+,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+139,Julian Zilly,Male,ETH Zurich,Jürgen Schmidhuber,Male,Swiss AI Lab,Recurrent Highway Networks
+140,Christian Walder,Male,CSIRO Data61,Adrian N Bishop,Male,Data61/ANU/UTS,Fast Bayesian Intensity Estimation for the Permanental Process
+141,Akshay Krishnamurthy,Male,UMass,John Langford,Male,Microsoft Research,Active Learning for Cost-Sensitive Classification
+142,Ken Kansky,Male,Vicarious AI,Dileep George,Male,Vicarious AI,Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics
+143,Konstantina Palla,Female,Oxford,Zoubin Ghahramani,Male,University of Cambridge & Uber,A Birth-Death Process for Feature Allocation
+144,Chris Tosh,Male,"University of California, San Diego",Sanjoy Dasgupta,Male,UCSD,Diameter-Based Active Learning
+145,Daniel McNamara,Male,Australian National University and Data61,Nina Balcan,Female,Carnegie Mellon University,Risk Bounds for Transferring Representations With and Without Fine-Tuning
+146,Quynh Nguyen,Female,Saarland University,Matthias Hein,Male,Saarland University,The loss surface of deep and wide neural networks
+147,David Balduzzi,Male,Victoria University Wellington,Tony Butler-Yeoman,Male,Victoria University of Wellington,Neural Taylor Approximations: Convergence and Exploration in Rectifier Networks
+148,Laurent Dinh,Male,University of Montreal,Yoshua Bengio,Male,U. Montreal,Sharp Minima Can Generalize For Deep Nets
+149,Jeffrey Pennington,Male,Google Brain,Yasaman Bahri,Male,Google Brain,Geometry of Neural Network Loss Surfaces via Random Matrix Theory
+150,David Balduzzi,Male,Victoria University Wellington,J.P. Lewis,Male,Frostbite Labs and Victoria University,"The Shattered Gradients Problem: If resnets are the answer, then what is the question?"
+151,Yutian Chen,Male,DeepMind,Nando de Freitas,Male,DeepMind,Learning to Learn without Gradient Descent by Gradient Descent
+152,Alnur Ali,Male,Carnegie Mellon University,Zico Kolter,Male,Carnegie Mellon University,"A Semismooth Newton Method for Fast, Generic Convex Programming"
+153,Martha White,Female,University of Alberta/Indiana University,Martha White,Female,University of Alberta/Indiana University,Unifying task specification in reinforcement learning
+154,Alina Beygelzimer,Female,Yahoo Research,Chicheng Zhang,Male,UCSD,Efficient Online Bandit Multiclass Learning with O(sqrt{T}) Regret
+155,Vatsal Sharan,Male,Stanford University,Gregory Valiant,Male,Stanford University,Orthogonalized ALS: A Theoretically Principled Tensor Decomposition Algorithm for Practical Use
+156,Olga Wichrowska,Female,Google Brain,Jascha Sohl-Dickstein,Male,Google Brain,Learned Optimizers that Scale and Generalize
+157,Haishan Ye,Male,Shanghai Jiao Tong University,Zhihua Zhang,Male,Peking University,Approximate Newton Methods and Their Local Convergence
+158,Marc Bellemare,Male,DeepMind,Remi Munos,Male,DeepMind,A Distributional Perspective on Reinforcement Learning
