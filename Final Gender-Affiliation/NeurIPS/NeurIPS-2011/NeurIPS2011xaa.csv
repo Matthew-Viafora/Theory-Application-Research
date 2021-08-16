@@ -39,3 +39,67 @@
 36,36,Ali Tofigh,Male,McGill University,Jens Lagergren,Male,KTH,A Global Structural EM Algorithm for a Model of Cancer Progression.
 37,37,Philip Thomas,Male,University of Massachusetts Amherst,Philip Thomas,Male,University of Massachusetts Amherst,Policy Gradient Coagent Networks.
 38,38,Sergey Levine,Male,Stanford University,Vladlen Koltun,Male,Adobe Research,Nonlinear Inverse Reinforcement Learning with Gaussian Processes.
+39,39,Alex K Susemihl,Male,Berlin Institute of Technology,Manfred Opper,Male,TU Berlin,Analytical Results for the Error in Filtering of Gaussian Processes.
+40,40,Anatoli Juditsky,Male,UJF,Boris T Polyak,Male,"Institute for Control Sciences, RAS Moscow",On the accuracy of l1-filtering of signals with block-sparse structure.
+41,41,Julie Dethier,Female,University of Liege,Kwabena A Boahen,Male,Stanford University,A Brain-Machine Interface Operating with a Real-Time Spiking Neural Network Control Algorithm.
+42,42,Liu Yang,Female,CMU,Liu Yang,Female,CMU,Active Learning with a Drifting Distribution.
+43,43,Luca Oneto,Male,University of Genoa,Sandro Ridella,Male,"University of Genoa, Italy",The Impact of Unlabeled Patterns in Rademacher Complexity Theory for Kernel Classifiers.
+44,44,Ricardo Silva,Male,University College London,Ricardo Silva,Male,University College London,Thinning Measurement Models and Questionnaire Design.
+45,45,Jaedeug Choi,Male,KAIST,Kee-Eung Kim,Male,KAIST,MAP Inference for Bayesian Inverse Reinforcement Learning.
+46,46,Joseph Lim,Male,MIT,Antonio Torralba,Male,Massachusetts Institute of Technology,Transfer Learning by Borrowing Examples.
+47,47,Taiji Suzuki,Male,The University of Tokyo/RIKEN-AIP,Taiji Suzuki,Male,The University of Tokyo/RIKEN-AIP,Unifying Framework for Fast Learning Rate of Non-Sparse Multiple Kernel Learning.
+48,48,Matthias Hein,Male,University of Tübingen,Simon Setzer,Male,Saarland University,Beyond Spectral Clustering - Tight Relaxations of Balanced Graph Cuts.
+49,49,Paramveer Dhillon,Male,University of Pennsylvania,Lyle Ungar,Male,University of Pennsylvania,Multi-View Learning of Word Embeddings via CCA.
+50,50,Yusuke Watanabe,Male,The Institute of Statistical Mathematics,Yusuke Watanabe,Male,The Institute of Statistical Mathematics,Uniqueness of Belief Propagation on Signed Graphs.
+51,51,David A Knowles,Male,Stanford University,Tom Minka,Male,MSR,Non-conjugate Variational Message Passing for Multinomial and Binary Regression.
+52,52,Andreas Geiger,Male,KIT,Raquel Urtasun,Female,University of Toronto,Joint 3D Estimation of Objects and Scene Layout.
+53,53,Sasha Rakhlin,Female,University of Pennsylvania,Ambuj Tewari,Male,University of Michigan,"Online Learning: Stochastic, Constrained, and Smoothed Adversaries."
+54,54,Matthew D Zeiler,Male,NYU / Clarifai,Rob Fergus,Male,DeepMind / NYU,Facial Expression Transfer with Input-Output Temporal Restricted Boltzmann Machines.
+55,55,Prateek Jain,Male,Microsoft Research,Inderjit Dhillon,Male,UT Austin & Amazon,Orthogonal Matching Pursuit with Replacement.
+56,56,Remi Munos,Male,Google DeepMind,Remi Munos,Male,Google DeepMind,Optimistic Optimization of Deterministic Functions.
+57,57,Siwei Lyu,Male,University at Albany SUNY,Siwei Lyu,Male,University at Albany SUNY,Unifying Non-Maximum Likelihood Learning Objectives with Minimum KL Contraction.
+58,58,Bin Zhao,Male,Carnegie Mellon University,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Large-Scale Category Structure Aware Image Categorization.
+59,59,Ian H Stevenson,Male,University of Connecticut,Konrad Koerding,Male,None,Inferring spike-timing-dependent plasticity from spike train data.
+60,60,Soumya Ghosh,Male,IBM Research,David Blei,Male,Columbia University,Spatial distance dependent Chinese Restaurant Process for image segmentation.
+61,61,Victor Lempitsky,Male,Yandex,Andrew Zisserman,Male,DeepMind & University of Oxford,Pylon Model for Semantic Segmentation.
+62,62,Vinayak Rao,Male,Purdue University,Yee Whye Teh,Male,"University of Oxford, DeepMind",Gaussian process modulated renewal processes.
+63,63,T.-K. Huang,Male,Microsoft,Jeff Schneider,Male,CMU,Learning Auto-regressive Models from Sequence and Non-sequence Data.
+64,64,Wouter M Koolen,Male,Centrum Wiskunde & Informatica,Manfred K. Warmuth,Male,Google Brain,Learning Eigenvectors for Free.
+65,65,Jakob H Macke,Male,University of Tübingen & MPI IS Tübingen,Peter E Latham,Male,"Gatsby Unit, UCL",How biased are maximum entropy models?.
+66,66,Sungwoong Kim,Male,Qualcomm,Chang D. D Yoo,Male,KAIST,Higher-Order Correlation Clustering for Image Segmentation.
+67,67,Ricardo S Cabral,Male,Instituto Superio Tecnico,Alexandre Bernardino,Male,ISR/ Instituto Superior Tecnico,Matrix Completion for Image Classification.
+68,68,Andre S Barreto,Male,Brazilian National Laboratory for Scientific Computing (LNCC),Joelle Pineau,Female,McGill University,Reinforcement Learning using Kernel-Based Stochastic Factorization.
+69,69,Jun Wang,Male,University of Geneva,Alexandros Kalousis,Male,"University of Applied Sciences, Western Switzerland",Metric Learning with Multiple Kernels.
+70,70,Le Song,Male,Carnegie Mellon University,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Kernel Embeddings of Latent Tree Graphical Models.
+71,71,Nico Goernitz,Male,TU Berlin,Gunnar Rätsch,Male,ETH Zürich,Hierarchical Multitask Structured Output Learning for Large-scale Sequence Segmentation.
+72,72,Liefeng Bo,Male,Intel Labs,Dieter Fox,Male,University of Washington,Hierarchical Matching Pursuit for Recognition: Architecture and Fast Algorithms.
+73,73,Puru Kar,Male,Indian Institute of Technology Kanpur,Prateek Jain,Male,Microsoft Research,Similarity-based Learning via Data Driven Embeddings.
+74,74,Sebastian A Kurtek,Male,Florida State University,Wei Wu,Male,Florida State University,Signal Estimation Under Random Time-Warpings and Nonlinear Signal Alignment.
+75,75,Dong Dai,Male,Rutgers University,Tong Zhang,Male,Tencent,Greedy Model Averaging.
+76,76,Zhan Wei Lim,Male,NUS,Wee Sun Lee,Male,National University of Singapore,Monte Carlo Value Iteration with Macro-Actions.
+77,77,Shinichi Nakajima,Male,Technische Universität Berlin,S. Derin Babacan,Male,Google Research,Global Solution of Fully-Observed Variational Bayesian Matrix Factorization is Column-Wise Independent.
+78,78,Liang Xiong,Male,Carnegie Mellon University,Jeff Schneider,Male,CMU,Group Anomaly Detection using Flexible Genre Models.
+79,79,Ryota Tomioka,Male,Microsoft Research Cambridge,Hisashi Kashima,Male,None,Statistical Performance of Convex Tensor Decomposition.
+80,80,XianXing Zhang,Male,Duke University,Lawrence Carin,Male,Duke University,Hierarchical Topic Modeling for Analysis of Time-Evolving Personal Choices.
+81,81,Mohammad J Saberian,Male,UC San Diego,Nuno Vasconcelos,Male,UC San Diego,Multiclass Boosting: Theory and Algorithms.
+82,82,Kenan Y Yılmaz,Male,Boğaziçi University,Umut Simsekli,Male,Institut Polytechnique de Paris/ University of Oxford,Generalised Coupled Tensor Factorisation.
+83,83,Dan Sheldon,Male,University of Massachusetts Amherst,Tom Dietterich,Male,Oregon State University,Collective Graphical Models.
+84,84,Pablo M Olmos,Male,Universidad de Sevilla,Fernando Perez-Cruz,Male,Swiss Data Science Center (ETH Zurich and EPFL),An Application of Tree-Structured Expectation Propagation for Channel Decoding.
+85,85,Inderjit Dhillon,Male,UT Austin & Amazon,Ambuj Tewari,Male,University of Michigan,Nearest Neighbor based Greedy Coordinate Descent.
+86,86,Gautam Kunapuli,Male,University of Wisconsin-Madison,Jude W Shavlik,Male,University of Wisconsin at Madison,Advice Refinement in Knowledge-Based SVMs.
+87,87,Abhishek Kumar,Male,"University of Maryland, College Park",Hal Daumé III,Male,Univ of Maryland / Microsoft Research,Co-regularized Multi-view Spectral Clustering.
+88,88,Skander Mensi,Male,Brain-Mind Institute,Wulfram Gerstner,Male,EPFL,From Stochastic Nonlinear Integrate-and-Fire to Generalized Linear Models.
+89,89,Kevin G Jamieson,Male,University of Wisconsin,Rob Nowak,Male,Wisconsin,Active Ranking using Pairwise Comparisons.
+90,90,Yair Wiener,Male,Technion,Ran El-Yaniv,Male,Technion & Google,Agnostic Selective Classification.
+91,91,Elad Hazan,Male,Technion,Satyen Kale,Male,Google,Newtron: an Efficient Bandit algorithm for Online Multiclass Prediction.
+92,92,Joel Leibo,Male,Google DeepMind,Tomaso Poggio,Male,Massachusetts Institute of Technology,Why The Brain Separates Face Recognition From Object Recognition.
+93,93,Paul Wagner,Male,Aalto University,Paul Wagner,Male,Aalto University,A reinterpretation of the policy oscillation phenomenon in approximate policy iteration.
+94,94,Biljana Petreska,Female,UCL,Maneesh Sahani,Male,"Gatsby Unit, UCL",Dynamical segmentation of single trials from population neural data.
+95,95,Matthias S Keil,Male,University of Barcelona,Matthias S Keil,Male,University of Barcelona,"Emergence of Multiplication in a Biophysical Model of a Wide-Field Visual Neuron for Computing Object Approaches: Dynamics, Peaks, & Fits."
+96,96,Shahed Sorower,Male,Capital One Labs,Xiaoli Fern,Female,Oregon State University,Inverting Grice's Maxims to Learn Rules from Natural Language Extractions.
+97,97,Hua Wang,Male,Univ. of Texas at Arlington,Chris Ding,Male,University of Texas at Arlington,A Maximum Margin Multi-Instance Learning Framework for Image Categorization.
+98,98,Jun Zhu,Male,Tsinghua University,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Infinite Latent SVM for Classification and Multi-task Learning.
+
+
+
+
