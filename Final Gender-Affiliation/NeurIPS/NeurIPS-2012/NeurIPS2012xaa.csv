@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,0,Shiva Kasiviswanathan,Male,Amazon,Prem Melville,Male,IBM Watson Research,Online L1-Dictionary Learning with Application to Novel Document Detection.
+1,1,Zhirong Yang,Male,Aalto University,Erkki Oja,Male,Aalto University,Clustering by Nonnegative Matrix Factorization Using Graph Random Walk.
+2,2,Yacov Crammer,Male,Technion,Yishay Mansour,Male,Tel-Aviv University,Learning Multiple Tasks using Shared Hypotheses.
+3,3,Nisheeth Srivastava,Male,University of California San Diego,Paul R Schrater,Male,University of Minnesota,Rational inference of relative preferences.
+4,4,Maksims Volkovs,Male,University of Toronto,Richard Zemel,Male,Vector Institute/University of Toronto,Efficient Sampling for Bipartite Matching Problems.
+5,5,Yu Zhou,Male,Huazhong University of Science and Technology,Longin Jan J Latecki,Male,Temple University,Fusion with Diffusion for Robust Visual Tracking.
+6,6,Jiarong Jiang,Male,Two Sigma Investments LP,Jason Eisner,Male,Johns Hopkins + Microsoft,Learned Prioritization for Trading Off Accuracy and Speed.
+7,7,Zahra Zamani,Male,ANU and NICTA,Kristian Kersting,Male,University of Bonn and Fraunhofer IAIS,Symbolic Dynamic Programming for Continuous State and Observation POMDPs.
+8,8,Richard G Gibson,Male,University of Alberta,Duane Szafron,Male,University of Alberta,Efficient Monte Carlo Counterfactual Regret Minimization in Games with Many Player Actions.
+9,9,Kevin Swersky,Male,Google,Ryan Adams,Male,Princeton University,Cardinality Restricted Boltzmann Machines.
+10,10,Simon Lyons,Male,University of Edinburgh,Simo Sarkka,Male,Aalto University,The Coloured Noise Expansion and Parameter Estimation of Diffusion Processes.
+11,11,Katherine Chen,Female,University of Alberta,Michael Bowling,Male,DeepMind / University of Alberta,Tractable Objectives for Robust Policy Optimization.
+12,12,Dan Ciresan,Male,IDSIA,Jürgen Schmidhuber,Male,"Swiss AI Lab, IDSIA (USI & SUPSI) - NNAISENSE",Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images.
+13,13,Uri M Maoz,Male,Caltech,Christof Koch,Male,Allen Institute for Brain Science,A System for Predicting Action Content On-Line and in Real Time before Action Onset in Humans – an Intracranial Study.
+14,14,Won Hwa Kim,Male,University of Wisconsin,Vikas Singh,Male,UW-Madison,Wavelet based multi-scale shape features on arbitrary surfaces for cortical thickness discrimination.
+15,15,Falk Lieder,Male,UC Berkeley,Noah Goodman,Male,Stanford University,"Burn-in, bias, and the rationality of anchoring."
+16,16,Nan Li,Male,Temple University,Longin Jan J Latecki,Male,Temple University,Clustering Aggregation as Maximum-Weight Independent Set.
+17,17,Jacquelyn A Shelton,Female,TU Berlin,Jörg Lücke,Male,TU Berlin,Why MCA? Nonlinear Spike-and-slab Sparse Coding for Neurally Plausible Image Encoding.
+18,18,Chris Hinrichs,Male,UW-Madison,Sterling C Johnson,Male,UW-Madison,Q-MKL: Matrix-induced Regularization in Multi-Kernel Learning with Applications to Neuroimaging.
