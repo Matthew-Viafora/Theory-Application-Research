@@ -17,7 +17,7 @@ class Gender():
     def __init__(self):
         self.path = os.path.dirname(os.path.abspath(__file__))
 
-        #folders to iterate over
+        #folders to iterate over (only for folders with multiple years i.e. 2010, 2011, etc)
         self.main_affiliation = "Affiliation_Parsing"
         self.conference_affiliations = ["NeurIPS affiliations gender", "ICML affiliations gender"]
 
@@ -32,8 +32,8 @@ class Gender():
         self.data_lst = self.get_data()
 
         #initializes dataset to be read
-        self.data = pd.read_csv(self.data_lst[0])
-       
+        self.data = pd.read_csv(self.data_lst[0]) 
+
         #initializes new column for the gender of the first/last author
         self.data['first-gender'] = ""
         self.data['last-gender'] = ""
@@ -142,13 +142,13 @@ class Gender():
         containsthey = any(theypronouns in soupstring for theypronouns in theytags)
         
         if containsfemale:
-            gender = "female"
+            gender = "Female"
         elif containsmale:
-            gender = "male"
+            gender = "Male"
         #     elif containsthey:
 #         gender = "they/them"
         else:
-            gender = "undefined"
+            gender = "Undefined"
         return gender
 
 
@@ -195,27 +195,38 @@ class Gender():
             
             #gets multiple links based on the search term
             for link in search(query, tld="co.in", num=5, stop=5, pause=2):
-                print("test link: "+link)
+                
+                unwantedLinks = ["pdf", "dblp"]
 
+                
                 #if the link is not .edu, we will not use that link
-                if(self.substring_exists(link, ".edu")!=-1):
-                    self.data['first-gender'].values[counter]=self.findGender(link)
-                    print("Author: "+self.data['first-author'].values[counter])
-                    print("Affiliation: "+self.data['first-author-affiliation'].values[counter])
-                    print("Gender: "+self.data['first-gender'].values[counter])
-                    print("Counter: "+str(counter))
-                    print("Link: "+link)
-                    print()
-                    break
+                if(self.substring_exists(link, ".edu")!=-1 or self.substring_exists(link, ".org")!=-1):
+                    containsUnwanted = any(elements in link for elements in unwantedLinks)
+
+                    gender_first_author = self.findGender(link)
+                    if(containsUnwanted==False and (gender_first_author=="Male" or gender_first_author=="Female")):
+                        self.data['first-gender'].values[counter]=gender_first_author
+                        print("Link used for "+self.data['first-author'].values[counter]+": "+link)
+                        break
+                    # print("Author: "+self.data['first-author'].values[counter])
+                    # print("Affiliation: "+self.data['first-author-affiliation'].values[counter])
+                    # print("Gender: "+self.data['first-gender'].values[counter])
+                    # print("Counter: "+str(counter))
+                    # print("Link: "+link)
+                    # print()
                 else:
-                    print("Skipped "+link)
-            print()
+                    #print("Skipped "+link)
+                    pass
             
             #increments index, moves to the next row
             counter+=1
+
+
 
     def test(self):
         return self.data
 
 obj = Gender()
-print(obj.genderFirstAuthor())
+obj.genderFirstAuthor()
+print(obj.test())
+#print(obj.FirstAuthorGender())
