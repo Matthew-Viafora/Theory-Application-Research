@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+259,259,William E Bishop,Male,Carnegie Mellon,Byron M Yu,Male,Carnegie Mellon University,Deterministic Symmetric Positive Semidefinite Matrix Completion.
+260,260,David Adametz,Male,University of Basel,Volker Roth,Male,University of Basel,Distance-Based Network Recovery under Feature Correlation.
+261,261,Chris Maddison,Male,University of Oxford / DeepMind,Tom Minka,Male,MSR,A* Sampling.
+262,262,Shouyuan Chen,Male,CUHK,Wei Chen,Male,Microsoft Research,Combinatorial Pure Exploration of Multi-Armed Bandits.
+263,263,Daniel Russo,Male,Columbia University,Benjamin Van Roy,Male,Stanford University,Learning to Optimize via Information-Directed Sampling.
+264,264,Quoc Tran-Dinh,Male,"LIONS, EPFL, Switzerland",Volkan Cevher,Male,EPFL,Constrained convex minimization via model-based excessive gap.
+265,265,Jasper De Bock,Male,Ghent University,Alessandro Antonucci,Male,IDSIA,Global Sensitivity Analysis for MAP Inference in Graphical Models.
+266,266,Jason Yosinski,Male,Cornell University,Hod Lipson,Male,Cornell University,How transferable are features in deep neural networks?.
+267,267,Tomáš Kocák,Male,Inria Lille - Nord Europe,Remi Munos,Male,Google DeepMind,Efficient learning by implicit exploration in bandit problems with side observations.
+268,268,Murat Kocaoglu,Male,"MIT-IBM Watson AI Lab, IBM Research",Adam Klivans,Male,UT Austin,Sparse Polynomial Learning and Graph Sketching.
+269,269,Bo Li,Male,University of Michigan,Yevgeniy Vorobeychik,Male,Vanderbilt University,Feature Cross-Substitution in Adversarial Classification.
+270,270,Bilal Piot,Male,CNRS,Olivier Pietquin,Male,Université de Lille 1,Difference of Convex Functions Programming for Reinforcement Learning.
+271,271,Maximilian Nickel,Male,Facebook AI Research,Volker Tresp,Male,Siemens AG,Reducing the Rank in Relational Factorization Models by Including Observable Patterns.
+272,272,Angie Liu,Female,Caltech,Brian Ziebart,Male,University of Illinois at Chicago,Robust Classification Under Sample Selection Bias.
+273,273,Yuchen Zhang,Male,UC Berkeley,Michael Jordan,Male,UC Berkeley,Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing.
+274,274,Ian Osband,Male,Stanford,Benjamin Van Roy,Male,Stanford University,Near-optimal Reinforcement Learning in Factored MDPs.
+275,275,Praneeth Netrapalli,Male,Microsoft Research,Prateek Jain,Male,Microsoft Research,Non-convex Robust PCA.
+276,276,Bahadir Ozdemir,Male,University of Maryland,Larry Davis,Male,University of Maryland,A Probabilistic Framework for Multimodal Retrieval using Integrative Indian Buffet Process.
+277,277,Ofer Dekel,Male,Microsoft Research,Tomer Koren,Male,Technion,The Blinded Bandit: Learning with Adaptive Feedback.
+278,278,Eran Treister,Male,University Of British Columbia,Javier S Turek,Male,Intel Labs,A Block-Coordinate Descent Approach for Large-scale Sparse Inverse Covariance Estimation.

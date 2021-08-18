@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+379,379,Haim Cohen,Male,Technion,Yacov Crammer,Male,Technion,Learning Multiple Tasks in Parallel with a Shared Annotator.
+380,380,Yingyu Liang,Male,Princeton University,David Woodruff,Male,IBM Research,Improved Distributed Principal Component Analysis.
+381,381,Franziska Meier,Female,USC,Stefan Schaal,Male,MPI-IS and USC,Incremental Local Gaussian Regression.
+382,382,Xiaolong Wang,Male,UC San Diego,Wangmeng Zuo,Male,Harbin Institute of Technology,Deep Joint Task Learning for Generic Object Extraction.
+383,383,Jonathan J Tompson,Male,New York University,Christoph Bregler,Male,New York University,Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation.
+384,384,Ali Eslami,Male,Microsoft Research,John Winn,Male,Microsoft Research,Just-In-Time Learning for Fast and Flexible Inference.
+385,385,Kustaa Kangas,Male,University of Helsinki,Teppo Niinimäki,Male,Aalto University,Learning Chordal Markov Networks by Dynamic Programming.
+386,386,Dongqu Chen,Male,Yale University,Dongqu Chen,Male,Yale University,Learning Shuffle Ideals Under Restricted Distributions.
+387,387,Avrim Blum,Male,CMU,Ariel Procaccia,Male,Carnegie Mellon University,Learning Optimal Commitment to Overcome Insecurity.
+388,388,Jian Zhang,Male,ETH Zurich,Raquel Urtasun,Female,University of Toronto,Message Passing Inference for Large Scale Graphical Models with High Order Potentials.
+389,389,Hanie Sedghi,Female,Google Brain,Edmond A Jonckheere,Male,University of Southern California,Multi-Step Stochastic ADMM in High Dimensions: Applications to Sparse Optimization and Matrix Decomposition.
+390,390,Kishan Wimalawarne,Male,Tokyo Institute of Technology,Ryota Tomioka,Male,Microsoft Research Cambridge,Multitask learning meets tensor factorization: task imputation via convex optimization.
+391,391,Xin Wang,Male,University of Connecticut,Jiangwen Sun,Male,University of Connecticut,On Multiplicative Multitask Feature Learning.
+392,392,James Ridgway,Male,Crest-Ensae and Dauphine,Feng Liang,Male,Univ. of Illinois Urbana-Champaign,PAC-Bayesian AUC classification and scoring.
+393,393,Meisam Razaviyayn,Male,University of Minnesota,Jong-Shi Pang,Male,None,Parallel Successive Convex Approximation for Nonsmooth Nonconvex Optimization.
+394,394,Shuhang Gu,Male,The Hong Kong Polytechnic University,Xiangchu Feng,Male,Xidian University,Projective dictionary pair learning for pattern classification.
+395,395,Cho-Jui Hsieh,Male,UCLA,Peder A Olsen,Male,IBM,QUIC & DIRTY: A Quadratic Approximation Approach for Dirty Statistical Models.
+396,396,Shreya Saxena,Female,Massachusetts Institute of Technology,Munther Dahleh,Male,Massachusetts Institute of Tehcnology,Real-Time Decoding of an Integrate and Fire Encoder.
+397,397,Kareem Amin,Male,University of Pennsylvania,Umar Syed,Male,Google Research,Repeated Contextual Auctions with Strategic Buyers.
+398,398,Haichao Zhang,Male,Horizon Robotics,Jianchao Yang,Male,Adobe Research,Scale Adaptive Blind Deblurring.

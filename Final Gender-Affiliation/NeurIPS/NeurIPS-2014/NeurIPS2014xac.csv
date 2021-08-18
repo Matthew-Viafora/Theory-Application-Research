@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+39,39,Siu On Chan,Male,Microsoft Research,Xiaorui Sun,Male,Columbia University,Near-Optimal Density Estimation in Near-Linear Time Using Variable-Width Histograms.
+40,40,Karin C Knudson,Female,UT Austin,Jonathan W Pillow,Male,UT Austin,Inferring sparse representations of continuous signals with continuous orthogonal matching pursuit.
+41,41,Ian Osband,Male,Stanford,Benjamin Van Roy,Male,Stanford University,Model-based Reinforcement Learning and the Eluder Dimension.
+42,42,Abhishek Sharma,Male,University of Maryland,Ming-Yu Liu,Male,MERL,Recursive Context Propagation Network for Semantic Scene Labeling.
+43,43,Pedro Felzenszwalb,Male,Brown University,John G Oberlin,Male,Brown University,Multiscale Fields of Patterns.
+44,44,Yingzhen Yang,Male,Snap Research,Thomas S Huang,Male,UIUC,On a Theory of Nonparametric Pairwise Similarity for Clustering: Connecting Clustering to Classification.
+45,45,Andrew McDonald,Male,University College London,Dimitris Stamos,Male,University College London,Spectral k-Support Norm Regularization.
+46,46,Matthias Zöhrer,Male,Graz University of Technology,Franz Pernkopf,Male,"Signal Processing and Speech Communication Laboratory, Graz, Austria",General Stochastic Networks for Classification.
+47,47,Ananda Theertha Suresh,Male,"University of California, San Diego",Ashkan Jafarpour,Male,"University of California, San Diego",Near-Optimal-Sample Estimators for Spherical Gaussian Mixtures.
+48,48,Shariq A Mobin,Male,UC Berkeley,Fritz Sommer,Male,UC Berkeley,Information-based learning by agents in unbounded state spaces.
+49,49,Kenneth W Latimer,Male,UT Austin,Jonathan W Pillow,Male,UT Austin,Inferring synaptic conductances from spike trains with a biophysically inspired point process model.
+50,50,Nisheeth Srivastava,Male,University of California San Diego,Paul R Schrater,Male,University of Minnesota,Magnitude-sensitive preference formation`.
+51,51,Qian Wang,Female,Tsinghua University,Zheng Zhang,Male,Microsoft Reasearch,Attentional Neural Network: Feature Selection Using Cognitive Feedback.
+52,52,Daniel Berend,Male,Ben Gurion University,Aryeh Kontorovich,Male,Ben Gurion University,Consistency of weighted majority votes.
+53,53,David I Inouye,Male,University of Texas at Austin,Inderjit Dhillon,Male,UT Austin & Amazon,Capturing Semantically Meaningful Word Dependencies with an Admixture of Poisson MRFs.
+54,54,Kihyuk Sohn,Male,Google,Honglak Lee,Male,U. Michigan,Improved Multimodal Deep Learning with Variation of Information.
+55,55,Evan W Archer,Male,Sony AI,Jakob H Macke,Male,University of Tübingen & MPI IS Tübingen,Low-dimensional models of neural population activity in sensory cortical circuits.
+56,56,Zhe Liu,Male,University of Chicago,John Lafferty,Male,Yale University,Blossom Tree Graphical Models.
+57,57,Aron Yu,Male,University of Texas at Austin,Kristen Grauman,Female,University of Texas at Austin,Predicting Useful Neighborhoods for Lazy Local Learning.
+58,58,Luca Pasa,Male,Università degli Studi di Padova,Alessandro Sperduti,Male,Università degli Studi di Padova,Pre-training of Recurrent Neural Networks via Linear Autoencoders.
