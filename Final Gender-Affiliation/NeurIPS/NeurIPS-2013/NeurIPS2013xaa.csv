@@ -1,0 +1,20 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,0,Liu Yang,Female,CMU,Jaime Carbonell,Male,CMU,Buy-in-Bulk Active Learning.
+1,1,Yasin Abbasi Yadkori,Male,DeepMind,Csaba Szepesvari,Male,DeepMind / University of Alberta,Online Learning in Markov Decision Processes with Adversarially Chosen Transition Probability Distributions.
+2,2,Tamir Hazan,Male,Technion,Tommi Jaakkola,Male,MIT,On Sampling from the Gibbs Distribution with Random Maximum A-Posteriori Perturbations.
+3,3,Divyanshu Vats,Male,Rice University,Richard Baraniuk,Male,Rice University,"When in Doubt, SWAP: High-Dimensional Sparse Recovery from Correlated Measurements."
+4,4,Aaron van den Oord,Male,,Benjamin Schrauwen,Male,Ghent University,Deep content-based music recommendation.
+5,5,Daniel S Levine,Male,Massachusetts Institute of Technology,Jonathan How,Male,MIT,Sensor Selection in High-Dimensional Gaussian Trees with Nuisances.
+6,6,David Pfau,Male,DeepMind,Liam Paninski,Male,Columbia University,Robust learning of low-dimensional dynamics from large neural ensembles.
+7,7,Brian McWilliams,Male,ETH Zurich,Joachim M Buhmann,Male,ETH Zurich,Correlated random features for fast semi-supervised learning.
+8,8,Abhradeep Guha Thakurta,Male,Stanford University & Microsoft,Adam Smith,Male,Pennsylvania State University,(Nearly) Optimal Algorithms for Private Online Learning in Full-information and Bandit Settings.
+9,9,Hossein Azari Soufiani,Male,Harvard University,Lirong Xia,Male,Harvard University,Generalized Method-of-Moments for Rank Aggregation.
+10,10,Victor Gabillon,Male,INRIA,S. Muthukrishnan,Male,Rutgers University,Adaptive Submodular Maximization in Bandit Setting.
+11,11,Martin Mevissen,Male,IBM Research,Jia Yuan Yu,Male,IBM Research,Data-driven Distributionally Robust Polynomial Optimization.
+12,12,Fang Zhao,Female,Chinese Academy of Sciences,Tieniu Tan,Male,Chinese Academy of Sciences,Relevance Topic Model for Unstructured Social Group Activity Recognition.
+13,13,Francesca Petralia,Female,Mt Sinai School of Medicine,David B Dunson,Male,Duke University,Multiscale Dictionary Learning for Estimating Conditional Distributions.
+14,14,Kamalika Chaudhuri,Female,UCSD,Staal A Vinterbo,Male,UC San Diego,A Stability-based Validation Procedure for Differentially Private Machine Learning.
+15,15,Hossein Azari Soufiani,Male,Harvard University,David Parkes,Male,Harvard University,Generalized Random Utility Models with Multiple Types.
+16,16,Deepti Pachauri,Male,3M,Vikas Singh,Male,UW-Madison,Solving the multi-way matching problem by permutation synchronization.
+17,17,Anima Anandkumar,Female,Caltech,Sham M Kakade,Male,Microsoft Research,When are Overcomplete Topic Models Identifiable? Uniqueness of Tensor Tucker Decompositions with Structured Sparsity.
+18,18,Shahin Shahrampour,mm,University of Pennsylvania,Ali Jadbabaie,Male,University of Pennsylvania,Online Learning of Dynamic Parameters in Social Networks.

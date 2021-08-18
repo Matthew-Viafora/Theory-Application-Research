@@ -1,0 +1,22 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+39,39,Leo Boytsov,Male,Bosch Center for AI,Bilegsaikhan Naidan,Male,Norwegian University of Science and Technology (NTNU),Learning to Prune in Metric and Non-Metric Spaces.
+40,40,John Duchi,Male,UC Berkeley,Michael Jordan,Male,UC Berkeley,Local Privacy and Minimax Bounds: Sharp Rates for Probability Estimation.
+41,41,Khaled Refaat,Male,Waymo,Adnan Darwiche,Male,UCLA,EDML for Learning Parameters in Directed and Undirected Graphical Models.
+42,42,Nguyen Viet Cuong,Male,National University of Singapore,Hai Leong Chieu,Male,DSO National Laboratories,Active Learning for Probabilistic Hypotheses Using the Maximum Gibbs Error Criterion.
+43,43,Christina Lee,Female,Microsoft Research,Devavrat Shah,Male,Massachusetts Institute of Technology,Computing the Stationary Distribution Locally.
+44,44,Jukka Corander,Male,University of Helsinki,Johan Pensar,Male,Åbo Akademi,Learning Chordal Markov Networks by Constraint Satisfaction.
+45,45,Stefanie Jegelka,Female,MIT,Suvrit Sra,Male,MIT,Reflection methods for user-friendly submodular optimization.
+46,46,Ryota Tomioka,Male,Microsoft Research Cambridge,Taiji Suzuki,Male,The University of Tokyo/RIKEN-AIP,Convex Tensor Decomposition via Structured Schatten Norm Regularization.
+47,47,Alessandro Rudi,Male,Istituto Italiano di Tecnologia,Lorenzo Rosasco,Male,University of Genova- MIT - IIT,On the Sample Complexity of Subspace Learning.
+48,48,Eftychios Pnevmatikakis,Male,Flatiron Institute,Liam Paninski,Male,Columbia University,Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions.
+49,49,Jie Liu,Male,UW-Madison,David Page,Male,UW-Madison,Bayesian Estimation of Latently-grouped Parameters in Undirected Graphical Models.
+50,50,Prem Gopalan,Male,The Voleon Group,David Blei,Male,Columbia University,Modeling Overlapping Communities with Node Popularities.
+51,51,Kareem Amin,Male,University of Pennsylvania,Umar Syed,Male,Google Research,Learning Prices for Repeated Auctions with Strategic Buyers.
+52,52,Mehrdad Mahdavi,Male,Michigan State University (MSU),Rong Jin,Male,Michigan State University (MSU),Stochastic Convex Optimization with Multiple  Objectives.
+53,53,James Y Zou,Male,Microsoft Research,Ryan Adams,Male,Princeton University,Contrastive Learning Using Spectral Methods.
+54,54,Srikrishna Sridhar,Male,UW-Madison,Ce Zhang,Male,Wisconsin,"An Approximate, Efficient LP Solver for LP Rounding."
+55,55,Fajwel Fogel,Male,École Polytechnique,Alexandre d'Aspremont,Male,CNRS - ENS,Convex Relaxations for Permutation Problems.
+56,56,Hristo S Paskov,Male,Stanford University,Trevor Hastie,Male,Stanford University,Compressive Feature Learning.
+57,57,Byungkon Kang,Male,Samsung Electronics,Byungkon Kang,Male,Samsung Electronics,Fast Determinantal Point Process Sampling with Application to Clustering.
+58,58,Lijun Zhang,Male,Nanjing University (NJU),Rong Jin,Male,Michigan State University (MSU),Linear Convergence with Condition Number Independent Access of Full Gradients.
+,,,male,,,,,

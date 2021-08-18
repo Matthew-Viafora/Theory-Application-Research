@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+139,139,Jonas Peters,Male,ETH Zurich,Bernhard Schölkopf,Male,"MPI for Intelligent Systems, Tübingen",Causal Inference on Time Series using Restricted Structural Equation Models.
+140,140,Jimmy Ba,Male,University of Toronto,Brendan Frey,Male,University of Toronto,Adaptive dropout for training deep neural networks.
+141,141,Xinghao Pan,Male,UC Berkeley,Michael Jordan,Male,UC Berkeley,Optimistic Concurrency Control for Distributed Unsupervised Learning.
+142,142,Yu-Xiang Wang,Male,UC Santa Barbara,Chenlei Leng,Male,,Provable Subspace Clustering: When LRR meets SSC.
+143,143,Freddie Kalaitzis,Male,Element AI,Ricardo Silva,Male,University College London,Flexible sampling of discrete data correlations without the marginal distributions.
+144,144,Haichao Zhang,Male,Horizon Robotics,David Wipf,Male,Microsoft Research,Non-Uniform Camera Shake Removal Using a Spatially-Adaptive Sparse Penalty.
+145,145,Charles Blundell,Male,DeepMind,Yee Whye Teh,Male,"University of Oxford, DeepMind",Bayesian Hierarchical Community Discovery.
+146,146,T.-K. Huang,Male,Microsoft,Jeff Schneider,Male,CMU,Learning Hidden Markov Models from Non-sequence Data via Tensor Decomposition.
+147,147,Misha Denil,Male,University of Oxford,Nando de Freitas,Male,UBC,Predicting Parameters in Deep Learning.
+148,148,Wen-Hao Zhang,Male,"Center for Neural Basis of Cognition, Carnegie Mellon University",Si Wu,Female,Beijing Normal University,Reciprocally Coupled Local Estimators Implement Bayesian Information Integration Distributively.
+149,149,Chong Wang,Male,CMU,Eric Xing,Male,Petuum Inc. /  Carnegie Mellon University,Variance Reduction for Stochastic Gradient Optimization.
+150,150,Edo M Airoldi,Male,Harvard University,Stanley H Chan,Male,Harvard University,Stochastic blockmodel approximation of a graphon: Theory and consistent estimation.
+151,151,Raphael Bailly,Male,Universitat Politècnica de Catalunya,Ariadna Quattoni,Female,Xerox Research Centre Europe,Unsupervised Spectral Learning of Finite State Transducers.
+152,152,Ferran Diego Andilla,Male,Telefonica R&D,Fred Hamprecht,Male,Heidelberg University,Learning Multi-level Sparse Representations.
+153,153,Yoshua Bengio,Male,University of Montreal,Pascal Vincent,Male,Facebook and U. Montreal,Generalized Denoising Auto-Encoders as Generative Models.
+154,154,Ryosuke Matsushita,Male,NTT DATA Mathematical Systems Inc.,Toshiyuki Tanaka,Male,Kyoto University,Low-rank matrix reconstruction and clustering via approximate message passing.
+155,155,Dae Il Kim,Male,Brown University,Erik Sudderth,Male,Brown University,Efficient Online Inference for Bayesian Nonparametric Relational Models.
+156,156,Subhaneil Lahiri,Male,Stanford University,Surya Ganguli,Male,Stanford,A memory frontier for complex synapses.
+157,157,Karthika Mohan,Female,UC Berkeley,Jin Tian,Male,Iowa State University,Graphical Models for Inference with Missing Data.
+158,158,Zhengdong Lu,Male,"Noah's Ark Lab, Huawei Technologies",Hang Li,Male,Huawei Tech. Investment,A Deep Architecture for Matching Short Texts.

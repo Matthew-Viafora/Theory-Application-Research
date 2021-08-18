@@ -1,0 +1,21 @@
+,Unnamed: 0,first-author,,first-author-affiliation,last-author,,last-author-affiliation,title
+59,59,Gunnar Kedenburg,Male,None,Remi Munos,Male,Google DeepMind,Aggregating Optimistic Planning Trees for Solving Markov Decision Processes.
+60,60,Mohsen Bayati,Male,Stanford University,Andrea Montanari,Male,Stanford,Estimating LASSO Risk and Noise Level.
+61,61,Pablo Sprechmann,Male,Duke University,Guillermo Sapiro,Male,Duke University,Supervised Sparse Analysis and Synthesis Operators.
+62,62,Adel Javanmard,Male,Stanford University,Andrea Montanari,Male,Stanford,Model Selection for High-Dimensional Regression under the Generalized Irrepresentability Condition.
+63,63,Akshay Krishnamurthy,Male,UMass Amherst,Aarti Singh,Male,CMU,Low-Rank Matrix and Tensor Completion via Adaptive Sampling.
+64,64,Andreas Stuhlmüller,Male,Massachusetts Institute of Technology,Noah Goodman,Male,Stanford University,Learning Stochastic Inverses.
+65,65,Ziteng Wang,Male,,Liwei Wang,Male,Peking University,Efficient Algorithm for Privately Releasing Smooth Queries.
+66,66,Daniel L Yamins,Male,Massachusetts Institute of Technology,James J DiCarlo,Male,Massachusetts Institute of Technology,Hierarchical Modular Optimization of Convolutional Networks Achieves Representations Similar to Macaque IT and Human Ventral Stream.
+67,67,Mijung Park,Male,University of Texas,Jonathan W Pillow,Male,UT Austin,Bayesian inference for low rank spatiotemporal neural receptive fields.
+68,68,Sivaraman Balakrishnan,Male,CMU,Larry Wasserman,Male,Carnegie Mellon University,Cluster Trees on Manifolds.
+69,69,Il Memming Park,Male,Stony Brook University,Jonathan W Pillow,Male,UT Austin,Spectral methods for neural characterization using generalized quadratic models.
+70,70,Wenjie Luo,Male,TTI Chicago,Raquel Urtasun,Female,University of Toronto,Latent Structured Active Learning.
+71,71,Ke Hou,Male,CUHK,Zhi-Quan Luo,Male,"University of Minnesota, Twin Cites",On the Linear Convergence of the Proximal Gradient Method for Trace Norm Regularization.
+72,72,Zheng Wen,,Stanford University,Benjamin Van Roy,Male,Stanford University,Efficient Exploration and Value Function Generalization in Deterministic Systems.
+73,73,Nathaniel J Smith,,University of Edinburgh,Michael C Frank,Male,Stanford University,Learning and using language via recursive pragmatic reasoning about other agents.
+74,74,Mehrdad Mahdavi,,Michigan State University (MSU),Rong Jin,Male,Michigan State University (MSU),Mixed Optimization for Smooth Functions.
+75,75,John Duchi,,UC Berkeley,Brendan McMahan,Male,Google,"Estimation, Optimization, and Parallelism when Data is Sparse."
+76,76,Christophe Schulke,,ESPCI ParisTech,Lenka Zdeborová,Female,EPFL,Blind Calibration in Compressed Sensing using Message Passing Algorithms.
+77,77,José Bento,,Boston College,Jonathan S Yedidia,Male,Disney Research,A message-passing algorithm for multi-agent trajectory planning.
+78,78,Mike Hughes,,Tufts University,Erik Sudderth,Male,Brown University,Memoized Online Variational Inference for Dirichlet Process Mixture Models.
