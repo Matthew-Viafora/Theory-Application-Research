@@ -66,7 +66,7 @@
 64,64,Xiao Li,Male,UC Berkeley,Kannan Ramchandran,Male,UC Berkeley,An Active Learning Framework using Sparse-Graph Codes for Sparse Polynomials and Graph Sketching.
 65,65,Meisam Razaviyayn,Male,Stanford University,David Tse,Male,Stanford University,Discrete Rényi Classifiers.
 66,66,Eugene Ndiaye,Male,"Institut Mines-Télécom, Télécom ParisTech, CNRS LTCI",Joseph Salmon,Male,Télécom ParisTech,GAP Safe screening rules for sparse multi-task and multi-class models.
-67,67,Wei Ping,,UC Irvine,Alexander Ihler,Male,UC Irvine,Decomposition Bounds for Marginal MAP.
+67,67,Wei Ping,Male,UC Irvine,Alexander Ihler,Male,UC Irvine,Decomposition Bounds for Marginal MAP.
 68,68,Kevin Scaman,Male,ENS Cachan - CMLA,Nicolas Vayatis,Male,ENS Cachan - CMLA,Anytime Influence Bounds and the Explosive Behavior of Continuous-Time Diffusion Networks.
 69,69,Sida Wang,Male,Stanford University,Percy Liang,Male,Stanford University,Estimating Mixture Models via Mixtures of Polynomials.
 70,70,Eunho Yang,Male,IBM Thomas J. Watson Research Center,Aurelie C Lozano,Male,IBM Research,Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso.
@@ -80,7 +80,7 @@
 78,78,Reza Babanezhad Harikandeh,Male,UBC,Scott Sallinen,Male,UBC,StopWasting My Gradients: Practical SVRG.
 79,79,Rakesh Shivanna,Male,Google Inc.,Francis Bach,Male,INRIA - ENS,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction.
 80,80,Ilias Diakonikolas,Male,University of Edinburgh,Ludwig Schmidt,Male,MIT,Differentially Private Learning of Structured Discrete Distributions.
-81,81,Huitong Qiu,Male,Johns Hopkins University,Brian Caffo,Male,,Robust Portfolio Optimization.
+81,81,Huitong Qiu,Male,Johns Hopkins University,Brian Caffo,Male, Johns Hopkins Bloomberg School of Public Health,Robust Portfolio Optimization.
 82,82,Kenji Kawaguchi,Male,MIT,Tomás Lozano-Pérez,Male,MIT,Bayesian Optimization with Exponential Convergence.
 83,83,Ahmed Alaoui,Male,UC Berkeley,Michael W Mahoney,Male,UC Berkeley,Fast Randomized Kernel Ridge Regression with Statistical Guarantees.
 84,84,Christopher M De Sa,Male,Stanford,Chris Ré,Male,Stanford,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms.
