@@ -18,3 +18,43 @@
 16,16,Deepti Pachauri,Male,3M,Vikas Singh,Male,UW-Madison,Solving the multi-way matching problem by permutation synchronization.
 17,17,Anima Anandkumar,Female,Caltech,Sham M Kakade,Male,Microsoft Research,When are Overcomplete Topic Models Identifiable? Uniqueness of Tensor Tucker Decompositions with Structured Sparsity.
 18,18,Shahin Shahrampour,mm,University of Pennsylvania,Ali Jadbabaie,Male,University of Pennsylvania,Online Learning of Dynamic Parameters in Social Networks.
+19,19,Jinwoo Shin,Male,KAIST,Misha Chertkov,Male,Los Alamos National Laboratory,A Graphical Transformation for Belief Propagation: Maximum Weight Matchings and Odd-Sized Cycles.
+20,20,Andreas Ruttor,Male,TU Berlin,Manfred Opper,Male,TU Berlin,Approximate Gaussian process inference for the drift function in stochastic differential equations.
+21,21,Stefano Ermon,Male,Stanford University,Bart Selman,Male,Cornell University,Embed and Project: Discrete Sampling with Universal Hashing.
+22,22,Jianfei Chen,Male,Tsinghua University,Bo Zhang,Male,Tsinghua University,Scalable Inference for Logistic-Normal Topic Models.
+23,23,Martin Azizyan,Male,CMU,Larry Wasserman,Male,CMU,Minimax Theory for High-dimensional Gaussian Mixtures with Sparse Mean Separation.
+24,24,Tim Roughgarden,Male,Stanford University,Michael Kearns,Male,University of Pennsylvania,Marginals-to-Models Reducibility.
+25,25,Rie Johnson,Male,RJ Research Consuulting,Tong Zhang,Male,Tencent,Accelerating Stochastic Gradient Descent using Predictive Variance Reduction.
+26,26,Xinhua Zhang,Male,University of Illinois at Chicago (UIC),Dale Schuurmans,Male,Google Brain & University of Alberta,Polar Operators for Structured Sparse Estimation.
+27,27,Behnam Neyshabur,Male,TTI Chicago,Payman Yadollahpour,Male,TTI Chicago,The Power of Asymmetry in Binary Hashing.
+28,28,Adel Javanmard,Male,Stanford University,Andrea Montanari,Male,Stanford,Confidence Intervals and Hypothesis Testing for High-Dimensional Statistical Models.
+29,29,Justin Domke,Male,NICTA,Xianghang Liu,Male,NICTA/UNSW,Projecting Ising Model Parameters for Fast Mixing.
+30,30,Alexander Zimin,Male,Amazon,Gergely Neu,Male,Universitat Pompeu Fabra,Online learning in episodic Markovian decision processes by relative entropy policy search.
+31,31,Ali Borji,Male,University of Southern California (USC),Laurent Itti,Male,University of Southern California (USC),Bayesian optimization explains human active search.
+32,32,Tamara Broderick,Female,MIT,Michael Jordan,Male,UC Berkeley,Streaming Variational Bayes.
+33,33,Crystal Maung,Male,UT Dallas,Haim Schweitzer,Male,UT Dallas,Pass-efficient unsupervised feature selection.
+34,34,Soravit Changpinyo,Male,University of Southern California (USC),Fei Sha,Male,University of Southern California (USC),Similarity Component Analysis.
+35,35,Masayuki Karasuyama,Male,Kyoto University,Hiroshi Mamitsuka,Male,Kyoto University / Aalto University,Manifold-based Similarity Adaptation for Label Propagation.
+36,36,Dahua Lin,Male,TTI Chicago,Dahua Lin,Male,TTI Chicago,Online Learning of Nonparametric Mixture Models via Sequential Variational Approximation.
+37,37,Yifei Ma,Male,Amazon,Jeff Schneider,Male,CMU,Σ-Optimality for Active Learning on Gaussian Random Fields.
+38,38,Fabian H Sinz,Male,Universität Tübingen,Jan Benda,Male,Universität Tübingen,Least Informative Dimensions.
+39,39,Leo Boytsov,Male,Bosch Center for AI,Bilegsaikhan Naidan,Male,Norwegian University of Science and Technology (NTNU),Learning to Prune in Metric and Non-Metric Spaces.
+40,40,John Duchi,Male,UC Berkeley,Michael Jordan,Male,UC Berkeley,Local Privacy and Minimax Bounds: Sharp Rates for Probability Estimation.
+41,41,Khaled Refaat,Male,Waymo,Adnan Darwiche,Male,UCLA,EDML for Learning Parameters in Directed and Undirected Graphical Models.
+42,42,Nguyen Viet Cuong,Male,National University of Singapore,Hai Leong Chieu,Male,DSO National Laboratories,Active Learning for Probabilistic Hypotheses Using the Maximum Gibbs Error Criterion.
+43,43,Christina Lee,Female,Microsoft Research,Devavrat Shah,Male,Massachusetts Institute of Technology,Computing the Stationary Distribution Locally.
+44,44,Jukka Corander,Male,University of Helsinki,Johan Pensar,Male,Åbo Akademi,Learning Chordal Markov Networks by Constraint Satisfaction.
+45,45,Stefanie Jegelka,Female,MIT,Suvrit Sra,Male,MIT,Reflection methods for user-friendly submodular optimization.
+46,46,Ryota Tomioka,Male,Microsoft Research Cambridge,Taiji Suzuki,Male,The University of Tokyo/RIKEN-AIP,Convex Tensor Decomposition via Structured Schatten Norm Regularization.
+47,47,Alessandro Rudi,Male,Istituto Italiano di Tecnologia,Lorenzo Rosasco,Male,University of Genova- MIT - IIT,On the Sample Complexity of Subspace Learning.
+48,48,Eftychios Pnevmatikakis,Male,Flatiron Institute,Liam Paninski,Male,Columbia University,Sparse nonnegative deconvolution for compressive calcium imaging: algorithms and phase transitions.
+49,49,Jie Liu,Male,UW-Madison,David Page,Male,UW-Madison,Bayesian Estimation of Latently-grouped Parameters in Undirected Graphical Models.
+50,50,Prem Gopalan,Male,The Voleon Group,David Blei,Male,Columbia University,Modeling Overlapping Communities with Node Popularities.
+51,51,Kareem Amin,Male,University of Pennsylvania,Umar Syed,Male,Google Research,Learning Prices for Repeated Auctions with Strategic Buyers.
+52,52,Mehrdad Mahdavi,Male,Michigan State University (MSU),Rong Jin,Male,Michigan State University (MSU),Stochastic Convex Optimization with Multiple  Objectives.
+53,53,James Y Zou,Male,Microsoft Research,Ryan Adams,Male,Princeton University,Contrastive Learning Using Spectral Methods.
+54,54,Srikrishna Sridhar,Male,UW-Madison,Ce Zhang,Male,Wisconsin,"An Approximate, Efficient LP Solver for LP Rounding."
+55,55,Fajwel Fogel,Male,École Polytechnique,Alexandre d'Aspremont,Male,CNRS - ENS,Convex Relaxations for Permutation Problems.
+56,56,Hristo S Paskov,Male,Stanford University,Trevor Hastie,Male,Stanford University,Compressive Feature Learning.
+57,57,Byungkon Kang,Male,Samsung Electronics,Byungkon Kang,Male,Samsung Electronics,Fast Determinantal Point Process Sampling with Application to Clustering.
+58,58,Lijun Zhang,Male,Nanjing University (NJU),Rong Jin,Male,Michigan State University (MSU),Linear Convergence with Condition Number Independent Access of Full Gradients.
