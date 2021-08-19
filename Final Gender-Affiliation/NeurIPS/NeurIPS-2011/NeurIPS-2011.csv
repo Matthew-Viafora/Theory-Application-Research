@@ -1,4 +1,23 @@
 ,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,0,Balazs B Ujfalussy,Male,University of Cambridge,Mate Lengyel,Male,University of Cambridge,Active dendrites: adaptation to spike-based communication.
+1,1,Andrew E Waters,Male,Rice University,Richard Baraniuk,Male,Rice University,SpaRCS: Recovering low-rank and sparse matrices from compressive measurements.
+2,2,David Duvenaud,Male,University of Toronto,Carl Edward Rasmussen,Male,University of Cambridge,Additive Gaussian Processes.
+3,3,Nitesh Shroff,Male,University of Maryland,Rama Chellappa,Male,University of Maryland College Park,Manifold Precis: An Annealing Technique for Diverse Sampling of Manifolds.
+4,4,Trung T Pham,Male,The University of Adelaide,David Suter,Male,The University of Adelaide,Simultaneous Sampling and Multi-Structure Fitting with Adaptive Reversible Jump MCMC.
+5,5,Tingting Zhao,Male,Tokyo Institute of Technology,Masashi Sugiyama,Male,RIKEN / University of Tokyo,Analysis and Improvement of Policy Gradient Estimation.
+6,6,Francis Bach,Male,INRIA - Ecole Normale Superieure,Francis Bach,Male,INRIA - Ecole Normale Superieure,Shaping Level Sets with Submodular Functions.
+7,7,David Adametz,Male,University of Basel,Volker Roth,Male,University of Basel,Bayesian Partitioning of Large-Scale Distance Data.
+8,8,Charles Dubout,Male,IDIAP,François Fleuret,Male,University of Geneva,Boosting with Maximum Adaptive Sampling.
+9,9,Adam Coates,Male,Baidu Research,Andrew Y Ng,Male,DeepLearning.AI,Selecting Receptive Fields in Deep Networks.
+10,10,Joris M Mooij,Male,Radboud University Nijmegen,Bernhard Schölkopf,Male,"MPI for Intelligent Systems, Tübingen",Causal Discovery with Cyclic Additive Noise Models.
+11,11,Daniel Hernández-lobato,Male,Universidad Autonoma de Madrid,Pierre Dupont,Male,Louvain University,Robust Multi-Class Gaussian Process Classification.
+12,12,Scott Niekum,Male,University of Massachusetts Amherst,Andrew G Barto,Male,University of Massachusetts,Clustering via Dirichlet Process Mixture Models for Portable Skill Discovery.
+13,13,Minmin Chen,Male,Amazon Inc.,John Blitzer,Male,Google Research,Co-Training for Domain Adaptation.
+14,14,Loc X Bui,Male,Technion,Shie Mannor,Male,Technion,Committing Bandits.
+15,15,Patrick O Perry,Male,NYU,Michael W Mahoney,Male,UC Berkeley,Regularized Laplacian Estimation and Fast Eigenvector Approximation.
+16,16,David S Choi,Male,Carnegie Mellon University,Edo M Airoldi,Male,Harvard University,Confidence Sets for Network Structure.
+17,17,Vikas C Raykar,Male,IBM Research,Shipeng Yu,Male,Siemens Medical Solutions,Ranking annotators for crowdsourced labeling tasks.
+18,18,Yichuan Zhang,Male,University of Edinburgh,Charles Sutton,Male,Google,Quasi-Newton Methods for Markov Chain Monte Carlo.
 19,19,Richard Turner,Male,University of Cambridge,Maneesh Sahani,Male,"Gatsby Unit, UCL",Probabilistic amplitude and frequency demodulation.
 20,20,Fahad S Khan,Male,Computer Vision Center,Maria Vanrell,Female,Computer Vision Center,Portmanteau Vocabularies for Multi-Cue Image Representation.
 21,21,Alessandro Bergamo,Male,Dartmouth College,Andrew Fitzgibbon,Male,Microsoft Research,PiCoDes: Learning a Compact Code for Novel-Category Recognition.
