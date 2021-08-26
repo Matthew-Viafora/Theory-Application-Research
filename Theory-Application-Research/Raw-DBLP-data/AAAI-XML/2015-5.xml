@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="305832">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"cities2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">111.72</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="18217986">:facetid:toc:db/conf/aaai/cities2015.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="2066783">
+<info><authors><author pid="186/5951">Alex Chohlas-Wood</author><author pid="186/5931">Aliya Merali</author><author pid="186/5919">Warren Reed</author><author pid="31/1929">Theodoros Damoulas</author></authors><title>Mining 911 Calls in New York City - Temporal Patterns, Detection, and Forecasting.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Chohlas-WoodMRD15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10206</ee><url>https://dblp.org/rec/conf/aaai/Chohlas-WoodMRD15</url></info>
+<url>URL#2066783</url>
+</hit>
+<hit score="1" id="2066882">
+<info><authors><author pid="133/2312">Supriyo Ghosh</author><author pid="72/759">Pradeep Varakantham</author><author pid="139/1308">Yossiri Adulyasak</author><author pid="88/7260">Patrick Jaillet</author></authors><title>Dynamic Redeployment to Counter Congestion or Starvation in Vehicle Sharing Systems.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/GhoshVAJ15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10095</ee><url>https://dblp.org/rec/conf/aaai/GhoshVAJ15</url></info>
+<url>URL#2066882</url>
+</hit>
+<hit score="1" id="2066953">
+<info><authors><author pid="28/4803">Aaron Hunter</author><author pid="186/5922">Ray Young</author></authors><title>Exploring Power Storage Profiles for Vehicle to Grid Systems.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/HunterY15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10077</ee><url>https://dblp.org/rec/conf/aaai/HunterY15</url></info>
+<url>URL#2066953</url>
+</hit>
+<hit score="1" id="2067041">
+<info><authors><author pid="05/814">BoonPing Lim</author><author pid="87/4370">Menkes van den Briel</author><author pid="64/3102">Sylvie Thiébaux</author><author pid="37/7413">Scott Backhaus</author><author pid="93/1110">Russell Bent</author></authors><title>HVAC-Aware Occupancy Scheduling.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/LimBTBB15a</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10067</ee><url>https://dblp.org/rec/conf/aaai/LimBTBB15a</url></info>
+<url>URL#2067041</url>
+</hit>
+<hit score="1" id="2067083">
+<info><authors><author pid="131/0696">Mohcine Madkour</author><author pid="30/1281">Driss Benhaddou</author><author pid="147/2823">Nacer Khalil</author><author pid="182/2112">Michael Burriello</author><author pid="63/6193">Raymond E. Cline Jr.</author></authors><title>Living Campus - Towards a Context-Aware Energy Efficient Campus Using Weighted Case Based Reasoning.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/MadkourBKBC15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10191</ee><url>https://dblp.org/rec/conf/aaai/MadkourBKBC15</url></info>
+<url>URL#2067083</url>
+</hit>
+<hit score="1" id="2067114">
+<info><authors><author pid="150/6463">Vahid Moosavi</author></authors><title>Computational Urban Modeling - From Mainframes to Data Streams.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Moosavi15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10116</ee><url>https://dblp.org/rec/conf/aaai/Moosavi15</url></info>
+<url>URL#2067114</url>
+</hit>
+<hit score="1" id="2067205">
+<info><authors><author pid="136/9320">Marzieh Saeidi</author><author pid="18/3348-1">Sebastian Riedel 0001</author><author pid="80/3200">Licia Capra</author></authors><title>Lower Dimensional Representations of City Neighbourhoods.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/SaeidiRC15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10140</ee><url>https://dblp.org/rec/conf/aaai/SaeidiRC15</url></info>
+<url>URL#2067205</url>
+</hit>
+<hit score="1" id="2067229">
+<info><authors><author pid="156/0091">Walid Ahmed Fouad Shalaby</author><author pid="40/3212">Wlodek Zadrozny</author></authors><title>SustaInno - Toward a Searchable Repository of Sustainability Innovations.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShalabyZ15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10063</ee><url>https://dblp.org/rec/conf/aaai/ShalabyZ15</url></info>
+<url>URL#2067229</url>
+</hit>
+<hit score="1" id="2067240">
+<info><authors><author pid="173/6043">Ravi Shroff</author><author pid="166/1390">Yilong Zha</author><author pid="29/4046">Richard Wang</author><author pid="v/ManuelaMVeloso">Manuela M. Veloso</author><author pid="s/SrinivasanSeshan">Srinivasan Seshan</author></authors><title>Indoor Trajectory Identification - Snapping with Uncertainty.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShroffZWVS15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10100</ee><url>https://dblp.org/rec/conf/aaai/ShroffZWVS15</url></info>
+<url>URL#2067240</url>
+</hit>
+<hit score="1" id="2067435">
+<info><authors><author pid="34/7374">Arkaitz Zubiaga</author><author pid="65/6264">Maria Liakata</author><author pid="67/6530">Rob Procter</author><author pid="b/KalinaBontcheva">Kalina Bontcheva</author><author pid="83/3770">Peter Tolmie</author></authors><title>Towards Detecting Rumours in Social Media.</title><venue>AAAI Workshop - AI for Cities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZubiagaLPBT15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10160</ee><url>https://dblp.org/rec/conf/aaai/ZubiagaLPBT15</url></info>
+<url>URL#2067435</url>
+</hit>
+<hit score="1" id="2223348">
+<info><authors><author pid="31/1929">Theodoros Damoulas</author></authors><title>Artificial Intelligence for Cities, Papers from the 2015 AAAI Workshop, Austin, Texas, USA, January 25, 2015.</title><venue>AAAI Workshop - AI for Cities</venue><venue>AAAI Workshops</venue><volume>WS-15-04</volume><publisher>AAAI Press</publisher><year>2015</year><type>Editorship</type><key>conf/aaai/2015cities</key><ee>http://www.aaai.org/Library/Workshops/ws15-04.php</ee><url>https://dblp.org/rec/conf/aaai/2015cities</url></info>
+<url>URL#2223348</url>
+</hit>
+</hits>
+</result>

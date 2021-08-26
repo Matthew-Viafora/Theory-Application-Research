@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="283928">:facetid:toc:db\"/\"conf\"/\"nips\"/\"ml4h2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">115.35</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="18251291">:facetid:toc:db/conf/nips/ml4h2019.bht</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="1" id="847632">
+<info><authors><author pid="11/10094">Umar Asif</author><author pid="180/8042">Benjamin S. Mashford</author><author pid="152/2830">Stefan von Cavallar</author><author pid="177/5648">Shivanthan A. C. Yohanandan</author><author pid="73/8829">Subhrajit Roy</author><author pid="99/11070">Jianbin Tang</author><author pid="180/7968">Stefan Harrer</author></authors><title>Privacy Preserving Human Fall Detection using Video Data.</title><venue>ML4H@NeurIPS</venue><pages>39-51</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/AsifMCYRTH19</key><ee>http://proceedings.mlr.press/v116/asif20a.html</ee><url>https://dblp.org/rec/conf/nips/AsifMCYRTH19</url></info>
+<url>URL#847632</url>
+</hit>
+<hit score="1" id="847652">
+<info><authors><author pid="220/5484">Aparna Balagopalan</author><author pid="142/3126">Jekaterina Novikova</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="230/8548">Bret Nestor</author><author pid="148/5539">Tristan Naumann</author><author pid="145/6563">Marzyeh Ghassemi</author></authors><title>Cross-Language Aphasia Detection using Optimal Transport Domain Adaptation.</title><venue>ML4H@NeurIPS</venue><pages>202-219</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/BalagopalanNMNN19</key><ee>http://proceedings.mlr.press/v116/balagopalan20a.html</ee><url>https://dblp.org/rec/conf/nips/BalagopalanNMNN19</url></info>
+<url>URL#847652</url>
+</hit>
+<hit score="1" id="847714">
+<info><authors><author pid="211/6980">William Boag</author><author pid="172/9733">Tzu-Ming Harry Hsu</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="246/4729">Gabriela Berner</author><author pid="228/9348">Emily Alsentzer</author><author pid="11/6043">Peter Szolovits</author></authors><title>Baselines for Chest X-Ray Report Generation.</title><venue>ML4H@NeurIPS</venue><pages>126-140</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/BoagHMBAS19</key><ee>http://proceedings.mlr.press/v116/boag20a.html</ee><url>https://dblp.org/rec/conf/nips/BoagHMBAS19</url></info>
+<url>URL#847714</url>
+</hit>
+<hit score="1" id="847833">
+<info><authors><author pid="27/4108">Adrian V. Dalca</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="228/9348">Emily Alsentzer</author><author pid="179/1688">Samuel G. Finlayson</author><author pid="241/5940">Michael Oberst</author><author pid="228/8208">Fabian Falck</author><author pid="199/1963">Corey Chivers</author><author pid="154/3831">Andrew Beam</author><author pid="148/5539">Tristan Naumann</author><author pid="190/9844">Brett K. Beaulieu-Jones</author></authors><title>Machine Learning for Health ( ML4H ) 2019 - What Makes Machine Learning in Medicine Different?</title><venue>ML4H@NeurIPS</venue><pages>1-9</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/DalcaMAFOFCBNB19</key><ee>http://proceedings.mlr.press/v116/dalca20a.html</ee><url>https://dblp.org/rec/conf/nips/DalcaMAFOFCBNB19</url></info>
+<url>URL#847833</url>
+</hit>
+<hit score="1" id="847968">
+<info><authors><author pid="202/3271">Amirata Ghorbani</author><author pid="51/11047">Vivek Natarajan</author><author pid="248/9117">David Coz</author><author pid="87/2948">Yuan Liu</author></authors><title>DermGAN - Synthetic Generation of Clinical Skin Images with Pathology.</title><venue>ML4H@NeurIPS</venue><pages>155-170</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/GhorbaniNCL19</key><ee>http://proceedings.mlr.press/v116/ghorbani20a.html</ee><url>https://dblp.org/rec/conf/nips/GhorbaniNCL19</url></info>
+<url>URL#847968</url>
+</hit>
+<hit score="1" id="847974">
+<info><authors><author pid="209/9641">Cyprien Gilet</author><author pid="267/7523">Susana Barbosa</author><author pid="30/1322">Lionel Fillatre</author></authors><title>Minimax Classifier with Box Constraint on the Priors.</title><venue>ML4H@NeurIPS</venue><pages>66-80</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/GiletBF19</key><ee>http://proceedings.mlr.press/v116/gilet20a.html</ee><url>https://dblp.org/rec/conf/nips/GiletBF19</url></info>
+<url>URL#847974</url>
+</hit>
+<hit score="1" id="848115">
+<info><authors><author pid="179/4749">Paul F. Jaeger</author><author pid="195/6111">Simon A. A. Kohl</author><author pid="195/5770">Sebastian Bickelhaupt</author><author pid="190/7435">Fabian Isensee</author><author pid="195/5871">Tristan Anselm Kuder</author><author pid="87/6660">Heinz-Peter Schlemmer</author><author pid="133/0183">Klaus H. Maier-Hein</author></authors><title>Retina U-Net - Embarrassingly Simple Exploitation of Segmentation Supervision for Medical Object Detection.</title><venue>ML4H@NeurIPS</venue><pages>171-183</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/JaegerKBIKSM19</key><ee>http://proceedings.mlr.press/v116/jaeger20a.html</ee><url>https://dblp.org/rec/conf/nips/JaegerKBIKSM19</url></info>
+<url>URL#848115</url>
+</hit>
+<hit score="1" id="848157">
+<info><authors><author pid="181/7573">Arnav Kapur</author><author pid="229/1770">Utkarsh Sarawgi</author><author pid="267/7510">Eric Wadkins</author><author pid="267/7502">Matthew Wu</author><author pid="154/4482">Nora Hollenstein</author><author pid="m/PattieMaes">Pattie Maes</author></authors><title>Non-Invasive Silent Speech Recognition in Multiple Sclerosis with Dysphonia.</title><venue>ML4H@NeurIPS</venue><pages>25-38</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KapurSWWHM19</key><ee>http://proceedings.mlr.press/v116/kapur20a.html</ee><url>https://dblp.org/rec/conf/nips/KapurSWWHM19</url></info>
+<url>URL#848157</url>
+</hit>
+<hit score="1" id="848222">
+<info><authors><author pid="24/2900">Yogesh Kumar</author><author pid="267/7494">Henri Salo</author><author pid="177/0768">Tuomo Nieminen</author><author pid="267/7493">Kristian Vepsalainen</author><author pid="01/8023">Sangita Kulathinal</author><author pid="32/894">Pekka Marttinen</author></authors><title>Predicting utilization of healthcare services from individual disease trajectories using RNNs with multi-headed attention.</title><venue>ML4H@NeurIPS</venue><pages>93-111</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/KumarSNVKM19</key><ee>http://proceedings.mlr.press/v116/kumar20a.html</ee><url>https://dblp.org/rec/conf/nips/KumarSNVKM19</url></info>
+<url>URL#848222</url>
+</hit>
+<hit score="1" id="848327">
+<info><authors><author pid="03/5747">Sheng Liu</author><author pid="241/9443">Chhavi Yadav</author><author pid="77/11141">Carlos Fernandez-Granda</author><author pid="130/9063">Narges Razavian</author></authors><title>On the design of convolutional neural networks for automatic detection of Alzheimer&apos;s disease.</title><venue>ML4H@NeurIPS</venue><pages>184-201</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/LiuYFR19</key><ee>http://proceedings.mlr.press/v116/liu20a.html</ee><url>https://dblp.org/rec/conf/nips/LiuYFR19</url></info>
+<url>URL#848327</url>
+</hit>
+<hit score="1" id="848493">
+<info><authors><author pid="267/7500">Nikhil Pattisapu</author><author pid="56/7965">Sangameshwar Patil</author><author pid="02/3157">Girish K. Palshikar</author><author pid="03/4045">Vasudeva Varma</author></authors><title>Medical Concept Normalization by Encoding Target Knowledge.</title><venue>ML4H@NeurIPS</venue><pages>246-259</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/PattisapuPPV19</key><ee>http://proceedings.mlr.press/v116/pattisapu20a.html</ee><url>https://dblp.org/rec/conf/nips/PattisapuPPV19</url></info>
+<url>URL#848493</url>
+</hit>
+<hit score="1" id="848535">
+<info><authors><author pid="123/9026">Deepta Rajan</author><author pid="57/1253">David Beymer</author><author pid="250/2989">Shafiqul Abedin</author><author pid="60/2753">Ehsan Dehghan</author></authors><title>Pi-PE - A Pipeline for Pulmonary Embolism Detection using Sparsely Annotated 3D CT Images.</title><venue>ML4H@NeurIPS</venue><pages>220-232</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/RajanBAD19</key><ee>http://proceedings.mlr.press/v116/rajan20a.html</ee><url>https://dblp.org/rec/conf/nips/RajanBAD19</url></info>
+<url>URL#848535</url>
+</hit>
+<hit score="1" id="848569">
+<info><authors><author pid="13/4685">Eyal Rozenberg</author><author pid="59/1865">Daniel Freedman</author><author pid="77/3198">Alex M. Bronstein</author></authors><title>Localization with Limited Annotation for Chest X-rays.</title><venue>ML4H@NeurIPS</venue><pages>52-65</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/RozenbergFB19</key><ee>http://proceedings.mlr.press/v116/rozenberg20a.html</ee><url>https://dblp.org/rec/conf/nips/RozenbergFB19</url></info>
+<url>URL#848569</url>
+</hit>
+<hit score="1" id="848645">
+<info><authors><author pid="228/4803">Oleksii Sidorov</author><author pid="120/5872">Congcong Wang</author><author pid="c/FACheikh">Faouzi Alaya Cheikh</author></authors><title>Generative Smoke Removal.</title><venue>ML4H@NeurIPS</venue><pages>81-92</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/SidorovWC19</key><ee>http://proceedings.mlr.press/v116/sidorov20a.html</ee><url>https://dblp.org/rec/conf/nips/SidorovWC19</url></info>
+<url>URL#848645</url>
+</hit>
+<hit score="1" id="848656">
+<info><authors><author pid="255/5167">Marta Skreta</author><author pid="120/1806">Aryan Arbabi</author><author pid="157/4231">Jixuan Wang</author><author pid="10/6530">Michael Brudno</author></authors><title>Training without training data - Improving the generalizability of automated medical abbreviation disambiguation.</title><venue>ML4H@NeurIPS</venue><pages>233-245</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/SkretaAWB19</key><ee>http://proceedings.mlr.press/v116/skreta20a.html</ee><url>https://dblp.org/rec/conf/nips/SkretaAWB19</url></info>
+<url>URL#848656</url>
+</hit>
+<hit score="1" id="848678">
+<info><authors><author pid="193/7589">Tom Van Steenkiste</author><author pid="65/5723">Dirk Deschrijver</author><author pid="43/2362">Tom Dhaene</author></authors><title>Sensor Fusion using Backward Shortcut Connections for Sleep Apnea Detection in Multi-Modal Data.</title><venue>ML4H@NeurIPS</venue><pages>112-125</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/SteenkisteDD19</key><ee>http://proceedings.mlr.press/v116/van-steenkiste20a.html</ee><url>https://dblp.org/rec/conf/nips/SteenkisteDD19</url></info>
+<url>URL#848678</url>
+</hit>
+<hit score="1" id="848806">
+<info><authors><author pid="234/9076">Jerry W. Wei</author><author pid="198/0422">Arief A. Suriawinata</author><author pid="234/9120">Louis J. Vaickus</author><author pid="15/6678">Bing Ren</author><author pid="96/5609">Xiaoying Liu</author><author pid="02/11220">Jason Wei</author><author pid="41/7507">Saeed Hassanpour</author></authors><title>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images.</title><venue>ML4H@NeurIPS</venue><pages>10-24</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/WeiSVRLWH19</key><ee>http://proceedings.mlr.press/v116/wei20a.html</ee><url>https://dblp.org/rec/conf/nips/WeiSVRLWH19</url></info>
+<url>URL#848806</url>
+</hit>
+<hit score="1" id="848854">
+<info><authors><author pid="00/8493">Xiaojing Xu</author><author pid="30/219">Jeannie S. Huang</author><author pid="94/4658">Virginia R. de Sa</author></authors><title>Pain Evaluation in Video using Extended Multitask Learning from Multidimensional Measurements.</title><venue>ML4H@NeurIPS</venue><pages>141-154</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/nips/XuHS19</key><ee>http://proceedings.mlr.press/v116/xu20a.html</ee><url>https://dblp.org/rec/conf/nips/XuHS19</url></info>
+<url>URL#848854</url>
+</hit>
+<hit score="1" id="889141">
+<info><authors><author pid="27/4108">Adrian V. Dalca</author><author pid="218/6984">Matthew B. A. McDermott</author><author pid="228/9348">Emily Alsentzer</author><author pid="179/1688">Samuel G. Finlayson</author><author pid="241/5940">Michael Oberst</author><author pid="228/8208">Fabian Falck</author><author pid="190/9844">Brett K. Beaulieu-Jones</author></authors><title>Machine Learning for Health Workshop, ML4H@NeurIPS 2019, Vancouver, BC, Canada, 13 December 2019</title><venue>ML4H@NeurIPS</venue><venue>Proceedings of Machine Learning Research</venue><volume>116</volume><publisher>PMLR</publisher><year>2019</year><type>Editorship</type><key>conf/nips/2019ml4h</key><ee>http://proceedings.mlr.press/v116/</ee><url>https://dblp.org/rec/conf/nips/2019ml4h</url></info>
+<url>URL#889141</url>
+</hit>
+</hits>
+</result>

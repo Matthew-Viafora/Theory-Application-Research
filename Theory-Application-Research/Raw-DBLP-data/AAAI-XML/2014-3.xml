@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="304668">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"maiha2014\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">106.44</time>
+<completions total="1" computed="1" sent="1">
+<c sc="12" dc="12" oc="12" id="18218008">:facetid:toc:db/conf/aaai/maiha2014.bht</c>
+</completions>
+<hits total="12" computed="12" sent="12" first="0">
+<hit score="1" id="2359406">
+<info><authors><author pid="190/0785">Hyo Yul Byun</author><author pid="35/4982">James J. Lu</author><author pid="152/7035">Helen S. Mayberg</author><author pid="21/4111">Cengiz Günay</author></authors><title>Classification of Resting State fMRI Datasets Using Dynamic Network Clusters.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/ByunLMG14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8874</ee><url>https://dblp.org/rec/conf/aaai/ByunLMG14</url></info>
+<url>URL#2359406</url>
+</hit>
+<hit score="1" id="2359454">
+<info><authors><author pid="75/8479">John Paul Dickerson</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Balancing Efficiency and Fairness in Dynamic Kidney Exchange.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/DickersonS14a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8777</ee><url>https://dblp.org/rec/conf/aaai/DickersonS14a</url></info>
+<url>URL#2359454</url>
+</hit>
+<hit score="1" id="2359463">
+<info><authors><author pid="91/7246">Afsaneh Doryab</author><author pid="62/5698">Jun-Ki Min</author><author pid="03/8928">Jason Wiese</author><author pid="35/4287">John Zimmerman</author><author pid="h/JasonIHong">Jason I. Hong</author></authors><title>Detection of Behavior Change in People with Depression.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/DoryabMWZH14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8850</ee><url>https://dblp.org/rec/conf/aaai/DoryabMWZH14</url></info>
+<url>URL#2359463</url>
+</hit>
+<hit score="1" id="2359464">
+<info><authors><author pid="64/7056">Finale Doshi-Velez</author><author pid="31/8372">David C. Kale</author><author pid="00/8247">Byron C. Wallace</author><author pid="63/10451">Jenna Wiens</author></authors><title>Preface.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/Doshi-VelezKWW14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8894</ee><url>https://dblp.org/rec/conf/aaai/Doshi-VelezKWW14</url></info>
+<url>URL#2359464</url>
+</hit>
+<hit score="1" id="2359570">
+<info><authors><author pid="60/3413">Sheehan Khan</author><author pid="g/RussellGreiner">Russell Greiner</author></authors><title>The Budgeted Biomarker Discovery Problem - A Variant of Association Studies.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhanG14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8730</ee><url>https://dblp.org/rec/conf/aaai/KhanG14</url></info>
+<url>URL#2359570</url>
+</hit>
+<hit score="1" id="2359609">
+<info><authors><author pid="174/2234">Gilbert Lim</author><author pid="l/MongLiLee">Mong-Li Lee</author><author pid="h/WynneHsu">Wynne Hsu</author><author pid="69/6707">Tien Yin Wong</author></authors><title>Transformed Representations for Convolutional Neural Networks in Diabetic Retinopathy Screening.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/LimLHW14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8754</ee><url>https://dblp.org/rec/conf/aaai/LimLHW14</url></info>
+<url>URL#2359609</url>
+</hit>
+<hit score="1" id="2359639">
+<info><authors><author pid="73/1303">Vukosi Ntsakisi Marivate</author><author pid="165/3134">Jessica Chemali</author><author pid="27/1277">Emma Brunskill</author><author pid="l/MLLittman">Michael L. Littman</author></authors><title>Quantifying Uncertainty in Batch Personalized Sequential Decision Making.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/MarivateCBL14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8718</ee><url>https://dblp.org/rec/conf/aaai/MarivateCBL14</url></info>
+<url>URL#2359639</url>
+</hit>
+<hit score="1" id="2359669">
+<info><authors><author pid="58/6559">Sharmin Nilufar</author><author pid="61/1500">Theodore J. Perkins</author></authors><title>Learning a Cost Function for Interactive Microscope Image Segmentation.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/NilufarP14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8875</ee><url>https://dblp.org/rec/conf/aaai/NilufarP14</url></info>
+<url>URL#2359669</url>
+</hit>
+<hit score="1" id="2359689">
+<info><authors><author pid="121/9259">Kevin Plis</author><author pid="11/936">Razvan C. Bunescu</author><author pid="m/CynthiaRMarling">Cindy Marling</author><author pid="64/2853">Jay Shubrook</author><author pid="37/5158">Frank Schwartz</author></authors><title>A Machine Learning Approach to Predicting Blood Glucose Levels for Diabetes Management.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/PlisBMSS14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8737</ee><url>https://dblp.org/rec/conf/aaai/PlisBMSS14</url></info>
+<url>URL#2359689</url>
+</hit>
+<hit score="1" id="2359762">
+<info><authors><author pid="16/8124">Gert van Valkenhoef</author><author pid="130/1760">Joël Kuiper</author></authors><title>Crowdsourcing a Comprehensive Clinical Trial Repository.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/ValkenhoefK14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8806</ee><url>https://dblp.org/rec/conf/aaai/ValkenhoefK14</url></info>
+<url>URL#2359762</url>
+</hit>
+<hit score="1" id="2359770">
+<info><authors><author pid="00/8247">Byron C. Wallace</author></authors><title>Organizers.</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><year>2014</year><type>Conference and Workshop Papers</type><key>conf/aaai/Wallace14</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/view/8893</ee><url>https://dblp.org/rec/conf/aaai/Wallace14</url></info>
+<url>URL#2359770</url>
+</hit>
+<hit score="1" id="2511433">
+<info><authors><author pid="64/7056">Finale Doshi-Velez</author><author pid="31/8372">David C. Kale</author><author pid="00/8247">Byron C. Wallace</author><author pid="63/10451">Jenna Wiens</author></authors><title>Modern Artificial Intelligence for Health Analytics, Papers from the 2014 AAAI Workshop, Québec City, Québec, Canada, July 27, 2014</title><venue>AAAI Workshop - Modern Artificial Intelligence for Health Analytics</venue><venue>AAAI Workshops</venue><volume>WS-14-08</volume><publisher>AAAI</publisher><year>2014</year><type>Editorship</type><key>conf/aaai/2014maiha</key><ee>http://www.aaai.org/Library/Workshops/ws14-08.php</ee><url>https://dblp.org/rec/conf/aaai/2014maiha</url></info>
+<url>URL#2511433</url>
+</hit>
+</hits>
+</result>

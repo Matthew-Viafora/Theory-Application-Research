@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287296">:facetid:toc:db\"/\"journals\"/\"jmlr\"/\"jmlrp27\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">121.34</time>
+<completions total="1" computed="1" sent="1">
+<c sc="18" dc="18" oc="18" id="18295797">:facetid:toc:db/journals/jmlr/jmlrp27.bht</c>
+</completions>
+<hits total="18" computed="18" sent="18" first="0">
+<hit score="1" id="3050509">
+<info><authors><author pid="53/770">Ayan Acharya</author><author pid="31/4579">Eduardo R. Hruschka</author><author pid="51/2272">Joydeep Ghosh</author><author pid="65/3630">Sreangsu Acharyya</author></authors><title>Transfer Learning with Cluster Ensembles.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>123-132</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/AcharyaHGA12</key><ee>http://proceedings.mlr.press/v27/acharya12a.html</ee><url>https://dblp.org/rec/journals/jmlr/AcharyaHGA12</url></info>
+<url>URL#3050509</url>
+</hit>
+<hit score="1" id="3050515">
+<info><authors><author pid="66/1574">Fabio Aiolli</author></authors><title>Transfer Learning by Kernel Meta-Learning.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>81-95</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/Aiolli12</key><ee>http://proceedings.mlr.press/v27/aiolli12a.html</ee><url>https://dblp.org/rec/journals/jmlr/Aiolli12</url></info>
+<url>URL#3050515</url>
+</hit>
+<hit score="1" id="3050530">
+<info><authors><author pid="54/1564">Pierre Baldi</author></authors><title>Autoencoders, Unsupervised Learning, and Deep Architectures.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>37-50</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/Baldi12</key><ee>http://proceedings.mlr.press/v27/baldi12a.html</ee><url>https://dblp.org/rec/journals/jmlr/Baldi12</url></info>
+<url>URL#3050530</url>
+</hit>
+<hit score="1" id="3050536">
+<info><authors><author pid="56/953">Yoshua Bengio</author></authors><title>Deep Learning of Representations for Unsupervised and Transfer Learning.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>17-36</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/Bengio12</key><ee>http://proceedings.mlr.press/v27/bengio12a.html</ee><url>https://dblp.org/rec/journals/jmlr/Bengio12</url></info>
+<url>URL#3050536</url>
+</hit>
+<hit score="1" id="3050546">
+<info><authors><author pid="b/JMBuhmann">Joachim M. Buhmann</author><author pid="67/3586">Morteza Haghir Chehreghani</author><author pid="21/5710-1">Mario Frank 0001</author><author pid="74/806">Andreas P. Streich</author></authors><title>Information Theoretic Model Selection for Pattern Analysis.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>51-64</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/BuhmannCFS12</key><ee>http://proceedings.mlr.press/v27/buhmann12a.html</ee><url>https://dblp.org/rec/journals/jmlr/BuhmannCFS12</url></info>
+<url>URL#3050546</url>
+</hit>
+<hit score="1" id="3050561">
+<info><authors><author pid="95/8023">Si-Chi Chin</author><author pid="81/3909">W. Nick Street</author></authors><title>Divide and Transfer - an Exploration of Segmented Transfer to Detect Wikipedia Vandalism.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>133-144</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/ChinS12</key><ee>http://proceedings.mlr.press/v27/chin12a.html</ee><url>https://dblp.org/rec/journals/jmlr/ChinS12</url></info>
+<url>URL#3050561</url>
+</hit>
+<hit score="1" id="3050616">
+<info><authors><author pid="84/1101">Kohei Hayashi</author><author pid="57/4270">Takashi Takenouchi</author><author pid="50/2945">Ryota Tomioka</author><author pid="27/4448">Hisashi Kashima</author></authors><title>Self-measuring Similarity for Multi-task Gaussian Process.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>145-154</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/HayashiTTK12</key><ee>http://proceedings.mlr.press/v27/hayashi12a.html</ee><url>https://dblp.org/rec/journals/jmlr/HayashiTTK12</url></info>
+<url>URL#3050616</url>
+</hit>
+<hit score="1" id="3050658">
+<info><authors><author pid="96/6900">Gyemin Lee</author><author pid="123/5106">Lloyd Stoolman</author><author pid="96/8859">Clayton Scott</author></authors><title>Transfer Learning for Auto-gating of Flow Cytometry Data.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>155-166</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/LeeSS12</key><ee>http://proceedings.mlr.press/v27/lee12a.html</ee><url>https://dblp.org/rec/journals/jmlr/LeeSS12</url></info>
+<url>URL#3050658</url>
+</hit>
+<hit score="1" id="3050669">
+<info><authors><author pid="04/7212">Chuanren Liu</author><author pid="44/1129">Jianjun Xie</author><author pid="39/844">Yong Ge</author><author pid="x/HuiXiong">Hui Xiong 0001</author></authors><title>Stochastic Unsupervised Learning on Unlabeled Data.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>111-122</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/LiuXGX12</key><ee>http://proceedings.mlr.press/v27/liu12a.html</ee><url>https://dblp.org/rec/journals/jmlr/LiuXGX12</url></info>
+<url>URL#3050669</url>
+</hit>
+<hit score="1" id="3050677">
+<info><authors><author pid="06/1082">Ulrike von Luxburg</author><author pid="29/5199">Robert C. Williamson</author><author pid="31/6176">Isabelle Guyon</author></authors><title>Clustering - Science or Art?</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>65-80</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/LuxburgWG12</key><ee>http://proceedings.mlr.press/v27/luxburg12a.html</ee><url>https://dblp.org/rec/journals/jmlr/LuxburgWG12</url></info>
+<url>URL#3050677</url>
+</hit>
+<hit score="1" id="3050685">
+<info><authors><author pid="07/9509">Grégoire Mesnil</author><author pid="22/9988">Yann N. Dauphin</author><author pid="90/8576">Xavier Glorot</author><author pid="04/8577">Salah Rifai</author><author pid="56/953">Yoshua Bengio</author><author pid="43/7940">Ian J. Goodfellow</author><author pid="03/11247">Erick Lavoie</author><author pid="17/8577">Xavier Muller</author><author pid="23/8911">Guillaume Desjardins</author><author pid="71/9421">David Warde-Farley</author><author pid="43/861">Pascal Vincent</author><author pid="56/1688">Aaron C. Courville</author><author pid="24/3129">James Bergstra</author></authors><title>Unsupervised and Transfer Learning Challenge - a Deep Learning Approach.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>97-110</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/MesnilDGRBGLMDWVCB12</key><ee>http://proceedings.mlr.press/v27/mesnil12a.html</ee><url>https://dblp.org/rec/journals/jmlr/MesnilDGRBGLMDWVCB12</url></info>
+<url>URL#3050685</url>
+</hit>
+<hit score="1" id="3050698">
+<info><authors><author pid="71/1974">Alexandru Niculescu-Mizil</author><author pid="c/RichCaruana">Rich Caruana</author></authors><title>Inductive Transfer for Bayesian Network Structure Learning.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>167-180</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/Niculescu-MizilC12</key><ee>http://proceedings.mlr.press/v27/niculescu12a.html</ee><url>https://dblp.org/rec/journals/jmlr/Niculescu-MizilC12</url></info>
+<url>URL#3050698</url>
+</hit>
+<hit score="1" id="3050699">
+<info><authors><author pid="05/4937">Vladimir Nikulin</author><author pid="20/4585">Tian-Hsiang Huang</author></authors><title>Unsupervised dimensionality reduction via gradient-based matrix factorization with two adaptive learning rates.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>181-194</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/NikulinH12</key><ee>http://proceedings.mlr.press/v27/nikulin12a.html</ee><url>https://dblp.org/rec/journals/jmlr/NikulinH12</url></info>
+<url>URL#3050699</url>
+</hit>
+<hit score="1" id="3050725">
+<info><authors><author pid="62/5884">Ruslan Salakhutdinov</author><author pid="t/JoshuaBTenenbaum">Joshua B. Tenenbaum</author><author pid="t/AntonioBTorralba">Antonio Torralba 0001</author></authors><title>One-Shot Learning with a Hierarchical Nonparametric Bayesian Model.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>195-206</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/SalakhutdinovTT12</key><ee>http://proceedings.mlr.press/v27/salakhutdinov12a.html</ee><url>https://dblp.org/rec/journals/jmlr/SalakhutdinovTT12</url></info>
+<url>URL#3050725</url>
+</hit>
+<hit score="1" id="3050743">
+<info><authors><author pid="70/791">Daniel L. Silver</author><author pid="31/6176">Isabelle Guyon</author><author pid="17/1633">Graham W. Taylor</author><author pid="06/6216">Gideon Dror</author><author pid="96/4840-1">Vincent Lemaire 0001</author></authors><title>ICML2011 Unsupervised and Transfer Learning Workshop.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>1-16</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/SilverGTDL12</key><ee>http://proceedings.mlr.press/v27/silver12a.html</ee><url>https://dblp.org/rec/journals/jmlr/SilverGTDL12</url></info>
+<url>URL#3050743</url>
+</hit>
+<hit score="1" id="3050785">
+<info><authors><author pid="62/2798">Christian Widmer</author><author pid="33/3796">Gunnar Rätsch</author></authors><title>Multitask Learning in Computational Biology.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>207-216</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/WidmerR12</key><ee>http://proceedings.mlr.press/v27/widmer12a.html</ee><url>https://dblp.org/rec/journals/jmlr/WidmerR12</url></info>
+<url>URL#3050785</url>
+</hit>
+<hit score="1" id="3050787">
+<info><authors><author pid="96/5024">Aaron Wilson</author><author pid="49/6764">Alan Fern</author><author pid="42/4375">Prasad Tadepalli</author></authors><title>Transfer Learning in Sequential Decision Problems - A Hierarchical Bayesian Approach.</title><venue>ICML Unsupervised and Transfer Learning</venue><pages>217-227</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/WilsonFT12</key><ee>http://proceedings.mlr.press/v27/wilson12a.html</ee><url>https://dblp.org/rec/journals/jmlr/WilsonFT12</url></info>
+<url>URL#3050787</url>
+</hit>
+<hit score="1" id="3054543">
+<info><authors><author pid="31/6176">Isabelle Guyon</author><author pid="06/6216">Gideon Dror</author><author pid="96/4840-1">Vincent Lemaire 0001</author><author pid="17/1633">Graham W. Taylor</author><author pid="70/791">Daniel L. Silver</author></authors><title>Unsupervised and Transfer Learning - Workshop held at ICML 2011, Bellevue, Washington, USA, July 2, 2011</title><venue>ICML Unsupervised and Transfer Learning</venue><venue>JMLR Proceedings</venue><volume>27</volume><publisher>JMLR.org</publisher><year>2012</year><type>Editorship</type><key>conf/icml/2011utl</key><ee>http://proceedings.mlr.press/v27/</ee><url>https://dblp.org/rec/conf/icml/2011utl</url></info>
+<url>URL#3054543</url>
+</hit>
+</hits>
+</result>

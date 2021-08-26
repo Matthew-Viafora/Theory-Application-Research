@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="309833">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"sdu2021\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">104.01</time>
+<completions total="1" computed="1" sent="1">
+<c sc="34" dc="34" oc="34" id="18218025">:facetid:toc:db/conf/aaai/sdu2021.bht</c>
+</completions>
+<hits total="34" computed="34" sent="34" first="0">
+<hit score="1" id="80894">
+<info><authors><author pid="281/8575">Dimitrios Christofidellis</author><author pid="194/3100">Matteo Manica</author><author pid="21/1808">Leonidas Georgopoulos</author><author pid="34/1350">Hans Vandierendonck</author></authors><title>Understood in Translation - Transformers for Domain Understanding.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Christofidellis21</key><ee>http://ceur-ws.org/Vol-2831/paper13.pdf</ee><url>https://dblp.org/rec/conf/aaai/Christofidellis21</url></info>
+<url>URL#80894</url>
+</hit>
+<hit score="1" id="80937">
+<info><authors><author pid="59/2029">Dina Demner-Fushman</author><author pid="38/4032">Willie J. Rogers</author><author pid="78/3928">James G. Mork</author></authors><title>Automatic recognition of figurative language in biomedical articles.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Demner-FushmanR21</key><ee>http://ceur-ws.org/Vol-2831/paper9.pdf</ee><url>https://dblp.org/rec/conf/aaai/Demner-FushmanR21</url></info>
+<url>URL#80937</url>
+</hit>
+<hit score="1" id="80984">
+<info><authors><author pid="288/5002">Sejal Dua</author><author pid="140/2229">Ioana Baldini</author><author pid="41/9879">Dmitriy A. Katz-Rogozhnikov</author><author pid="288/5003">Emily van der Veen</author><author pid="288/4998">Allison Britt</author><author pid="254/1602">Pradeep Mangalath</author><author pid="254/1542">Laura B. Kleiman</author><author pid="288/4997">Catherine Del Vecchio Fitz</author></authors><title>Biomedical Corpus Filtering - A Weak Supervision Paradigm With Infused Domain Expertise.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/DuaBKVBMKF21</key><ee>http://ceur-ws.org/Vol-2831/paper14.pdf</ee><url>https://dblp.org/rec/conf/aaai/DuaBKVBMKF21</url></info>
+<url>URL#80984</url>
+</hit>
+<hit score="1" id="80994">
+<info><authors><author pid="228/6738">Nicholas Egan</author><author pid="79/10909">John Bohannon</author></authors><title>Primer AI&apos;s Systems for Acronym Identification and Disambiguation.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/EganB21</key><ee>http://ceur-ws.org/Vol-2831/paper30.pdf</ee><url>https://dblp.org/rec/conf/aaai/EganB21</url></info>
+<url>URL#80994</url>
+</hit>
+<hit score="1" id="81020">
+<info><authors><author pid="129/9499">Michael Färber 0001</author><author pid="285/5145">Alexander Albers</author><author pid="288/4994">Felix Schüber</author></authors><title>Identifying Used Methods and Datasets in Scientific Publications.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/FarberAS21</key><ee>http://ceur-ws.org/Vol-2831/paper19.pdf</ee><url>https://dblp.org/rec/conf/aaai/FarberAS21</url></info>
+<url>URL#81020</url>
+</hit>
+<hit score="1" id="81021">
+<info><authors><author pid="288/5007">Ahnaf Farhan</author><author pid="182/2545">Roberto Camacho Barranco</author><author pid="78/5573">Mahmud Shahriar Hossain</author><author pid="73/2386">Monika Akbar</author></authors><title>Diffusion-based Temporal Word Embeddings.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/FarhanBHA21</key><ee>http://ceur-ws.org/Vol-2831/paper3.pdf</ee><url>https://dblp.org/rec/conf/aaai/FarhanBHA21</url></info>
+<url>URL#81021</url>
+</hit>
+<hit score="1" id="81095">
+<info><authors><author pid="225/0352">Ben Gelman</author><author pid="288/5004">Chae Clark</author><author pid="57/9924">Scott E. Friedman</author><author pid="69/5953">Ugur Kuter</author><author pid="68/8939">James E. Gentile</author></authors><title>Toward A Robust Method for Understanding the Replicability of Research.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/GelmanCFKG21</key><ee>http://ceur-ws.org/Vol-2831/paper34.pdf</ee><url>https://dblp.org/rec/conf/aaai/GelmanCFKG21</url></info>
+<url>URL#81095</url>
+</hit>
+<hit score="1" id="81119">
+<info><authors><author pid="34/4521">Ming Gong</author><author pid="90/2018">Xin Wei</author><author pid="87/10813">Diane Oyen</author><author pid="96/2744-6">Jian Wu 0006</author><author pid="288/5000">Martin Gryder</author><author pid="13/1586">Liping Yang</author></authors><title>Recognizing Figure Labels in Patents.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/GongWO0GY21</key><ee>http://ceur-ws.org/Vol-2831/paper11.pdf</ee><url>https://dblp.org/rec/conf/aaai/GongWO0GY21</url></info>
+<url>URL#81119</url>
+</hit>
+<hit score="1" id="81272">
+<info><authors><author pid="205/6786">Kenichi Iwatsuki</author><author pid="63/1600">Akiko Aizawa</author></authors><title>Extraction of Formulaic Expressions from Scientific Papers.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/IwatsukiA21</key><ee>http://ceur-ws.org/Vol-2831/paper6.pdf</ee><url>https://dblp.org/rec/conf/aaai/IwatsukiA21</url></info>
+<url>URL#81272</url>
+</hit>
+<hit score="1" id="81273">
+<info><authors><author pid="286/5728">Areej Jaber</author><author pid="m/PalomaMartinez">Paloma Martínez</author></authors><title>Participation of UC3M in SDU@AAAI-21 - A Hybrid Approach to Disambiguate Scientific Acronyms.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/JaberM21</key><ee>http://ceur-ws.org/Vol-2831/paper23.pdf</ee><url>https://dblp.org/rec/conf/aaai/JaberM21</url></info>
+<url>URL#81273</url>
+</hit>
+<hit score="1" id="81371">
+<info><authors><author pid="278/8249">Veysel Kocaman</author><author pid="76/1644">David Talby</author></authors><title>Improving Clinical Document Understanding on COVID-19 Research with Spark NLP.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/KocamanT21</key><ee>http://ceur-ws.org/Vol-2831/paper1.pdf</ee><url>https://dblp.org/rec/conf/aaai/KocamanT21</url></info>
+<url>URL#81371</url>
+</hit>
+<hit score="1" id="81383">
+<info><authors><author pid="260/9875">Divesh R. Kubal</author><author pid="127/0241">Apurva Nagvenkar</author></authors><title>Effective Ensembling of Transformer based Language Models for Acronyms Identification.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/KubalN21</key><ee>http://ceur-ws.org/Vol-2831/paper24.pdf</ee><url>https://dblp.org/rec/conf/aaai/KubalN21</url></info>
+<url>URL#81383</url>
+</hit>
+<hit score="1" id="81423">
+<info><authors><author pid="227/9311">Yunsung Lee</author><author pid="183/0952">Teakgyu Hong</author><author pid="141/9955">Seungryong Kim</author></authors><title>Data Augmentations for Document Images.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeeHK21</key><ee>http://ceur-ws.org/Vol-2831/paper20.pdf</ee><url>https://dblp.org/rec/conf/aaai/LeeHK21</url></info>
+<url>URL#81423</url>
+</hit>
+<hit score="1" id="81442">
+<info><authors><author pid="238/4569">Xiangci Li</author><author pid="216/0285">Gully A. Burns</author><author pid="117/4036">Nanyun Peng</author></authors><title>A Paragraph-level Multi-task Learning Model for Scientific Fact-Verification.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiBP21</key><ee>http://ceur-ws.org/Vol-2831/paper8.pdf</ee><url>https://dblp.org/rec/conf/aaai/LiBP21</url></info>
+<url>URL#81442</url>
+</hit>
+<hit score="1" id="81451">
+<info><authors><author pid="197/0899">Xiajing Li</author><author pid="73/5742">Marios Daoutis</author></authors><title>Unsupervised Key-phrase Extraction and Clustering for Classification Scheme in Scientific Publications.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiD21</key><ee>http://ceur-ws.org/Vol-2831/paper2.pdf</ee><url>https://dblp.org/rec/conf/aaai/LiD21</url></info>
+<url>URL#81451</url>
+</hit>
+<hit score="1" id="81475">
+<info><authors><author pid="92/2954">Feng Li</author><author pid="288/4995">Zhensheng Mai</author><author pid="155/3142">Wuhe Zou</author><author pid="219/8417">Wenjie Ou</author><author pid="207/9014">Xiaolei Qin</author><author pid="98/7264">Yue Lin</author><author pid="24/3562-6">Weidong Zhang 0006</author></authors><title>Systems at SDU-2021 Task 1 - Transformers for Sentence Level Sequence Label.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiMZOQLZ21</key><ee>http://ceur-ws.org/Vol-2831/paper26.pdf</ee><url>https://dblp.org/rec/conf/aaai/LiMZOQLZ21</url></info>
+<url>URL#81475</url>
+</hit>
+<hit score="1" id="81632">
+<info><authors><author pid="203/8759">Sean MacAvaney</author><author pid="132/4043">Franck Dernoncourt</author><author pid="19/2392">Walter Chang</author><author pid="46/4886">Nazli Goharian</author><author pid="f/OphirFrieder">Ophir Frieder</author></authors><title>Interaction Matching for Long-Tail Multi-Label Classification.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/MacAvaneyDCGF21</key><ee>http://ceur-ws.org/Vol-2831/paper21.pdf</ee><url>https://dblp.org/rec/conf/aaai/MacAvaneyDCGF21</url></info>
+<url>URL#81632</url>
+</hit>
+<hit score="1" id="81644">
+<info><authors><author pid="221/3669">Saurav Manchanda</author><author pid="k/GeorgeKarypis">George Karypis</author></authors><title>Importance Assessment in Scholarly Networks.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/ManchandaK21</key><ee>http://ceur-ws.org/Vol-2831/paper17.pdf</ee><url>https://dblp.org/rec/conf/aaai/ManchandaK21</url></info>
+<url>URL#81644</url>
+</hit>
+<hit score="1" id="81692">
+<info><authors><author pid="235/1747">Sai Ajay Modukuri</author><author pid="42/8717">Sarah Michele Rajtmajer</author><author pid="s/AnnaCinziaSquicciarini">Anna Cinzia Squicciarini</author><author pid="96/2744-6">Jian Wu 0006</author><author pid="g/CLeeGiles">C. Lee Giles</author></authors><title>Understanding and Predicting Retractions of Published Work.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/ModukuriRS0G21</key><ee>http://ceur-ws.org/Vol-2831/paper16.pdf</ee><url>https://dblp.org/rec/conf/aaai/ModukuriRS0G21</url></info>
+<url>URL#81692</url>
+</hit>
+<hit score="1" id="81696">
+<info><authors><author pid="255/8493">Ishani Mondal</author></authors><title>BERTKG-DDI - Towards Incorporating Entity-specific Knowledge Graph Information in Predicting Drug-Drug Interactions.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Mondal21</key><ee>http://ceur-ws.org/Vol-2831/paper5.pdf</ee><url>https://dblp.org/rec/conf/aaai/Mondal21</url></info>
+<url>URL#81696</url>
+</hit>
+<hit score="1" id="81773">
+<info><authors><author pid="252/2789">Chunguang Pan</author><author pid="275/8980">Bingyan Song</author><author pid="286/8042">Shengguang Wang</author><author pid="120/7554">Zhipeng Luo</author></authors><title>BERT-based Acronym Disambiguation with Multiple Training Strategies.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/PanSWL21</key><ee>http://ceur-ws.org/Vol-2831/paper25.pdf</ee><url>https://dblp.org/rec/conf/aaai/PanSWL21</url></info>
+<url>URL#81773</url>
+</hit>
+<hit score="1" id="81794">
+<info><authors><author pid="199/1748">Ramakanth Pasunuru</author><author pid="25/6469">David S. Rosenberg</author><author pid="27/9014">Gideon Mann</author><author pid="32/5243">Mohit Bansal</author></authors><title>Dual Reinforcement-Based Specification Generation for Image De-Rendering.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/PasunuruRMB21</key><ee>http://ceur-ws.org/Vol-2831/paper12.pdf</ee><url>https://dblp.org/rec/conf/aaai/PasunuruRMB21</url></info>
+<url>URL#81794</url>
+</hit>
+<hit score="1" id="81801">
+<info><authors><author pid="166/9107">João L. M. Pereira</author><author pid="g/HelenaGalhardas">Helena Galhardas</author><author pid="288/4993">Dennis Shasha</author></authors><title>Acronym Expander at SDU@AAAI-21 - an Acronym Disambiguation Module.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/PereiraGS21</key><ee>http://ceur-ws.org/Vol-2831/paper32.pdf</ee><url>https://dblp.org/rec/conf/aaai/PereiraGS21</url></info>
+<url>URL#81801</url>
+</hit>
+<hit score="1" id="81804">
+<info><authors><author pid="288/5005">Ruth Petit-Bois</author><author pid="288/4999">Jeffrey Jacob</author><author pid="75/4670">Spencer Rugaber</author><author pid="g/AshokKGoel">Ashok K. Goel 0001</author></authors><title>Towards a Virtual Librarian for Biologically Inspired Design Knowledge-Based Methods for Document Understanding.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Petit-BoisJR021</key><ee>http://ceur-ws.org/Vol-2831/paper4.pdf</ee><url>https://dblp.org/rec/conf/aaai/Petit-BoisJR021</url></info>
+<url>URL#81804</url>
+</hit>
+<hit score="1" id="81872">
+<info><authors><author pid="288/4996">Willie Rogers</author><author pid="227/5220">Alastair R. Rae</author><author pid="59/2029">Dina Demner-Fushman</author></authors><title>AI-NLM exploration of the Acronym Identification Shared Task at SDU@AAAI-21.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/RogersRD21</key><ee>http://ceur-ws.org/Vol-2831/paper29.pdf</ee><url>https://dblp.org/rec/conf/aaai/RogersRD21</url></info>
+<url>URL#81872</url>
+</hit>
+<hit score="1" id="81961">
+<info><authors><author pid="274/6808">Aadarsh Singh</author><author pid="274/7091">Priyanshu Kumar</author></authors><title>SciDr at SDU-2020 - IDEAS - Identifying and Disambiguating Everyday Acronyms for Scientific Domain.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/SinghK21</key><ee>http://ceur-ws.org/Vol-2831/paper31.pdf</ee><url>https://dblp.org/rec/conf/aaai/SinghK21</url></info>
+<url>URL#81961</url>
+</hit>
+<hit score="1" id="81981">
+<info><authors><author pid="241/6035">Sajad Sotudeh</author><author pid="160/1727">Arman Cohan</author><author pid="46/4886">Nazli Goharian</author></authors><title>On Generating Extended Summaries of Long Documents.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/SotudehCG21</key><ee>http://ceur-ws.org/Vol-2831/paper22.pdf</ee><url>https://dblp.org/rec/conf/aaai/SotudehCG21</url></info>
+<url>URL#81981</url>
+</hit>
+<hit score="1" id="82056">
+<info><authors><author pid="283/4061">Hariprasad Timmapathini</author><author pid="256/7999">Anmol Nayak</author><author pid="250/0089">Sarathchandra Mandadi</author><author pid="288/5006">Siva Sangada</author><author pid="256/8062">Vaibhav Kesri</author><author pid="53/4001">Karthikeyan Ponnalagu</author><author pid="239/2063">Vijendran Gopalan Venkoparao</author></authors><title>Probing the SpanBERT Architecture to interpret Scientific Domain Adaptation Challenges for Coreference Resolution.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/TimmapathiniNMS21</key><ee>http://ceur-ws.org/Vol-2831/paper10.pdf</ee><url>https://dblp.org/rec/conf/aaai/TimmapathiniNMS21</url></info>
+<url>URL#82056</url>
+</hit>
+<hit score="1" id="82086">
+<info><authors><author pid="185/9660">Amir Pouran Ben Veyseh</author><author pid="132/4043">Franck Dernoncourt</author><author pid="17/9407">Thien Huu Nguyen</author><author pid="19/2392">Walter Chang</author><author pid="95/10052">Leo Anthony Celi</author></authors><title>Acronym Identification and Disambiguation Shared Tasks for Scientific Document Understanding.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/VeysehDNCC21</key><ee>http://ceur-ws.org/Vol-2831/paper33.pdf</ee><url>https://dblp.org/rec/conf/aaai/VeysehDNCC21</url></info>
+<url>URL#82086</url>
+</hit>
+<hit score="1" id="82296">
+<info><authors><author pid="41/3461">Junjie Yang</author><author pid="06/9708">Zhuosheng Zhang 0001</author><author pid="25/1145">Hai Zhao</author></authors><title>Multi-span Style Extraction for Generative Reading Comprehension.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Yang0Z21</key><ee>http://ceur-ws.org/Vol-2831/paper7.pdf</ee><url>https://dblp.org/rec/conf/aaai/Yang0Z21</url></info>
+<url>URL#82296</url>
+</hit>
+<hit score="1" id="82300">
+<info><authors><author pid="222/1564">Huichen Yang</author><author pid="22/6109">William Hsu</author></authors><title>Named Entity Recognition from Synthesis Procedural Text in Materials Science Domain with Attention-Based Approach.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/YangH21</key><ee>http://ceur-ws.org/Vol-2831/paper15.pdf</ee><url>https://dblp.org/rec/conf/aaai/YangH21</url></info>
+<url>URL#82300</url>
+</hit>
+<hit score="1" id="82490">
+<info><authors><author pid="257/5630">Qiwei Zhong</author><author pid="228/6972">Guanxiong Zeng</author><author pid="187/0964">Danqing Zhu</author><author pid="06/6785">Yang Zhang</author><author pid="273/0222">Wangli Lin</author><author pid="94/4500">Ben Chen</author><author pid="14/533">Jiayu Tang</author></authors><title>Leveraging Domain Agnostic and Specific Knowledge for Acronym Disambiguation.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhongZZZLCT21</key><ee>http://ceur-ws.org/Vol-2831/paper27.pdf</ee><url>https://dblp.org/rec/conf/aaai/ZhongZZZLCT21</url></info>
+<url>URL#82490</url>
+</hit>
+<hit score="1" id="82522">
+<info><authors><author pid="187/0964">Danqing Zhu</author><author pid="273/0222">Wangli Lin</author><author pid="06/6785">Yang Zhang</author><author pid="257/5630">Qiwei Zhong</author><author pid="228/6972">Guanxiong Zeng</author><author pid="17/6211">Weilin Wu</author><author pid="14/533">Jiayu Tang</author></authors><title>AT-BERT - Adversarial Training BERT for Acronym Identification Winning Solution for SDU@AAAI-21.</title><venue>SDU@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhuLZZZWT21</key><ee>http://ceur-ws.org/Vol-2831/paper28.pdf</ee><url>https://dblp.org/rec/conf/aaai/ZhuLZZZWT21</url></info>
+<url>URL#82522</url>
+</hit>
+<hit score="1" id="103578">
+<info><authors><author pid="185/9660">Amir Pouran Ben Veyseh</author><author pid="132/4043">Franck Dernoncourt</author><author pid="17/9407">Thien Huu Nguyen</author><author pid="19/2392">Walter Chang</author><author pid="95/10052">Leo Anthony Celi</author></authors><title>Proceedings of the Workshop on Scientific Document Understanding co-located with 35th AAAI Conference on Artificial Inteligence, SDU@AAAI 2021, Virtual Event, February 9, 2021.</title><venue>SDU@AAAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2831</volume><publisher>CEUR-WS.org</publisher><year>2021</year><type>Editorship</type><key>conf/aaai/2021sdu</key><ee>http://ceur-ws.org/Vol-2831</ee><url>https://dblp.org/rec/conf/aaai/2021sdu</url></info>
+<url>URL#103578</url>
+</hit>
+</hits>
+</result>

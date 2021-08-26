@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="7446">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ai4km2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">123.17</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18262885">:facetid:toc:db/conf/ijcai/ai4km2016.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="1267064">
+<info><authors><author pid="10/4546">Eunika Mercier-Laurent</author><author pid="08/4570">Danielle Boulanger</author></authors><title>Artificial Intelligence for Knowledge Management - 4th IFIP WG 12.6 International Workshop, AI4KM 2016, Held at IJCAI 2016, New York, NY, USA, July 9, 2016, Revised Selected Papers</title><venue>AI4KM@IJCAI</venue><venue>IFIP Advances in Information and Communication Technology</venue><volume>518</volume><publisher>Springer</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2016ai4km</key><doi>10.1007/978-3-319-92928-6</doi><ee>https://doi.org/10.1007/978-3-319-92928-6</ee><url>https://dblp.org/rec/conf/ijcai/2016ai4km</url></info>
+<url>URL#1267064</url>
+</hit>
+<hit score="1" id="1855463">
+<info><authors><author pid="98/7361">Sanda Dragos</author><author pid="152/3915">Diana-Florina Sotropa</author><author pid="152/3863">Diana Troanca</author></authors><title>Highlighting Trend-Setters in Educational Platforms by Means of Formal Concept Analysis and Answer Set Programming.</title><venue>AI4KM@IJCAI</venue><pages>71-92</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DragosST16</key><doi>10.1007/978-3-319-92928-6_5</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_5</ee><url>https://dblp.org/rec/conf/ijcai/DragosST16</url></info>
+<url>URL#1855463</url>
+</hit>
+<hit score="1" id="1855716">
+<info><authors><author pid="183/0905">Gulnar Mehdi</author><author pid="46/950-1">Sebastian Brandt 0001</author><author pid="27/6378">Mikhail Roshchin</author><author pid="76/462">Thomas A. Runkler</author></authors><title>Towards Semantic Reasoning in Knowledge Management Systems.</title><venue>AI4KM@IJCAI</venue><pages>132-146</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MehdiBRR16a</key><doi>10.1007/978-3-319-92928-6_9</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_9</ee><url>https://dblp.org/rec/conf/ijcai/MehdiBRR16a</url></info>
+<url>URL#1855716</url>
+</hit>
+<hit score="1" id="1855757">
+<info><authors><author pid="29/1114">Mieczyslaw L. Owoc</author><author pid="152/5662">Krzysztof Hauke</author><author pid="136/0288">Katarzyna Marciniak</author></authors><title>Dynamic Ontology Supporting Local Government.</title><venue>AI4KM@IJCAI</venue><pages>36-49</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OwocHM16</key><doi>10.1007/978-3-319-92928-6_3</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_3</ee><url>https://dblp.org/rec/conf/ijcai/OwocHM16</url></info>
+<url>URL#1855757</url>
+</hit>
+<hit score="1" id="1855758">
+<info><authors><author pid="29/1114">Mieczyslaw L. Owoc</author><author pid="138/3862">Maciej Pondel</author></authors><title>Selection of Free Software Useful in Business Intelligence. Teaching Methodology Perspective.</title><venue>AI4KM@IJCAI</venue><pages>93-105</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OwocP16</key><doi>10.1007/978-3-319-92928-6_6</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_6</ee><url>https://dblp.org/rec/conf/ijcai/OwocP16</url></info>
+<url>URL#1855758</url>
+</hit>
+<hit score="1" id="1855759">
+<info><authors><author pid="225/4270">Mahmut Ali Özkuran</author><author pid="08/4195">Gülgün Kayakutlu</author></authors><title>Segmentation of Social Network Users in Turkey.</title><venue>AI4KM@IJCAI</venue><pages>119-131</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OzkuranK16</key><doi>10.1007/978-3-319-92928-6_8</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_8</ee><url>https://dblp.org/rec/conf/ijcai/OzkuranK16</url></info>
+<url>URL#1855759</url>
+</hit>
+<hit score="1" id="1855775">
+<info><authors><author pid="166/9729">Cong-Cuong Pham</author><author pid="239/2536">Nada Matta</author><author pid="123/5038">Alexandre Durupt</author><author pid="02/5128">Benoît Eynard</author><author pid="136/9435">Marianne Allanic</author><author pid="57/112">Guillaume Ducellier</author><author pid="15/10743">Marc Joliot</author><author pid="123/5068">Philippe Boutinaud</author></authors><title>Using Ontologies to Access Complex Data - Applications on Bio-Imaging.</title><venue>AI4KM@IJCAI</venue><pages>19-35</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PhamMDEADJB16</key><doi>10.1007/978-3-319-92928-6_2</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_2</ee><url>https://dblp.org/rec/conf/ijcai/PhamMDEADJB16</url></info>
+<url>URL#1855775</url>
+</hit>
+<hit score="1" id="1855781">
+<info><authors><author pid="198/5288">Lukasz Przysucha</author></authors><title>Internet Platform for City Dwellers Based on Open Source System.</title><venue>AI4KM@IJCAI</venue><pages>106-118</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Przysucha16</key><doi>10.1007/978-3-319-92928-6_7</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_7</ee><url>https://dblp.org/rec/conf/ijcai/Przysucha16</url></info>
+<url>URL#1855781</url>
+</hit>
+<hit score="1" id="1855799">
+<info><authors><author pid="79/6633">Sebastian Rudolph</author><author pid="61/9867">Christian Sacarea</author><author pid="152/3863">Diana Troanca</author></authors><title>Conceptual Navigation for Polyadic Formal Concept Analysis.</title><venue>AI4KM@IJCAI</venue><pages>50-70</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/RudolphST16</key><doi>10.1007/978-3-319-92928-6_4</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_4</ee><url>https://dblp.org/rec/conf/ijcai/RudolphST16</url></info>
+<url>URL#1855799</url>
+</hit>
+<hit score="1" id="1855941">
+<info><authors><author pid="41/5352">Janusz Wojtusiak</author><author pid="76/3457">Hua Min</author><author pid="200/2137">Eman Elashkar</author><author pid="200/4509">Hedyeh Mobahi</author></authors><title>Guiding Supervised Learning by Bio-Ontologies in Medical Data Analysis.</title><venue>AI4KM@IJCAI</venue><pages>1-18</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WojtusiakMEM16</key><doi>10.1007/978-3-319-92928-6_1</doi><ee>https://doi.org/10.1007/978-3-319-92928-6_1</ee><url>https://dblp.org/rec/conf/ijcai/WojtusiakMEM16</url></info>
+<url>URL#1855941</url>
+</hit>
+</hits>
+</result>

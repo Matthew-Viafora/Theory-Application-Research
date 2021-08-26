@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="309814">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"safeai2021\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">104.67</time>
+<completions total="1" computed="1" sent="1">
+<c sc="24" dc="24" oc="24" id="18218023">:facetid:toc:db/conf/aaai/safeai2021.bht</c>
+</completions>
+<hits total="24" computed="24" sent="24" first="0">
+<hit score="1" id="80654">
+<info><authors><author pid="285/0400">Takuma Amada</author><author pid="166/1648">Kazuya Kakizaki</author><author pid="259/7221">Seng Pei Liew</author><author pid="71/5678">Toshinori Araki</author><author pid="45/4451">Joseph Keshet</author><author pid="74/3729">Jun Furukawa 0001</author></authors><title>Adversarial Robustness for Face Recognition - How to Introduce Ensemble Diversity among Feature Extractors?</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/AmadaKLAK021</key><ee>http://ceur-ws.org/Vol-2808/Paper_34.pdf</ee><url>https://dblp.org/rec/conf/aaai/AmadaKLAK021</url></info>
+<url>URL#80654</url>
+</hit>
+<hit score="1" id="80665">
+<info><authors><author pid="267/6463">Nivasini Ananthakrishnan</author><author pid="15/6319">Shai Ben-David</author><author pid="267/6485">Tosca Lechner</author></authors><title>Classification Confidence Scores with Point-wise Guarantees.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Ananthakrishnan21</key><ee>http://ceur-ws.org/Vol-2808/Paper_33.pdf</ee><url>https://dblp.org/rec/conf/aaai/Ananthakrishnan21</url></info>
+<url>URL#80665</url>
+</hit>
+<hit score="1" id="80684">
+<info><authors><author pid="144/7568">Rob Ashmore</author><author pid="73/4372">Alec Banks</author></authors><title>The Utility of Neural Network Test Coverage Measures.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/AshmoreB21</key><ee>http://ceur-ws.org/Vol-2808/Paper_2.pdf</ee><url>https://dblp.org/rec/conf/aaai/AshmoreB21</url></info>
+<url>URL#80684</url>
+</hit>
+<hit score="1" id="80686">
+<info><authors><author pid="277/9211">Hal Ashton</author></authors><title>What criminal and civil law tells us about Safe RL techniques to generate law-abiding behaviour.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Ashton21</key><ee>http://ceur-ws.org/Vol-2808/Paper_25.pdf</ee><url>https://dblp.org/rec/conf/aaai/Ashton21</url></info>
+<url>URL#80686</url>
+</hit>
+<hit score="1" id="80770">
+<info><authors><author pid="259/5707">John Burden</author><author pid="h/JoseHernandezOrallo">José Hernández-Orallo</author><author pid="148/7203">Seán Ó hÉigeartaigh</author></authors><title>Negative Side Effects and AI Agent Indicators - Experiments in SafeLife.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/BurdenHh21</key><ee>http://ceur-ws.org/Vol-2808/Paper_24.pdf</ee><url>https://dblp.org/rec/conf/aaai/BurdenHh21</url></info>
+<url>URL#80770</url>
+</hit>
+<hit score="1" id="80791">
+<info><authors><author pid="86/10828">Francesco Cartella</author><author pid="41/9017">Orlando Anunciação</author><author pid="200/7140">Yuki Funabiki</author><author pid="67/740">Daisuke Yamaguchi</author><author pid="88/247">Toru Akishita</author><author pid="283/6052">Olivier Elshocht</author></authors><title>Adversarial Attacks for Tabular Data - Application to Fraud Detection and Imbalanced Data.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/CartellaAFYAE21</key><ee>http://ceur-ws.org/Vol-2808/Paper_4.pdf</ee><url>https://dblp.org/rec/conf/aaai/CartellaAFYAE21</url></info>
+<url>URL#80791</url>
+</hit>
+<hit score="1" id="80962">
+<info><authors><author pid="275/5338">Václav Divis</author><author pid="48/8162">Marek Hrúz</author></authors><title>Neural Criticality - Validation of Convolutional Neural Networks.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/DivisH21</key><ee>http://ceur-ws.org/Vol-2808/Paper_36.pdf</ee><url>https://dblp.org/rec/conf/aaai/DivisH21</url></info>
+<url>URL#80962</url>
+</hit>
+<hit score="1" id="81089">
+<info><authors><author pid="87/2208">Adrien Gauffriau</author><author pid="97/5816">François Malgouyres</author><author pid="172/1017">Mélanie Ducoffe</author></authors><title>Overestimation Learning with Guarantees.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/GauffriauMD21</key><ee>http://ceur-ws.org/Vol-2808/Paper_3.pdf</ee><url>https://dblp.org/rec/conf/aaai/GauffriauMD21</url></info>
+<url>URL#81089</url>
+</hit>
+<hit score="1" id="81090">
+<info><authors><author pid="284/9967">Vibhu Gautam</author><author pid="130/0940">Youcef Gheraibia</author><author pid="18/724">Rob Alexander</author><author pid="84/2232">Richard Hawkins</author></authors><title>Runtime Decision Making Under Uncertainty in Autonomous Vehicles.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/GautamGAH21</key><ee>http://ceur-ws.org/Vol-2808/Paper_17.pdf</ee><url>https://dblp.org/rec/conf/aaai/GautamGAH21</url></info>
+<url>URL#81090</url>
+</hit>
+<hit score="1" id="81174">
+<info><authors><author pid="284/9851">Christopher Harper</author><author pid="35/2784">Praminda Caleb-Solly</author></authors><title>Towards an Ontological Framework for Environmental Survey Hazard Analysis of Autonomous Systems.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/HarperC21</key><ee>http://ceur-ws.org/Vol-2808/Paper_41.pdf</ee><url>https://dblp.org/rec/conf/aaai/HarperC21</url></info>
+<url>URL#81174</url>
+</hit>
+<hit score="1" id="81191">
+<info><authors><author pid="214/0547">Javier Hernandez-Ortega</author><author pid="164/9111">Rubén Tolosana</author><author pid="97/4330">Julian Fiérrez</author><author pid="91/7421">Aythami Morales</author></authors><title>DeepFakesON-Phys - DeepFakes Detection based on Heart Rate Estimation.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Hernandez-Ortega21</key><ee>http://ceur-ws.org/Vol-2808/Paper_6.pdf</ee><url>https://dblp.org/rec/conf/aaai/Hernandez-Ortega21</url></info>
+<url>URL#81191</url>
+</hit>
+<hit score="1" id="81241">
+<info><authors><author pid="220/3988">Haiwen Huang</author><author pid="49/8382">Zhihan Li</author><author pid="28/1751">Lulu Wang</author><author pid="279/6225">Sishuo Chen</author><author pid="27/3481">Xinyu Zhou</author><author pid="11/6024">Bin Dong</author></authors><title>Feature Space Singularity for Out-of-Distribution Detection.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangLWCZD21</key><ee>http://ceur-ws.org/Vol-2808/Paper_7.pdf</ee><url>https://dblp.org/rec/conf/aaai/HuangLWCZD21</url></info>
+<url>URL#81241</url>
+</hit>
+<hit score="1" id="81262">
+<info><authors><author pid="285/0141">John Hyatt</author><author pid="63/159">Michael Lee</author></authors><title>Multi-Modal Generative Adversarial Networks Make Realistic and Diverse but Untrustworthy Predictions When Applied to Ill-posed Problems.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/HyattL21</key><ee>http://ceur-ws.org/Vol-2808/Paper_8.pdf</ee><url>https://dblp.org/rec/conf/aaai/HyattL21</url></info>
+<url>URL#81262</url>
+</hit>
+<hit score="1" id="81434">
+<info><authors><author pid="271/0123">Gavin Leech</author><author pid="285/0412">Nandi Schoots</author><author pid="242/8125">Joar Skalse</author></authors><title>Safety Properties of Inductive Logic Programming.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeechSS21</key><ee>http://ceur-ws.org/Vol-2808/Paper_14.pdf</ee><url>https://dblp.org/rec/conf/aaai/LeechSS21</url></info>
+<url>URL#81434</url>
+</hit>
+<hit score="1" id="81535">
+<info><authors><author pid="238/0981">David Lindner</author><author pid="150/1860">Kyle Matoba</author><author pid="267/9546">Alexander Meulemans</author></authors><title>Challenges for Using Impact Regularizers to Avoid Negative Side Effects.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/LindnerMM21</key><ee>http://ceur-ws.org/Vol-2808/Paper_20.pdf</ee><url>https://dblp.org/rec/conf/aaai/LindnerMM21</url></info>
+<url>URL#81535</url>
+</hit>
+<hit score="1" id="81655">
+<info><authors><author pid="203/3072">Jared Markowitz</author><author pid="143/0670">Marie Chau</author><author pid="68/5298">I-Jeng Wang</author></authors><title>Deep CPT-RL - Imparting Human-Like Risk Sensitivity to Artificial Agents.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/MarkowitzCW21</key><ee>http://ceur-ws.org/Vol-2808/Paper_30.pdf</ee><url>https://dblp.org/rec/conf/aaai/MarkowitzCW21</url></info>
+<url>URL#81655</url>
+</hit>
+<hit score="1" id="81715">
+<info><authors><author pid="228/4363">Saasha Nair</author><author pid="194/3403">Sina Shafaei</author><author pid="285/0152">Daniel Auge</author><author pid="k/AloisKnoll">Alois C. Knoll</author></authors><title>An Evaluation of &quot;Crash Prediction Networks&quot; (CPN) for Autonomous Driving Scenarios in CARLA Simulator.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/NairSAK21</key><ee>http://ceur-ws.org/Vol-2808/Paper_10.pdf</ee><url>https://dblp.org/rec/conf/aaai/NairSAK21</url></info>
+<url>URL#81715</url>
+</hit>
+<hit score="1" id="81768">
+<info><authors><author pid="204/0023">Jan-Pieter Paardekooper</author><author pid="284/9794">Mauro Comi</author><author pid="76/11226">Corrado Grappiolo</author><author pid="283/0008">Ron Snijders</author><author pid="185/8715">Willeke van Vught</author><author pid="251/4373">Rutger Beekelaar</author></authors><title>A Hybrid-AI Approach for Competence Assessment of Automated Driving functions.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/PaardekooperCGS21</key><ee>http://ceur-ws.org/Vol-2808/Paper_37.pdf</ee><url>https://dblp.org/rec/conf/aaai/PaardekooperCGS21</url></info>
+<url>URL#81768</url>
+</hit>
+<hit score="1" id="81907">
+<info><authors><author pid="283/4927">Franziska Schwaiger</author><author pid="246/2285">Maximilian Henne</author><author pid="253/6164">Fabian Küppers</author><author pid="282/2020">Felippe Schmoeller Roza</author><author pid="143/9305">Karsten Roscher</author><author pid="92/3556">Anselm Haselhoff</author></authors><title>From Black-box to White-box - Examining Confidence Calibration under different Conditions.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchwaigerHKRRH21</key><ee>http://ceur-ws.org/Vol-2808/Paper_13.pdf</ee><url>https://dblp.org/rec/conf/aaai/SchwaigerHKRRH21</url></info>
+<url>URL#81907</url>
+</hit>
+<hit score="1" id="82049">
+<info><authors><author pid="211/6738">Jakub Tetek</author><author pid="278/8312">Marek Sklenka</author><author pid="00/8050">Tomas Gavenciak</author></authors><title>Performance of Bounded-Rational Agents With the Ability to Self-Modify.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/TetekSG21</key><ee>http://ceur-ws.org/Vol-2808/Paper_26.pdf</ee><url>https://dblp.org/rec/conf/aaai/TetekSG21</url></info>
+<url>URL#82049</url>
+</hit>
+<hit score="1" id="82078">
+<info><authors><author pid="224/8958">Ville Vakkuri</author><author pid="266/1855">Marianna Jantunen</author><author pid="284/2626">Erika Halme</author><author pid="224/8748">Kai-Kristian Kemell</author><author pid="166/5787">Anh Nguyen-Duc</author><author pid="80/5814">Tommi Mikkonen</author><author pid="71/5809">Pekka Abrahamsson</author></authors><title>Time for AI (Ethics) Maturity Model Is Now.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/VakkuriJHKNMA21</key><ee>http://ceur-ws.org/Vol-2808/Paper_16.pdf</ee><url>https://dblp.org/rec/conf/aaai/VakkuriJHKNMA21</url></info>
+<url>URL#82078</url>
+</hit>
+<hit score="1" id="82178">
+<info><authors><author pid="w/FranzWotawa">Franz Wotawa</author></authors><title>On the Use of Available Testing Methods for Verification &amp; Validation of AI-based Software and Systems.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/Wotawa21</key><ee>http://ceur-ws.org/Vol-2808/Paper_29.pdf</ee><url>https://dblp.org/rec/conf/aaai/Wotawa21</url></info>
+<url>URL#82178</url>
+</hit>
+<hit score="1" id="82179">
+<info><authors><author pid="52/10404">Ernest Wozniak</author><author pid="06/11174">Henrik J. Putzer</author><author pid="185/0115">Carmen Cârlan</author></authors><title>AI-Blueprint for Deep Neural Networks.</title><venue>SafeAI@AAAI</venue><year>2021</year><type>Conference and Workshop Papers</type><key>conf/aaai/WozniakPC21</key><ee>http://ceur-ws.org/Vol-2808/Paper_22.pdf</ee><url>https://dblp.org/rec/conf/aaai/WozniakPC21</url></info>
+<url>URL#82179</url>
+</hit>
+<hit score="1" id="103577">
+<info><authors><author pid="04/4931">Huáscar Espinoza</author><author pid="61/3573">John McDermid</author><author pid="60/5414-1">Xiaowei Huang 0001</author><author pid="42/4207">Mauricio Castillo-Effen</author><author pid="259/5665">Xin Cynthia Chen</author><author pid="h/JoseHernandezOrallo">José Hernández-Orallo</author><author pid="148/7203">Seán Ó hÉigeartaigh</author><author pid="246/2111">Richard Mallah</author></authors><title>Proceedings of the Workshop on Artificial Intelligence Safety 2021 (SafeAI 2021) co-located with the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2021), Virtual, February 8, 2021.</title><venue>SafeAI@AAAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2808</volume><publisher>CEUR-WS.org</publisher><year>2021</year><type>Editorship</type><key>conf/aaai/2021safeai</key><ee>http://ceur-ws.org/Vol-2808</ee><url>https://dblp.org/rec/conf/aaai/2021safeai</url></info>
+<url>URL#103577</url>
+</hit>
+</hits>
+</result>

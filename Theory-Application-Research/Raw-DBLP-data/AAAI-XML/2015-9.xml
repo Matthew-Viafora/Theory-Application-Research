@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="306577">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"trust2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">104.39</time>
+<completions total="1" computed="1" sent="1">
+<c sc="6" dc="6" oc="6" id="18218035">:facetid:toc:db/conf/aaai/trust2015.bht</c>
+</completions>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="2066678">
+<info><authors><author pid="144/7990">Abdullah Aref</author><author pid="92/3508">Thomas T. Tran</author></authors><title>A Trust Establishment Model in Multi-Agent Systems.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/ArefT15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10055</ee><url>https://dblp.org/rec/conf/aaai/ArefT15</url></info>
+<url>URL#2066678</url>
+</hit>
+<hit score="1" id="2066848">
+<info><authors><author pid="130/3982">Itai Feigenbaum</author><author pid="69/704">Jay Sethuraman</author></authors><title>Strategyproof Mechanisms for One-Dimensional Hybrid and Obnoxious Facility Location Models.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/FeigenbaumS15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10182</ee><url>https://dblp.org/rec/conf/aaai/FeigenbaumS15</url></info>
+<url>URL#2066848</url>
+</hit>
+<hit score="1" id="2066866">
+<info><authors><author pid="137/3611">Boris A. Galitsky</author></authors><title>Recognizing Intent and Trust of a Facebook Friend to Facilitate Autonomous Conversation.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Galitsky15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10178</ee><url>https://dblp.org/rec/conf/aaai/Galitsky15</url></info>
+<url>URL#2066866</url>
+</hit>
+<hit score="1" id="2067139">
+<info><authors><author pid="89/2552">Mehrdad Nojoumian</author></authors><title>Trust, Influence and Reputation Management Based on Human Reasoning.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Nojoumian15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10123</ee><url>https://dblp.org/rec/conf/aaai/Nojoumian15</url></info>
+<url>URL#2067139</url>
+</hit>
+<hit score="1" id="2067285">
+<info><authors><author pid="129/4114">Ferran Torrent-Fontbona</author><author pid="13/6701">Albert Pla</author><author pid="l/BeatrizLopez">Beatriz López</author></authors><title>A New Perspective of Trust Through Multi-Attribute Auctions.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Torrent-Fontbona15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10084</ee><url>https://dblp.org/rec/conf/aaai/Torrent-Fontbona15</url></info>
+<url>URL#2067285</url>
+</hit>
+<hit score="1" id="2223356">
+<info><authors><author pid="97/8092">Zeinab Noorian</author><author pid="84/6889-1">Jie Zhang 0001</author><author pid="54/3381">Stephen Marsh 0001</author><author pid="j/ChristianDamsgaardJensen">Christian Damsgaard Jensen</author></authors><title>Incentive and Trust in E-Communities, Papers from the 2015 AAAI Workshop, Austin, Texas, USA, January 25, 2015.</title><venue>AAAI Workshop - Incentive and Trust in E-Communities</venue><venue>AAAI Workshops</venue><volume>WS-15-08</volume><publisher>AAAI Press</publisher><year>2015</year><type>Editorship</type><key>conf/aaai/2015trust</key><ee>http://www.aaai.org/Library/Workshops/ws15-08.php</ee><url>https://dblp.org/rec/conf/aaai/2015trust</url></info>
+<url>URL#2223356</url>
+</hit>
+</hits>
+</result>

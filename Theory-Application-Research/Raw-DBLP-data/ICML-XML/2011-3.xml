@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287326">:facetid:toc:db\"/\"journals\"/\"jmlr\"/\"jmlrp26\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">104.04</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18295796">:facetid:toc:db/journals/jmlr/jmlrp26.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="3050563">
+<info><authors><author pid="55/11352">Anna Choromanska</author><author pid="12/1067">Claire Monteleoni</author></authors><title>Online Clustering with Experts.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>1-18</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/ChoromanskaM12a</key><ee>http://proceedings.mlr.press/v26/choromanska12a.html</ee><url>https://dblp.org/rec/journals/jmlr/ChoromanskaM12a</url></info>
+<url>URL#3050563</url>
+</hit>
+<hit score="1" id="3050603">
+<info><authors><author pid="82/9381">Dorota Glowacka</author><author pid="08/8577">Louis Dorard</author><author pid="59/41">John Shawe-Taylor</author></authors><title>Preface.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/GlowackaDS12</key><ee>http://proceedings.mlr.press/v26/glowacka12a/glowacka12a.pdf</ee><url>https://dblp.org/rec/journals/jmlr/GlowackaDS12</url></info>
+<url>URL#3050603</url>
+</hit>
+<hit score="1" id="3050662">
+<info><authors><author pid="l/LihongLi">Lihong Li 0001</author><author pid="55/5559">Wei Chu</author><author pid="77/4488">John Langford 0001</author><author pid="05/4084">Taesup Moon</author><author pid="67/2661">Xuanhui Wang</author></authors><title>Bandits with Generalized Linear Models.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>19-36</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/LiCLMW12</key><ee>http://proceedings.mlr.press/v26/li12a.html</ee><url>https://dblp.org/rec/journals/jmlr/LiCLMW12</url></info>
+<url>URL#3050662</url>
+</hit>
+<hit score="1" id="3050674">
+<info><authors><author pid="36/8731">Chris Lovell</author><author pid="86/10031-1">Gareth L. Jones 0001</author><author pid="97/1616">Klaus-Peter Zauner</author><author pid="58/2895">Steve R. Gunn</author></authors><title>Exploration and Exploitation with Insufficient Resources.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>37-61</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/LovellJZG12</key><ee>http://proceedings.mlr.press/v26/lovell12a.html</ee><url>https://dblp.org/rec/journals/jmlr/LovellJZG12</url></info>
+<url>URL#3050674</url>
+</hit>
+<hit score="1" id="3050697">
+<info><authors><author pid="68/9023">Olivier Nicol</author><author pid="17/3180">Jérémie Mary</author><author pid="16/4835">Philippe Preux</author></authors><title>ICML Exploration &amp; Exploitation Challenge - Keep it simple!</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>62-85</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/NicolMP12</key><ee>http://proceedings.mlr.press/v26/nicol12a.html</ee><url>https://dblp.org/rec/journals/jmlr/NicolMP12</url></info>
+<url>URL#3050697</url>
+</hit>
+<hit score="1" id="3050727">
+<info><authors><author pid="04/1648">Christophe Salperwyck</author><author pid="17/5881">Tanguy Urvoy</author></authors><title>Stumping along a Summary for Exploration &amp; Exploitation Challenge 2011.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>86-97</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/SalperwyckU12</key><ee>http://proceedings.mlr.press/v26/salperwyck12a.html</ee><url>https://dblp.org/rec/journals/jmlr/SalperwyckU12</url></info>
+<url>URL#3050727</url>
+</hit>
+<hit score="1" id="3050734">
+<info><authors><author pid="34/39">Yevgeny Seldin</author><author pid="c/NicoloCesaBianchi">Nicolò Cesa-Bianchi</author><author pid="42/2392">Peter Auer</author><author pid="29/718">François Laviolette</author><author pid="59/41">John Shawe-Taylor</author></authors><title>PAC-Bayes-Bernstein Inequality for Martingales and its Application to Multiarmed Bandits.</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><pages>98-111</pages><year>2012</year><type>Conference and Workshop Papers</type><key>journals/jmlr/SeldinCALS12</key><ee>http://proceedings.mlr.press/v26/seldin12a.html</ee><url>https://dblp.org/rec/journals/jmlr/SeldinCALS12</url></info>
+<url>URL#3050734</url>
+</hit>
+<hit score="1" id="3054542">
+<info><authors><author pid="82/9381">Dorota Glowacka</author><author pid="08/8577">Louis Dorard</author><author pid="59/41">John Shawe-Taylor</author></authors><title>Proceedings of the Workshop on On-line Trading of Exploration and Exploitation 2, Bellevue, Washington, USA, July 2, 2011</title><venue>ICML On-line Trading of Exploration and Exploitation</venue><venue>JMLR Proceedings</venue><volume>26</volume><publisher>JMLR.org</publisher><year>2012</year><type>Editorship</type><key>conf/icml/2011otee</key><ee>http://proceedings.mlr.press/v26/</ee><url>https://dblp.org/rec/conf/icml/2011otee</url></info>
+<url>URL#3054542</url>
+</hit>
+</hits>
+</result>

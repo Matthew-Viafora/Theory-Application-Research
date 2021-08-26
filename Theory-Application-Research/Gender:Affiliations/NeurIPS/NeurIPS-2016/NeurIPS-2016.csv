@@ -1,0 +1,569 @@
+,Unnamed: 0,first-author,first-author-gender,first-author-affiliation,last-author,last-author-gender,last-author-affiliation,title
+0,0,Zhe Li,Male,The University of Iowa,Tianbao Yang,Male,University of Iowa,Improved Dropout for Shallow and Deep Learning.
+1,1,Jiecao Chen,Male,Indiana University Bloomington,Qin Zhang,Male,Indiana University Bloomington,Communication-Optimal Distributed Clustering.
+2,2,Bowei Yan,Male,University of Texas at Austin,Purnamrita Sarkar,Female,U.C. Berkeley,On Robustness of Kernel Clustering.
+3,3,Rémy Degenne,Male,Université Paris Diderot,Vianney Perchet,Male,Ensae - Criteo Labs,Combinatorial semi-bandit with known covariance.
+4,4,Nicolò Colombo,Male,University College London,Nikos Vlassis,Male,Adobe Research,A posteriori error bounds for joint matrix decomposition problems.
+5,5,Mandar D Dixit,Male,UC San Diego,Nuno Vasconcelos,Male,UC San Diego,Object based Scene Representations using Fisher Scores of Local Subspace Projections.
+6,6,Gregory Rogez,Male,Inria,Cordelia Schmid,Female,Inria / Google,MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild.
+7,7,Subhashini Krishnasamy,Male,The University of Texas at Austin,Sanjay Shakkottai,Male,The University of Texas at Aus,Regret of Queueing Bandits.
+8,8,Shashank Singh,Male,Carnegie Mellon University,Barnabas Poczos,Male,Carnegie Mellon University,Efficient Nonparametric Smoothness Estimation.
+9,9,Tue Herlau,Male,Technical University of Denmark,Morten Mørup,Male,Technical University of Denmark,Completely random measures for modelling block-structured sparse networks.
+10,10,Diane Bouchacourt,Male,University of Oxford,Sebastian Nowozin,Male,Microsoft Research,DISCO Nets : DISsimilarity COefficients Networks.
+11,11,Philip Bachman,Male,Microsoft Research,Philip Bachman,Male,Microsoft Research,"An Architecture for Deep, Hierarchical Generative Models."
+12,12,Albert Berahas,Male,Northwestern University,Martin Takac,Male,Lehigh University,A Multi-Batch L-BFGS Method for Machine Learning.
+13,13,Mathieu Blondel,Male,NTT,Masakazu Ishihata,Male,Hokkaido University,Higher-Order Factorization Machines.
+14,14,Anh Tuan Nguyen,Male,University of Minnesota,Zhi Yang,Male,University of Minnesota,A Bio-inspired Redundant Sensing Architecture.
+15,15,Lev Bogolubsky,Male,"Yandex, Moscow State University",Maksim Zhukovskii,Male,Moscow Institute of Physics and Technology,Learning Supervised PageRank with Gradient-Based and Gradient-Free Optimization Methods.
+16,16,Aditya Bhaskara,Male,University of Utah,Ola Svensson,Male,EPFL,Linear Relaxations for Finding Diverse Elements in Metric Spaces.
+17,17,Aude Genevay,Female,Université Paris Dauphine,Francis Bach,Male,INRIA - Ecole Normale Superieure,Stochastic Optimization for Large-scale Optimal Transport.
+18,18,Jacob D Abernethy,Male,University of Michigan,Ruihao Zhu,Male,MIT,"Threshold Bandits, With and Without Censored Feedback."
+19,19,Mark Herbster,Male,University College London,Massimiliano Pontil,Male,IIT & UCL,Mistake Bounds for Binary Matrix Completion.
+20,20,Yusuf Aytar,Male,MIT,Antonio Torralba,Male,MIT,SoundNet: Learning Sound Representations from Unlabeled Video.
+21,21,Shuangfei Zhai,Male,Binghamton University,Zhongfei (Mark) Zhang,Male,Binghamton University,Doubly Convolutional Neural Networks.
+22,22,Christopher W Lynn,Male,University of Pennsylvania,Daniel Lee,Male,University of Pennsylvania,Maximizing Influence in an Ising Network: A Mean-Field Optimal Solution.
+23,23,Shahin Jabbari,Male,University of Pennsylvania,Steven Wu,Male,University of Pennsylvania,Learning from Rational Behavior: Predicting Solutions to Unknown Linear Programs.
+24,24,Matthew Joseph,Male,University of Pennsylvania,Aaron Roth,Male,University of Pennsylvania,Fairness in Learning: Classic and Contextual Bandits.
+25,25,Kun He,Male,Huazhong University of Science and Technology,John Hopcroft,Male,Cornell University,A Powerful Generative Model Using Random Weights for the Deep Image Representation.
+26,26,Samir Chowdhury,Male,The Ohio State University,Zane T Smith,Male,Ohio State University,Improved Error Bounds for Tree Representations of Metric Spaces.
+27,27,Ji Hyun Bak,Male,Princeton University,Jonathan Pillow,Male,Princeton University,Adaptive optimal training of animal behavior.
+28,28,Pascal Germain,Male,Laval University,Simon Lacoste-Julien,Male,INRIA,PAC-Bayesian Theory Meets Bayesian Inference.
+29,29,James McQueen,Male,University of Washington,Dominique Perrault-Joncas,Male,Google,Nearly Isometric Embedding by Relaxation.
+30,30,Yali Wan,Male,University of Washington,Marina Meila,Female,University of Washington,Graph Clustering: Block-models and model free results.
+31,31,Ozan Sener,Male,Cornell University,Silvio Savarese,Male,Stanford University,Learning Transferrable Representations for Unsupervised Domain Adaptation.
+32,32,Osbert Bastani,Male,Stanford University,Antonio Criminisi,Male,Microsoft Research,Measuring Neural Net Robustness with Constraints.
+33,33,Ivan Herreros,Male,Universitat Pompeu Fabra,Paul Verschure,Male,ICREA - Universitat Pompeu Fabra,A forward model at Purkinje cell synapses facilitates cerebellar anticipatory control.
+34,34,Cristina Savin,Female,IST Austria,Gasper Tkacik,Male,Institute of Science and Technology Austria,Estimating Nonlinear Neural Response Functions using GP Priors and Kronecker Methods.
+35,35,Mingbo Cai,Male,Princeton University,Yael Niv,Male,Princeton University,A Bayesian method for reducing bias in neural representational similarity analysis.
+36,36,Jakob Foerster,Male,University of Oxford,Shimon Whiteson,Male,University of Oxford,Learning to Communicate with Deep Multi-Agent Reinforcement Learning.
+37,37,Veeru Sadhanala,Male,Carnegie Mellon University,Ryan Tibshirani,Male,Carnegie Mellon University,"Total Variation Classes Beyond 1d: Minimax Rates, and the Limitations of Linear Smoothers."
+38,38,Maja Rudolph,Female,Columbia University,David Blei,Male,Columbia University,Exponential Family Embeddings.
+39,39,Oren Anava,Male,Technion,Kfir Y. Levy,Male,Technion,k*-Nearest Neighbors: From Global to Local.
+40,40,Mohammad Norouzi,Male,Google Brain,Dale Schuurmans,Male,Google Brain & University of Alberta,Reward Augmented Maximum Likelihood for Neural Structured Prediction.
+41,41,Koosha Khalvati,Male,University of Washington,Rajesh PN Rao,Male,University of Washington,A Probabilistic Model of Social Decision Making based on Reward Maximization.
+42,42,T.K. Huang,Male,Uber Advanced Technologies Center,Jerry Zhu,Male,University of Wisconsin-Madison,Active Learning with Oracle Epiphany.
+43,43,Richard Nock,Male,Data61 and ANU,Richard Nock,Male,Data61 and ANU,On Regularizing Rademacher Observation Losses.
+44,44,Elad Hazan,Male,Princeton University,Tengyu Ma,Male,Princeton University,A Non-generative Framework and Convex Relaxations for Unsupervised Learning.
+45,45,Vikas Garg,Male,MIT,Tommi Jaakkola,Male,MIT,Learning Tree Structured Potential Games.
+46,46,Moritz Hardt,Male,Google Brain,Nati Srebro,Male,TTI-Chicago,Equality of Opportunity in Supervised Learning.
+47,47,Peter Battaglia,Male,Google DeepMind,koray kavukcuoglu,Male,Google DeepMind,"Interaction Networks for Learning about Objects, Relations and Physics."
+48,48,Valentina Zantedeschi,Female,UJM Saint-Etienne,Marc Sebban,Male,University Jean Monnet,beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data.
+49,49,Itay Hubara,Male,Technion,Yoshua Bengio,Male,Université de Montréal,Binarized Neural Networks.
+50,50,Mehdi Sajjadi,Male,University of Utah,Tolga Tasdizen,Male,University of Utah,Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning.
+51,51,Alexey Dosovitskiy,Male,University of Freiburg,Thomas Brox,Male,University of Freiburg,Generating Images with Perceptual Similarity Metrics based on Deep Networks.
+52,52,Amin Jalali,Male,University of Washington,Maryam Fazel,Male,University of Washington,Exploiting Tradeoffs for Exact Recovery in Heterogeneous Stochastic Block Models.
+53,53,Kenyon Tsai,Male,Harvard University,David Cox,Male,"MIT-IBM Watson AI Lab, IBM Research",Tensor Switching Networks.
+54,54,Juho Lee,Male,POSTECH,Seungjin Choi,Male,POSTECH,Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law Models.
+55,55,Hsiang-Fu (Rofu) Yu,Male,University of Texas at Austin,Inderjit Dhillon,Male,UT Austin & Amazon,Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction.
+56,56,Matthew Johnson,Male,MIT,Sandeep R Datta,Male,Harvard Medical School,Composing graphical models with neural networks for structured representations and fast inference.
+57,57,Akshay Krishnamurthy,Male,UMass Amherst,John Langford,Male,Microsoft Research New York,PAC Reinforcement Learning with Rich Observations.
+58,58,Andrej Risteski,Male,Princeton University,Yuanzhi Li,Male,Princeton University,Algorithms and matching lower bounds for approximately-convex optimization.
+59,59,Sashank J. Reddi,Male,Carnegie Mellon University,Alex Smola,Male,Amazon - We are hiring!,Proximal Stochastic Methods for Nonsmooth Nonconvex Finite-Sum Optimization.
+60,60,Aaron Defazio,Male,Ambiata,Aaron Defazio,Male,Ambiata,A Simple Practical Accelerated Method for Finite Sums.
+61,61,Chelsea Finn,Female,Google,Sergey Levine,Male,University of Washington,Unsupervised Learning for Physical Interaction through Video Prediction.
+62,62,Nathan F Lepora,Male,University of Bristol,Nathan F Lepora,Male,University of Bristol,Threshold Learning for Optimal Decision Making.
+63,63,Hao Wang,Male,HKUST,Dit-Yan Yeung,Male,Hong Kong University of Science and Technology,Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks.
+64,64,Laetitia Papaxanthos,Female,ETH Zurich,Karsten Borgwardt,Male,ETH Zurich,Finding significant combinations of features in the presence of categorical covariates.
+65,65,Anh Nguyen,Female,University of Wyoming,Jeff Clune,Male,University of Wyoming,Synthesizing the preferred inputs for neurons in neural networks via deep generator networks.
+66,66,Wei Ping,Male,UC Irvine,Alexander Ihler,Male,UC Irvine,Learning Infinite RBMs with Frank-Wolfe.
+67,67,Edouard Pauwels,Male,IRIT,Jean Lasserre,Male,LAAS-CNRS,Sorting out typicality with the inverse moment matrix SOS polynomial.
+68,68,Jason Pazis,Male,MIT,Jonathan How,Male,MIT,Improving PAC Exploration Using the Median Of Means.
+69,69,Andrey Lokhov,Male,Los Alamos National Laboratory,Andrey Lokhov,Male,Los Alamos National Laboratory,Reconstructing Parameters of Spreading Models from Partial Observations.
+70,70,Xu Jia,Male,KU Leuven,Luc V Gool,Male,ETH Zürich,Dynamic Filter Networks.
+71,71,Stephan Zheng,Male,Caltech,Patrick Lucey,Male,Stats,Generating Long-term Trajectories Using Deep Hierarchical Networks.
+72,72,Dylan Hadfield-Menell,Male,UC Berkeley,Anca Dragan,Male,UC Berkeley,Cooperative Inverse Reinforcement Learning.
+73,73,Zhilin Yang,Male,Carnegie Mellon University,Russ Salakhutdinov,Male,University of Toronto,Review Networks for Caption Generation.
+74,74,Rong Zhu,Male,Chinese Academy of Sciences,Rong Zhu,Male,Chinese Academy of Sciences,Gradient-based Sampling: An Adaptive Importance Sampling for Least-squares.
+75,75,ALEX GEORGOGIANNIS,Male,TECHNICAL UNIVERSITY OF CRETE,ALEX GEORGOGIANNIS,Male,TECHNICAL UNIVERSITY OF CRETE,Robust k-means: a Theoretical Revisit.
+76,76,Corinna Cortes,Female,Google Research,Mehryar Mohri,Male,Google Research & Courant Institute of Mathematical Sciences,Boosting with Abstention.
+77,77,Shantanu Jain,Male,Indiana University,Pedja Radivojac,Male,Indiana University,Estimating the class prior and posterior from noisy positives and unlabeled data.
+78,78,JUN HAN,Male,Dartmouth College,Qiang Liu,Male,Dartmouth College,Bootstrap Model Aggregation for Distributed Statistical Learning.
+79,79,Maria-Florina Balcan,Female,Carnegie Mellon University,Hongyang Zhang,Male,CMU,Noise-Tolerant Life-Long Matrix Completion via Adaptive Sampling.
+80,80,Yangyan Li,Male,Stanford University,Leonidas Guibas,Male,Stanford University,FPNN: Field Probing Neural Networks for 3D Data.
+81,81,Yuxun Zhou,Male,UC Berkeley,Costas J Spanos,Male,"University of California, Berkeley",Causal meets Submodular: Subset Selection with Directed Information.
+82,82,Diederik Kingma,Male,Google,Max Welling,Male,University of Amsterdam / Qualcomm AI Research,Improving Variational Autoencoders with Inverse Autoregressive Flow.
+83,83,Keerthiram Murugesan,Male,Carnegie Mellon University,Yiming Yang,Male,CMU,Adaptive Smoothed Online Multi-Task Learning.
+84,84,Brian Bullins,Male,Princeton University,Tomer Koren,Male,Technion---Israel Inst. of Technology,The Limits of Learning with Missing Data.
+85,85,Matteo Turchetta,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,Safe Exploration in Finite Markov Decision Processes with Gaussian Processes.
+86,86,Kévin Degraux,Male,Université catholique de Louva,Laurent Jacques,Male,Université catholique de Louvain,Sparse Support Recovery with Non-smooth Loss Functions.
+87,87,Ramya Korlakai Vinayak,Female,Caltech,Babak Hassibi,Male,Caltech,Crowdsourced Clustering: Querying Edges vs Triangles.
+88,88,Ian Yen,Male,University of Texas at Austin,Inderjit Dhillon,Male,UT Austin & Amazon,Dual Decomposed Learning with Factorwise Oracle for Structural SVM of Large Output Domain.
+89,89,Kevin Ellis,Male,MIT,Josh Tenenbaum,Male,MIT,Sampling for Bayesian Program Learning.
+90,90,Paul Lagrée,Male,Université Paris Sud,Olivier Cappe,Male,,Multiple-Play Bandits in the Position-Based Model.
+91,91,Xiaojiao Mao,Male,Nanjing University,Yu-Bin Yang,Male,NanjingUniversity,Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections.
+92,92,Scott Yang,Male,New York University,Mehryar Mohri,Male,Google Research & Courant Institute of Mathematical Sciences,Optimistic Bandit Convex Optimization.
+93,93,Justin Khim,Male,University of Pennsylvania,Po-Ling Loh,Female,Berkeley,Computing and maximizing influence in linear threshold and triggering models.
+94,94,Chaoyue Liu,Male,The Ohio State University,Mikhail Belkin,Male,Ohio State University,Clustering with Bregman Divergences: an Asymptotic Analysis.
+95,95,LEONARDI Leonardi,Male,Sapienza University of Rome,Mohammad Mahdian,Male,Google Research,Community Detection on Evolving Graphs.
+96,96,Siddartha Ramamohan,Male,Indian Institute of Science,Shivani Agarwal,Male,University of Pennsylvania,Dueling Bandits: Beyond Condorcet Winners to General Tournament Solutions.
+97,97,Oren Tadmor,Male,OrCam,Amnon Shashua,Male,OrCam,Learning a Metric Embedding  for Face Recognition using the Multibatch Method.
+98,98,Motonobu Kanagawa,Male,The Institute of Statistical Mathematics,Kenji Fukumizu,Male,Institute of Statistical Mathematics / Preferred Networks / RIKEN AIP,Convergence guarantees for kernel-based quadrature rules in misspecified settings.
+99,99,Andrew Wilson,Male,Carnegie Mellon University,Eric Xing,Male,Carnegie Mellon University,Stochastic Variational Deep Kernel Learning.
+100,100,Brian W Dolhansky,Male,University of Washington,Jeff A Bilmes,Male,University of Washington,Deep Submodular Functions: Definitions and Learning.
+101,101,Murat Erdogdu,Male,Stanford University,Mohsen Bayati,Male,Stanford University,Scaled Least Squares Estimator for GLMs in Large-Scale Problems.
+102,102,Ehsan Elhamifar,Male,Northeastern University,Ehsan Elhamifar,Male,Northeastern University,High-Rank Matrix Completion and Clustering under Self-Expressive Models.
+103,103,Alp Yurtsever,Male,EPFL,Volkan Cevher,Male,EPFL,Stochastic Three-Composite Convex Minimization.
+104,104,Zequn Jie,Male,National Univ of Singapore,Shuicheng Yan,Male,National University of Singapore,Tree-Structured Reinforcement Learning for Sequential Object Localization.
+105,105,Nicolas Boumal,Male,EPFL,Afonso Bandeira,Male,,The non-convex Burer-Monteiro approach works on smooth semidefinite programs.
+106,106,Travis Monk,Male,University of Oldenburg,Jörg Lücke,Male,University of Oldenburg,Neurons Equipped with Intrinsic Plasticity Learn Stimulus Intensity Statistics.
+107,107,Dino Oglic,Male,University of Bonn,Thomas Gärtner,Male,The University of Nottingham,Greedy Feature Construction.
+108,108,Yoshinobu Kawahara,Male,Osaka University,Yoshinobu Kawahara,Male,Osaka University,Dynamic Mode Decomposition with Reproducing Kernels for Koopman Spectral Analysis.
+109,109,Jose M. Alvarez,Male,NICTA,Mathieu Salzmann,Male,EPFL,Learning the Number of Neurons in Deep Networks.
+110,110,Alexander Vezhnevets,Male,Google DeepMind,koray kavukcuoglu,Male,Google DeepMind,Strategic Attentive Writer for Learning Macro-Actions.
+111,111,Songbai Yan,Male,University of California,Tara Javidi,Female,University of California,Active Learning from Imperfect Labelers.
+112,112,Onur Teymur,Male,Imperial College London,Ben Calderhead,Male,Imperial College,Probabilistic Linear Multistep Methods.
+113,113,Xinyang Yi,Male,UT Austin,Han Liu,Male,Tencent AI Lab,"More Supervision, Less Computation: Statistical-Computational Tradeoffs in Weakly Supervised Learning."
+114,114,jean barbier,Male,EPFL,Lenka Zdeborová,Female,EPFL,Mutual information for symmetric rank-one matrix estimation: A proof of the replica formula.
+115,115,Francesco Orabona,Male,Yahoo Research,David Pal,Male,Google,Coin Betting and Parameter-Free Online Learning.
+116,116,Yanyao Shen,Male,UT Austin,Sujay Sanghavi,Male,UT-Austin,Normalized Spectral Map Synchronization.
+117,117,Aurélien Garivier,Male,Ecole Normale Supérieure de Lyon,Emilie Kaufmann,Female,Telecom ParisTech,On Explore-Then-Commit strategies.
+118,118,Aman Sinha,Male,Stanford University,John Duchi,Male,Stanford,Learning Kernels with Random Features.
+119,119,Alhussein Fawzi,Male,Ecole Polytechnique Federale de Lausanne (EPFL),Pascal Frossard,Male,EPFL,Robustness of classifiers: from adversarial to random noise.
+120,120,Daniel J Mankowitz,Male,Technion,Shie Mannor,Male,Technion,Adaptive Skills Adaptive Partitions (ASAP).
+121,121,Kirthevasan Kandasamy,Male,CMU,Barnabas Poczos,Male,Carnegie Mellon University,Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations.
+122,122,Brenda Betancourt,Female,Duke University,Rebecca Steorts,Female,Duke University,Flexible Models for Microclustering with Application to Entity Resolution.
+123,123,Alain Durmus,Male,Telecom ParisTech,Gaël RICHARD,Male,Telecom ParisTech,Stochastic Gradient Richardson-Romberg Markov Chain Monte Carlo.
+124,124,Yining Wang,Male,Carnegie Mellon University,Anima Anandkumar,Female,UC Irvine,Online and Differentially-Private Tensor Decomposition.
+125,125,Bo Xin,Male,Peking University,Baoyuan Wang,Male,Microsoft Research,Maximal Sparsity with Deep Networks?.
+126,126,Alexander Shishkin,Male,Yandex,Pavel Serdyukov,Male,Yandex,Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information.
+127,127,Mikhail Yurochkin,Male,University of Michigan,Long Nguyen,Male,University of Michigan,Geometric Dirichlet Means Algorithm for topic inference.
+128,128,Marc Vuffray,Male,Los Alamos National Laboratory,Michael Chertkov,Male,Los Alamos National Laboratory,Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models.
+129,129,Zohar Karnin,Male,Yahoo Research,Oren Anava,Male,Technion,Multi-armed Bandits: Competing with Optimal Sequences.
+130,130,Boris Belousov,Male,TU Darmstadt,Jan Peters,Male,TU Darmstadt & MPI Intelligent Systems,Catching heuristics are optimal control policies.
+131,131,Hongyi Zhang,Male,MIT,Suvrit Sra,Male,MIT,Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds.
+132,132,Xiangru Lian,Male,University of Rochester,Prof. Ji Liu Liu,Male,Kwai Inc.,A Comprehensive Linear Speedup Analysis for Asynchronous Stochastic Parallel Optimization from Zeroth-Order to First-Order.
+133,133,Changyou Chen,Male,University at Buffalo,Lawrence Carin,Male,Duke University,Stochastic Gradient MCMC with Stale Gradients.
+134,134,Michael Mathieu,Male,NYU,Yann LeCun,Male,NYU,Disentangling factors of variation in deep representation using adversarial training.
+135,135,Carl-Johann Simon-Gabriel,Male,MPI Tuebingen,Bernhard Schölkopf,Male,"MPI for Intelligent Systems, Tübingen",Consistent Kernel Mean Estimation for Functions of Random Variables.
+136,136,Xiangyu Wang,Male,Duke University,Chenlei Leng,Male,University of Warwick,DECOrrelated feature space partitioning for distributed sparse regression.
+137,137,Ming-Yu Liu,Male,MERL,Oncel Tuzel,Male,Mitsubishi Electric Research Labs (MERL),Coupled Generative Adversarial Networks.
+138,138,Oriol Vinyals,Male,Google DeepMind,Daan Wierstra,Male,Google DeepMind,Matching Networks for One Shot Learning.
+139,139,Shandian Zhe,Male,Purdue University,Zoubin Ghahramani,Male,Uber and University of Cambridge,Distributed Flexible Nonlinear Tensor Factorization.
+140,140,Chen-Yu Wei,Male,Academia Sinica,Chi-Jen Lu,Male,Academia Sinica,Tracking the Best Expert in Non-stationary Stochastic Environments.
+141,141,Jinzhuo Wang,Male,PKU,Wen Gao,Male,peking university,Deep Alternative Neural Network: Exploring Contexts as Early as Possible for Action Recognition.
+142,142,Yongbo Li,Male,Xidian University,Donglai Xu,Male,Teesside University,Learning Parametric Sparse Models for Image Super-Resolution.
+143,143,Hassan A Kingravi,Male,Pindrop Security Services,Girish Chowdhary,Male,UIUC,Kernel Observers: Systems-Theoretic Modeling and Inference of Spatiotemporally Evolving Processes.
+144,144,Elvis DOHMATOB,Male,Inria,Bertrand Thirion,Male,INRIA,Learning brain regions via large-scale online structured sparse dictionary learning.
+145,145,Yin Cheng Ng,Male,University College London,Ricardo Silva,Male,University College London,Scaling Factorial Hidden Markov Models: Stochastic Variational Inference without Messages.
+146,146,Yang Liu,Male,Harvard University,Yiling Chen,Male,Harvard University,A Bandit Framework for Strategic Regression.
+147,147,Michaël Defferrard,Male,EPFL,Pierre Vandergheynst,Male,EPFL,Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.
+148,148,Qiang Liu,Male,Dartmouth College,Dilin Wang,Male,Dartmouth College,Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm.
+149,149,Lane McIntosh,Male,Stanford University,Stephen Baccus,Male,Stanford University,Deep Learning Models of the Retinal Response to Natural Scenes.
+150,150,Remi Munos,Male,Google DeepMind,Marc Bellemare,Male,Google DeepMind,Safe and Efficient Off-Policy Reinforcement Learning.
+151,151,Firas Abuzaid,Male,MIT,Ameet S Talwalkar,Male,CMU,Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale.
+152,152,Maria-Florina Balcan,Female,Carnegie Mellon University,Ellen Vitercik,Female,Carnegie Mellon University,Sample Complexity of Automated Mechanism Design.
+153,153,Ian Osband,Male,DeepMind,Benjamin Van Roy,Male,Stanford University,Deep Exploration via Bootstrapped DQN.
+154,154,Alina Beygelzimer,Female,Yahoo Inc,Chicheng Zhang,Male,UCSD,Search Improves Label for Active Learning.
+155,155,Bipin Rajendran,Male,NJIT,Yash H Malviya,Male,IIT Bombay,Efficient and Robust Spiking Neural Circuit for Navigation Inspired by Echolocating Bats.
+156,156,Gang Niu,Male,University of Tokyo,Masashi Sugiyama,Male,RIKEN / University of Tokyo,Theoretical Comparisons of Positive-Unlabeled Learning against Positive-Negative Learning.
+157,157,Ping Li,Male,Baidu Research USA,Martin Slawski,Male,George Mason University,Quantized Random Projections and Non-Linear Estimation of Cosine Similarity.
+158,158,Yunhe Wang,Male,Peking University,Chao Xu,Male,Peking University,CNNpack: Packing Convolutional Neural Networks in the Frequency Domain.
+159,159,Zohar Karnin,Male,Yahoo Research,Zohar Karnin,Male,Yahoo Research,Verification Based Solution for Structured MAB Problems.
+160,160,Daniel Ritchie,Male,Stanford University,Noah Goodman,Male,Stanford University,Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks.
+161,161,Diana Cai,Female,University of Chicago,Tamara Broderick,Female,MIT,Edge-exchangeable graphs and sparsity.
+162,162,Abir De,Male,IIT Kharagpur,Manuel Gomez Rodriguez,Male,MPI-SWS,Learning and Forecasting Opinion Dynamics in Social Networks.
+163,163,Eric Schulz,Male,University College London,Samuel J Gershman,Male,Harvard University,Probing the Compositionality of Intuitive Functions.
+164,164,Davide Boscaini,Male,University of Lugano,Michael Bronstein,Male,University of Lugano,Learning shape correspondence with anisotropic convolutional neural networks.
+165,165,Tim Salimans,Male,Algoritmica,Xi Chen,Male,UC Berkeley and OpenAI,Improved Techniques for Training GANs.
+166,166,Uygar Sümbül,Male,Columbia University,Liam Paninski,Male,Columbia University,Automated scalable segmentation of neurons from multispectral images.
+167,167,Se-Young Yun,Male,Los Alamos National Laboratory,Alexandre Proutiere,Male,KTH,Optimal Cluster Recovery in the Labeled Stochastic Block Model.
+168,168,Sougata Chaudhuri,Male,University of Michigan,Ambuj Tewari,Male,University of Michigan,Phased Exploration with Greedy Exploitation in Stochastic Combinatorial Partial Monitoring Games.
+169,169,Trung Le,Male,University of Pedagogy Ho Chi Minh city,Dinh Phung,Male,Deakin University,Dual Space Gradient Descent for Online Learning.
+170,170,Alexander Ratner,Male,Stanford University,Christopher Ré,Male,Stanford University,"Data Programming: Creating Large Training Sets, Quickly."
+171,171,Moein Falahatgar,Male,UCSD,Alon Orlitsky,Male,"University of California, San Diego",Near-Optimal Smoothing of Structured Conditional Probability Matrices.
+172,172,Victor Soto,Male,Columbia University,Gonzalo Martinez-Muñoz,Male,Universidad Autónoma de Madrid,An urn model for majority voting in classification ensembles.
+173,173,Kirthevasan Kandasamy,Male,CMU,Jeff Schneider,Male,CMU,The Multi-fidelity Multi-armed Bandit.
+174,174,Kevin Winner,Male,UMass CICS,Dan Sheldon,Male,University of Massachusetts Amherst,Probabilistic Inference with Generating Functions for Poisson Latent Variable Models.
+175,175,Nguyen Viet Cuong,Male,National University of Singapore,Huan Xu,Male,NUS,Adaptive Maximization of Pointwise Submodular Functions With Budget Constraint.
+176,176,Di He,Male,Microsoft,Wei-Ying Ma,Male,Microsoft,Dual Learning for Machine Translation.
+177,177,devon Hjelm,Male,University of New Mexico,Junyoung Chung,Male,University of Montreal,Iterative Refinement of the Approximate Posterior for Directed Belief Networks.
+178,178,Jacob Steinhardt,Male,Stanford University,Percy Liang,Male,Stanford University,Unsupervised Risk Estimation Using Only Conditional Independence Structure.
+179,179,Jiasen Lu,Male,Virginia Tech,Devi Parikh,Male,Virginia Tech,Hierarchical Question-Image Co-Attention for Visual Question Answering.
+180,180,Remi Lam,Male,MIT,David Wolpert,Male,NASA Ames Research  Center,Bayesian Optimization with a Finite Budget: An Approximate Dynamic Programming Approach.
+181,181,Marcin Andrychowicz,Male,Google Deepmind,Nando de Freitas,Male,Google,Learning to learn by gradient descent by gradient descent.
+182,182,Ashish Khetan,Male,University of Illinois Urbana-,Sewoong Oh,Male,UIUC,Computational and Statistical Tradeoffs in Learning to Rank.
+183,183,Stephen Ragain,Male,Stanford University,Johan Ugander,Male,Stanford University,Pairwise Choice Markov Chains.
+184,184,Ching-An Cheng,Male,Georgia Institute of Technolog,Byron Boots,Male,Georgia Tech / Google Brain,Incremental Variational Sparse Gaussian Process Regression.
+185,185,Wei Chen,Male,Microsoft Research,Pinyan Lu,Male,Shanghai University of Finance and Economics,Combinatorial Multi-Armed Bandit with General Reward Functions.
+186,186,Ricardo Silva,Male,University College London,Ricardo Silva,Male,University College London,Observational-Interventional Priors for Dose-Response Learning.
+187,187,Guillaume Papa,Male,Télécom ParisTech,Stephan Clémençon,Male,Telecom ParisTech,On Graph Reconstruction via Empirical Risk Minimization: Fast Learning Rates and Scalability.
+188,188,Geoffrey Irving,Male,Google,Josef Urban,Male,Czech Technical University in Prague,DeepMath - Deep Sequence Models for Premise Selection.
+189,189,Haipeng Luo,Male,Princeton University,John Langford,Male,Microsoft Research New York,Efficient Second Order Online Learning by Sketching.
+190,190,Tamara Fernandez,Female,Oxford,Yee Whye Teh,Male,"University of Oxford, DeepMind",Gaussian Processes for Survival Analysis.
+191,191,Eric Balkanski,Male,Harvard University,Yaron Singer,Male,Harvard University,The Power of Optimization from Samples.
+192,192,Srinadh Bhojanapalli,Male,TTI Chicago,Nati Srebro,Male,TTI-Chicago,Global Optimality of Local Search for Low Rank Matrix Recovery.
+193,193,Ying Yang,Male,Carnegie Mellon University,Rob E Robert,Male,Carnegie Mellon University,A state-space model of cross-region dynamic connectivity in MEG/EEG.
+194,194,Hao Zhou,Male,University of Wisconsin Madiso,Sterling C Johnson,Male,University of Wisconsin Madison,Hypothesis Testing in Unsupervised Domain Adaptation with Applications in Alzheimer's Disease.
+195,195,Hossein Esfandiari,Male,University of Maryland,Vahab Mirrokni,Male,Google,Bi-Objective Online Matching and Submodular  Allocations.
+196,196,Dennis Wei,Male,IBM Research,Dennis Wei,Male,IBM Research,A Constant-Factor Bi-Criteria Approximation Guarantee for k-means++.
+197,197,Finnian Lattimore,Male,Australian National University,Mark Reid,Male,Apple,Causal Bandits: Learning Good Interventions via Causal Inference.
+198,198,Mingsheng Long,Male,Tsinghua University,Michael Jordan,Male,UC Berkeley,Unsupervised Domain Adaptation with Residual Transfer Networks.
+199,199,Frederic Chazal,Male,INRIA,Bertrand Michel,Male,UPMC,Data driven estimation of Laplace-Beltrami operator.
+200,200,Xinyang Yi,Male,UT Austin,Constantine Caramanis,Male,UT Austin,Fast Algorithms for Robust PCA via Gradient Descent.
+201,201,Davood Hajinezhad,Male,Iowa State University,Zhaoran Wang,Male,Princeton University,NESTT: A Nonconvex Primal-Dual Splitting Method for Distributed and Stochastic Optimization.
+202,202,Farshad Lahouti,Male,Caltech,Babak Hassibi,Male,Caltech,Fundamental Limits of Budget-Fidelity Trade-off in Label Crowdsourcing.
+203,203,Miles M Stoudenmire,Male,Univ of California Irvine,David Schwab,Male,Northwestern University,Supervised Learning with Tensor Networks.
+204,204,Matthias Bauer,Male,University of Cambridge,Carl Edward Rasmussen,Male,University of Cambridge,Understanding Probabilistic Sparse Gaussian Process Approximations.
+205,205,Georgios Arvanitidis,Male,DTU,Søren Hauberg,Male,Technical University of Denmark,A Locally Adaptive Normal Distribution.
+206,206,Kejun Huang,Male,University of Minnesota,Nikos D. Sidiropoulos,Male,University of Minnesota,Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm.
+207,207,Junhong Lin,Male,Istituto Italiano di Tecnologia,Lorenzo Rosasco,Male,University of Genova- MIT - IIT,Optimal Learning for Multi-pass Stochastic Gradient Methods.
+208,208,Akshay Krishnamurthy,Male,UMass Amherst,Miro Dudik,Male,Microsoft Research,Contextual semibandits via supervised learning oracles.
+209,209,Michalis Titsias,Male,DeepMind,Michalis Titsias,Male,DeepMind,One-vs-Each Approximation to Softmax for Scalable Estimation of Probabilities.
+210,210,Gabe Goh,Male,UC Davis,Michael P Friedlander,Male,UC Davis,Satisfying Real-world Goals with Dataset Constraints.
+211,211,Dogyoon Song,Male,MIT,Devavrat Shah,Male,Massachusetts Institute of Technology,Blind Regression: Nonparametric Regression for Latent Variable Models via Collaborative Filtering.
+212,212,Jonathan Ho,Male,Stanford,Stefano Ermon,Male,Stanford,Generative Adversarial Imitation Learning.
+213,213,Johannes Friedrich,Male,Columbia University,Liam Paninski,Male,Columbia University,Fast Active Set Methods for Online Spike Inference from Calcium Imaging.
+214,214,Behnam Neyshabur,Male,TTI-Chicago,Nati Srebro,Male,TTI-Chicago,Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations.
+215,215,Vasilis Syrgkanis,Male,Microsoft Research,Robert Schapire,Male,MIcrosoft Research,Improved Regret Bounds for Oracle-Based Adversarial Contextual Bandits.
+216,216,James Atwood,Male,UMass Amherst,Don Towsley,Male,UMass Amherst,Diffusion-Convolutional Neural Networks.
+217,217,Dan Garber,Male,Technion,Dan Garber,Male,Toyota Technological Institute at Chicago,Faster Projection-free Convex Optimization over the Spectrahedron.
+218,218,Sheng Chen,Male,University of Minnesota,Arindam Banerjee,Male,"University of Minnesota, Twin Cities",Structured Matrix Recovery via the Generalized Dantzig Selector.
+219,219,Vignesh Ganapathiraman,Male,University Of Illinois at Chicago,Junfeng Wen,Male,UofA,Convex Two-Layer Modeling with Latent Structure.
+220,220,Shashank Singh,Male,Carnegie Mellon University,Barnabas Poczos,Male,Carnegie Mellon University,Finite-Sample Analysis of Fixed-k Nearest Neighbor Density Functional Estimators.
+221,221,Dale Schuurmans,Male,Google Brain & University of Alberta,Martin A Zinkevich,Male,Google,Deep Learning Games.
+222,222,Wen-Hao Zhang,Male,Institute of Neuroscience,Si Wu,Female,Beijing Normal University,“Congruent” and “Opposite” Neurons: Sisters for Multisensory Integration and Segregation.
+223,223,Jisu KIM,Female,Carnegie Mellon University,Larry Wasserman,Male,Carnegie Mellon University,Statistical Inference for Cluster Trees.
+224,224,Maximilian Balandat,Male,UC Berkeley,Alexandre Bayen,Male,UC Berkeley,Minimizing Regret on Reflexive Banach Spaces and Nash Equilibria in Continuous Zero-Sum Games.
+225,225,Navdeep Jaitly,Male,Google Brain,Samy Bengio,Male,Apple,An Online Sequence-to-Sequence Model Using Partial Conditioning.
+226,226,José L. Torrecilla,Male,Universidad Autónoma de Madrid,Alberto Suárez,Male,Universidad Autónoma de Madrid,Feature selection in functional data classification with recursive maxima hunting.
+227,227,Yi Xu,Male,The University of Iowa,Tianbao Yang,Male,University of Iowa,Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than $O(1/\epsilon)$.
+228,228,James Newling,Male,Idiap Research Institute,François Fleuret,Male,Idiap Research Institute,Nested Mini-Batch K-Means.
+229,229,Dangna Li,Female,Stanford university,Wing Hung Wong,Male,Stanford university,Density Estimation via Discrepancy Based Adaptive Sequential Partition.
+230,230,Kaito Fujii,Male,Kyoto University,Hisashi Kashima,Male,Kyoto University,Budgeted stream-based active learning via adaptive submodular maximization.
+231,231,Anastasia Pentina,Female,IST Austria,Ruth Urner,Male,MPI Tuebingen,Lifelong Learning with Weighted Majority Votes.
+232,232,Sven2 Eberhardt,Male,Brown University,Thomas Serre,Male,Brown University,How Deep is the Feature Analysis underlying Rapid Visual Categorization?.
+233,233,Shizhong Han,Male,University of South Carolina,Yan Tong,Male,University of South Carolina,Incremental Boosting Convolutional Neural Network for Facial Action Unit Recognition.
+234,234,Ruth Heller,Male,Tel-Aviv University,Yair Heller,Male,Independent,Multivariate tests of association based on univariate tests.
+235,235,Peng Wang,Male,UCLA,Alan L Yuille,Male,UCLA,SURGE: Surface Regularized Geometry Estimation from a Single Image.
+236,236,Audrunas Gruslys,Male,Google DeepMind,Alex Graves,Male,Google DeepMind,Memory-Efficient Backpropagation Through Time.
+237,237,Bryan He,Male,Stanford University,Christopher Ré,Male,Stanford University,Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much.
+238,238,Xiang Li,Male,NJUST,Tie-Yan Liu,Male,Microsoft Research,LightRNN: Memory and Computation-Efficient Recurrent Neural Networks.
+239,239,Arild Nøkland,Male,None,Arild Nøkland,Male,None,Direct Feedback Alignment Provides Learning in Deep Neural Networks.
+240,240,Aditya Grover,Male,Stanford University,Stefano Ermon,Male,Stanford,Variational Bayes on Monte Carlo Steroids.
+241,241,Matey Neykov,Male,Princeton University,Han Liu,Male,Tencent AI Lab,Agnostic Estimation for Misspecified Phase Retrieval Models.
+242,242,Ruitong Huang,Male,University of Alberta,Csaba Szepesvari,Male,U. Alberta,Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities.
+243,243,Jianxu Chen,Male,University of Notre Dame,Danny Z Chen,Male,University of Notre Dame,Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation.
+244,244,Thomas Laurent,Male,Loyola Marymount University,arthur szlam,Male,Facebook,The Product Cut.
+245,245,Hong Namkoong,Male,Stanford University,John Duchi,Male,Stanford,Stochastic Gradient Methods for Distributionally Robust Optimization with f-divergences.
+246,246,Tolga Bolukbasi,Male,Boston University,Adam T Kalai,Male,Microsoft Research,Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.
+247,247,Rémi Flamary,Male,École Polytechnique,Valentin Emiya,Male,Aix-Marseille University,Optimal spectral transportation with application to music transcription.
+248,248,Wouter Koolen,Male,"Centrum Wiskunde & Informatica, Amsterdam",Tim van Erven,Male,University of Amsterdam,Combining Adversarial Guarantees and Stochastic Fast Rates in Online Learning.
+249,249,Karol Gregor,Male,Google DeepMind,Daan Wierstra,Male,Google DeepMind,Towards Conceptual Compression.
+250,250,Arturo Deza,Male,UCSB,Miguel Eckstein,Male,UCSB,Can Peripheral Representations Improve Clutter Metrics on Complex Scenes?.
+251,251,Eugene Ndiaye,Male,Télécom ParisTech,Joseph Salmon,Male,Télécom ParisTech,GAP Safe Screening Rules for Sparse-Group Lasso.
+252,252,Mauro Scanagatta,Male,Idsia,Marco Zaffalon,Male,IDSIA,Learning Treewidth-Bounded Bayesian Networks with Thousands of Variables.
+253,253,Sara Magliacane,Female,VU University Amsterdam,Joris M Mooij,Male,Radboud University Nijmegen,Ancestral Causal Inference.
+254,254,Ruiyu Li,Male,CUHK,Jiaya Jia,Male,CUHK,Visual Question Answering with Question Representation Update (QRU).
+255,255,Bryant Chen,Male,UCLA,Bryant Chen,Male,UCLA,Identification and Overidentification of Linear Structural Equation Models.
+256,256,Nils Kriege,Male,TU Dortmund,Richard Wilson,Male,University of York,On Valid Optimal Assignment Kernels and Applications to Graph Classification.
+257,257,Yaniv Tenzer,Male,The Hebrew University,Tamir Hazan,Male,Technion,Constraints Based Convex Belief Propagation.
+258,258,Jeremy Maitin-Shepard,Male,Google,Pieter Abbeel,Male,OpenAI / UC Berkeley / Gradescope,Combinatorial Energy Learning for Image Segmentation.
+259,259,Steve Li,Male,UMass Amherst,Benjamin Marlin,Male,University of Massachusetts Amherst,A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification.
+260,260,Balamurugan Palaniappan,Male,INRIA,Francis Bach,Male,INRIA - Ecole Normale Superieure,Stochastic Variance Reduction Methods for Saddle-Point Problems.
+261,261,Dan Feldman,Male,University of Haifa,Daniela Rus,Female,MIT,Dimensionality Reduction of Massive Sparse Datasets Using Coresets.
+262,262,Daniel McNamee,Male,University of Cambridge,Mate Lengyel,Male,University of Cambridge,"Efficient state-space modularization for planning: theory, behavioral and neural signatures."
+263,263,Aryan Mokhtari,Male,University of Pennsylvania,Alejandro Ribeiro,,University of Pennsylvania,Adaptive Newton Method for Empirical Risk Minimization to Statistical Accuracy.
+264,264,Edward Choi,Male,Georgia Institute of Technolog,Walter Stewart,Male,Sutter Health,RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism.
+265,265,Maxime Sangnier,Male,LTCI,Florence d'Alché-Buc,Male,"Télécom Paris, Institut Polytechnique de Paris, France",Joint quantile regression in vector-valued RKHSs.
+266,266,Oleg Grinchuk,Male,Skolkovo Institute of Science and Technology,Victor Lempitsky,Male,Samsung,Learnable Visual Markers.
+267,267,Ben Poole,Male,Stanford University,Surya Ganguli,Male,Stanford,Exponential expressivity in deep neural networks through transient chaos.
+268,268,Yuhuai Wu,Male,University of Toronto,Russ Salakhutdinov,Male,University of Toronto,On Multiplicative Integration with Recurrent Neural Networks.
+269,269,Yuan Zhao,Male,Stony Brook University,Memming Park,Male,Stony Brook University,Interpretable Nonlinear Dynamic Modeling of Neural Trajectories.
+270,270,Antoine Gautier,Male,Saarland University,Matthias Hein,Male,Saarland University,Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods.
+271,271,Zhao Song,Male,Duke University,Lawrence Carin,Male,Duke University,Linear Feature Encoding for Reinforcement Learning.
+272,272,Yizhi Wang,Female,Virginia Tech,Guoqiang Yu,Male,Virginia Tech,Graphical Time Warping for Joint Alignment of Multiple Curves.
+273,273,Kai Zhong,Male,UT AUSTIN,Inderjit Dhillon,Male,UT Austin & Amazon,Mixed Linear Regression with Multiple Components.
+274,274,Ming Yu,Male,The University of Chicago,Varun Gupta,Male,University of Chicago,Statistical Inference for Pairwise Graphical Models Using Score Matching.
+275,275,Satyen Kale,Male,Google,David Pal,Male,Google,Hardness of Online Sleeping Combinatorial Optimization Problems.
+276,276,Xinan Wang,Male,UCSD,Sanjoy Dasgupta,Male,UC San Diego,An algorithm for L1 nearest neighbor search via monotonic embedding.
+277,277,Chi Jin,Male,UC Berkeley,Michael Jordan,Male,UC Berkeley,Local Maxima in the Likelihood of Gaussian Mixture Models: Structural Results and Algorithmic Consequences.
+278,278,Ting-Yu Cheng,Male,,Shan-Hung (Brandon) Wu,Male,National Tsing Hua University,Learning User Perceived Clusters with Feature-Level Supervision.
+279,279,Xi Chen,Male,UC Berkeley and OpenAI,Pieter Abbeel,Male,OpenAI / UC Berkeley / Gradescope,InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
+280,280,Taesup Moon,Male,DGIST,Sungroh Yoon,Male,Seoul National University,Neural Universal Discrete Denoiser.
+281,281,Necdet Serhat Aybat,,Penn State University,Erfan Yazdandoost Hamedani,Male,Penn State University,A primal-dual method for conic constrained distributed optimization problems.
+282,282,ANSHUMALI Shrivastava,,Rice University,ANSHUMALI Shrivastava,Male,Rice University,Simple and Efficient Weighted Minwise Hashing.
+283,283,Chien-Ju Ho,Male,Cornell University,Yiling Chen,Male,Harvard University,Eliciting Categorical Data for Optimal Aggregation.
+284,284,Ayan Chakrabarti,Male,TTI Chicago,Greg Shakhnarovich,Male,TTI-Chicago,Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions.
+285,285,Elad Richardson,Male,Technion,Michael Zibulevsky,Male,Technion - Israel Institute of Technology,SEBOOST - Boosting Stochastic Learning Using Subspace Optimization Techniques.
+286,286,Huishuai Zhang,Male,Syracuse University,Yingbin Liang,Male,Syracuse University,Reshaped Wirtinger Flow for Solving Quadratic System of Equations.
+287,287,Junhua Mao,Male,UCLA,Alan L Yuille,Male,UCLA,Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images.
+288,288,Chris Junchi Li,Male,Princeton University,Han Liu,Male,Tencent AI Lab,Online ICA: Understanding Global Dynamics of Nonconvex Optimization via Diffusion Processes.
+289,289,Rein Houthooft,Male,Ghent University - iMinds and UC Berkeley and OpenAI,Pieter Abbeel,Male,OpenAI / UC Berkeley / Gradescope,VIME: Variational Information Maximizing Exploration.
+290,290,Ayan Sinha,Male,Purdue,Karthik Ramani,Male,Purdue University,Deconvolving Feedback Loops in Recommender Systems.
+291,291,William Hoiles,Male,University of California,Mihaela van der Schaar,Male,"University of California, Los Angeles",A Non-parametric Learning Method for Confidently Estimating Patient's Clinical State and Dynamics.
+292,292,Pan Xu,Male,University of Virginia,Quanquan Gu,Male,University of Virginia,Semiparametric Differential Graph Models.
+293,293,Ming Lin,Male,University of Michigan,Jieping Ye,Male,University of Michigan,A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing.
+294,294,Zhao Song,Male,UT-Austin,Huan Zhang,Male,UC-Davis,Sublinear Time Orthogonal Tensor Decomposition.
+295,295,Ashish Khetan,Male,University of Illinois Urbana-,Sewoong Oh,Male,UIUC,Achieving budget-optimality with adaptive schemes in crowdsourcing.
+296,296,Theodore Bluche,Male,A2iA,Theodore Bluche,Male,A2iA,Joint Line Segmentation and Transcription for End-to-End Handwritten Paragraph Recognition.
+297,297,Pedro Ortega,Male,DeepMind,Alan A Stocker,Male,University of Pennsylvania,Human Decision-Making under Limited Time.
+298,298,Alexander Kirillov,Male,TU Dresden,Bogdan Savchynskyy,Male,TU Dresden,Joint M-Best-Diverse Labelings as a Parametric Submodular Minimization.
+299,299,Zeyuan Allen-Zhu,Male,Princeton University,Yuanzhi Li,Male,Princeton University,Even Faster SVD Decomposition Yet Without Agonizing Pain.
+300,300,Marius Pachitariu,Male,"Gatsby Unit, UCL",Daniel D Harris,Male,UCL,Fast and accurate spike sorting of high-channel count probes with KiloSort.
+301,301,Tarun Kathuria,Male,Microsoft Research,Pushmeet Kohli,Male,Microsoft Research,Batched Gaussian Process Bandit Optimization via Determinantal Point Processes.
+302,302,Stefan Lee,Male,Indiana University,Dhruv Batra,Male,Georgia Tech / Facebook AI Research (FAIR),Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles.
+303,303,Malik Magdon-Ismail,Male,Rensselaer,Christos Boutsidis,Male,Yahoo Labs,Optimal Sparse Linear Encoders and Sparse PCA.
+304,304,Zhen Xu,Male,SUNY at Buffalo,Sargur N Srihari,Male,University at Buffalo,Using Social Dynamics to Make Individual Predictions: Variational Inference with a Stochastic Kinetic Model.
+305,305,Xiaotong Yuan,Male,Nanjing University of Informat,Guangcan Liu,Male,NUIST,"Learning Additive Exponential Family Graphical Models via $\ell_{2,1}$-norm Regularized M-Estimation."
+306,306,Andreas Veit,Male,Cornell University,Serge Belongie,Male,Cornell University,Residual Networks Behave Like Ensembles of Relatively Shallow Networks.
+307,307,Scott Wisdom,Male,University of Washington,Les Atlas,Male,University of Washington,Full-Capacity Unitary Recurrent Neural Networks.
+308,308,Ashish Kapoor,Male,Microsoft,Krysta Svore,Female,Microsoft,Quantum Perceptron Models.
+309,309,Michaël Perrot,Male,University of Saint-Etienne,Amaury Habrard,Male,University of Saint-Etienne,Mapping Estimation for Discrete Optimal Transport.
+310,310,Chang Liu,Male,Tsinghua University,Yang Song,Male,Stanford University,Stochastic Gradient Geodesic MCMC Methods.
+311,311,Shuyang Gao,Male,University of Southern California,Aram Galstyan,Male,USC Information Sciences Institute,Variational Information Maximization for Feature Selection.
+312,312,Farzan Farnia,Male,Stanford University,David Tse,Male,Stanford University,A Minimax Approach to Supervised Learning.
+313,313,Baharan Mirzasoleiman,Male,ETH Zurich,Amin Karbasi,Male,Yale,Fast Distributed Submodular Cover: Public-Private Data Summarization.
+314,314,Konstantinos Bousmalis,Male,Google Brain,Dumitru Erhan,Male,Google,Domain Separation Networks.
+315,315,Jin-Hwa Kim,Male,Seoul National University,Byoung-Tak Zhang,Male,Seoul National University,Multimodal Residual Learning for Visual QA.
+316,316,Ramin Raziperchikolaei,Male,UC Merced,Miguel A. Carreira-Perpinan,Male,UC Merced,Optimizing affinity-based binary hashing using auxiliary coordinates.
+317,317,Jonathan Huggins,Male,MIT,Tamara Broderick,Female,MIT,Coresets for Scalable Bayesian Logistic Regression.
+318,318,Jian Wu,Male,Cornell University,Peter Frazier,Male,Princeton University,The Parallel Knowledge Gradient Method for Batch Bayesian Optimization.
+319,319,Sainaa Sukhbaatar,Male,NYU,Rob Fergus,Male,New York University,Learning Multiagent Communication with Backpropagation.
+320,320,Akshay Balsubramani,Male,UC San Diego,Yoav S Freund,Male,"University of California, San Diego",Optimal Binary Classifier Aggregation for General Losses.
+321,321,Francisco Ruiz,Male,Columbia University,David Blei,Male,Columbia University,The Generalized Reparameterization Gradient.
+322,322,Yong Ren,Male,Tsinghua University,Yucen Luo,Male,Tsinghua University,Conditional Generative Moment-Matching Networks.
+323,323,Kai-Wei Chang,Male,UCLA,John Langford,Male,Microsoft Research New York,A Credit Assignment Compiler for Joint Prediction.
+324,324,Sanghamitra Dutta,Male,Carnegie Mellon University,Pulkit Grover,Male,Carnegie Mellon University,Short-Dot: Computing Large Linear Transforms Distributedly Using Coded Short Dot Products.
+325,325,Ransalu Senanayake,Male,The University of Sydney,Fabio Ramos,Male,The University of Sydney,Spatio-Temporal Hilbert Maps for Continuous Occupancy Representation in Dynamic Environments.
+326,326,Kirthevasan Kandasamy,Male,CMU,Eric Xing,Male,Carnegie Mellon University,Learning HMMs with Nonparametric Emissions via Spectral Decompositions of Continuous Matrices.
+327,327,Hakan Bilen,Male,University of Oxford,Andrea Vedaldi,Male,Facebook AI Research and University of Oxford,Integrated perception with recurrent multi-task neural networks.
+328,328,Alex Beatson,Male,Princeton University,Han Liu,Male,Tencent AI Lab,Blind Attacks on Machine Learners.
+329,329,Eli Gutin,Male,Massachusetts Institute of Tec,Vivek Farias,Male,Massachusetts Institute of Technology,Optimistic Gittins Indices.
+330,330,Peng Xu,Male,Stanford University,Michael W Mahoney,Male,UC Berkeley,Sub-sampled Newton Methods with Non-uniform Sampling.
+331,331,Zijun Wei,Male,Stony Brook,Dimitris Samaras,Male,Stony Brook University,Learned Region Sparsity and Diversity Also Predicts Visual Attention.
+332,332,Shengjia Zhao,Male,Tsinghua University,Stefano Ermon,Male,Stanford,Adaptive Concentration Inequalities for Sequential Decision Problems.
+333,333,Josip Djolonga,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,Cooperative Graphical Models.
+334,334,Namrata Vaswani,Male,Iowa State University,Han Guo,Male,Iowa State University,Correlated-PCA: Principal Components' Analysis when Data and Noise are Correlated.
+335,335,Hamidreza Kasaei,Male,IEETA,Luís Seabra Lopes,Male,University of Averio,Hierarchical Object Representation for Open-Ended Object Category Learning and Recognition.
+336,336,Nir Rosenfeld,Male,Hebrew University of Jerusalem,Amir Globerson,Male,Tel Aviv University,Optimal Tagging with Markov Chain Optimization.
+337,337,Gustavo Malkomes,Male,Washington University,Roman Garnett,Male,Washington University in St. Louis,Bayesian optimization for automated model selection.
+338,338,Tomoharu Iwata,Male,NTT,Makoto Yamada,Male,Kyoto University,Multi-view Anomaly Detection via Robust Probabilistic Latent Variable Models.
+339,339,Rajkumar Vasudeva Raju,Male,Rice University,Xaq Pitkow,Male,BCM/Rice,Inference by Reparameterization in Neural Population Codes.
+340,340,Zhuo Wang,Male,University of Pennsylvania,Daniel Lee,Male,University of Pennsylvania,Efficient Neural Codes under Metabolic Constraints.
+341,341,Renjie Liao,Male,UofT,Raquel Urtasun,Female,University of Toronto,Learning Deep Parsimonious Representations.
+342,342,Madhu Advani,Male,Stanford University,Surya Ganguli,Male,Stanford,An equivalence between high dimensional Bayes optimal inference and M-estimation.
+343,343,Kohei Hayashi,Male,AIST,Yuichi Yoshida,Male,NII,Minimizing Quadratic Functions in Constant Time.
+344,344,Wei Wen,Male,University of Pittsburgh,Hai Li,Female,University of Pittsburg,Learning Structured Sparsity in Deep Neural Networks.
+345,345,Rizal Fathony,Male,U. of Illinois at Chicago,Brian Ziebart,Male,University of Illinois at Chicago,Adversarial Multiclass Classification: A Risk Minimization Perspective.
+346,346,Tyler Johnson,Male,University of Washington,Carlos Guestrin,Male,University of Washington,Unified Methods for Exploiting Piecewise Linear Structure in Convex Optimization.
+347,347,Olivier Bachem,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,Fast and Provably Good Seedings for k-Means.
+348,348,Eugene Belilovsky,Male,CentraleSupelec,Matthew Blaschko,Male,KU Leuven,Testing for Differences in Gaussian Graphical Models:  Applications to Brain Connectivity.
+349,349,Sungsoo Ahn,Male,KAIST,Jinwoo Shin,Male,KAIST,Synthesis of MCMC and Belief Propagation.
+350,350,Aviv Tamar,Male,UC Berkeley,Garrett Thomas,Male,UC Berkeley,Value Iteration Networks.
+351,351,Marco Fraccaro,Male,DTU,Ole Winther,Male,DTU,Sequential Neural Models with Stochastic Layers.
+352,352,Justin Eldridge,Male,The Ohio State University,Yusu Wang,Male,The Ohio State University,"Graphons, mergeons, and so on!."
+353,353,Aurko Roy,Male,Georgia Tech,Sebastian Pokutta,Male,GeorgiaTech,Hierarchical Clustering via Spreading Metrics.
+354,354,Jason Hartford,Male,University of British Columbia,Kevin Leyton-Brown,Male,University of British Columbia,Deep Learning for Predicting Human Strategic Behavior.
+355,355,Ji Xu,Male,Columbia university,Arian Maleki,Male,Columbia University,Global Analysis of Expectation Maximization for Mixtures of Two Gaussians.
+356,356,Ofir David,Male,Technion - Israel institute of technology,Amir Yehudayoff,Male,Technion - Israel institue of Technology,Supervised learning through the lens of compression.
+357,357,Rong Ge,Male,Princeton University,Tengyu Ma,Male,Princeton University,Matrix Completion has No Spurious Local Minimum.
+358,358,Hassan Ashtiani,Male,University of Waterloo,Shai Ben-David,Male,U. Waterloo,Clustering with Same-Cluster Queries.
+359,359,Tim van Erven,Male,University of Amsterdam,Wouter Koolen,Male,"Centrum Wiskunde & Informatica, Amsterdam",MetaGrad: Multiple Learning Rates in Online Learning.
+360,360,Aapo Hyvarinen,Male,University of Helsinki,Hiroshi Morioka,Male,University of Helsinki,Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA.
+361,361,Daniel Neil,Male,Institute of Neuroinformatics,Shih-Chii Liu,Male,"Institute for Neuroinformatics, University of Zurich and ETH Zurich",Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences.
+362,362,Yujia Shen,Female,UCLA,Adnan Darwiche,Male,UCLA,Tractable Operations for Arithmetic Circuits of Probabilistic Models.
+363,363,Jimmy Ba,Male,University of Toronto,Catalin Ionescu,Male,Google,Using Fast Weights to Attend to the Recent Past.
+364,364,Matthias W Seeger,Male,Amazon,Valentin Flunkert,Male,Amazon,Bayesian Intermittent Demand Forecasting for Large Inventories.
+365,365,Jean-Bastien Grill,Male,Inria Lille - Nord Europe,Remi Munos,Male,Google DeepMind,Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning.
+366,366,Kiarash Shaloudegi,Male,Huawei Noah's Ark,Wilsun Xu,Male,University of Alberta,SDP Relaxation with Randomized Rounding for Energy Disaggregation.
+367,367,Chengtao Li,Male,MIT,Stefanie Jegelka,Female,MIT,"Fast Mixing Markov Chains for Strongly Rayleigh Measures, DPPs, and Constrained Sampling."
+368,368,Danilo Jimenez Rezende,Male,Google DeepMind,Nicolas Heess,Male,Google DeepMind,Unsupervised Learning of 3D Structure from Images.
+369,369,Alnur Ali,Male,Carnegie Mellon University,Ryan Tibshirani,Male,Carnegie Mellon University,The Multiple Quantile Graphical Model.
+370,370,Bo Wang,Male,Stanford University,Anshul Kundaje,Male,Stanford University,Unsupervised Learning from Noisy Networks with Applications to Hi-C Data.
+371,371,Yizhe Zhang,Female,Duke university,Lawrence Carin,Male,Duke University,Towards Unifying Hamiltonian Monte Carlo and Slice Sampling.
+372,372,Kentaro Minami,Male,The University of Tokyo,Hiroshi Nakagawa,Male,The University of Tokyo,Differential Privacy without Sensitivity.
+373,373,Tim Rubin,Male,Indiana University,Tal Yarkoni,Male,University of Texas at Austin,Generalized Correspondence-LDA Models (GC-LDA) for Identifying Functional Regions in the Brain.
+374,374,Zelda Mariet,Female,MIT,Suvrit Sra,Male,MIT,Kronecker Determinantal Point Processes.
+375,375,Avinava Dubey,Male,Carnegie Mellon University,Eric Xing,Male,Carnegie Mellon University,Variance Reduction in Stochastic Gradient Langevin Dynamics.
+376,376,Michal Feldman,Male,TAU,Aviv Zohar,Male,huji,Online Pricing with Strategic and Patient Buyers.
+377,377,Zeyuan Allen-Zhu,Male,Princeton University,Karthik Sridharan,Male,University of Pennsylvania,Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters.
+378,378,Pedro Mercado,Male,Saarland University,Matthias Hein,Male,Saarland University,Clustering Signed Networks with the Geometric Mean of Laplacians.
+379,379,Pan Zhang,Male,Institute of Theoretical Physics,Pan Zhang,Male,Institute of Theoretical Physics,Robust Spectral Detection of Global Structures in the Data by Learning a Regularization.
+380,380,Xinchen Yan,Male,University of Michigan,Honglak Lee,Male,University of Michigan,Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision.
+381,381,Mahdi Milani Fard,Male,Google,Maya Gupta,Female,Google,Launch and Iterate: Reducing Prediction Churn.
+382,382,Bo Li,Male,Vanderbilt University,Yevgeniy Vorobeychik,Male,Vanderbilt University,Data Poisoning Attacks on Factorization-Based Collaborative Filtering.
+383,383,Jack Rae,Male,Google DeepMind,Timothy Lillicrap,Male,Google DeepMind,Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes.
+384,384,Jonathan Kadmon,Male,Hebrew University,Haim Sompolinsky,Male,Hebrew University and Harvard University,Optimal Architectures in a Solvable Model of Deep Networks.
+385,385,Gabriel Krummenacher,Male,ETH Zurich,Nicolai Meinshausen,Male,ETH Zurich,Scalable Adaptive Stochastic Optimization Using Random Projections.
+386,386,Hao Wu,Male,Free University of Berlin,Frank Noe,Male,FU Berlin,Spectral Learning of Dynamic Systems from Nonequilibrium Data.
+387,387,sabyasachi chatterjee,Male,University of Chicago,Yuancheng Zhu,Male,University of Chicago,Local Minimax Complexity of Stochastic Convex Optimization.
+388,388,Yarin Gal,Male,University of Cambridge,Zoubin Ghahramani,Male,Uber and University of Cambridge,A Theoretically Grounded Application of Dropout in Recurrent Neural Networks.
+389,389,Umut Güçlü,Male,Radboud University,Marcel A. J. van Gerven,Male,Radboud University,Brains on Beats.
+390,390,dreamqi Meng,Male,Peking University,Tie-Yan Liu,Male,Microsoft Research,A Communication-Efficient Parallel Algorithm for Decision Tree.
+391,391,Erik Lindgren,Male,University of Texas at Austin,Alex Dimakis,Male,"University of Texas, Austin",Leveraging Sparsity for Efficient Submodular Data Summarization.
+392,392,Jacob Steinhardt,Male,Stanford University,Moses Charikar,Male,Stanford University,Avoiding Imposters and Delinquents: Adversarial Crowdsourcing and Peer Prediction.
+393,393,Reza Eghbali,Male,University of washington,Maryam Fazel,Female,University of Washington,Designing smoothing functions for improved worst-case competitive ratio in online optimization.
+394,394,Kieran Milan,Male,Google DeepMind,Demis Hassabis,Male,DeepMind,The Forget-me-not Process.
+395,395,Carl Vondrick,Male,MIT,Antonio Torralba,Male,MIT,Generating Videos with Scene Dynamics.
+396,396,Pingfan Tang,Male,University of Utah,Jeff M Phillips,Male,University of Utah,The Robustness of Estimator Composition.
+397,397,Kihyuk Sohn,Male,Google,Kihyuk Sohn,Male,Google,Improved Deep Metric Learning with Multi-class N-pair Loss Objective.
+398,398,Suriya Gunasekar,Male,UT Austin,Joydeep Ghosh,Male,UT Austin,Preference Completion from Partial Rankings.
+399,399,Victor Picheny,Male,Institut National de la Recherche Agronomique,Sebastien Le Digabel,Male,École Polytechnique de Montréal,Bayesian optimization under mixed constraints  with a slack-variable augmented Lagrangian.
+400,400,Ryan Rogers,Male,University of Pennsylvania,Jonathan Ullman,Male,Northeastern University,Privacy Odometers and Filters: Pay-as-you-Go Composition.
+401,401,Ehsan Saberian,Male,Netflix,Can Xu,Male,Google,Large Margin Discriminant Dimensionality Reduction in Prediction Space.
+402,402,Blake Woodworth,Male,Toyota Technological Institute,Nati Srebro,Male,TTI-Chicago,Tight Complexity Bounds for Optimizing Composite Objectives.
+403,403,Noah Apthorpe,Male,Princeton University,H. Sebastian Seung,Male,Princeton University,Automatic Neuron Detection in Calcium Imaging Data Using Convolutional Networks.
+404,404,Tejas Kulkarni,Male,MIT,Josh Tenenbaum,Male,MIT,Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation.
+405,405,Aaron van den Oord,Male,Google Deepmind,Alex Graves,Male,Google DeepMind,Conditional Image Generation with PixelCNN Decoders.
+406,406,Hao Wang,Male,HKUST,Dit-Yan Yeung,Male,Hong Kong University of Science and Technology,Natural-Parameter Networks: A Class of Probabilistic Neural Networks.
+407,407,Panos Toulis,Male,University of Chicago,David Parkes,Male,Harvard University,Long-term Causal Effects via Behavioral Game Theory.
+408,408,Michael Figurnov,Male,Skolkovo Inst. of Sc and Tech,Pushmeet Kohli,Male,Microsoft Research,PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions.
+409,409,Feras Saad,Male,MIT,Vikash Mansinghka,Male,MIT,A Probabilistic Programming Approach To Probabilistic Data Analysis.
+410,410,Eunice Yuh-Jie Chen,Female,UCLA,Adnan Darwiche,Male,UCLA,Learning Bayesian networks with ancestral constraints.
+411,411,Gang Wang,Male,University of Minnesota,Georgios Giannakis,Male,University of Minnesota,Solving Random Systems of Quadratic Equations via Truncated Generalized Gradient Flow.
+412,412,Ahmed M. Alaa,Male,UCLA,Mihaela van der Schaar,Male,"University of California, Los Angeles",Balancing Suspense and Surprise: Timely Decision Making with Endogenous Information Acquisition.
+413,413,Dmitry Ostrovsky,Male,Univ. Grenoble Alpes,Arkadi S Nemirovski,Male,Gerogia Institute of Technology,Structure-Blind Signal Recovery.
+414,414,Christoph Feichtenhofer,Male,Graz University of Technology,Richard Wildes,Male,York University Toronto,Spatiotemporal Residual Networks for Video Action Recognition.
+415,415,Oswin Krause,Male,University of Copenhagen,Christian Igel,Male,University of Copenhagen,CMA-ES with Optimal Covariance Update and Storage Complexity.
+416,416,Chang Liu,Male,University of Maryland,Dawn Song,Male,UC Berkeley,Latent Attention For If-Then Program Synthesis.
+417,417,damekdavis Davis,Male,Cornell University,Madeleine Udell,Male,Cornell University,The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM.
+418,418,Ashkan Norouzi-Fard,Male,EPFL,Volkan Cevher,Male,EPFL,An Efficient Streaming Algorithm for the Submodular Cover Problem.
+419,419,Ali Eslami,Male,Google DeepMind,Geoffrey E Hinton,Male,Google,"Attend, Infer, Repeat: Fast Scene Understanding with Generative Models."
+420,420,Miguel A. Carreira-Perpinan,Male,UC Merced,Ramin Raziperchikolaei,Male,UC Merced,An ensemble diversity approach to supervised binary hashing.
+421,421,Rodrigo Nogueira,Male,New York University,Kyunghyun Cho,Male,University of Montreal,End-to-End Goal-Driven Web Navigation.
+422,422,Kevin Jamieson,Male,UC Berkeley,Benjamin Recht,Male,UC Berkeley,The Power of Adaptivity in Identifying Statistical Alternatives.
+423,423,Ankit Patel,Male,Baylor College of Medicine and Rice University,Richard Baraniuk,Male,Rice University,A Probabilistic Framework for Deep Learning.
+424,424,Ilya Tolstikhin,Male,"Google, Brain Team, Zurich",Bernhard Schölkopf,Male,"MPI for Intelligent Systems, Tübingen",Minimax Estimation of Maximum Mean Discrepancy with Radial Kernels.
+425,425,Rudy Bunel,Male,Oxford University,Philip Torr,Male,Oxford University,Adaptive Neural Compilation.
+426,426,Klaus Greff,Male,IDSIA,Jürgen Schmidhuber,Male,"Swiss AI Lab, IDSIA (USI & SUPSI) - NNAISENSE",Tagger: Deep Unsupervised Perceptual Grouping.
+427,427,Richard Nock,Male,Data61 and ANU,Cheng Soon Ong,Male,Data61,A scaled Bregman theorem with applications.
+428,428,Luca Bertinetto,Male,University of Oxford,Andrea Vedaldi,Male,Facebook AI Research and University of Oxford,Learning feed-forward one-shot learners.
+429,429,Hong Chen,Male,University of Texas,Weidong Cai,Male,University of Sydney,Error Analysis of Generalized Nyström Kernel Regression.
+430,430,Weihao Gao,Male,UIUC,Pramod Viswanath,Male,UIUC,Breaking the Bandwidth Barrier: Geometrical Adaptive Entropy Estimation.
+431,431,Yang You,Male,UC Berkeley,Cho-Jui Hsieh,Male,UCLA,Asynchronous Parallel Greedy Coordinate Descent.
+432,432,Corinna Cortes,Female,Google Research,Scott Yang,Male,New York University,Structured Prediction Theory Based on Factor Graph Complexity.
+433,433,Tatiana Shpakova,Female,Inria - ENS Paris,Francis Bach,Male,INRIA - Ecole Normale Superieure,Parameter Learning for Log-supermodular Distributions.
+434,434,Xiaotong Yuan,Male,Nanjing University of Informat,Tong Zhang,Male,Tencent,Exact Recovery of Hard Thresholding Pursuit.
+435,435,Seyed Mehran Kazemi,Male,UBC,David Poole,Male,UBC,New Liftable Classes for First-Order Probabilistic Inference.
+436,436,Josip Djolonga,Male,ETH Zurich,Andreas Krause,Male,ETH Zurich,Variational Inference in Mixed Probabilistic Submodular Models.
+437,437,Marc Bellemare,Male,Google DeepMind,Remi Munos,Male,Google DeepMind,Unifying Count-Based Exploration and Intrinsic Motivation.
+438,438,Andrej Risteski,Male,Princeton University,Yuanzhi Li,Male,Princeton University,Approximate maximum entropy principles via Goemans-Williamson with applications to provable variational methods.
+439,439,Jingwei Liang,Male,GREYC,Gabriel Peyré,Male,Université Paris Dauphine,A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization.
+440,440,Mahdi Milani Fard,Male,Google,Maya Gupta,Female,Google,Fast and Flexible Monotonic Functions with Ensembles of Lattices.
+441,441,Saizheng Zhang,Male,University of Montreal,Yoshua Bengio,Male,U. Montreal,Architectural Complexity Measures of Recurrent Neural Networks.
+442,442,Ashok Cutkosky,Male,Stanford University,Kwabena A Boahen,Male,Stanford University,Online Convex Optimization with Unconstrained Domains and Losses.
+443,443,Chendi Huang,Male,Peking University,Yuan Yao,Female,Stanford University,Split LBI: An Iterative Regularization Path with Structural Sparsity.
+444,444,Yunchen Pu,Male,Duke University,Lawrence Carin,Male,Duke University,"Variational Autoencoder for Deep Learning of Images, Labels and Captions."
+445,445,Yuanzhi Li,Male,Princeton University,Andrej Risteski,Male,Princeton University,Recovery Guarantee of Non-negative Matrix Factorization  via Alternating Updates.
+446,446,Shenlong Wang,Male,University of Toronto,Raquel Urtasun,Female,University of Toronto,Proximal Deep Structured Models.
+447,447,Mohammad Ghavamzadeh,Male,Facebook AI Research,Yinlam Chow,Male,Stanford University,Safe Policy Improvement by Minimizing Robust Baseline Regret.
+448,448,Tae-Hyun Oh,Male,KAIST,David Wipf,Male,Microsoft Research,A Pseudo-Bayesian Algorithm for Robust PCA.
+449,449,Hado van Hasselt,Male,DeepMind,David Silver,Male,DeepMind,Learning values across many orders of magnitude.
+450,450,Shanshan Wu,Male,UT Austin,Alex Dimakis,Male,"University of Texas, Austin",Single Pass PCA of Matrix Products.
+451,451,Shreyas Saxena,Male,INRIA,Jakob Verbeek,Male,INRIA,Convolutional Neural Fabrics.
+452,452,Xinghua Lou,Male,Vicarious FPC Inc,Dileep George,Male,Vicarious,Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data.
+453,453,Arno Onken,Male,IIT,Stefano Panzeri,Male,IIT,Mixed vine copulas as joint models of spike counts and local field potentials.
+454,454,Zeyuan Allen-Zhu,Male,Princeton University,Elad Hazan,Male,Princeton University,Optimal Black-Box Reductions Between Optimization Objectives.
+455,455,Jason E Weston,Male,Facebook AI Research,Jason E Weston,Male,Facebook AI Research,Dialog-based Language Learning.
+456,456,Wei-Shou Hsu,Male,University of Waterloo,Pascal Poupart,Male,University of Waterloo & Vector Institute,Online Bayesian Moment Matching for Topic Modeling with Unknown Number of Topics.
+457,457,Jin Lu,Male,University of Connecticut,Jinbo Bi,Female,University of Connecticut,A Sparse Interactive Model for Matrix Completion with Side Information.
+458,458,Ilija Bogunovic,Male,EPFL Lausanne,Volkan Cevher,Male,EPFL,Truncated Variance Reduction: A Unified Approach to Bayesian Optimization and Level-Set Estimation.
+459,459,Rishi Gupta,Male,Stanford,Sergei Vassilvitskii,Male,Google,On Mixtures of Markov Chains.
+460,460,Qilong Gu,Male,University of Minnesota,Arindam Banerjee,Male,"University of Minnesota, Twin Cities",High Dimensional Structured Superposition Models.
+461,461,Lalit Jain,Male,University of Michigan,Rob Nowak,Male,University of Wisconsin Madison,Finite Sample Prediction and Recovery Bounds for Ordinal Embedding.
+462,462,Han-Jia Ye,Male,Nanjing University,Zhi-Hua Zhou,Male,Nanjing University,What Makes Objects Similar: A Unified Multi-Metric Learning Approach.
+463,463,David Harwath,Male,MIT CSAIL,James Glass,Male,MIT CSAIL,Unsupervised Learning of Spoken Language with Visual Context.
+464,464,Xinghao Pan,Male,UC Berkeley,Benjamin Recht,Male,UC Berkeley,Cyclades: Conflict-free Asynchronous Machine Learning.
+465,465,Peter Schulam,Male,Johns Hopkins University,Raman Arora,Male,Johns Hopkins University,Disease Trajectory Maps.
+466,466,George Papamakarios,Male,University of Edinburgh,Iain Murray,Male,University of Edinburgh,Fast ε-free Inference of Simulation Models with Bayesian Conditional Density Estimation.
+467,467,Artem Sokolov,Male,Heidelberg University,Christopher Lo,Male,Tufts University,Stochastic Structured Prediction under Bandit Feedback.
+468,468,Crane Huang,Male,LIBR,Martin Paulus,Male,LIBR,Learning under uncertainty: a comparison between R-W and Bayesian approach.
+469,469,Taiji Suzuki,Male,The University of Tokyo/RIKEN-AIP,Yukihiro Tagami,Male,Yahoo Japan Corporation,Minimax Optimal Alternating Minimization for Kernel Nonparametric Tensor Learning.
+470,470,Peter Chen,Male,Columbia University,Bo Tang,Male,University of Oxford,On the Recursive Teaching Dimension of VC Classes.
+471,471,Yossi Arjevani,Male,Weizmann Institute of Science,Ohad Shamir,Male,Weizmann Institute of Science,Dimension-Free Iteration Complexity of Finite Sum Optimization Problems.
+472,472,Sebastian Nowozin,Male,Microsoft Research,Ryota Tomioka,Male,MSRC,f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
+473,473,Guillaume Rabusseau,Male,Aix-Marseille University,Hachem Kadri,Male,Aix-Marseille University,Low-Rank Regression with Tensor Responses.
+474,474,Huasen Wu,Male,University of California at Davis,Xin Liu,Male,University of California,Double Thompson Sampling for Dueling Bandits.
+475,475,Yuanjun Gao,Male,Columbia University,John Cunningham,Male,University of Columbia,Linear dynamical neural population models through nonlinear embeddings.
+476,476,Nagarajan Natarajan,Male,Microsoft Research,Prateek Jain,Male,Microsoft Research,Regret Bounds for Non-decomposable Metrics with Missing Labels.
+477,477,Liangbei Xu,Male,Gatech,Mark Davenport,Male,Georgia Institute of Technology,Dynamic matrix recovery from incomplete observations under an exact low-rank constraint.
+478,478,Yingzhen Li,Male,University of Cambridge,Richard Turner,Male,University of Cambridge,Rényi Divergence Variational Inference.
+479,479,Himabindu Lakkaraju,Male,Stanford University,Jure Leskovec,Male,Stanford University/Pinterest,Confusions over Time: An Interpretable Bayesian Model to Characterize Trends in Decision Making.
+480,480,Walid Krichene,Male,UC Berkeley,Peter Bartlett,Male,UC Berkeley,Adaptive Averaging in Accelerated Descent Dynamics.
+481,481,Tom Rainforth,Male,University of Oxford,Frank Wood,Male,University of British Columbia,Bayesian Optimization for Probabilistic Programs.
+482,482,Weiran Wang,Male,"University of California, Merced",Nati Srebro,Male,TTI-Chicago,Efficient Globally Convergent Stochastic Optimization for Canonical Correlation Analysis.
+483,483,Han Zhao,Male,Carnegie Mellon University,Geoffrey Gordon,Male,MSR Montréal & CMU,A Unified Approach for Learning the Parameters of Sum-Product Networks.
+484,484,Jiyan Yang,Male,Stanford University,Yuekai Sun,Male,University of Michigan,Feature-distributed sparse regression: a screen-and-clean approach.
+485,485,Tuomas Haarnoja,Male,UC Berkeley,Pieter Abbeel,Male,OpenAI / UC Berkeley / Gradescope,Backprop KF: Learning Discriminative Deterministic State Estimators.
+486,486,Saurabh Singh,Male,UIUC,David Forsyth,Male,UIUC,Swapout: Learning an ensemble of deep architectures.
+487,487,Antoine Desir,Male,Columbia University,Danny Segev,Male,University of Haifa,Assortment Optimization Under the Mallows model.
+488,488,Rajesh Ranganath,,Princeton University,David Blei,Male,Columbia University,Operator Variational Inference.
+489,489,Abdul-Saboor Sheikh,Male,SAP Labs Berlin,Jörg Lücke,Male,University of Oldenburg,Select-and-Sample for Spike-and-Slab Sparse Coding.
+490,490,Chinmay Hegde,Male,Iowa State University,Ludwig Schmidt,Male,MIT,Fast recovery from a union of subspaces.
+491,491,Casper Kaae Sønderby,Male,University of Copenhagen,Ole Winther,Male,Technical University of Denmark,Ladder Variational Autoencoders.
+492,492,Dehua Cheng,Male,Univ. of Southern California,Kimis Perros,Male,Georgia Institute of Technology,SPALS: Fast Alternating Least Squares via Implicit Leverage Scores Sampling.
+493,493,Xiao Chu,Male,Cuhk,Xiaogang Wang,Male,Chinese University of Hong Kong,CRF-CNN: Modeling Structured Information in Human Pose Estimation.
+494,494,Carlo Ciliberto,Male,MIT,Alessandro Rudi,Male,"École Normale Supérieure, INRIA",A Consistent Regularization Approach for Structured Prediction.
+495,495,Sébastien Gerchinovitz,Male,Université Toulouse 3 - Paul Sabatier,Tor Lattimore,Male,DeepMind,Refined Lower Bounds for Adversarial Bandits.
+496,496,Evgeniya Ustinova,Female,Skoltech,Victor Lempitsky,Male,Samsung,Learning Deep Embeddings with Histogram Loss.
+497,497,Yexiang Xue,Male,Cornell University,Bart Selman,Male,Cornell University,Solving Marginal MAP Problems with NP Oracles and Parity Constraints.
+498,498,Yang Song,Male,Stanford University,Yong Ren,Male,Tsinghua University,Kernel Bayesian Inference with Posterior Regularization.
+499,499,Xinran He,Male,USC,Yan Liu,Female,University of Southern California,Learning Influence Functions from Incomplete Observations.
+500,500,Tao Wu,Male,Purdue University,David Gleich,Male,Purdue University,General Tensor Spectral Co-clustering for Higher-Order Data.
+501,501,Scott Linderman,Male,Columbia University,Jonathan Pillow,Male,Princeton University,Bayesian latent structure discovery from multi-neuron recordings.
+502,502,Lin Chen,Female,Yale University,Forrest W. Crawford,Male,Yale University,Estimating the Size of a Large Network and its Communities from a Random Sample.
+503,503,Grégoire Montavon,Male,TU Berlin,Marco Cuturi,Male,Google Brain  &  CREST - ENSAE,Wasserstein Training of Restricted Boltzmann Machines.
+504,504,yan yang,Male,Xi'an Jiaotong University,Zongben Xu,Male,Xi'an Jiaotong University,Deep ADMM-Net for Compressive Sensing MRI.
+505,505,Thibaut Horel,Male,Harvard University,Yaron Singer,Male,Harvard University,Maximization of Approximately Submodular Functions.
+506,506,Yu-Xiong Wang,Male,Carnegie Mellon University,Martial Hebert,Male,Carnegie Mellon University,Combining Low-Density Separators with CNNs.
+507,507,Ayan Chakrabarti,Male,TTI Chicago,Ayan Chakrabarti,Male,TTI Chicago,Learning Sensor Multiplexing Design through Back-propagation.
+508,508,Kameron Harris,Male,University of Washington,Eric Shea-Brown,Male,University of Washington,High resolution neural connectivity from incomplete tracing data using nonnegative spline regression.
+509,509,Jiajun Wu,Male,MIT,Josh Tenenbaum,Male,MIT,Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling.
+510,510,Mohammad Javad Hosseini,Male,University of Washington,Su-In Lee,Female,University of Washington,Learning Sparse Gaussian Graphical Models with Overlapping Blocks.
+511,511,Maia Fraser,Male,University of Ottawa,Maia Fraser,Female,University of Ottawa,Multi-step learning and underlying structure in statistical models.
+512,512,Yiwen Guo,Male,Intel Labs China,Yurong Chen,Male,Intel Labs China,Dynamic Network Surgery for Efficient DNNs.
+513,513,Aryeh Kontorovich,Male,Ben Gurion University,Ruth Urner,Male,MPI Tuebingen,Active Nearest-Neighbor Learning in Metric Spaces.
+514,514,Mathias Niepert,Male,NEC Labs Europe,Mathias Niepert,Male,NEC Labs Europe,Discriminative Gaifman Models.
+515,515,Alex M Lamb,Male,Montreal,Yoshua Bengio,Male,U. Montreal,Professor Forcing: A New Algorithm for Training Recurrent Networks.
+516,516,Feng Nan,Male,Boston University,Venkatesh Saligrama,Male,Boston University,Pruning Random Forests for Prediction on a Budget.
+517,517,Mehrdad Farajtabar,Male,Georgia Tech,Hongyuan Zha,Male,Georgia Institute of Technology,Multistage Campaigning in Social Networks.
+518,518,Yichen Wang,Male,Georgia Tech,Le Song,Male,Georgia Institute of Technology,Coevolutionary Latent Feature Processes for Continuous-Time User-Item Interactions.
+519,519,Qi Lei,Female,UT AUSTIN,Inderjit Dhillon,Male,UT Austin & Amazon,Coordinate-wise Power Method.
+520,520,Conghui Tan,Male,The Chinese University of HK,Yuqiu Qian,Male,The University of Hong Kong,Barzilai-Borwein Step Size for Stochastic Gradient Descent.
+521,521,Vu C Dinh,Male,Fred Hutchinson Cancer Center,Duy Nguyen,Male,University of Wisconsin-Madison,Fast learning rates with heavy-tailed losses.
+522,522,Miguel A Bautista,Male,Heidelberg University,Bjorn Ommer,Male,Heidelberg University,CliqueCNN: Deep Unsupervised Exemplar Learning.
+523,523,William H Montgomery,Male,University of Washington,Sergey Levine,Male,University of Washington,Guided Policy Search via Approximate Mirror Descent.
+524,524,Prateek Jain,Male,Microsoft Research,Inderjit Dhillon,Male,UT Austin & Amazon,Structured Sparse Regression via Greedy Hard Thresholding.
+525,525,Dylan Foster,Male,Cornell University,Eva Tardos,Male,Cornell University,Learning in Games: Robustness of Fast Convergence.
+526,526,Roger Grosse,Male,University of Toronto,Dan Roy,Male,Univ of Toronto & Vector,Measuring the reliability of MCMC inference with bidirectional Monte Carlo.
+527,527,Tengyao Wang,Male,University of Cambridge,Yaniv Plan,Male,University of British Columbia,Average-case hardness of RIP certification.
+528,528,Chi Jin,Male,UC Berkeley,Praneeth Netrapalli,Male,Microsoft Research,Provable Efficient Online Matrix Completion via Non-convex Stochastic Gradient Descent.
+529,529,matt zhang,Male,Nicta,Fang Chen,Male,Data61,Infinite Hidden Semi-Markov Modulated Interaction Point Process.
+530,530,Shipra Agrawal,Male,Columbia University,Nikhil Devanur,Male,Microsoft Research,Linear Contextual Bandits with Knapsacks.
+531,531,Fan Yang,Male,University of Chicago,John Lafferty,Male,Yale University,Selective inference for group-sparse linear models.
+532,532,Arulkumar Subramaniam,Male,IIT Madras,Anurag Mittal,Male,IIT Madras,Deep Neural Networks with Inexact Matching for Person Re-Identification.
+533,533,Mengdi Wang,Male,Princeton University,Ethan Fang,Male,Pennsylvania State University,Accelerating Stochastic Composition Optimization.
+534,534,Wataru Kumagai,Male,Kanagawa University,Wataru Kumagai,Male,Kanagawa University,Learning Bound for Parameter Transfer Learning.
+535,535,Łukasz Kaiser,Male,Google Brain,Samy Bengio,Male,Apple,Can Active Memory Replace Attention?.
+536,536,Wenjie Luo,Male,University of Toronto,Richard Zemel,Male,Vector Institute/University of Toronto,Understanding the Effective Receptive Field in Deep Convolutional Neural Networks.
+537,537,Chen Huang,Male,Chinese University of HongKong,Xiaoou Tang,Male,The Chinese University of Hong Kong,Local Similarity-Aware Deep Feature Embedding.
+538,538,Julien Mairal,Male,Inria,Julien Mairal,Male,Inria,End-to-End Kernel Learning with Supervised Convolutional Kernel Networks.
+539,539,Weifeng Chen,Male,University of Michigan,Jia Deng,Male,University of Michigan,Single-Image Depth Perception in the Wild.
+540,540,Amit Daniely,Male,Google Brain,Yoram Singer,Male,Google,Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity.
+541,541,Ohad Shamir,Male,Weizmann Institute of Science,Ohad Shamir,Male,Weizmann Institute of Science,Without-Replacement Sampling for Stochastic Gradient Methods.
+542,542,jifeng dai,Male,Microsoft,Jian Sun,Male,Microsoft,R-FCN: Object Detection via Region-based Fully Convolutional Networks.
+543,543,Tianfan Xue,Male,MIT CSAIL,Bill Freeman,Male,MIT/Google,Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks.
+544,544,Ilya Shpitser,Male,Johns Hopkins University,Ilya Shpitser,Male,Johns Hopkins University,Consistent Estimation of Functions of Data Missing Non-Monotonically and Not at Random.
+545,545,Scott E Reed,Male,University of Michigan,Honglak Lee,Male,University of Michigan,Learning What and Where to Draw.
+546,546,Yiming Ying,Male,State University of New York at Albany,Siwei Lyu,Male,State University of New York at Albany,Stochastic Online AUC Maximization.
+547,547,Kenji Kawaguchi,Male,MIT,Kenji Kawaguchi,Male,MIT,Deep Learning without Poor Local Minima.
+548,548,Damien Scieur,Male,INRIA - ENS,Francis Bach,Male,INRIA - Ecole Normale Superieure,Regularized Nonlinear Acceleration.
+549,549,Pulkit Agrawal,Male,UC Berkeley,Sergey Levine,Male,University of Washington,Learning to Poke by Poking: Experiential Learning of Intuitive Physics.
+550,550,Tim Salimans,Male,Algoritmica,Diederik Kingma,Male,Google,Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks.
+551,551,Dan Garber,Male,Technion,Ofer Meshi,Male,Google,Linear-Memory and Decomposition-Invariant Linearly Convergent Conditional Gradient Algorithm for Structured Polytopes.
+552,552,Emmanuel Abbe,Male,Princeton University,Colin Sandon,Male,Princeton University,Achieving the KS threshold in the general stochastic block model with linearized acyclic belief propagation.
+553,553,Felix Xinnan Yu,Male,Google Research,Sanjiv Kumar,Male,Google,Orthogonal Random Features.
+554,554,Christopher B Choy,Male,Stanford University,Silvio Savarese,Male,Stanford University,Universal Correspondence Network.
+555,555,Risi Kondor,Male,The University of Chicago,Horace Pan,Male,UChicago,The Multiscale Laplacian Graph Kernel.
+556,556,Vitaly Feldman,Male,Apple,Vitaly Feldman,Male,Apple,Generalization of ERM in Stochastic Convex Optimization: The Dimension Strikes Back.
+557,557,Shinji Ito,Male,NEC Coorporation,Ryohei Fujimaki,Male,NEC Data Science Research Laboratories,Large-Scale Price Optimization via Network Flow.
+558,558,Jost Tobias Springenberg,Male,University of Freiburg,Frank Hutter,Male,University of Freiburg,Bayesian Optimization with Robust Bayesian Neural Networks.
+559,559,Vladimir Golkov,Male,Technical University of Munich,Daniel Cremers,Male,Technical University of Munich,Protein contact prediction from amino acid co-evolution using convolutional networks for graph-valued images.
+560,560,Gao Huang,Male,Cornell University,Kilian Weinberger,Male,Cornell University / ASAPP Research,Supervised Word Mover's Distance.
+561,561,Moontae Lee,Male,Cornell University,David Mimno,Male,Cornell University,Beyond Exchangeability: The Chinese Voting Process.
+562,562,Aaron Schein,Male,UMass Amherst,Mingyuan Zhou,Male,University of Texas at Austin,Poisson-Gamma dynamical systems.
+563,563,Wittawat Jitkrittum,Male,Gatsby Unit,Arthur Gretton,Male,"Gatsby Unit, UCL",Interpretable Distribution Features with Maximum Testing Power.
+564,564,Dmitry Krotov,Male,Institute for Advanced Study,John J. Hopfield,Male,Princeton Neuroscience Institute,Dense Associative Memory for Pattern Recognition.
+565,565,Matthew Chalk,Male,IST Austria,Gasper Tkacik,Male,Institute of Science and Technology Austria,Relevant sparse codes with variational information bottleneck.
+566,566,Been Kim,Male,Google Brain,Rajiv Khanna,Male,UT Austin,"Examples are not enough, learn to criticize! Criticism for Interpretability ."
+567,567,Mark Ho,Male,Brown University,Joe L Austerweil,Male,University of Wisconsin-Madison,Showing versus doing: Teaching by demonstration.

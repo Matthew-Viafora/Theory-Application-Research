@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="178682">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"khd2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">1108.12</time>
+<completions total="1" computed="1" sent="1">
+<c sc="17" dc="17" oc="17" id="18262966">:facetid:toc:db/conf/ijcai/khd2018.bht</c>
+</completions>
+<hits total="17" computed="17" sent="17" first="0">
+<hit score="1" id="1194392">
+<info><authors><author pid="223/1856">Viraj Adduru</author><author pid="92/5132">Sadid A. Hasan</author><author pid="160/9050">Joey Liu</author><author pid="92/4467">Yuan Ling</author><author pid="44/8736">Vivek V. Datla</author><author pid="25/10489">Ashequl Qadir</author><author pid="119/3097">Oladimeji Farri</author></authors><title>Towards Dataset Creation And Establishing Baselines for Sentence-level Neural Clinical Paraphrase Generation and Simplification.</title><venue>KHD@IJCAI</venue><pages>45-52</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AdduruHLLDQF18</key><ee>http://ceur-ws.org/Vol-2148/paper07.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AdduruHLLDQF18</url></info>
+<url>URL#1194392</url>
+</hit>
+<hit score="1" id="1194393">
+<info><authors><author pid="216/9305">Ankita Agrawal</author><author pid="12/5146">Wolfgang Ertel</author></authors><title>Automatic Nursing Care Trainer Based on Machine Learning.</title><venue>KHD@IJCAI</venue><pages>53-59</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AgrawalE18</key><ee>http://ceur-ws.org/Vol-2148/paper08.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AgrawalE18</url></info>
+<url>URL#1194393</url>
+</hit>
+<hit score="1" id="1194443">
+<info><authors><author pid="224/2609">Arthur Bertachi</author><author pid="203/2396">Lyvia Biagi</author><author pid="06/10794">Iván Contreras</author><author pid="95/6112">Ningsu Luo</author><author pid="54/1262">Josep Vehí</author></authors><title>Prediction of Blood Glucose Levels And Nocturnal Hypoglycemia Using Physiological Models and Artificial Neural Networks.</title><venue>KHD@IJCAI</venue><pages>85-90</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BertachiBCLV18</key><ee>http://ceur-ws.org/Vol-2148/paper14.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BertachiBCLV18</url></info>
+<url>URL#1194443</url>
+</hit>
+<hit score="1" id="1194446">
+<info><authors><author pid="203/2396">Lyvia Biagi</author><author pid="224/2637">Josep Antoni Martin-Fernandex</author><author pid="54/1262">Josep Vehí</author></authors><title>Compositional Data Analysis of Type 1 Diabetes Data.</title><venue>KHD@IJCAI</venue><pages>8-12</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BiagiMV18</key><ee>http://ceur-ws.org/Vol-2148/paper01.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BiagiMV18</url></info>
+<url>URL#1194446</url>
+</hit>
+<hit score="1" id="1194513">
+<info><authors><author pid="61/4095">Jianwei Chen</author><author pid="42/8909">Kezhi Li</author><author pid="57/3436">Pau Herrero</author><author pid="224/2867">Taiyu Zhu</author><author pid="65/3264">Pantelis Georgiou</author></authors><title>Dilated Recurrent Neural Network for Short-time Prediction of Glucose Concentration.</title><venue>KHD@IJCAI</venue><pages>69-73</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ChenLHZG18</key><ee>http://ceur-ws.org/Vol-2148/paper11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ChenLHZG18</url></info>
+<url>URL#1194513</url>
+</hit>
+<hit score="1" id="1194547">
+<info><authors><author pid="06/10794">Iván Contreras</author><author pid="224/2609">Arthur Bertachi</author><author pid="203/2396">Lyvia Biagi</author><author pid="54/1262">Josep Vehí</author><author pid="224/2721">Silvia Oviedo</author></authors><title>Using Grammatical Evolution to Generate Short-term Blood Glucose Prediction Models.</title><venue>KHD@IJCAI</venue><pages>91-96</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ContrerasBBVO18</key><ee>http://ceur-ws.org/Vol-2148/paper15.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ContrerasBBVO18</url></info>
+<url>URL#1194547</url>
+</hit>
+<hit score="1" id="1194568">
+<info><authors><author pid="282/0055">Claudio Díaz</author><author pid="71/6687">Kalina Yacef</author></authors><title>Detecting Behaviour Changes in Accelerometer Data.</title><venue>KHD@IJCAI</venue><pages>21-26</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DiazandY18</key><ee>http://ceur-ws.org/Vol-2148/paper03.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DiazandY18</url></info>
+<url>URL#1194568</url>
+</hit>
+<hit score="1" id="1194687">
+<info><authors><author pid="38/5674">Priyanka Gupta</author><author pid="42/811">Pankaj Malhotra</author><author pid="16/4559">Lovekesh Vig</author><author pid="54/3265">Gautam Shroff</author></authors><title>Using Features From Pre-trained TimeNET For Clinical Predictions.</title><venue>KHD@IJCAI</venue><pages>38-44</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/GuptaMVS18</key><ee>http://ceur-ws.org/Vol-2148/paper06.pdf</ee><url>https://dblp.org/rec/conf/ijcai/GuptaMVS18</url></info>
+<url>URL#1194687</url>
+</hit>
+<hit score="1" id="1194724">
+<info><authors><author pid="81/9600">Mike Holmes</author><author pid="23/1961">Hao Song</author><author pid="18/6831">Emma Tonkin</author><author pid="194/4308">Miquel Perelló-Nieto</author><author pid="224/2695">Sabrina Grant</author><author pid="f/PeterAFlach">Peter A. Flach</author></authors><title>Analysis of Patient Domestic Activity in Recovery From Hip or Knee RePlacement Surgery - Modelling Wrist-worn Wearable RSSI and Accelerometer Data in The Wild.</title><venue>KHD@IJCAI</venue><pages>13-20</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HolmesSTPGF18</key><ee>http://ceur-ws.org/Vol-2148/paper02.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HolmesSTPGF18</url></info>
+<url>URL#1194724</url>
+</hit>
+<hit score="1" id="1194928">
+<info><authors><author pid="m/CynthiaRMarling">Cindy Marling</author><author pid="11/936">Razvan C. Bunescu</author></authors><title>The OhioT1DM Dataset For Blood Glucose Level Prediction.</title><venue>KHD@IJCAI</venue><pages>60-63</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MarlingB18</key><ee>http://ceur-ws.org/Vol-2148/paper09.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MarlingB18</url></info>
+<url>URL#1194928</url>
+</hit>
+<hit score="1" id="1194932">
+<info><authors><author pid="224/2647">John Martinsson</author><author pid="23/3903">Alexander Schliep</author><author pid="224/2905">Björn Eliasson</author><author pid="224/2566">Christian Meijner</author><author pid="224/2795">Simon Persson</author><author pid="43/2743">Olof Mogren</author></authors><title>Automatic Blood Glucose Prediction with Confidence Using Recurrent Neural Networks.</title><venue>KHD@IJCAI</venue><pages>64-68</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MartinssonSEMPM18</key><ee>http://ceur-ws.org/Vol-2148/paper10.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MartinssonSEMPM18</url></info>
+<url>URL#1194932</url>
+</hit>
+<hit score="1" id="1194933">
+<info><authors><author pid="26/2155">Stewart Massie</author><author pid="224/2870">Glenn Forbes</author><author pid="52/2286">Susan Craw</author><author pid="224/2627">Lucy Fraser</author><author pid="224/2658">Graeme Hamilton</author></authors><title>Monitoring Health In Smart Homes Using Simple Sensors.</title><venue>KHD@IJCAI</venue><pages>33-37</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MassieFCFH18</key><ee>http://ceur-ws.org/Vol-2148/paper05.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MassieFCFH18</url></info>
+<url>URL#1194933</url>
+</hit>
+<hit score="1" id="1194945">
+<info><authors><author pid="224/2846">Cooper Midroni</author><author pid="224/2845">Peter J. Leimbigler</author><author pid="147/9130">Gaurav Baruah</author><author pid="73/4539">Maheedhar Kolla</author><author pid="224/2617">Alfred J. Whitehead</author><author pid="224/2587">Yan Fossat</author></authors><title>Predicting Glycemia in Type 1 Diabetes Patients - Experiments with XG-Boost.</title><venue>KHD@IJCAI</venue><pages>79-84</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MidroniLBKWF18</key><ee>http://ceur-ws.org/Vol-2148/paper13.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MidroniLBKWF18</url></info>
+<url>URL#1194945</url>
+</hit>
+<hit score="1" id="1195154">
+<info><authors><author pid="224/2756">Elise Klaebo Vonstad</author><author pid="15/2863">Xiaomeng Su</author><author pid="145/5723">Beatrix Vereijken</author><author pid="224/2796">Jan Harald Nilsen</author><author pid="03/6214">Kerstin Bach</author></authors><title>Cassification of Movement Quality in A Weight-shifting Exercise.</title><venue>KHD@IJCAI</venue><pages>27-32</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VonstadSVNB18</key><ee>http://ceur-ws.org/Vol-2148/paper04.pdf</ee><url>https://dblp.org/rec/conf/ijcai/VonstadSVNB18</url></info>
+<url>URL#1195154</url>
+</hit>
+<hit score="1" id="1195229">
+<info><authors><author pid="39/10448">Jinyu Xie</author><author pid="75/5723">Qian Wang</author></authors><title>Benchmark Machine Learning Approaches with Classical Time Series Approaches on the Blood Glucose Level Prediction Challenge.</title><venue>KHD@IJCAI</venue><pages>97-102</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/XieW18</key><ee>http://ceur-ws.org/Vol-2148/paper16.pdf</ee><url>https://dblp.org/rec/conf/ijcai/XieW18</url></info>
+<url>URL#1195229</url>
+</hit>
+<hit score="1" id="1195383">
+<info><authors><author pid="224/2867">Taiyu Zhu</author><author pid="42/8909">Kezhi Li</author><author pid="57/3436">Pau Herrero</author><author pid="61/4095">Jianwei Chen</author><author pid="65/3264">Pantelis Georgiou</author></authors><title>A Deep Learning Algorithm for Personalized Blood Glucose Prediction.</title><venue>KHD@IJCAI</venue><pages>64-78</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhuLHCG18</key><ee>http://ceur-ws.org/Vol-2148/paper12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhuLHCG18</url></info>
+<url>URL#1195383</url>
+</hit>
+<hit score="1" id="1267073">
+<info><authors><author pid="03/6214">Kerstin Bach</author><author pid="11/936">Razvan C. Bunescu</author><author pid="119/3097">Oladimeji Farri</author><author pid="224/2959">Aili Guo</author><author pid="92/5132">Sadid A. Hasan</author><author pid="55/6241">Zina M. Ibrahim</author><author pid="m/CynthiaRMarling">Cindy Marling</author><author pid="200/4813">Jesse Raffa</author><author pid="54/2885">Jonathan Rubin</author><author pid="99/6255">Honghan Wu</author></authors><title>Proceedings of the 3rd International Workshop on Knowledge Discovery in Healthcare Data co-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), Stockholm, Schweden, July 13, 2018.</title><venue>KDH@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2148</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018khd</key><ee>http://ceur-ws.org/Vol-2148</ee><url>https://dblp.org/rec/conf/ijcai/2018khd</url></info>
+<url>URL#1267073</url>
+</hit>
+</hits>
+</result>

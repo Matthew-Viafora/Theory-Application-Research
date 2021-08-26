@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="308303">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"cognitive2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">111.09</time>
+<completions total="1" computed="1" sent="1">
+<c sc="14" dc="14" oc="14" id="18217989">:facetid:toc:db/conf/aaai/cognitive2016.bht</c>
+</completions>
+<hits total="14" computed="14" sent="14" first="0">
+<hit score="1" id="1765261">
+<info><authors><author pid="72/1094">Alfredo Alba</author><author pid="92/208">Clemens Drews</author><author pid="35/2529">Daniel Gruhl</author><author pid="75/10448">Neal Lewis</author><author pid="m/PabloNMendes">Pablo N. Mendes</author><author pid="19/3517">Meenakshi Nagarajan</author><author pid="20/4115">Steve Welch</author><author pid="24/566">Anni Coden</author><author pid="25/10489">Ashequl Qadir</author></authors><title>Symbiotic Cognitive Computing through Iteratively Supervised Lexicon Induction.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/AlbaDGLMNWCQ16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12653</ee><url>https://dblp.org/rec/conf/aaai/AlbaDGLMNWCQ16</url></info>
+<url>URL#1765261</url>
+</hit>
+<hit score="1" id="1765283">
+<info><authors><author pid="98/4822">Maryam Ashoori</author><author pid="33/3184">Rachel K. E. Bellamy</author><author pid="02/133">Justin D. Weisz</author></authors><title>The Impending Ubiquity of Cognitive Objects.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/AshooriBW16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12609</ee><url>https://dblp.org/rec/conf/aaai/AshooriBW16</url></info>
+<url>URL#1765283</url>
+</hit>
+<hit score="1" id="1765315">
+<info><authors><author pid="38/9282">Yonatan Bisk</author><author pid="05/5326">Daniel Marcu</author><author pid="13/1540">William Wong</author></authors><title>Towards a Dataset for Human Computer Communication via Grounded Language Acquisition.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/BiskMW16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12652</ee><url>https://dblp.org/rec/conf/aaai/BiskMW16</url></info>
+<url>URL#1765315</url>
+</hit>
+<hit score="1" id="1765347">
+<info><authors><author pid="132/9032">Roberto Capobianco</author><author pid="132/8982">Guglielmo Gemignani</author><author pid="29/461">Luca Iocchi</author><author pid="n/DanieleNardi">Daniele Nardi</author><author pid="83/2934">Francesco Riccio</author><author pid="151/8374">Andrea Vanzo</author></authors><title>Contexts for Symbiotic Autonomy - Semantic Mapping, Task Teaching and Social Robotics.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/CapobiancoGINRV16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12580</ee><url>https://dblp.org/rec/conf/aaai/CapobiancoGINRV16</url></info>
+<url>URL#1765347</url>
+</hit>
+<hit score="1" id="1765351">
+<info><authors><author pid="186/0230">Felip Martí Carrillo</author><author pid="31/1733">Elin Anna Topp</author></authors><title>Interaction and Task Patterns in Symbiotic, Mixed-Initiative Human-Robot Interaction.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/CarrilloT16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12602</ee><url>https://dblp.org/rec/conf/aaai/CarrilloT16</url></info>
+<url>URL#1765351</url>
+</hit>
+<hit score="1" id="1765358">
+<info><authors><author pid="13/10605">Tathagata Chakraborti</author><author pid="99/2497">Kartik Talamadupula</author><author pid="50/671-55">Yu Zhang 0055</author><author pid="k/SKambhampati">Subbarao Kambhampati</author></authors><title>A Formal Framework for Studying Interaction in Human-Robot Societies.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChakrabortiTZK16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12591</ee><url>https://dblp.org/rec/conf/aaai/ChakrabortiTZK16</url></info>
+<url>URL#1765358</url>
+</hit>
+<hit score="1" id="1765421">
+<info><authors><author pid="e/ThomasErickson">Thomas Erickson</author></authors><title>A Distributed Cognition Perspective on Symbiotic Cognitive Systems - External Representations as a Medium for Symbiosis.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/Erickson16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12616</ee><url>https://dblp.org/rec/conf/aaai/Erickson16</url></info>
+<url>URL#1765421</url>
+</hit>
+<hit score="1" id="1765495">
+<info><authors><author pid="180/1384">Brent Harrison</author><author pid="r/MarkORiedl">Mark O. Riedl</author></authors><title>Towards Learning From Stories - An Approach to Interactive Machine Learning.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/HarrisonR16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12565</ee><url>https://dblp.org/rec/conf/aaai/HarrisonR16</url></info>
+<url>URL#1765495</url>
+</hit>
+<hit score="1" id="1765645">
+<info><authors><author pid="77/6356">Changsong Liu</author><author pid="c/JoyceYChai">Joyce Y. Chai</author><author pid="181/4121">Nishant Shukla</author><author pid="10/10313">Song-Chun Zhu</author></authors><title>Task Learning through Visual Demonstration and Situated Dialogue.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuCSZ16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12671</ee><url>https://dblp.org/rec/conf/aaai/LiuCSZ16</url></info>
+<url>URL#1765645</url>
+</hit>
+<hit score="1" id="1765710">
+<info><authors><author pid="74/6196">Alexander M. Morison</author><author pid="75/1883">David D. Woods</author></authors><title>Artificial Attention at Scale.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/MorisonW16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12606</ee><url>https://dblp.org/rec/conf/aaai/MorisonW16</url></info>
+<url>URL#1765710</url>
+</hit>
+<hit score="1" id="1765825">
+<info><authors><author pid="177/8698">Mahni Shayganfar</author><author pid="56/4349">Charles Rich</author><author pid="85/6074">Candace L. Sidner</author></authors><title>An Overview of Affective Motivational Collaboration Theory.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShayganfarRS16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12628</ee><url>https://dblp.org/rec/conf/aaai/ShayganfarRS16</url></info>
+<url>URL#1765825</url>
+</hit>
+<hit score="1" id="1765869">
+<info><authors><author pid="66/8920">Raphael Melo Thiago</author><author pid="05/3156">Leonardo Guerreiro Azevedo</author><author pid="72/2728">Viviane Torres da Silva</author><author pid="06/7179">Vinícius C. V. B. Segura</author><author pid="10/3771">Marcelo Nery dos Santos</author><author pid="165/3587">Renato F. de G. Cerqueira</author></authors><title>CATS - Cognitive Analytic Trail System.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ThiagoASSSC16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12587</ee><url>https://dblp.org/rec/conf/aaai/ThiagoASSSC16</url></info>
+<url>URL#1765869</url>
+</hit>
+<hit score="1" id="1765894">
+<info><authors><author pid="141/1303">Vinay Venkataraman</author><author pid="55/4161">Jonathan Lenchner</author><author pid="90/6138">Shari Trewin</author><author pid="98/4822">Maryam Ashoori</author><author pid="64/2023">Shang Guo</author><author pid="185/9997">Mishal Dholakia</author><author pid="80/1682">Pavan K. Turaga</author></authors><title>Ceding Control - Empowering Remote Participants in Meetings involving Smart Conference Rooms.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/VenkataramanLTA16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12643</ee><url>https://dblp.org/rec/conf/aaai/VenkataramanLTA16</url></info>
+<url>URL#1765894</url>
+</hit>
+<hit score="1" id="1921924">
+<info><authors><author pid="10/3207">Jeffrey O. Kephart</author><author pid="22/4189">Stephanie Rosenthal</author><author pid="v/ManuelaMVeloso">Manuela M. Veloso</author><author pid="29/5401">Alex Rudnicky</author></authors><title>Symbiotic Cognitive Systems, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 13, 2016.</title><venue>AAAI Workshop - Symbiotic Cognitive Systems</venue><venue>AAAI Workshops</venue><volume>WS-16-14</volume><publisher>AAAI Press</publisher><year>2016</year><type>Editorship</type><key>conf/aaai/2016cognitive</key><ee>http://www.aaai.org/Library/Workshops/ws16-14.php</ee><url>https://dblp.org/rec/conf/aaai/2016cognitive</url></info>
+<url>URL#1921924</url>
+</hit>
+</hits>
+</result>

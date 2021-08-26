@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="307540">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"poker2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">120.85</time>
+<completions total="1" computed="1" sent="1">
+<c sc="5" dc="5" oc="5" id="18218018">:facetid:toc:db/conf/aaai/poker2016.bht</c>
+</completions>
+<hits total="5" computed="5" sent="5" first="0">
+<hit score="1" id="1765533">
+<info><authors><author pid="184/2419">Eric Griffin Jackson</author></authors><title>Compact CFR.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information Games</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/Jackson16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12647</ee><url>https://dblp.org/rec/conf/aaai/Jackson16</url></info>
+<url>URL#1765533</url>
+</hit>
+<hit score="1" id="1765726">
+<info><authors><author pid="117/4935">Thanh Hong Nguyen</author><author pid="26/9089">Arunesh Sinha</author><author pid="180/1416">Shahrzad Gholami</author><author pid="170/5576">Andrew J. Plumptre</author><author pid="160/1079">Lucas Joppa</author><author pid="67/2667">Milind Tambe</author><author pid="170/5674">Margaret Driciru</author><author pid="170/5591">Fred Wanyama</author><author pid="170/5632">Aggrey Rwetsiba</author><author pid="180/1428">Rob Critchlow</author><author pid="86/8638">Colin M. Beale</author></authors><title>Protecting Wildlife under Imperfect Observation.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information Games</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/NguyenSGPJTDWRC16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12657</ee><url>https://dblp.org/rec/conf/aaai/NguyenSGPJTDWRC16</url></info>
+<url>URL#1765726</url>
+</hit>
+<hit score="1" id="1765812">
+<info><authors><author pid="117/4861">Michael John Schofield</author><author pid="t/MichaelThielscher">Michael Thielscher</author></authors><title>The Scalability of the HyperPlay Technique for Imperfect-Information Games.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information Games</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/SchofieldT16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12632</ee><url>https://dblp.org/rec/conf/aaai/SchofieldT16</url></info>
+<url>URL#1765812</url>
+</hit>
+<hit score="1" id="1765949">
+<info><authors><author pid="80/8875">Florian Wisser</author></authors><title>Evaluating the Performance of Presumed Payoff Perfect Information Monte Carlo Sampling Against Optimal Strategies.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information Games</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/Wisser16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12659</ee><url>https://dblp.org/rec/conf/aaai/Wisser16</url></info>
+<url>URL#1765949</url>
+</hit>
+<hit score="1" id="1921933">
+<info><authors><author pid="76/5110">Viliam Lisý</author><author pid="t/MichaelThielscher">Michael Thielscher</author><author pid="07/6674">Thanh Nguyen</author></authors><title>Computer Poker and Imperfect Information Games, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 13, 2016.</title><venue>AAAI Workshop - Computer Poker and Imperfect Information Games</venue><venue>AAAI Workshops</venue><volume>WS-16-06</volume><publisher>AAAI Press</publisher><year>2016</year><type>Editorship</type><key>conf/aaai/2016poker</key><ee>http://www.aaai.org/Library/Workshops/ws16-06.php</ee><url>https://dblp.org/rec/conf/aaai/2016poker</url></info>
+<url>URL#1921933</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="6743">:facetid:toc:db\"/\"conf\"/\"pakdd\"/\"bsi2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">131.89</time>
+<completions total="1" computed="1" sent="1">
+<c sc="23" dc="23" oc="23" id="18272603">:facetid:toc:db/conf/pakdd/bsi2013.bht</c>
+</completions>
+<hits total="23" computed="23" sent="23" first="0">
+<hit score="1" id="2759764">
+<info><authors><author pid="91/10208">Jinpeng Chen</author><author pid="97/2274-31">Yu Liu 0031</author><author pid="28/441">Jun Hu</author><author pid="20/6417">Wei He</author><author pid="58/1153">Deyi Li</author></authors><title>A Novel Framework for Improving Recommender Diversity.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>129-138</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ChenLHHL13</key><doi>10.1007/978-3-319-04048-6_12</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_12</ee><url>https://dblp.org/rec/conf/pakdd/ChenLHHL13</url></info>
+<url>URL#2759764</url>
+</hit>
+<hit score="1" id="2759776">
+<info><authors><author pid="43/7034">Qiao Deng</author><author pid="76/2866">Zhoujun Li</author><author pid="86/2120-1">Xiaoming Zhang 0001</author><author pid="77/1264">Jiali Xia</author></authors><title>Interaction-Based Social Relationship Type Identification in Microblog.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>151-164</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/DengLZX13</key><doi>10.1007/978-3-319-04048-6_14</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_14</ee><url>https://dblp.org/rec/conf/pakdd/DengLZX13</url></info>
+<url>URL#2759776</url>
+</hit>
+<hit score="1" id="2759787">
+<info><authors><author pid="24/9923">Yanhui Gu</author><author pid="43/5146">Zhenglu Yang</author><author pid="36/2711">Miyuki Nakano</author><author pid="k/MasaruKitsuregawa">Masaru Kitsuregawa</author></authors><title>Exploration on Similar Spatial Textual Objects Retrieval.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>237-249</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/GuYNK13</key><doi>10.1007/978-3-319-04048-6_21</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_21</ee><url>https://dblp.org/rec/conf/pakdd/GuYNK13</url></info>
+<url>URL#2759787</url>
+</hit>
+<hit score="1" id="2759796">
+<info><authors><author pid="188/1393">Xiancheng Hou</author><author pid="77/2542">Bing Shi</author><author pid="13/4012">Wenjia Niu</author><author pid="77/6263">Qi Feng</author><author pid="09/10777">Ying Qi</author></authors><title>An Actor Network-Based Approach to Pirates Community Discovery in Peer-to-Peer Network.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>204-213</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/HouSNFQ13</key><doi>10.1007/978-3-319-04048-6_18</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_18</ee><url>https://dblp.org/rec/conf/pakdd/HouSNFQ13</url></info>
+<url>URL#2759796</url>
+</hit>
+<hit score="1" id="2759798">
+<info><authors><author pid="34/3916">Yuting Hu</author><author pid="89/4026">Rong Xie</author><author pid="46/3359-1">Wenjun Zhang 0001</author></authors><title>Network Flow Based Collective Behavior Analysis.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>10-19</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/HuX013</key><doi>10.1007/978-3-319-04048-6_2</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_2</ee><url>https://dblp.org/rec/conf/pakdd/HuX013</url></info>
+<url>URL#2759798</url>
+</hit>
+<hit score="1" id="2759812">
+<info><authors><author pid="92/4962">Mingwei Leng</author><author pid="129/4081">Weiming Lv</author><author pid="96/2013">Jianjun Cheng</author><author pid="l/ZhaoLi">Zhao Li</author><author pid="86/1677">Xiaoyun Chen</author></authors><title>Cooperative Community Detection Algorithm Based on Random Walks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>191-203</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LengLCLC13</key><doi>10.1007/978-3-319-04048-6_17</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_17</ee><url>https://dblp.org/rec/conf/pakdd/LengLCLC13</url></info>
+<url>URL#2759812</url>
+</hit>
+<hit score="1" id="2759814">
+<info><authors><author pid="83/6353">Peng Li</author><author pid="17/1237-4">Ling Chen 0004</author><author pid="l/XueLi">Xue Li 0001</author><author pid="46/3669">Junhao Wen</author></authors><title>RNRank - Network-Based Ranking on Relational Tuples.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>139-150</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiCLW13</key><doi>10.1007/978-3-319-04048-6_13</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_13</ee><url>https://dblp.org/rec/conf/pakdd/LiCLW13</url></info>
+<url>URL#2759814</url>
+</hit>
+<hit score="1" id="2759815">
+<info><authors><author pid="73/2252-1">Lin Li 0001</author><author pid="89/120">Xing Chen</author><author pid="59/2340">Guandong Xu</author></authors><title>Suggestions for Fresh Search Queries by Mining Mircoblog Topics.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>214-223</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiCX13</key><doi>10.1007/978-3-319-04048-6_19</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_19</ee><url>https://dblp.org/rec/conf/pakdd/LiCX13</url></info>
+<url>URL#2759815</url>
+</hit>
+<hit score="1" id="2759821">
+<info><authors><author pid="138/8118">Quanchao Liu</author><author pid="27/8686">Heyan Huang</author><author pid="11/4926">Chong Feng</author></authors><title>Micro-blog Post Topic Drift Detection Based on LDA Model.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>106-118</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/LiuHF13</key><doi>10.1007/978-3-319-04048-6_10</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_10</ee><url>https://dblp.org/rec/conf/pakdd/LiuHF13</url></info>
+<url>URL#2759821</url>
+</hit>
+<hit score="1" id="2759827">
+<info><authors><author pid="122/8707">Xuefeng Ma</author><author pid="50/3402">Bo Li</author><author pid="89/5098">Qi An</author></authors><title>A Network-Based Approach for Collaborative Filtering Recommendation.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>119-128</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/MaLA13</key><doi>10.1007/978-3-319-04048-6_11</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_11</ee><url>https://dblp.org/rec/conf/pakdd/MaLA13</url></info>
+<url>URL#2759827</url>
+</hit>
+<hit score="1" id="2759828">
+<info><authors><author pid="45/524">Zhixin Ma</author><author pid="78/5647">Xu Yusheng</author><author pid="25/4706">Tharam S. Dillon</author></authors><title>Mining Frequent Sequences Using Itemset-Based Extension.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>1-9</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/MaYD13</key><doi>10.1007/978-3-319-04048-6_1</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_1</ee><url>https://dblp.org/rec/conf/pakdd/MaYD13</url></info>
+<url>URL#2759828</url>
+</hit>
+<hit score="1" id="2759848">
+<info><authors><author pid="160/1662">Benke Qu</author><author pid="13/4012">Wenjia Niu</author><author pid="19/8310">Tianqing Zhu</author><author pid="68/5597-2">Lei Wu 0002</author><author pid="04/5268">Shijun Liu</author><author pid="44/5770">Na Wang</author></authors><title>Dynamic User Behavior-Based Piracy Propagation Monitoring in Wireless Peer-to-Peer Networks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>44-55</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/QuNZWLW13</key><doi>10.1007/978-3-319-04048-6_5</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_5</ee><url>https://dblp.org/rec/conf/pakdd/QuNZWLW13</url></info>
+<url>URL#2759848</url>
+</hit>
+<hit score="1" id="2759867">
+<info><authors><author pid="129/1991">Juyup Sung</author><author pid="145/9971">Seunghyeon Moon</author><author pid="28/3904">Jae-Gil Lee 0001</author></authors><title>The Influence in Twitter - Are They Really Influenced?</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>95-105</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/SungML13</key><doi>10.1007/978-3-319-04048-6_9</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_9</ee><url>https://dblp.org/rec/conf/pakdd/SungML13</url></info>
+<url>URL#2759867</url>
+</hit>
+<hit score="1" id="2759868">
+<info><authors><author pid="24/6224">Xuri Tang</author><author pid="04/5857">Weiguang Qu</author><author pid="45/8937">Xiaohe Chen</author></authors><title>Semantic Change Computation - A Successive Approach.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>68-81</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/TangQC13</key><doi>10.1007/978-3-319-04048-6_7</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_7</ee><url>https://dblp.org/rec/conf/pakdd/TangQC13</url></info>
+<url>URL#2759868</url>
+</hit>
+<hit score="1" id="2759879">
+<info><authors><author pid="83/8407">Qingmai Wang</author><author pid="78/4802">Xinghuo Yu 0001</author><author pid="20/2941">Xiuzhen Zhang</author></authors><title>A Connectionist Model-Based Approach to Centrality Discovery in Social Networks.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>82-94</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/WangYZ13</key><doi>10.1007/978-3-319-04048-6_8</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_8</ee><url>https://dblp.org/rec/conf/pakdd/WangYZ13</url></info>
+<url>URL#2759879</url>
+</hit>
+<hit score="1" id="2759888">
+<info><authors><author pid="89/4026">Rong Xie</author><author pid="188/1440">Huizheng Xu</author><author pid="10/5760">Yang Yue</author></authors><title>Using Mobile Phone Location Data for Urban Activity Analysis.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>30-43</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/XieXY13</key><doi>10.1007/978-3-319-04048-6_4</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_4</ee><url>https://dblp.org/rec/conf/pakdd/XieXY13</url></info>
+<url>URL#2759888</url>
+</hit>
+<hit score="1" id="2759890">
+<info><authors><author pid="38/10816">Hongteng Xu</author><author pid="126/6597">Dixin Luo</author><author pid="67/3392">Xiaoming Huo</author><author pid="06/3071">Xiaokang Yang</author></authors><title>World Expo Problem and Its Mixed Integer Programming Based Solution.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>56-67</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/XuLHY13</key><doi>10.1007/978-3-319-04048-6_6</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_6</ee><url>https://dblp.org/rec/conf/pakdd/XuLHY13</url></info>
+<url>URL#2759890</url>
+</hit>
+<hit score="1" id="2759899">
+<info><authors><author pid="188/1366">Shunichi Yokoo</author><author pid="19/3755">Noriaki Yoshiura</author></authors><title>Indicating Important Parts in Searched Web Pages by Retrieval Keywords.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>250-263</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/YokooY13</key><doi>10.1007/978-3-319-04048-6_22</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_22</ee><url>https://dblp.org/rec/conf/pakdd/YokooY13</url></info>
+<url>URL#2759899</url>
+</hit>
+<hit score="1" id="2759903">
+<info><authors><author pid="13/3918">Yuqi Zhang</author><author pid="50/2102">Jian Cao</author></authors><title>Personalized Recommendation Based on Behavior Sequence Similarity Measures.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>165-177</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhangC13</key><doi>10.1007/978-3-319-04048-6_15</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_15</ee><url>https://dblp.org/rec/conf/pakdd/ZhangC13</url></info>
+<url>URL#2759903</url>
+</hit>
+<hit score="1" id="2759905">
+<info><authors><author pid="76/1584">Xin Zhang</author><author pid="27/1201">Ben He</author><author pid="00/6108">Tiejian Luo</author></authors><title>Learn to Rank Tweets by Integrating Query-Specific Characteristics.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>224-236</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhangHL13</key><doi>10.1007/978-3-319-04048-6_20</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_20</ee><url>https://dblp.org/rec/conf/pakdd/ZhangHL13</url></info>
+<url>URL#2759905</url>
+</hit>
+<hit score="1" id="2759911">
+<info><authors><author pid="73/4325-2">Bin Zhao 0002</author><author pid="36/2382">Genlin Ji</author><author pid="04/5857">Weiguang Qu</author><author pid="18/58">Zhigang Zhang</author></authors><title>Detecting Spam Community Using Retweeting Relationships - A Study on Sina Microblog.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>178-190</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhaoJQZ13</key><doi>10.1007/978-3-319-04048-6_16</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_16</ee><url>https://dblp.org/rec/conf/pakdd/ZhaoJQZ13</url></info>
+<url>URL#2759911</url>
+</hit>
+<hit score="1" id="2759912">
+<info><authors><author pid="25/5509">Cong Zhao</author><author pid="44/1372">Guangzhong Sun</author><author pid="32/5495-4">Ye Tian 0004</author></authors><title>Design, Conduct and Analysis of a Biased Voting Experiment on Human Behavior.</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><pages>20-29</pages><year>2013</year><type>Conference and Workshop Papers</type><key>conf/pakdd/ZhaoST13</key><doi>10.1007/978-3-319-04048-6_3</doi><ee>https://doi.org/10.1007/978-3-319-04048-6_3</ee><url>https://dblp.org/rec/conf/pakdd/ZhaoST13</url></info>
+<url>URL#2759912</url>
+</hit>
+<hit score="1" id="2795154">
+<info><authors><author pid="14/2589">Longbing Cao</author><author pid="08/6525">Hiroshi Motoda</author><author pid="s/JaideepSrivastava">Jaideep Srivastava</author><author pid="l/EePengLim">Ee-Peng Lim</author><author pid="k/IrwinKing">Irwin King</author><author pid="y/PhilipSYu">Philip S. Yu</author><author pid="n/WolfgangNejdl">Wolfgang Nejdl</author><author pid="59/2340">Guandong Xu</author><author pid="62/2655-9">Gang Li 0009</author><author pid="85/3714-2">Ya Zhang 0002</author></authors><title>Behavior and Social Computing, International Workshop on Behavior and Social Informatics, BSI 2013, Gold Coast, QLD, Australia, April 14-17, 2013 and International Workshop on Behavior and Social Informatics and Computing, BSIC 2013, Beijing, China, August 3-9, 2013, Revised Selected Papers</title><venue>BSI@PAKDD/BSIC@IJCAI</venue><venue>Lecture Notes in Computer Science</venue><volume>8178</volume><publisher>Springer</publisher><year>2013</year><type>Editorship</type><key>conf/pakdd/2013bsi</key><doi>10.1007/978-3-319-04048-6</doi><ee>https://doi.org/10.1007/978-3-319-04048-6</ee><url>https://dblp.org/rec/conf/pakdd/2013bsi</url></info>
+<url>URL#2795154</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="285112">:facetid:toc:db\"/\"conf\"/\"nips\"/\"hepml2014\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">104.78</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18251289">:facetid:toc:db/conf/nips/hepml2014.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2474025">
+<info><authors><author pid="170/6565">Claire Adam-Bourdarios</author><author pid="170/6550">Glen Cowan</author><author pid="60/1732">Cécile Germain</author><author pid="31/6176">Isabelle Guyon</author><author pid="k/BalazsKegl">Balázs Kégl</author><author pid="27/2136">David Rousseau</author></authors><title>The Higgs boson machine learning challenge.</title><venue>HEPML@NIPS</venue><pages>19-55</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Adam-Bourdarios14</key><ee>http://proceedings.mlr.press/v42/cowa14.html</ee><url>https://dblp.org/rec/conf/nips/Adam-Bourdarios14</url></info>
+<url>URL#2474025</url>
+</hit>
+<hit score="1" id="2474074">
+<info><authors><author pid="94/8023">Tianqi Chen</author><author pid="02/1554">Tong He</author></authors><title>Higgs Boson Discovery with Boosted Trees.</title><venue>HEPML@NIPS</venue><pages>69-80</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/ChenH14</key><ee>http://proceedings.mlr.press/v42/chen14.html</ee><url>https://dblp.org/rec/conf/nips/ChenH14</url></info>
+<url>URL#2474074</url>
+</hit>
+<hit score="1" id="2474096">
+<info><authors><author pid="35/8026">Roberto Díaz-Morales</author><author pid="55/1371">Ángel Navia-Vázquez</author></authors><title>Optimization of AMS using Weighted AUC optimized models.</title><venue>HEPML@NIPS</venue><pages>109-127</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Diaz-MoralesN14</key><ee>http://proceedings.mlr.press/v42/diaz14.html</ee><url>https://dblp.org/rec/conf/nips/Diaz-MoralesN14</url></info>
+<url>URL#2474096</url>
+</hit>
+<hit score="1" id="2474103">
+<info><title>Preface.</title><venue>HEPML@NIPS</venue><pages>S2014</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Editors14</key><ee>http://proceedings.mlr.press/v42/edit14b.html</ee><url>https://dblp.org/rec/conf/nips/Editors14</url></info>
+<url>URL#2474103</url>
+</hit>
+<hit score="1" id="2474124">
+<info><authors><author pid="170/6756">Vladimir Gligorov</author></authors><title>Real-time data analysis at the LHC - present and future.</title><venue>HEPML@NIPS</venue><pages>1-18</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Gligorov14</key><ee>http://proceedings.mlr.press/v42/glig14.html</ee><url>https://dblp.org/rec/conf/nips/Gligorov14</url></info>
+<url>URL#2474124</url>
+</hit>
+<hit score="1" id="2474185">
+<info><authors><author pid="63/4977">Wojciech Kotlowski</author></authors><title>Consistent optimization of AMS by logistic loss minimization.</title><venue>HEPML@NIPS</venue><pages>99-108</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Kotlowski14</key><ee>http://proceedings.mlr.press/v42/kotl14.html</ee><url>https://dblp.org/rec/conf/nips/Kotlowski14</url></info>
+<url>URL#2474185</url>
+</hit>
+<hit score="1" id="2474227">
+<info><authors><author pid="05/2961">Lester W. Mackey</author><author pid="151/6399">Jordan Bryan</author><author pid="170/6604">Man Yue Mo</author></authors><title>Weighted Classification Cascades for Optimizing Discovery Significance in the HiggsML Challenge.</title><venue>HEPML@NIPS</venue><pages>129-134</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/MackeyBM14</key><ee>http://proceedings.mlr.press/v42/mack14.html</ee><url>https://dblp.org/rec/conf/nips/MackeyBM14</url></info>
+<url>URL#2474227</url>
+</hit>
+<hit score="1" id="2474243">
+<info><authors><author pid="170/6677">Gábor Melis</author></authors><title>Dissecting the Winning Solution of the HiggsML Challenge.</title><venue>HEPML@NIPS</venue><pages>57-67</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/Melis14</key><ee>http://proceedings.mlr.press/v42/meli14.html</ee><url>https://dblp.org/rec/conf/nips/Melis14</url></info>
+<url>URL#2474243</url>
+</hit>
+<hit score="1" id="2474325">
+<info><authors><author pid="139/1305">Peter J. Sadowski</author><author pid="170/6744">Julian Collado</author><author pid="09/4532">Daniel Whiteson</author><author pid="54/1564">Pierre Baldi</author></authors><title>Deep Learning, Dark Knowledge, and Dark Matter.</title><venue>HEPML@NIPS</venue><pages>81-87</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/nips/SadowskiCWB14</key><ee>http://proceedings.mlr.press/v42/sado14.html</ee><url>https://dblp.org/rec/conf/nips/SadowskiCWB14</url></info>
+<url>URL#2474325</url>
+</hit>
+<hit score="1" id="2513229">
+<info><title>Workshop on High-energy Physics and Machine Learning, HEPML 2014, held at NIPS 2014, Montreal, Quebec, Canada, December 8-13, 2014</title><venue>HEPML@NIPS</venue><venue>JMLR Workshop and Conference Proceedings</venue><volume>42</volume><publisher>JMLR.org</publisher><year>2014</year><type>Editorship</type><key>conf/nips/2014hepml</key><ee>http://proceedings.mlr.press/v42/</ee><url>https://dblp.org/rec/conf/nips/2014hepml</url></info>
+<url>URL#2513229</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="304335">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"space2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">102.36</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18218027">:facetid:toc:db/conf/aaai/space2013.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="2640072">
+<info><authors><author pid="38/8810">Farzad Amirjavid</author><author pid="10/2753">Abdenour Bouzouane</author><author pid="63/2180-1">Bruno Bouchard 0001</author></authors><title>Modeling of Activities as Fuzzy Temporal Multivariable Problems.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/AmirjavidBB13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7171</ee><url>https://dblp.org/rec/conf/aaai/AmirjavidBB13</url></info>
+<url>URL#2640072</url>
+</hit>
+<hit score="1" id="2640087">
+<info><authors><author pid="38/6829">Mehul Bhatt</author></authors><title>Organizers.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Bhatt13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7345</ee><url>https://dblp.org/rec/conf/aaai/Bhatt13</url></info>
+<url>URL#2640087</url>
+</hit>
+<hit score="1" id="2640088">
+<info><authors><author pid="38/6829">Mehul Bhatt</author></authors><title>Invited Speakers.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Bhatt13a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7347</ee><url>https://dblp.org/rec/conf/aaai/Bhatt13a</url></info>
+<url>URL#2640088</url>
+</hit>
+<hit score="1" id="2640089">
+<info><authors><author pid="38/6829">Mehul Bhatt</author><author pid="91/5160">Hans W. Guesgen</author><author pid="c/DianeJCook">Diane J. Cook</author></authors><title>Preface.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/BhattGC13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7346</ee><url>https://dblp.org/rec/conf/aaai/BhattGC13</url></info>
+<url>URL#2640089</url>
+</hit>
+<hit score="1" id="2640090">
+<info><authors><author pid="38/6829">Mehul Bhatt</author><author pid="120/2899">Jakob Suchan</author><author pid="f/ChristianFreksa">Christian Freksa</author></authors><title>Rotunde - A Smart Meeting Cinematography Initiative - Tools, Datasets, and Benchmarks for Cognitive Interpretation and Control.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/BhattSF13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7125</ee><url>https://dblp.org/rec/conf/aaai/BhattSF13</url></info>
+<url>URL#2640090</url>
+</hit>
+<hit score="1" id="2640169">
+<info><authors><author pid="91/5160">Hans Werner Guesgen</author></authors><title>A Fuzzy Set Approach to Representing Spatio-Temporal and Environmental Context - Preliminary Considerations.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Guesgen13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7026</ee><url>https://dblp.org/rec/conf/aaai/Guesgen13</url></info>
+<url>URL#2640169</url>
+</hit>
+<hit score="1" id="2640214">
+<info><authors><author pid="58/1755">Matthew Evans Klenk</author></authors><title>Dynamic Symbol Grounding - Changing Referents in Engineering Analysis and Spatial Environments.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Klenk13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7057</ee><url>https://dblp.org/rec/conf/aaai/Klenk13</url></info>
+<url>URL#2640214</url>
+</hit>
+<hit score="1" id="2640364">
+<info><authors><author pid="41/8217">An C. Tran</author><author pid="91/5160">Hans W. Guesgen</author><author pid="82/2970">Jens Dietrich 0001</author><author pid="65/8284">Stephen Marsland</author></authors><title>An Approach to Numeric Refinement in Description Logic Learning for Learning Activities Duration in Smart Homes.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/TranGDM13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7008</ee><url>https://dblp.org/rec/conf/aaai/TranGDM13</url></info>
+<url>URL#2640364</url>
+</hit>
+<hit score="1" id="2640371">
+<info><authors><author pid="128/0331">Jasper van de Ven</author><author pid="76/4947">Frank Dylla</author></authors><title>The Spatial Interaction Laboratory - A Distributed Middleware and Qualitative Representation for Ambient Intelligence.</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/VenD13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7032</ee><url>https://dblp.org/rec/conf/aaai/VenD13</url></info>
+<url>URL#2640371</url>
+</hit>
+<hit score="1" id="2791173">
+<info><title>Space, Time, and Ambient Intelligence, Papers from the 2013 AAAI Workshop, Bellevue, Washington, USA, July 14, 2013</title><venue>AAAI Workshop - Space, Time, and Ambient Intelligence</venue><venue>AAAI Workshops</venue><volume>WS-13-14</volume><publisher>AAAI</publisher><year>2013</year><type>Editorship</type><key>conf/aaai/2013space</key><ee>http://www.aaai.org/Library/Workshops/ws13-14.php</ee><url>https://dblp.org/rec/conf/aaai/2013space</url></info>
+<url>URL#2791173</url>
+</hit>
+</hits>
+</result>

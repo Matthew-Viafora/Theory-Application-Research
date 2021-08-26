@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="182182">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"aisafety2020\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">133.81</time>
+<completions total="1" computed="1" sent="1">
+<c sc="17" dc="17" oc="17" id="18262894">:facetid:toc:db/conf/ijcai/aisafety2020.bht</c>
+</completions>
+<hits total="17" computed="17" sent="17" first="0">
+<hit score="1" id="409564">
+<info><authors><author pid="268/5682">Fabio Arnez</author><author pid="04/4931">Huáscar Espinoza</author><author pid="95/3877">Ansgar Radermacher</author><author pid="16/2847">François Terrier</author></authors><title>A Comparison of Uncertainty Estimation Approaches in Deep Learning Components for Autonomous Vehicle Applications.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ArnezERT20</key><ee>http://ceur-ws.org/Vol-2640/paper_24.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ArnezERT20</url></info>
+<url>URL#409564</url>
+</hit>
+<hit score="1" id="409579">
+<info><authors><author pid="53/11206">Snehasis Banerjee</author></authors><title>Towards Safe and Reliable Robot Task Planning.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Banerjee20</key><ee>http://ceur-ws.org/Vol-2640/paper_25.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Banerjee20</url></info>
+<url>URL#409579</url>
+</hit>
+<hit score="1" id="409680">
+<info><authors><author pid="254/1845">Samet Demir</author><author pid="162/5556">Hasan Ferit Eniser</author><author pid="59/3602-1">Alper Sen 0001</author></authors><title>DeepSmartFuzzer - Reward Guided Test Generation For Deep Learning.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DemirE020</key><ee>http://ceur-ws.org/Vol-2640/paper_19.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DemirE020</url></info>
+<url>URL#409680</url>
+</hit>
+<hit score="1" id="409685">
+<info><authors><author pid="172/6293">Sumanta Dey</author><author pid="39/2452">Pallab Dasgupta</author><author pid="254/6480">Briti Gangopadhyay</author></authors><title>Safety Augmentation in Decision Trees.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DeyDG20</key><ee>http://ceur-ws.org/Vol-2640/paper_13.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DeyDG20</url></info>
+<url>URL#409685</url>
+</hit>
+<hit score="1" id="409736">
+<info><authors><author pid="218/7198">Rachel Freedman</author></authors><title>Aligning with Heterogenous Preferences for Kidney Exchange.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Freedman20</key><ee>http://ceur-ws.org/Vol-2640/paper_15.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Freedman20</url></info>
+<url>URL#409736</url>
+</hit>
+<hit score="1" id="409737">
+<info><authors><author pid="218/7198">Rachel Freedman</author><author pid="145/1009">Rohin Shah</author><author pid="31/9969">Anca D. Dragan</author></authors><title>Choice Set Misspecification in Reward Inference.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FreedmanSD20</key><ee>http://ceur-ws.org/Vol-2640/paper_14.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FreedmanSD20</url></info>
+<url>URL#409737</url>
+</hit>
+<hit score="1" id="409824">
+<info><authors><author pid="274/0347">Catalin-Andrei Ilie</author><author pid="77/3007">Marius Popescu</author><author pid="17/512">Alin Stefanescu</author></authors><title>Robustness as Inherent Property of Datapoints.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IliePS20</key><ee>http://ceur-ws.org/Vol-2640/paper_20.pdf</ee><url>https://dblp.org/rec/conf/ijcai/IliePS20</url></info>
+<url>URL#409824</url>
+</hit>
+<hit score="1" id="409853">
+<info><authors><author pid="234/0600">Shashank Kotyan</author><author pid="40/9358">Danilo Vasconcellos Vargas</author></authors><title>Evolving Robust Neural Architectures to Defend from Adversarial Attacks.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KotyanV20</key><ee>http://ceur-ws.org/Vol-2640/paper_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KotyanV20</url></info>
+<url>URL#409853</url>
+</hit>
+<hit score="1" id="409975">
+<info><authors><author pid="61/3573">John McDermid</author><author pid="230/3262">Yan Jia</author></authors><title>Safety of Artificial Intelligence - A Collaborative Model.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/McDermidJ20</key><ee>http://ceur-ws.org/Vol-2640/paper_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/McDermidJ20</url></info>
+<url>URL#409975</url>
+</hit>
+<hit score="1" id="409989">
+<info><authors><author pid="28/1343">Andrey Morozov 0001</author><author pid="281/4788">Emil Valiev</author><author pid="52/6650">Michael Beyer</author><author pid="44/2891">Kai Ding</author><author pid="184/2764">Lydia Gauerhof</author><author pid="190/7209">Christoph Schorn</author></authors><title>Bayesian Model for Trustworthiness Analysis of Deep Learning Classifiers.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MorozovVBDGS20</key><ee>http://ceur-ws.org/Vol-2640/paper_6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MorozovVBDGS20</url></info>
+<url>URL#409989</url>
+</hit>
+<hit score="1" id="410006">
+<info><authors><author pid="162/0000">Caspar Oesterheld</author><author pid="c/VincentConitzer">Vincent Conitzer</author></authors><title>Extracting Money from Causal Decision Theorists.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OesterheldC20</key><ee>http://ceur-ws.org/Vol-2640/paper_21.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OesterheldC20</url></info>
+<url>URL#410006</url>
+</hit>
+<hit score="1" id="410054">
+<info><authors><author pid="246/2212">Adrian Schwaiger</author><author pid="263/2315">Poulami Sinhamahapatra</author><author pid="281/5157">Jens Gansloser</author><author pid="143/9305">Karsten Roscher</author></authors><title>Is Uncertainty Quantification in Deep Learning Sufficient for Out-of-Distribution Detection?</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SchwaigerSGR20</key><ee>http://ceur-ws.org/Vol-2640/paper_18.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SchwaigerSGR20</url></info>
+<url>URL#410054</url>
+</hit>
+<hit score="1" id="410060">
+<info><authors><author pid="236/2567">Zhihui Shao</author><author pid="124/1315">Jianyi Yang</author><author pid="60/4548">Shaolei Ren</author></authors><title>Increasing the Trustworthiness of Deep Neural Networks via Accuracy Monitoring.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShaoYR20</key><ee>http://ceur-ws.org/Vol-2640/paper_3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ShaoYR20</url></info>
+<url>URL#410060</url>
+</hit>
+<hit score="1" id="410100">
+<info><authors><author pid="133/5067">Justin Svegliato</author><author pid="190/8623">Samer B. Nashed</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author></authors><title>Ethically Compliant Planning in Moral Autonomous Systems.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SvegliatoNZ20</key><ee>http://ceur-ws.org/Vol-2640/paper_11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SvegliatoNZ20</url></info>
+<url>URL#410100</url>
+</hit>
+<hit score="1" id="410107">
+<info><authors><author pid="281/5226">Zhicong Tang</author><author pid="183/0980">Yinpeng Dong</author><author pid="26/5371-6">Hang Su 0006</author></authors><title>Error-Silenced Quantization - Bridging Robustness and Compactness.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TangD020</key><ee>http://ceur-ws.org/Vol-2640/paper_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TangD020</url></info>
+<url>URL#410107</url>
+</hit>
+<hit score="1" id="410119">
+<info><authors><author pid="40/9358">Danilo Vasconcellos Vargas</author><author pid="143/2635">Jiawei Su</author></authors><title>Understanding the One Pixel Attack - Propagation Maps and Locality Analysis.</title><venue>AISafety@IJCAI</venue><year>2020</year><type>Conference and Workshop Papers</type><key>conf/ijcai/VargasS20</key><ee>http://ceur-ws.org/Vol-2640/paper_4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/VargasS20</url></info>
+<url>URL#410119</url>
+</hit>
+<hit score="1" id="472691">
+<info><authors><author pid="04/4931">Huáscar Espinoza</author><author pid="61/3573">John McDermid</author><author pid="60/5414-1">Xiaowei Huang 0001</author><author pid="42/4207">Mauricio Castillo-Effen</author><author pid="259/5665">Xin Cynthia Chen</author><author pid="h/JoseHernandezOrallo">José Hernández-Orallo</author><author pid="148/7203">Seán Ó hÉigeartaigh</author><author pid="246/2111">Richard Mallah</author></authors><title>Proceedings of the Workshop on Artificial Intelligence Safety 2020 co-located with the 29th International Joint Conference on Artificial Intelligence and the 17th Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI 2020), Yokohama, Japan, January, 2021.</title><venue>AISafety@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2640</volume><publisher>CEUR-WS.org</publisher><year>2020</year><type>Editorship</type><key>conf/ijcai/2020aisafety</key><ee>http://ceur-ws.org/Vol-2640</ee><url>https://dblp.org/rec/conf/ijcai/2020aisafety</url></info>
+<url>URL#472691</url>
+</hit>
+</hits>
+</result>

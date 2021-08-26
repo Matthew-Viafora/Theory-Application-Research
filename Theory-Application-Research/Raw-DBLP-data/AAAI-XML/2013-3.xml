@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="302328">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"plan2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">114.21</time>
+<completions total="1" computed="1" sent="1">
+<c sc="12" dc="12" oc="12" id="18218016">:facetid:toc:db/conf/aaai/plan2013.bht</c>
+</completions>
+<hits total="12" computed="12" sent="12" first="0">
+<hit score="1" id="2640105">
+<info><authors><author pid="16/2565">Hung Hai Bui</author></authors><title>Organizers.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Bui13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7348</ee><url>https://dblp.org/rec/conf/aaai/Bui13</url></info>
+<url>URL#2640105</url>
+</hit>
+<hit score="1" id="2640147">
+<info><authors><author pid="149/1224">Richard Gabriel Freedman</author><author pid="09/8315">Jingyi Guo</author><author pid="71/5801">William H. Turkett Jr.</author><author pid="98/4113">Victor Paúl Pauca</author></authors><title>Hierarchical Modeling to Facilitate Personalized Word Prediction for Dialogue.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/FreedmanGTP13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7121</ee><url>https://dblp.org/rec/conf/aaai/FreedmanGTP13</url></info>
+<url>URL#2640147</url>
+</hit>
+<hit score="1" id="2640156">
+<info><authors><author pid="88/4021">Christopher W. Geib</author><author pid="158/9193">Christopher E. Swetenham</author></authors><title>Parallelizing Plan Recognition.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/GeibS13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7152</ee><url>https://dblp.org/rec/conf/aaai/GeibS13</url></info>
+<url>URL#2640156</url>
+</hit>
+<hit score="1" id="2640208">
+<info><authors><author pid="53/7413">Saad Ahmad Khan</author><author pid="b/LadislauBoloni">Ladislau Bölöni</author><author pid="138/5604">Saad Arif</author></authors><title>Emulating the Consistency of Human Behavior with an Autonomous Robot in a Market Scenario.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhanBA13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7059</ee><url>https://dblp.org/rec/conf/aaai/KhanBA13</url></info>
+<url>URL#2640208</url>
+</hit>
+<hit score="1" id="2640259">
+<info><authors><author pid="138/5598">Ben Leon Meadows</author><author pid="l/PatLangley">Pat Langley</author><author pid="138/5603">Miranda Jane Emery</author></authors><title>Seeing Beyond Shadows - Incremental Abductive Reasoning for Plan Understanding.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/MeadowsLE13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7028</ee><url>https://dblp.org/rec/conf/aaai/MeadowsLE13</url></info>
+<url>URL#2640259</url>
+</hit>
+<hit score="1" id="2640277">
+<info><authors><author pid="64/9024">Ehsan Nazerfard</author><author pid="c/DianeJCook">Diane J. Cook</author></authors><title>Using Bayesian Networks for Daily Activity Prediction.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/NazerfardC13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7009</ee><url>https://dblp.org/rec/conf/aaai/NazerfardC13</url></info>
+<url>URL#2640277</url>
+</hit>
+<hit score="1" id="2640324">
+<info><authors><author pid="31/1904">Robert J. Ross</author><author pid="84/6254">John D. Kelleher</author></authors><title>Accuracy and Timeliness in ML Based Activity Recognition.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/RossK13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7019</ee><url>https://dblp.org/rec/conf/aaai/RossK13</url></info>
+<url>URL#2640324</url>
+</hit>
+<hit score="1" id="2640349">
+<info><authors><author pid="09/6868">Dustin Arthur Smith</author><author pid="39/3002">Henry Lieberman</author></authors><title>Using Plan Recognition for Interpreting Referring Expressions.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/SmithL13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7175</ee><url>https://dblp.org/rec/conf/aaai/SmithL13</url></info>
+<url>URL#2640349</url>
+</hit>
+<hit score="1" id="2640352">
+<info><authors><author pid="95/8732">Young Chol Song</author><author pid="k/HenryAKautz">Henry A. Kautz</author><author pid="57/7831">Yuncheng Li</author><author pid="25/5545">Jiebo Luo</author></authors><title>A General Framework for Recognizing Complex Events in Markov Logic.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/SongKLL13a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7100</ee><url>https://dblp.org/rec/conf/aaai/SongKLL13a</url></info>
+<url>URL#2640352</url>
+</hit>
+<hit score="1" id="2640368">
+<info><authors><author pid="131/2691">Oriel Uzan</author><author pid="138/5601">Reuth Peled</author><author pid="65/3114">Ya&apos;akov Gal</author></authors><title>Plan Recognition for Exploratory Domains Using Interleaved Temporal Search.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/UzanPG13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7186</ee><url>https://dblp.org/rec/conf/aaai/UzanPG13</url></info>
+<url>URL#2640368</url>
+</hit>
+<hit score="1" id="2640373">
+<info><authors><author pid="138/5600">Mor Vered</author><author pid="138/5595">Gal Kamink</author></authors><title>A Computational Cognitive Model of Mirroring Processes - A Position Statement.</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/VeredK13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7073</ee><url>https://dblp.org/rec/conf/aaai/VeredK13</url></info>
+<url>URL#2640373</url>
+</hit>
+<hit score="1" id="2791172">
+<info><title>Plan, Activity, and Intent Recognition, Papers from the 2013 AAAI Workshop, Bellevue, Washington, USA, July 15, 2013</title><venue>AAAI Workshop - Plan, Activity, and Intent Recognition</venue><venue>AAAI Workshops</venue><volume>WS-13-13</volume><publisher>AAAI</publisher><year>2013</year><type>Editorship</type><key>conf/aaai/2013plan</key><ee>http://www.aaai.org/Library/Workshops/ws13-13.php</ee><url>https://dblp.org/rec/conf/aaai/2013plan</url></info>
+<url>URL#2791172</url>
+</hit>
+</hits>
+</result>
