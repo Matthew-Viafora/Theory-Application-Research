@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="308163">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"hybrid2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">113.49</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="18218001">:facetid:toc:db/conf/aaai/hybrid2016.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="1765336">
+<info><authors><author pid="14/3037">Daniel Bryce</author></authors><title>A Happening-Based Encoding for Nonlinear PDDL+ Planning.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/Bryce16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12637</ee><url>https://dblp.org/rec/conf/aaai/Bryce16</url></info>
+<url>URL#1765336</url>
+</hit>
+<hit score="1" id="1765352">
+<info><authors><author pid="118/2640">Michael Cashmore</author><author pid="35/2895">Maria Fox</author><author pid="54/3768">Derek Long</author><author pid="14/4672">Daniele Magazzeni</author></authors><title>A Compilation of the Full PDDL+ Language into SMT.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/CashmoreFLM16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12589</ee><url>https://dblp.org/rec/conf/aaai/CashmoreFLM16</url></info>
+<url>URL#1765352</url>
+</hit>
+<hit score="1" id="1765464">
+<info><authors><author pid="93/2423">Robert P. Goldman</author><author pid="14/3037">Daniel Bryce</author><author pid="99/3670">Michael J. S. Pelican</author><author pid="m/DavidJMusliner">David J. Musliner</author><author pid="03/7567">Kyungmin Bae</author></authors><title>An Architecture for Hybrid Planning and Execution.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/GoldmanBPMB16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12622</ee><url>https://dblp.org/rec/conf/aaai/GoldmanBPMB16</url></info>
+<url>URL#1765464</url>
+</hit>
+<hit score="1" id="1765519">
+<info><authors><author pid="121/3956">Bardh Hoxha</author><author pid="34/4314">Georgios E. Fainekos</author></authors><title>Planning in Dynamic Environments Through Temporal Logic Monitoring.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/HoxhaF16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12556</ee><url>https://dblp.org/rec/conf/aaai/HoxhaF16</url></info>
+<url>URL#1765519</url>
+</hit>
+<hit score="1" id="1765711">
+<info><authors><author pid="32/2472-1">Robert Morris 0004</author><author pid="03/4368">Corina S. Pasareanu</author><author pid="13/11526">Kasper Søe Luckow</author><author pid="21/2298">Waqar Malik</author><author pid="43/7175-1">Hang Ma 0001</author><author pid="22/6935">T. K. Satish Kumar</author><author pid="k/SvenKoenig">Sven Koenig</author></authors><title>Planning, Scheduling and Monitoring for Airport Surface Operations.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/MorrisPLMMKK16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12611</ee><url>https://dblp.org/rec/conf/aaai/MorrisPLMMKK16</url></info>
+<url>URL#1765711</url>
+</hit>
+<hit score="1" id="1765765">
+<info><authors><author pid="178/8571">Wiktor Mateusz Piotrowski</author><author pid="35/2895">Maria Fox</author><author pid="54/3768">Derek Long</author><author pid="14/4672">Daniele Magazzeni</author><author pid="69/7560">Fabio Mercorio</author></authors><title>Heuristic Planning for PDDL+ Domains.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/PiotrowskiFLMM16a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12607</ee><url>https://dblp.org/rec/conf/aaai/PiotrowskiFLMM16a</url></info>
+<url>URL#1765765</url>
+</hit>
+<hit score="1" id="1765830">
+<info><authors><author pid="147/5324">Fedor Shmarov</author><author pid="93/5060">Paolo Zuliani</author></authors><title>SMT-Based Reasoning for Uncertain Hybrid Domains.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShmarovZ16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12642</ee><url>https://dblp.org/rec/conf/aaai/ShmarovZ16</url></info>
+<url>URL#1765830</url>
+</hit>
+<hit score="1" id="1765870">
+<info><authors><author pid="17/7561">Son Thanh To</author><author pid="75/5516">Mark Roberts</author><author pid="153/7491">Thomas Apker</author><author pid="84/2126-3">Benjamin Johnson 0003</author><author pid="25/557">David W. Aha</author></authors><title>Mixed Propositional Metric Temporal Logic - A New Formalism for Temporal Planning.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ToRAJA16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12674</ee><url>https://dblp.org/rec/conf/aaai/ToRAJA16</url></info>
+<url>URL#1765870</url>
+</hit>
+<hit score="1" id="1765875">
+<info><authors><author pid="116/9284">Tony T. Tran</author><author pid="65/2749">Zhihui Wang</author><author pid="143/2041">Minh Do</author><author pid="65/1345">Eleanor Gilbert Rieffel</author><author pid="32/67">Jeremy Frank</author><author pid="149/2765">Bryan O&apos;Gorman</author><author pid="149/1236">Davide Venturelli</author><author pid="43/2165">J. Christopher Beck</author></authors><title>Explorations of Quantum-Classical Approaches to Scheduling a Mars Lander Activity Problem.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/TranWDRFOVB16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12664</ee><url>https://dblp.org/rec/conf/aaai/TranWDRFOVB16</url></info>
+<url>URL#1765875</url>
+</hit>
+<hit score="1" id="1765876">
+<info><authors><author pid="165/3259">Martina Troesch</author><author pid="c/SteveAChien">Steve A. Chien</author><author pid="34/5439">Yi Chao</author><author pid="98/5248">John D. Farrara</author></authors><title>Active Control of Marine Vehicles in the Presence of Strong, Dynamic, Uncertain Currents.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/TroeschCCF16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12667</ee><url>https://dblp.org/rec/conf/aaai/TroeschCCF16</url></info>
+<url>URL#1765876</url>
+</hit>
+<hit score="1" id="1921929">
+<info><authors><author pid="14/4672">Daniele Magazzeni</author><author pid="88/3374">Scott Sanner</author><author pid="64/3102">Sylvie Thiébaux</author></authors><title>Planning for Hybrid Systems, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 13, 2016.</title><venue>AAAI Workshop - Planning for Hybrid Systems</venue><venue>AAAI Workshops</venue><volume>WS-16-12</volume><publisher>AAAI Press</publisher><year>2016</year><type>Editorship</type><key>conf/aaai/2016hybrid</key><ee>http://www.aaai.org/Library/Workshops/ws16-12.php</ee><url>https://dblp.org/rec/conf/aaai/2016hybrid</url></info>
+<url>URL#1921929</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="290180">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"am2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">153.96</time>
+<completions total="1" computed="1" sent="1">
+<c sc="16" dc="16" oc="16" id="18217981">:facetid:toc:db/conf/aaai/am2011.bht</c>
+</completions>
+<hits total="16" computed="16" sent="16" first="0">
+<hit score="1" id="3163580">
+<info><authors><author pid="78/4343">Tamitha Carpenter</author><author pid="94/2088">Emi Fujioka</author></authors><title>The Role and Identification of Dialog Acts in Online Chat.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/CarpenterF11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3998</ee><url>https://dblp.org/rec/conf/aaai/CarpenterF11</url></info>
+<url>URL#3163580</url>
+</hit>
+<hit score="1" id="3163626">
+<info><authors><author pid="33/9435">Kyle D. Dent</author><author pid="81/5194">Sharoda A. Paul</author></authors><title>Through the Twitter Glass - Detecting Questions in Micro-Text.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/DentP11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3869</ee><url>https://dblp.org/rec/conf/aaai/DentP11</url></info>
+<url>URL#3163626</url>
+</hit>
+<hit score="1" id="3163637">
+<info><authors><author pid="63/10919">Andrew Duchon</author><author pid="05/7974">Robert McCormack</author><author pid="01/7287">Brian Riordan</author><author pid="53/10919">Charlotte Shabarekh</author><author pid="88/9294">Shawn A. Weil</author><author pid="42/10919">Ian Yohai</author></authors><title>Analysis of C2 and &quot;C2-Lite&quot; Micro-Message Communications.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/DuchonMRSWY11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3880</ee><url>https://dblp.org/rec/conf/aaai/DuchonMRSWY11</url></info>
+<url>URL#3163637</url>
+</hit>
+<hit score="1" id="3163654">
+<info><authors><author pid="14/3001">Jennifer Foster</author><author pid="90/1312">Özlem Çetinoglu</author><author pid="80/5915-1">Joachim Wagner 0001</author><author pid="25/5993">Joseph Le Roux</author><author pid="75/10919">Stephen Hogan</author><author pid="n/JoakimNivre">Joakim Nivre</author><author pid="77/6086">Deirdre Hogan</author><author pid="82/3447">Josef van Genabith</author></authors><title>#hardtoparse - POS Tagging and Parsing the Twitterverse.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/FosterCWRHNHG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3912</ee><url>https://dblp.org/rec/conf/aaai/FosterCWRHNHG11</url></info>
+<url>URL#3163654</url>
+</hit>
+<hit score="1" id="3163660">
+<info><authors><author pid="137/3611">Boris A. Galitsky</author><author pid="16/8218">Gabor Dobrocsi</author><author pid="43/6066">Josep Lluís de la Rosa</author></authors><title>Learning Ontologies from the Web for Microtext Processing.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/GalitskyDR11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3971</ee><url>https://dblp.org/rec/conf/aaai/GalitskyDR11</url></info>
+<url>URL#3163660</url>
+</hit>
+<hit score="1" id="3163802">
+<info><authors><author pid="48/9382">Vita Markman</author></authors><title>Unsupervised Discovery of Fine-Grained Topic Clusters in Twitter Posts.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/Markman11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3831</ee><url>https://dblp.org/rec/conf/aaai/Markman11</url></info>
+<url>URL#3163802</url>
+</hit>
+<hit score="1" id="3163810">
+<info><authors><author pid="97/592">Eni Mustafaraj</author><author pid="m/PTMetaxas">Panagiotis Takis Metaxas</author></authors><title>What Edited Retweets Reveal about Online Political Discourse.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/MustafarajM11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3980</ee><url>https://dblp.org/rec/conf/aaai/MustafarajM11</url></info>
+<url>URL#3163810</url>
+</hit>
+<hit score="1" id="3163835">
+<info><authors><author pid="49/10919">Viswa Mani Kiran Peddinti</author><author pid="94/10919">Prakriti Chintalapoodi</author></authors><title>Domain Adaptation in Sentiment Analysis of Twitter.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/PeddintiC11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3992</ee><url>https://dblp.org/rec/conf/aaai/PeddintiC11</url></info>
+<url>URL#3163835</url>
+</hit>
+<hit score="1" id="3163850">
+<info><authors><author pid="67/6515">Sowmya Ramachandran</author><author pid="44/1815">Randy Jensen</author><author pid="85/9798">Oscar Bascara</author><author pid="78/4343">Tamitha Carpenter</author><author pid="38/9799">Todd Denning</author><author pid="98/9798">Shaun Sucillon</author></authors><title>Untangling Topic Threads in Chat-Based Communication - A Case Study.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/RamachandranJBCDS11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3942</ee><url>https://dblp.org/rec/conf/aaai/RamachandranJBCDS11</url></info>
+<url>URL#3163850</url>
+</hit>
+<hit score="1" id="3163873">
+<info><authors><author pid="77/10504">Hitesh Sajnani</author><author pid="10/2946">Sara Javanmardi</author><author pid="24/1547">David W. McDonald</author><author pid="l/CristinaVideiraLopes">Cristina Videira Lopes</author></authors><title>Multi-Label Classification of Short Text - A Study on Wikipedia Barnstars.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/SajnaniJML11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3909</ee><url>https://dblp.org/rec/conf/aaai/SajnaniJML11</url></info>
+<url>URL#3163873</url>
+</hit>
+<hit score="1" id="3163905">
+<info><authors><author pid="s/TomekStrzalkowski">Tomek Strzalkowski</author><author pid="57/8156">George Aaron Broadwell</author><author pid="94/4951">Jennifer Stromer-Galley</author><author pid="59/1496">Samira Shaikh</author><author pid="52/5150-3">Ting Liu 0003</author><author pid="26/7594">Sarah M. Taylor</author></authors><title>Modeling Socio-Cultural Phenomena in Online Multi-Party Discourse.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/StrzalkowskiBSSLT11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3951</ee><url>https://dblp.org/rec/conf/aaai/StrzalkowskiBSSLT11</url></info>
+<url>URL#3163905</url>
+</hit>
+<hit score="1" id="3163918">
+<info><authors><author pid="85/10919">Yi-jie Tang</author><author pid="46/10919">Chang-Ye Li</author><author pid="84/3130">Hsin-Hsi Chen</author></authors><title>A Comparison between Microblog Corpus and Balanced Corpus from Linguistic and Sentimental Perspectives.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/TangLC11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3842</ee><url>https://dblp.org/rec/conf/aaai/TangLC11</url></info>
+<url>URL#3163918</url>
+</hit>
+<hit score="1" id="3163976">
+<info><authors><author pid="02/8315">Zhenzhen Xue</author><author pid="91/4572">Dawei Yin</author><author pid="97/5257-1">Brian D. Davison 0001</author></authors><title>Normalizing Microtext.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/XueYD11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3987</ee><url>https://dblp.org/rec/conf/aaai/XueYD11</url></info>
+<url>URL#3163976</url>
+</hit>
+<hit score="1" id="3163986">
+<info><authors><author pid="03/1732">Joel Young</author><author pid="83/2512">Craig H. Martell</author><author pid="83/6482">Pranav Anand</author><author pid="47/7572">Pedro Ortiz</author><author pid="58/10919">Henry Tucker Gilbert IV</author></authors><title>A Microtext Corpus for Persuasion Detection in Dialog.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/YoungMAOGG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3896</ee><url>https://dblp.org/rec/conf/aaai/YoungMAOGG11</url></info>
+<url>URL#3163986</url>
+</hit>
+<hit score="1" id="3163990">
+<info><authors><author pid="60/9281">Renxian Zhang</author><author pid="59/9911">Dehong Gao</author><author pid="33/3999-2">Wenjie Li 0002</author></authors><title>What Are Tweeters Doing - Recognizing Speech Acts in Twitter.</title><venue>Analyzing Microtext</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangGL11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3803</ee><url>https://dblp.org/rec/conf/aaai/ZhangGL11</url></info>
+<url>URL#3163990</url>
+</hit>
+<hit score="1" id="3300567">
+<info><title>Analyzing Microtext, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 8, 2011</title><venue>Analyzing Microtext</venue><venue>AAAI Workshops</venue><volume>WS-11-05</volume><publisher>AAAI</publisher><year>2011</year><type>Editorship</type><key>conf/aaai/2011am</key><ee>http://www.aaai.org/Library/Workshops/ws11-05.php</ee><url>https://dblp.org/rec/conf/aaai/2011am</url></info>
+<url>URL#3300567</url>
+</hit>
+</hits>
+</result>

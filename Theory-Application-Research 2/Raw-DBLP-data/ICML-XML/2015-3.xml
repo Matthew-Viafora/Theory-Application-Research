@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="287541">:facetid:toc:db\"/\"conf\"/\"icml\"/\"mlis2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">135.88</time>
+<completions total="1" computed="1" sent="1">
+<c sc="11" dc="11" oc="11" id="18239708">:facetid:toc:db/conf/icml/mlis2015.bht</c>
+</completions>
+<hits total="11" computed="11" sent="11" first="0">
+<hit score="1" id="2143780">
+<info><authors><author pid="77/250">Heriberto Cuayáhuitl</author><author pid="63/8341">Nina Dethlefs</author><author pid="82/2200">Lutz Frommberger</author><author pid="25/7338">Martijn van Otterlo</author><author pid="58/6269">Olivier Pietquin</author></authors><title>Proceedings of the 4th Workshop on Machine Learning for Interactive Systems (MLIS-2015).</title><venue>MLIS@ICML</venue><pages>4</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/CuayahuitlDFOP15</key><ee>http://proceedings.mlr.press/v43/frontmatter.html</ee><url>https://dblp.org/rec/conf/icml/CuayahuitlDFOP15</url></info>
+<url>URL#2143780</url>
+</hit>
+<hit score="1" id="2143810">
+<info><authors><author pid="134/3557">Shaona Ghosh</author><author pid="p/AdamPrugelBennett">Adam Prügel-Bennett</author></authors><title>Online Mean Field Approximation for Automated Experimentation.</title><venue>MLIS@ICML</venue><pages>31-35</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/GhoshP15</key><ee>http://proceedings.mlr.press/v43/ghosh15.html</ee><url>https://dblp.org/rec/conf/icml/GhoshP15</url></info>
+<url>URL#2143810</url>
+</hit>
+<hit score="1" id="2143845">
+<info><authors><author pid="133/7151">Kalle Ilves</author><author pid="46/9459">Alan Medlar</author><author pid="82/9381">Dorota Glowacka</author></authors><title>Visualizing User Model in Exploratory Search Tasks.</title><venue>MLIS@ICML</venue><pages>46-47</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/IlvesMG15</key><ee>http://proceedings.mlr.press/v43/ilves15.html</ee><url>https://dblp.org/rec/conf/icml/IlvesMG15</url></info>
+<url>URL#2143845</url>
+</hit>
+<hit score="1" id="2143920">
+<info><authors><author pid="144/4306">Giulia Pasquale</author><author pid="88/10332">Carlo Ciliberto</author><author pid="73/2633">Francesca Odone</author><author pid="01/6788">Lorenzo Rosasco</author><author pid="17/4667">Lorenzo Natale</author></authors><title>Teaching iCub to recognize objects using deep Convolutional Neural Networks.</title><venue>MLIS@ICML</venue><pages>21-25</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/PasqualeCORN15</key><ee>http://proceedings.mlr.press/v43/pasquale15.html</ee><url>https://dblp.org/rec/conf/icml/PasqualeCORN15</url></info>
+<url>URL#2143920</url>
+</hit>
+<hit score="1" id="2143926">
+<info><authors><author pid="126/1718">Bilal Piot</author><author pid="58/6269">Olivier Pietquin</author><author pid="38/6508">Matthieu Geist</author></authors><title>Imitation Learning Applied to Embodied Conversational Agents.</title><venue>MLIS@ICML</venue><pages>1-5</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/PiotPG15</key><ee>http://proceedings.mlr.press/v43/piot15.html</ee><url>https://dblp.org/rec/conf/icml/PiotPG15</url></info>
+<url>URL#2143926</url>
+</hit>
+<hit score="1" id="2143940">
+<info><authors><author pid="61/8556">Matthias Rolf</author><author pid="01/1390">Minoru Asada</author></authors><title>Latent Goal Analysis for Dimension Reduction in Reinforcement Learning.</title><venue>MLIS@ICML</venue><pages>26-30</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/RolfA15</key><ee>http://proceedings.mlr.press/v43/rolf15.html</ee><url>https://dblp.org/rec/conf/icml/RolfA15</url></info>
+<url>URL#2143940</url>
+</hit>
+<hit score="1" id="2143950">
+<info><authors><author pid="139/3706">Emmanuel Senft</author><author pid="41/6671-1">Paul Baxter 0001</author><author pid="82/6882">Tony Belpaeme</author></authors><title>Human-Guided Learning of Social Action Selection for Robot-Assisted Therapy.</title><venue>MLIS@ICML</venue><pages>15-20</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/SenftBB15</key><ee>http://proceedings.mlr.press/v43/senft15.html</ee><url>https://dblp.org/rec/conf/icml/SenftBB15</url></info>
+<url>URL#2143950</url>
+</hit>
+<hit score="1" id="2143957">
+<info><authors><author pid="92/6723-1">Vivek Sharma 0001</author><author pid="56/9807">Frank Dittrich</author><author pid="91/10647">Sule Yildirim Yayilgan</author><author pid="61/5017">Luc Van Gool</author></authors><title>Efficient Real-Time Pixelwise Object Class Labeling for Safe Human-Robot Collaboration in Industrial Domain.</title><venue>MLIS@ICML</venue><pages>6-14</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/SharmaDYG15</key><ee>http://proceedings.mlr.press/v43/sharma15.html</ee><url>https://dblp.org/rec/conf/icml/SharmaDYG15</url></info>
+<url>URL#2143957</url>
+</hit>
+<hit score="1" id="2143963">
+<info><authors><author pid="79/3174">Artem Sokolov</author><author pid="33/2631">Stefan Riezler</author><author pid="04/5629">Shay B. Cohen</author></authors><title>Coactive Learning for Interactive Machine Translation.</title><venue>MLIS@ICML</venue><pages>41-45</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/SokolovRC15</key><ee>http://proceedings.mlr.press/v43/sokolov15.html</ee><url>https://dblp.org/rec/conf/icml/SokolovRC15</url></info>
+<url>URL#2143963</url>
+</hit>
+<hit score="1" id="2143989">
+<info><authors><author pid="131/6694">Praneeth Vepakomma</author><author pid="e/AhmedMElgammal">Ahmed M. Elgammal</author></authors><title>Iterative Embedding with Robust Correction using Feedback of Error Observed.</title><venue>MLIS@ICML</venue><pages>36-40</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/icml/VepakommaE15</key><ee>http://proceedings.mlr.press/v43/vepakomma15.html</ee><url>https://dblp.org/rec/conf/icml/VepakommaE15</url></info>
+<url>URL#2143989</url>
+</hit>
+<hit score="1" id="2224546">
+<info><title>Proceedings of the 4th Workshop on Machine Learning for Interactive Systems, MLIS 2015, co-located with the 32nd International Conference on Machine Learning (ICML 2015), Lille, France, July 11th, 2015.</title><venue>MLIS@ICML</venue><venue>JMLR Workshop and Conference Proceedings</venue><volume>43</volume><publisher>JMLR.org</publisher><year>2015</year><type>Editorship</type><key>conf/icml/2015mlis</key><ee>http://proceedings.mlr.press/v43/</ee><url>https://dblp.org/rec/conf/icml/2015mlis</url></info>
+<url>URL#2224546</url>
+</hit>
+</hits>
+</result>

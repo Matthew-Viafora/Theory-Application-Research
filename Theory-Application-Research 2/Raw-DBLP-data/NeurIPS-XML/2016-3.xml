@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="284575">:facetid:toc:db\"/\"conf\"/\"nips\"/\"idm2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">107.45</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="18251290">:facetid:toc:db/conf/nips/idm2016.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="1607817">
+<info><authors><author pid="16/3881">Tatiana V. Guy</author><author pid="85/3432">Miroslav Kárný</author><author pid="39/2011">David Ríos Insua</author><author pid="w/DavidWolpert">David H. Wolpert</author></authors><title>Proceedings of the NIPS 2016 Workshop on Imperfect Decision Makers - Admitting Real-World Rationality, Barcelona, Spain, December 9, 2016.</title><venue>IDM@NIPS</venue><venue>Proceedings of Machine Learning Research</venue><volume>58</volume><publisher>PMLR</publisher><year>2017</year><type>Editorship</type><key>conf/nips/2016idm</key><ee>http://proceedings.mlr.press/v58/</ee><url>https://dblp.org/rec/conf/nips/2016idm</url></info>
+<url>URL#1607817</url>
+</hit>
+<hit score="1" id="1883005">
+<info><authors><author pid="12/2959">Alessio Benavoli</author><author pid="29/6714">Alessandro Facchini</author><author pid="08/4633">Marco Zaffalon</author></authors><title>Quantum Rational Preferences and Desirability.</title><venue>IDM@NIPS</venue><pages>87-96</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/BenavoliFZ16</key><ee>http://proceedings.mlr.press/v58/benavoli17a.html</ee><url>https://dblp.org/rec/conf/nips/BenavoliFZ16</url></info>
+<url>URL#1883005</url>
+</hit>
+<hit score="1" id="1883022">
+<info><authors><author pid="176/0265">Marcus Buckmann</author><author pid="64/5184">Özgür Simsek</author></authors><title>Decision Heuristics for Comparison - How Good Are They?</title><venue>IDM@NIPS</venue><pages>1-11</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/BuckmannS16</key><ee>http://proceedings.mlr.press/v58/buckmann17a.html</ee><url>https://dblp.org/rec/conf/nips/BuckmannS16</url></info>
+<url>URL#1883022</url>
+</hit>
+<hit score="1" id="1883059">
+<info><authors><author pid="64/550">Marcello D&apos;Agostino</author><author pid="78/6110">Tommaso Flaminio</author><author pid="28/6685">Hykel Hosni</author></authors><title>Rational Beliefs Real Agents Can Have - A Logical Point of View.</title><venue>IDM@NIPS</venue><pages>97-109</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/DAgostinoFH16</key><ee>http://proceedings.mlr.press/v58/d-agostino17a.html</ee><url>https://dblp.org/rec/conf/nips/DAgostinoFH16</url></info>
+<url>URL#1883059</url>
+</hit>
+<hit score="1" id="1883078">
+<info><authors><author pid="218/9783">Krzysztof Drachal</author></authors><title>Forecasting Spot Oil Price Using Google Probabilities.</title><venue>IDM@NIPS</venue><pages>31-40</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/Drachal16</key><ee>http://proceedings.mlr.press/v58/drachal17a.html</ee><url>https://dblp.org/rec/conf/nips/Drachal16</url></info>
+<url>URL#1883078</url>
+</hit>
+<hit score="1" id="1883114">
+<info><authors><author pid="00/744">Sam Ganzfried</author></authors><title>Optimal Number of Choices in Rating Contexts.</title><venue>IDM@NIPS</venue><pages>61-74</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/Ganzfried16</key><ee>http://proceedings.mlr.press/v58/ganzfried17a.html</ee><url>https://dblp.org/rec/conf/nips/Ganzfried16</url></info>
+<url>URL#1883114</url>
+</hit>
+<hit score="1" id="1883145">
+<info><authors><author pid="16/3881">Tatiana V. Guy</author></authors><title>NIPS Workshop on Imperfect Decision Makers 2016 - Preface.</title><venue>IDM@NIPS</venue><pages>i-iii</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/Guy16</key><ee>http://proceedings.mlr.press/v58/guy17a.html</ee><url>https://dblp.org/rec/conf/nips/Guy16</url></info>
+<url>URL#1883145</url>
+</hit>
+<hit score="1" id="1883146">
+<info><authors><author pid="16/3881">Tatiana V. Guy</author><author pid="184/7788">Marko Ruman</author><author pid="184/7809">Frantisek Hula</author><author pid="85/3432">Miroslav Kárný</author></authors><title>Experimental Performance of Deliberation-Aware Responder in Multi-Proposer Ultimatum Game.</title><venue>IDM@NIPS</venue><pages>51-60</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/GuyRHK16</key><ee>http://proceedings.mlr.press/v58/guy17b.html</ee><url>https://dblp.org/rec/conf/nips/GuyRHK16</url></info>
+<url>URL#1883146</url>
+</hit>
+<hit score="1" id="1883214">
+<info><authors><author pid="85/3432">Miroslav Kárný</author></authors><title>Implementable Prescriptive Decision Making.</title><venue>IDM@NIPS</venue><pages>19-30</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/Karny16</key><ee>http://proceedings.mlr.press/v58/karny17a.html</ee><url>https://dblp.org/rec/conf/nips/Karny16</url></info>
+<url>URL#1883214</url>
+</hit>
+<hit score="1" id="1883272">
+<info><authors><author pid="218/9778">Jan Malte Lichtenberg</author><author pid="64/5184">Özgür Simsek</author></authors><title>Simple Regression Models.</title><venue>IDM@NIPS</venue><pages>13-25</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/LichtenbergS16</key><ee>http://proceedings.mlr.press/v58/lichtenberg17a.html</ee><url>https://dblp.org/rec/conf/nips/LichtenbergS16</url></info>
+<url>URL#1883272</url>
+</hit>
+<hit score="1" id="1883294">
+<info><authors><author pid="218/9730">Shaudi Mahdavi</author><author pid="78/8575">M. Amin Rahimian</author></authors><title>Hindsight Bias Impedes Learning.</title><venue>IDM@NIPS</venue><pages>111-127</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/MahdaviR16</key><ee>http://proceedings.mlr.press/v58/mahdavi17a.html</ee><url>https://dblp.org/rec/conf/nips/MahdaviR16</url></info>
+<url>URL#1883294</url>
+</hit>
+<hit score="1" id="1883406">
+<info><authors><author pid="93/11269">Vladimíra Seckárová</author></authors><title>Performance of Kullback-Leibler Based Expert Opinion Pooling for Unlikely Events.</title><venue>IDM@NIPS</venue><pages>41-50</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/Seckarova16</key><ee>http://proceedings.mlr.press/v58/seckarova17a.html</ee><url>https://dblp.org/rec/conf/nips/Seckarova16</url></info>
+<url>URL#1883406</url>
+</hit>
+<hit score="1" id="1883422">
+<info><authors><author pid="64/5184">Özgür Simsek</author><author pid="176/0265">Marcus Buckmann</author></authors><title>On Learning Decision Heuristics.</title><venue>IDM@NIPS</venue><pages>75-85</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/nips/SimsekB16</key><ee>http://proceedings.mlr.press/v58/simsek17a.html</ee><url>https://dblp.org/rec/conf/nips/SimsekB16</url></info>
+<url>URL#1883422</url>
+</hit>
+</hits>
+</result>

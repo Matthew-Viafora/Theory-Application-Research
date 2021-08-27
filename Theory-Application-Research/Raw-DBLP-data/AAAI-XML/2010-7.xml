@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="288992">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"stat2010\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">123.11</time>
+<completions total="1" computed="1" sent="1">
+<c sc="20" dc="20" oc="20" id="18218028">:facetid:toc:db/conf/aaai/stat2010.bht</c>
+</completions>
+<hits total="20" computed="20" sent="20" first="0">
+<hit score="1" id="3405104">
+<info><authors><author pid="75/3623">Nimar S. Arora</author><author pid="r/SJRussell">Stuart J. Russell</author><author pid="22/3923">Erik B. Sudderth</author></authors><title>Automatic Inference in BLOG.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/AroraRS10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2037</ee><url>https://dblp.org/rec/conf/aaai/AroraRS10</url></info>
+<url>URL#3405104</url>
+</hit>
+<hit score="1" id="3405158">
+<info><authors><author pid="33/5073">Anton Chechetka</author><author pid="19/1167">Denver Dash</author><author pid="p/MPhilipose">Matthai Philipose</author></authors><title>Relational Learning for Collective Classification of Entities in Images.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChechetkaDP10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1993</ee><url>https://dblp.org/rec/conf/aaai/ChechetkaDP10</url></info>
+<url>URL#3405158</url>
+</hit>
+<hit score="1" id="3405169">
+<info><authors><author pid="13/1402">Jaesik Choi</author><author pid="14/5150-2">David J. Hill 0002</author><author pid="17/1143">Eyal Amir</author></authors><title>Lifted Inference for Relational Continuous Models.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChoiHA10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2038</ee><url>https://dblp.org/rec/conf/aaai/ChoiHA10</url></info>
+<url>URL#3405169</url>
+</hit>
+<hit score="1" id="3405213">
+<info><authors><author pid="14/4229">Vibhav Gogate</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Exploiting Logical Structure in Lifted Probabilistic Inference.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/GogateD10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2049</ee><url>https://dblp.org/rec/conf/aaai/GogateD10</url></info>
+<url>URL#3405213</url>
+</hit>
+<hit score="1" id="3405229">
+<info><authors><author pid="13/8399">Fabian Hadiji</author><author pid="40/3793">Kristian Kersting</author><author pid="77/2476">Babak Ahmadi</author></authors><title>Lifted Message Passing for Satisfiability.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HadijiKA10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1975</ee><url>https://dblp.org/rec/conf/aaai/HadijiKA10</url></info>
+<url>URL#3405229</url>
+</hit>
+<hit score="1" id="3405251">
+<info><authors><author pid="64/2263">Tuyen N. Huynh</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Online Max-Margin Weight Learning with Markov Logic Networks.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuynhM10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1979</ee><url>https://dblp.org/rec/conf/aaai/HuynhM10</url></info>
+<url>URL#3405251</url>
+</hit>
+<hit score="1" id="3405272">
+<info><authors><author pid="62/1789">Roni Khardon</author></authors><title>Stochastic Planning and Lifted Inference.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Khardon10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1976</ee><url>https://dblp.org/rec/conf/aaai/Khardon10</url></info>
+<url>URL#3405272</url>
+</hit>
+<hit score="1" id="3405275">
+<info><authors><author pid="08/10907">Chloé Kiddon</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Leveraging Ontologies for Lifted Probabilistic Inference and Learning.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KiddonD10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2039</ee><url>https://dblp.org/rec/conf/aaai/KiddonD10</url></info>
+<url>URL#3405275</url>
+</hit>
+<hit score="1" id="3405282">
+<info><authors><author pid="74/2264">Stanley Kok</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Using Structural Motifs for Learning Markov Logic Networks.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/KokD10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1980</ee><url>https://dblp.org/rec/conf/aaai/KokD10</url></info>
+<url>URL#3405282</url>
+</hit>
+<hit score="1" id="3405348">
+<info><authors><author pid="133/6838">David Andrew Moore</author><author pid="87/4162">Andrea Pohoreckyj Danyluk</author></authors><title>Deep Transfer as Structure Learning in Markov Logic Networks.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/MooreD10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2015</ee><url>https://dblp.org/rec/conf/aaai/MooreD10</url></info>
+<url>URL#3405348</url>
+</hit>
+<hit score="1" id="3405354">
+<info><authors><author pid="19/1038">Sriraam Natarajan</author><author pid="83/8117">Tushar Khot</author><author pid="80/3901">Daniel Lowd</author><author pid="42/4375">Prasad Tadepalli</author><author pid="40/3793">Kristian Kersting</author><author pid="s/JudeWShavlik">Jude W. Shavlik</author></authors><title>Exploiting Causal Independence in Markov Logic Networks - Combining Undirected and Directed Models.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NatarajanKLTKS10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2020</ee><url>https://dblp.org/rec/conf/aaai/NatarajanKLTKS10</url></info>
+<url>URL#3405354</url>
+</hit>
+<hit score="1" id="3405357">
+<info><authors><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Efficient Lifting for Online Probabilistic Inference.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/NathD10b</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2042</ee><url>https://dblp.org/rec/conf/aaai/NathD10b</url></info>
+<url>URL#3405357</url>
+</hit>
+<hit score="1" id="3405378">
+<info><authors><author pid="70/3131">Anon Plangprasopchok</author><author pid="99/433">Kristina Lerman</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Integrating Structured Metadata with Relational Affinity Propagation.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PlangprasopchokLG10a</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2023</ee><url>https://dblp.org/rec/conf/aaai/PlangprasopchokLG10a</url></info>
+<url>URL#3405378</url>
+</hit>
+<hit score="1" id="3405382">
+<info><authors><author pid="78/4609">Hoifung Poon</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Machine Reading - A &quot;Killer App&quot; for Statistical Relational AI.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/PoonD10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1983</ee><url>https://dblp.org/rec/conf/aaai/PoonD10</url></info>
+<url>URL#3405382</url>
+</hit>
+<hit score="1" id="3405391">
+<info><authors><author pid="68/3169">Sindhu Raghavan</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Bayesian Abductive Logic Programs.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/RaghavanM10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1974</ee><url>https://dblp.org/rec/conf/aaai/RaghavanM10</url></info>
+<url>URL#3405391</url>
+</hit>
+<hit score="1" id="3405397">
+<info><authors><author pid="18/3348-1">Sebastian Riedel 0001</author></authors><title>Declarative Probabilistic Programming for Undirected Graphical Models - Open Up to Scale Up.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Riedel10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2047</ee><url>https://dblp.org/rec/conf/aaai/Riedel10</url></info>
+<url>URL#3405397</url>
+</hit>
+<hit score="1" id="3405399">
+<info><authors><author pid="75/195">Paul S. Rosenbloom</author></authors><title>An Architectural Approach to Statistical Relational AI.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/Rosenbloom10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/1969</ee><url>https://dblp.org/rec/conf/aaai/Rosenbloom10</url></info>
+<url>URL#3405399</url>
+</hit>
+<hit score="1" id="3405423">
+<info><authors><author pid="14/167">Parag Singla</author><author pid="09/8399">Aniruddh Nath</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Approximate Lifted Belief Propagation.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/SinglaND10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2040</ee><url>https://dblp.org/rec/conf/aaai/SinglaND10</url></info>
+<url>URL#3405423</url>
+</hit>
+<hit score="1" id="3405456">
+<info><authors><author pid="26/5660">Ingo Thon</author><author pid="74/3178">Bernd Gutmann</author><author pid="96/7521">Guy Van den Broeck</author></authors><title>Probabilistic Programming for Planning Problems.</title><venue>Statistical Relational Artificial Intelligence</venue><year>2010</year><type>Conference and Workshop Papers</type><key>conf/aaai/ThonGB10</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW10/paper/view/2008</ee><url>https://dblp.org/rec/conf/aaai/ThonGB10</url></info>
+<url>URL#3405456</url>
+</hit>
+<hit score="1" id="3529300">
+<info><title>Statistical Relational Artificial Intelligence, Papers from the 2010 AAAI Workshop, Atlanta, Georgia, USA, July 12, 2010</title><venue>Statistical Relational Artificial Intelligence</venue><venue>AAAI Workshops</venue><volume>WS-10-06</volume><publisher>AAAI</publisher><year>2010</year><type>Editorship</type><key>conf/aaai/2010stat</key><ee>http://www.aaai.org/Library/Workshops/ws10-06.php</ee><url>https://dblp.org/rec/conf/aaai/2010stat</url></info>
+<url>URL#3529300</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="284839">:facetid:toc:db\"/\"conf\"/\"nips\"/\"coco2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">121.35</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="18251284">:facetid:toc:db/conf/nips/coco2015.bht</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="1" id="1923778">
+<info><authors><author pid="61/7871">Tarek Richard Besold</author><author pid="26/4820">Artur S. d&apos;Avila Garcez</author><author pid="95/5364">Gary F. Marcus</author><author pid="m/RistoMiikkulainen">Risto Miikkulainen</author></authors><title>Proceedings of the NIPS Workshop on Cognitive Computation - Integrating Neural and Symbolic Approaches co-located with the 29th Annual Conference on Neural Information Processing Systems (NIPS 2015), Montreal, Canada, December 11-12, 2015.</title><venue>CoCo@NIPS</venue><venue>CEUR Workshop Proceedings</venue><volume>1583</volume><publisher>CEUR-WS.org</publisher><year>2016</year><type>Editorship</type><key>conf/nips/2015coco</key><ee>http://ceur-ws.org/Vol-1583</ee><url>https://dblp.org/rec/conf/nips/2015coco</url></info>
+<url>URL#1923778</url>
+</hit>
+<hit score="1" id="2186758">
+<info><authors><author pid="09/5780">Joscha Bach</author><author pid="127/0190">Priska Herger</author></authors><title>Request Confirmation Networks for Neuro-Symbolic Script Execution.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/BachH15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf</ee><url>https://dblp.org/rec/conf/nips/BachH15</url></info>
+<url>URL#2186758</url>
+</hit>
+<hit score="1" id="2186778">
+<info><authors><author pid="116/0502">Samuel R. Bowman</author><author pid="m/ChristopherDManning">Christopher D. Manning</author><author pid="13/2617">Christopher Potts</author></authors><title>Tree-Structured Composition in Neural Networks without Tree-Structured Architectures.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/BowmanMP15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_5.pdf</ee><url>https://dblp.org/rec/conf/nips/BowmanMP15</url></info>
+<url>URL#2186778</url>
+</hit>
+<hit score="1" id="2186787">
+<info><authors><author pid="135/0997">Giovanni S. Carmantini</author><author pid="29/1905">Peter beim Graben</author><author pid="66/9537">Mathieu Desroches</author><author pid="04/7839">Serafim Rodrigues</author></authors><title>Turing Computation with Recurrent Artificial Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/CarmantiniGDR15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_1.pdf</ee><url>https://dblp.org/rec/conf/nips/CarmantiniGDR15</url></info>
+<url>URL#2186787</url>
+</hit>
+<hit score="1" id="2186788">
+<info><authors><author pid="180/1362">Iván Sánchez Carmona</author><author pid="18/3348-1">Sebastian Riedel 0001</author></authors><title>Extracting Interpretable Models from Matrix Factorization Models.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/CarmonaR15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_10.pdf</ee><url>https://dblp.org/rec/conf/nips/CarmonaR15</url></info>
+<url>URL#2186788</url>
+</hit>
+<hit score="1" id="2186841">
+<info><authors><author pid="135/5687">Manoel Vitor Macedo França</author><author pid="26/4820">Artur S. d&apos;Avila Garcez</author><author pid="53/3165">Gerson Zaverucha</author></authors><title>Relational Knowledge Extraction from Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/FrancaGZ15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_18.pdf</ee><url>https://dblp.org/rec/conf/nips/FrancaGZ15</url></info>
+<url>URL#2186841</url>
+</hit>
+<hit score="1" id="2186879">
+<info><authors><author pid="118/8222">Xavier Hinaut</author><author pid="149/1422">Johannes Twiefel</author><author pid="128/0894">Maxime Petit</author><author pid="76/218">Peter Ford Dominey</author><author pid="03/3914">Stefan Wermter</author></authors><title>A Recurrent Neural Network for Multiple Language Acquisition - Starting with English and French.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/HinautTPDW15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_14.pdf</ee><url>https://dblp.org/rec/conf/nips/HinautTPDW15</url></info>
+<url>URL#2186879</url>
+</hit>
+<hit score="1" id="2186883">
+<info><authors><author pid="57/3087">Marc W. Howard</author><author pid="73/10757">Karthik H. Shankar</author><author pid="61/2669">Zoran Tiganj</author></authors><title>Efficient Neural Computation in the Laplace Domain.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/HowardST15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_8.pdf</ee><url>https://dblp.org/rec/conf/nips/HowardST15</url></info>
+<url>URL#2186883</url>
+</hit>
+<hit score="1" id="2186903">
+<info><authors><author pid="135/3514">Ivana Kajic</author><author pid="81/5957">Thomas Wennekers</author></authors><title>Neural Network Model of Semantic Processing in the Remote Associates Test.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/KajicW15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_17.pdf</ee><url>https://dblp.org/rec/conf/nips/KajicW15</url></info>
+<url>URL#2186903</url>
+</hit>
+<hit score="1" id="2186911">
+<info><authors><author pid="07/11519">Milad Kharratzadeh</author><author pid="73/1377">Thomas R. Shultz</author></authors><title>Probability Matching via Deterministic Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/KharratzadehS15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_4.pdf</ee><url>https://dblp.org/rec/conf/nips/KharratzadehS15</url></info>
+<url>URL#2186911</url>
+</hit>
+<hit score="1" id="2186986">
+<info><authors><author pid="38/9437">Guglielmo Montone</author><author pid="76/3456">J. Kevin O&apos;Regan</author><author pid="76/9331">Alexander V. Terekhov</author></authors><title>The Usefulness of Past Knowledge when Learning a New Task in Deep Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/MontoneOT15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_2.pdf</ee><url>https://dblp.org/rec/conf/nips/MontoneOT15</url></info>
+<url>URL#2186986</url>
+</hit>
+<hit score="1" id="2187034">
+<info><authors><author pid="169/4880">Federico Raue</author><author pid="40/10201">Wonmin Byeon</author><author pid="b/ThomasMBreuel">Thomas M. Breuel</author><author pid="28/1247">Marcus Liwicki</author></authors><title>Symbol Grounding in Multimodal Sequences using Recurrent Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/RaueBBL15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_9.pdf</ee><url>https://dblp.org/rec/conf/nips/RaueBBL15</url></info>
+<url>URL#2187034</url>
+</hit>
+<hit score="1" id="2187056">
+<info><authors><author pid="130/5884">Soumalya Sarkar</author><author pid="172/0908">Kin Gwn Lore</author><author pid="33/7053">Soumik Sarkar</author></authors><title>Early Detection of Combustion Instability by Neural-Symbolic Analysis on Hi-Speed Video.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/SarkarLS15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_12.pdf</ee><url>https://dblp.org/rec/conf/nips/SarkarLS15</url></info>
+<url>URL#2187056</url>
+</hit>
+<hit score="1" id="2187065">
+<info><authors><author pid="03/4268">Grégory Senay</author><author pid="32/797">Fabio Massimo Zanzotto</author><author pid="151/8546">Lorenzo Ferrone</author><author pid="57/1402">Luca Rigazio</author></authors><title>Predicting Embedded Syntactic Structures from Natural Language Sentences with Neural Network Approaches.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/SenayZFR15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_16.pdf</ee><url>https://dblp.org/rec/conf/nips/SenayZFR15</url></info>
+<url>URL#2187065</url>
+</hit>
+<hit score="1" id="2187074">
+<info><authors><author pid="151/7509">Jiaxin Shi</author><author pid="50/2644-1">Jun Zhu 0001</author></authors><title>Building Memory with Concept Learning Capabilities from Large-Scale Knowledge Bases.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/ShiZ15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_11.pdf</ee><url>https://dblp.org/rec/conf/nips/ShiZ15</url></info>
+<url>URL#2187074</url>
+</hit>
+<hit score="1" id="2187088">
+<info><authors><author pid="150/0342">Gustav Sourek</author><author pid="167/3831">Vojtech Aschenbrenner</author><author pid="00/2873">Filip Zelezný</author><author pid="21/4513">Ondrej Kuzelka</author></authors><title>Lifted Relational Neural Networks.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/SourekAZK15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_7.pdf</ee><url>https://dblp.org/rec/conf/nips/SourekAZK15</url></info>
+<url>URL#2187088</url>
+</hit>
+<hit score="1" id="2187105">
+<info><authors><author pid="31/5290">Whitney Tabor</author></authors><title>Fractal Grammars which Recover from Perturbations.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/Tabor15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_15.pdf</ee><url>https://dblp.org/rec/conf/nips/Tabor15</url></info>
+<url>URL#2187105</url>
+</hit>
+<hit score="1" id="2187122">
+<info><authors><author pid="13/1312">Frank van der Velde</author><author pid="27/4973">Marc de Kamps</author></authors><title>Combinatorial Structures and Processing in Neural Blackboard Architectures.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/VeldeK15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_13.pdf</ee><url>https://dblp.org/rec/conf/nips/VeldeK15</url></info>
+<url>URL#2187122</url>
+</hit>
+<hit score="1" id="2187161">
+<info><authors><author pid="63/1000">Özgür Yilmaz</author></authors><title>Analogy Making and Logical Inferences on Images using Cellular Automata based Hyperdimensional Computing.</title><venue>CoCo@NIPS</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/nips/Yilmaz15</key><ee>http://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_3.pdf</ee><url>https://dblp.org/rec/conf/nips/Yilmaz15</url></info>
+<url>URL#2187161</url>
+</hit>
+</hits>
+</result>

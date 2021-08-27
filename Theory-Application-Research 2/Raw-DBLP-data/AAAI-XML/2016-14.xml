@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="308242">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"data2016\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">103.67</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18217992">:facetid:toc:db/conf/aaai/data2016.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="1765260">
+<info><authors><author pid="170/1282">Rabah A. Al-Zaidy</author><author pid="132/5374">Sagnik Ray Choudhury</author><author pid="g/CLeeGiles">C. Lee Giles</author></authors><title>Automatic Summary Generation for Scientific Data Charts.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/Al-ZaidyCG16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12661</ee><url>https://dblp.org/rec/conf/aaai/Al-ZaidyCG16</url></info>
+<url>URL#1765260</url>
+</hit>
+<hit score="1" id="1765524">
+<info><authors><author pid="130/3777">Xiaocheng Huang</author><author pid="51/1385">Pauline C. Ng</author></authors><title>Enabling Public Access to Non-Open Access Biomedical Literature via Idea-Expression Dichotomy and Fact Extraction.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/HuangN16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12557</ee><url>https://dblp.org/rec/conf/aaai/HuangN16</url></info>
+<url>URL#1765524</url>
+</hit>
+<hit score="1" id="1765585">
+<info><authors><author pid="05/2269">Kriste Krstovski</author><author pid="45/3159">David A. Smith</author><author pid="57/1895">Michael J. Kurtz</author></authors><title>Automatic Construction of Evaluation Sets and Evaluation of Document Similarity Models in Large Scholarly Retrieval Systems.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/KrstovskiSK16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12676</ee><url>https://dblp.org/rec/conf/aaai/KrstovskiSK16</url></info>
+<url>URL#1765585</url>
+</hit>
+<hit score="1" id="1765718">
+<info><authors><author pid="99/10398">Sheikh Motahar Naim</author><author pid="129/1560">Md. Abdul Kader</author><author pid="18/1189">Arnold P. Boedihardjo</author><author pid="78/5573">Mahmud Shahriar Hossain</author></authors><title>Encoding Lineage in Scholarly Articles.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/NaimKBH16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12579</ee><url>https://dblp.org/rec/conf/aaai/NaimKBH16</url></info>
+<url>URL#1765718</url>
+</hit>
+<hit score="1" id="1765739">
+<info><authors><author pid="186/0066">Francisco Osuna</author><author pid="185/9937">Bhanukiran Gurijala</author><author pid="186/0189">Patricia Esparza</author><author pid="73/2386">Monika Akbar</author><author pid="g/AnnQGates">Ann Q. Gates</author></authors><title>A Feasibility Study of an Approach to Extend Research Footprints.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/OsunaGEAG16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12654</ee><url>https://dblp.org/rec/conf/aaai/OsunaGEAG16</url></info>
+<url>URL#1765739</url>
+</hit>
+<hit score="1" id="1765744">
+<info><authors><author pid="147/2316">Madhavan Pallan</author><author pid="33/4411">Biplav Srivastava</author></authors><title>Automatically Augmenting Titles of Research Papers for Better Discovery.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/PallanS16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12578</ee><url>https://dblp.org/rec/conf/aaai/PallanS16</url></info>
+<url>URL#1765744</url>
+</hit>
+<hit score="1" id="1765750">
+<info><authors><author pid="67/5559">Jihyun Park</author><author pid="186/0225">Margaret Blume-Kohout</author><author pid="60/3309">Ralf Krestel</author><author pid="136/4057">Eric T. Nalisnick</author><author pid="s/PadhraicSmyth">Padhraic Smyth</author></authors><title>Analyzing NIH Funding Patterns over Time with Statistical Text Analysis.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ParkBKNS16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12648</ee><url>https://dblp.org/rec/conf/aaai/ParkBKNS16</url></info>
+<url>URL#1765750</url>
+</hit>
+<hit score="1" id="1765797">
+<info><authors><author pid="151/2098">Dwaipayan Roy</author><author pid="58/9438">Kunal Ray</author><author pid="85/2002">Mandar Mitra</author></authors><title>From a Scholarly Big Dataset to a Test Collection for Bibliographic Citation Recommendation.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/RoyRM16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12635</ee><url>https://dblp.org/rec/conf/aaai/RoyRM16</url></info>
+<url>URL#1765797</url>
+</hit>
+<hit score="1" id="1765826">
+<info><authors><author pid="178/3627">Jiaming Shen</author><author pid="177/9092">Zhenyu Song</author><author pid="186/0013">Shitao Li</author><author pid="177/7011">Zhaowei Tan</author><author pid="178/3692">Yuning Mao</author><author pid="44/7207">Luoyi Fu</author><author pid="20/872">Li Song</author><author pid="96/1149">Xinbing Wang</author></authors><title>Modeling Topic-Level Academic Influence in Scientific Literatures.</title><venue>AAAI Workshop - Scholarly Big Data</venue><year>2016</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShenSLTMFSW16</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12598</ee><url>https://dblp.org/rec/conf/aaai/ShenSLTMFSW16</url></info>
+<url>URL#1765826</url>
+</hit>
+<hit score="1" id="1921925">
+<info><authors><author pid="87/11087">Madian Khabsa</author><author pid="g/CLeeGiles">C. Lee Giles</author><author pid="175/4808">Alex D. Wade</author></authors><title>Scholarly Big Data - AI Perspectives, Challenges, and Ideas, Papers from the 2016 AAAI Workshop, Phoenix, Arizona, USA, February 13, 2016.</title><venue>AAAI Workshop - Scholarly Big Data</venue><venue>AAAI Workshops</venue><volume>WS-16-13</volume><publisher>AAAI Press</publisher><year>2016</year><type>Editorship</type><key>conf/aaai/2016data</key><ee>http://www.aaai.org/Library/Workshops/ws16-13.php</ee><url>https://dblp.org/rec/conf/aaai/2016data</url></info>
+<url>URL#1921925</url>
+</hit>
+</hits>
+</result>

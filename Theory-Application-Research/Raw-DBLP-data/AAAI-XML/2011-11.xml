@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="293613">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"game2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">113.12</time>
+<completions total="1" computed="1" sent="1">
+<c sc="10" dc="10" oc="10" id="18217996">:facetid:toc:db/conf/aaai/game2011.bht</c>
+</completions>
+<hits total="10" computed="10" sent="10" first="0">
+<hit score="1" id="3163530">
+<info><authors><author pid="52/1053">Noa Agmon</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Leading Multiple Ad Hoc Teammates in Joint Action Settings.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/AgmonS11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3805</ee><url>https://dblp.org/rec/conf/aaai/AgmonS11</url></info>
+<url>URL#3163530</url>
+</hit>
+<hit score="1" id="3163534">
+<info><authors><author pid="01/10920">Asrar Ahmed</author><author pid="k/KKarlapalem">Kamalakar Karlapalem</author></authors><title>Reciprocal Preference Model for Two Player Dilemma Games.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/AhmedK11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3977</ee><url>https://dblp.org/rec/conf/aaai/AhmedK11</url></info>
+<url>URL#3163534</url>
+</hit>
+<hit score="1" id="3163549">
+<info><authors><author pid="18/9923">Amos Azaria</author><author pid="93/4009">Zinovi Rabinovich</author><author pid="k/SaritKraus">Sarit Kraus</author><author pid="65/537">Claudia V. Goldman</author></authors><title>Giving Advice to People in Path Selection Problems.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/AzariaRKG11a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3849</ee><url>https://dblp.org/rec/conf/aaai/AzariaRKG11a</url></info>
+<url>URL#3163549</url>
+</hit>
+<hit score="1" id="3163697">
+<info><authors><author pid="25/3038">Qing Guo</author><author pid="50/887">Piotr J. Gmytrasiewicz</author></authors><title>Modeling Bounded Rationality of Agents During Interactions.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuoG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3957</ee><url>https://dblp.org/rec/conf/aaai/GuoG11</url></info>
+<url>URL#3163697</url>
+</hit>
+<hit score="1" id="3163710">
+<info><authors><author pid="47/6451">Greg Hines</author><author pid="27/3591">Kate Larson</author></authors><title>Efficiently Eliciting Preferences from a Group of Users.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/HinesL11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3829</ee><url>https://dblp.org/rec/conf/aaai/HinesL11</url></info>
+<url>URL#3163710</url>
+</hit>
+<hit score="1" id="3163734">
+<info><authors><author pid="85/5572">Michael Kaisers</author><author pid="t/KTuyls">Karl Tuyls</author></authors><title>FAQ-Learning in Matrix Games - Demonstrating Convergence Near Nash Equilibria, and Bifurcation of Attractors in the Battle of Sexes.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/KaisersT11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3950</ee><url>https://dblp.org/rec/conf/aaai/KaisersT11</url></info>
+<url>URL#3163734</url>
+</hit>
+<hit score="1" id="3163796">
+<info><authors><author pid="85/9922">Liam MacDermed</author><author pid="i/LCIsbell">Charles L. Isbell Jr.</author><author pid="50/7975">Lora Weiss</author></authors><title>Markov Games of Incomplete Information for Multi-Agent Reinforcement Learning.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/MacDermedIW11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3958</ee><url>https://dblp.org/rec/conf/aaai/MacDermedIW11</url></info>
+<url>URL#3163796</url>
+</hit>
+<hit score="1" id="3163828">
+<info><authors><author pid="00/1170">Alessandro Panella</author><author pid="50/887">Piotr J. Gmytrasiewicz</author></authors><title>Interactive First-Order Probabilistic Logic.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/PanellaG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3953</ee><url>https://dblp.org/rec/conf/aaai/PanellaG11</url></info>
+<url>URL#3163828</url>
+</hit>
+<hit score="1" id="3163938">
+<info><authors><author pid="76/6477">Paolo Viappiani</author><author pid="z/SandraZilles">Sandra Zilles</author><author pid="h/HowardJHamilton">Howard J. Hamilton</author><author pid="10/3411">Craig Boutilier</author></authors><title>A Bayesian Concept Learning Approach to Crowdsourcing.</title><venue>Interactive Decision Theory and Game Theory</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/ViappianiZHB11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3807</ee><url>https://dblp.org/rec/conf/aaai/ViappianiZHB11</url></info>
+<url>URL#3163938</url>
+</hit>
+<hit score="1" id="3300571">
+<info><title>Interactive Decision Theory and Game Theory, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 8, 2011</title><venue>Interactive Decision Theory and Game Theory</venue><venue>AAAI Workshops</venue><volume>WS-11-13</volume><publisher>AAAI</publisher><year>2011</year><type>Editorship</type><key>conf/aaai/2011game</key><ee>http://www.aaai.org/Library/Workshops/ws11-13.php</ee><url>https://dblp.org/rec/conf/aaai/2011game</url></info>
+<url>URL#3300571</url>
+</hit>
+</hits>
+</result>

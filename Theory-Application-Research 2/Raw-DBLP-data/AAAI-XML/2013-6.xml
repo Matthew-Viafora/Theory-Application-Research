@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="304470">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"stat2013\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">114.67</time>
+<completions total="1" computed="1" sent="1">
+<c sc="19" dc="19" oc="19" id="18218029">:facetid:toc:db/conf/aaai/stat2013.bht</c>
+</completions>
+<hits total="19" computed="19" sent="19" first="0">
+<hit score="1" id="2640064">
+<info><authors><author pid="77/2476">Babak Ahmadi</author><author pid="40/3793">Kristian Kersting</author><author pid="19/1038">Sriraam Natarajan</author></authors><title>MapReduce Lifting for Belief Propagation.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/AhmadiKN13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7052</ee><url>https://dblp.org/rec/conf/aaai/AhmadiKN13</url></info>
+<url>URL#2640064</url>
+</hit>
+<hit score="1" id="2640100">
+<info><authors><author pid="96/7521">Guy Van den Broeck</author></authors><title>On the Complexity and Approximation of Binary Evidence in Lifted Inference.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Broeck13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7176</ee><url>https://dblp.org/rec/conf/aaai/Broeck13</url></info>
+<url>URL#2640100</url>
+</hit>
+<hit score="1" id="2640101">
+<info><authors><author pid="96/7521">Guy Van den Broeck</author><author pid="82/334">Wannes Meert</author><author pid="d/JesseDavis">Jesse Davis</author></authors><title>Lifted Generative Parameter Learning.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/BroeckMD13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7134</ee><url>https://dblp.org/rec/conf/aaai/BroeckMD13</url></info>
+<url>URL#2640101</url>
+</hit>
+<hit score="1" id="2640163">
+<info><authors><author pid="14/4229">Vibhav Gogate</author></authors><title>Organizers.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/Gogate13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7341</ee><url>https://dblp.org/rec/conf/aaai/Gogate13</url></info>
+<url>URL#2640163</url>
+</hit>
+<hit score="1" id="2640164">
+<info><authors><author pid="14/4229">Vibhav Gogate</author><author pid="40/3793">Kristian Kersting</author><author pid="19/1038">Sriraam Natarajan</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>Preface.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/GogateKNP13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7342</ee><url>https://dblp.org/rec/conf/aaai/GogateKNP13</url></info>
+<url>URL#2640164</url>
+</hit>
+<hit score="1" id="2640174">
+<info><authors><author pid="13/8399">Fabian Hadiji</author><author pid="40/3793">Kristian Kersting</author></authors><title>Reduce and Re-Lift - Bootstrapped Lifted Likelihood Maximization for MAP.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/HadijiK13a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7053</ee><url>https://dblp.org/rec/conf/aaai/HadijiK13a</url></info>
+<url>URL#2640174</url>
+</hit>
+<hit score="1" id="2640195">
+<info><authors><author pid="32/4660">Saket Joshi</author><author pid="62/1789">Roni Khardon</author><author pid="42/4375">Prasad Tadepalli</author><author pid="49/6764">Alan Fern</author><author pid="117/4890">Aswin Raghavan</author></authors><title>Relational Markov Decision Processes - Promise and Prospects.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/JoshiKTFR13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7168</ee><url>https://dblp.org/rec/conf/aaai/JoshiKTFR13</url></info>
+<url>URL#2640195</url>
+</hit>
+<hit score="1" id="2640220">
+<info><authors><author pid="133/1996">Chia-Li Kuo</author><author pid="p/DavidPoole">David Poole 0001</author></authors><title>On Integrating Ontologies with Relational Probabilistic Models.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/KuoP13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7162</ee><url>https://dblp.org/rec/conf/aaai/KuoP13</url></info>
+<url>URL#2640220</url>
+</hit>
+<hit score="1" id="2640269">
+<info><authors><author pid="95/648">Martin Mladenov</author><author pid="40/3793">Kristian Kersting</author></authors><title>Lifted Inference via k-Locality.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/MladenovK13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7076</ee><url>https://dblp.org/rec/conf/aaai/MladenovK13</url></info>
+<url>URL#2640269</url>
+</hit>
+<hit score="1" id="2640276">
+<info><authors><author pid="19/1038">Sriraam Natarajan</author><author pid="138/5582">Jose Picado</author><author pid="83/8117">Tushar Khot</author><author pid="40/3793">Kristian Kersting</author><author pid="r/ChristopherRe">Christopher Ré</author><author pid="s/JudeWShavlik">Jude W. Shavlik</author></authors><title>Using Commonsense Knowledge to Automatically Create (Noisy) Training Examples from Text.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/NatarajanPKKRS13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7040</ee><url>https://dblp.org/rec/conf/aaai/NatarajanPKKRS13</url></info>
+<url>URL#2640276</url>
+</hit>
+<hit score="1" id="2640282">
+<info><authors><author pid="76/8176">Jan Noessner</author><author pid="n/MathiasNiepert">Mathias Niepert</author><author pid="50/5895">Heiner Stuckenschmidt</author></authors><title>RockIt - Exploiting Parallelism and Symmetry for MAP Inference in Statistical Relational Models.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/NoessnerNS13a</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7049</ee><url>https://dblp.org/rec/conf/aaai/NoessnerNS13a</url></info>
+<url>URL#2640282</url>
+</hit>
+<hit score="1" id="2640290">
+<info><authors><author pid="96/10056">Tivadar Papai</author><author pid="k/HenryAKautz">Henry A. Kautz</author></authors><title>Modal Markov Logic for Multiple Agents.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/PapaiK13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7022</ee><url>https://dblp.org/rec/conf/aaai/PapaiK13</url></info>
+<url>URL#2640290</url>
+</hit>
+<hit score="1" id="2640312">
+<info><authors><author pid="76/6838">Wen Pu</author><author pid="13/1402">Jaesik Choi</author><author pid="17/1143">Eyal Amir</author></authors><title>Lifted Inference on Transitive Relations.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/PuCA13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7172</ee><url>https://dblp.org/rec/conf/aaai/PuCA13</url></info>
+<url>URL#2640312</url>
+</hit>
+<hit score="1" id="2640314">
+<info><authors><author pid="68/3169">Sindhu Raghavan</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Online Inference-Rule Learning from Natural-Language Extractions.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/RaghavanM13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7027</ee><url>https://dblp.org/rec/conf/aaai/RaghavanM13</url></info>
+<url>URL#2640314</url>
+</hit>
+<hit score="1" id="2640334">
+<info><authors><author pid="138/5583">Somdeb Sarkhel</author><author pid="14/4229">Vibhav Gogate</author></authors><title>Lifting WALKSAT-Based Local Search Algorithms for MAP Inference.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/SarkhelG13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7165</ee><url>https://dblp.org/rec/conf/aaai/SarkhelG13</url></info>
+<url>URL#2640334</url>
+</hit>
+<hit score="1" id="2640351">
+<info><authors><author pid="95/8732">Young Chol Song</author><author pid="k/HenryAKautz">Henry A. Kautz</author><author pid="57/7831">Yuncheng Li</author><author pid="25/5545">Jiebo Luo</author></authors><title>A General Framework for Recognizing Complex Events in Markov Logic.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/SongKLL13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7101</ee><url>https://dblp.org/rec/conf/aaai/SongKLL13</url></info>
+<url>URL#2640351</url>
+</hit>
+<hit score="1" id="2640360">
+<info><authors><author pid="55/3615">Nima Taghipour</author><author pid="83/5235">Daan Fierens</author><author pid="96/7521">Guy Van den Broeck</author><author pid="d/JesseDavis">Jesse Davis</author><author pid="69/6136">Hendrik Blockeel</author></authors><title>On the Completeness of Lifted Variable Elimination.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/TaghipourFBDB13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7103</ee><url>https://dblp.org/rec/conf/aaai/TaghipourFBDB13</url></info>
+<url>URL#2640360</url>
+</hit>
+<hit score="1" id="2640382">
+<info><authors><author pid="68/10453">William Austin Webb</author><author pid="d/PedroDomingos">Pedro M. Domingos</author></authors><title>Tractable Probabilistic Knowledge Bases with Existence Uncertainty.</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><year>2013</year><type>Conference and Workshop Papers</type><key>conf/aaai/WebbD13</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW13/paper/view/7089</ee><url>https://dblp.org/rec/conf/aaai/WebbD13</url></info>
+<url>URL#2640382</url>
+</hit>
+<hit score="1" id="2791174">
+<info><title>Statistical Relational Artificial Intelligence, Papers from the 2013 AAAI Workshop, Bellevue, Washington, USA, July 15, 2013</title><venue>AAAI Workshop - Statistical Relational Artificial Intelligence</venue><venue>AAAI Workshops</venue><volume>WS-13-16</volume><publisher>AAAI</publisher><year>2013</year><type>Editorship</type><key>conf/aaai/2013stat</key><ee>http://www.aaai.org/Library/Workshops/ws13-16.php</ee><url>https://dblp.org/rec/conf/aaai/2013stat</url></info>
+<url>URL#2791174</url>
+</hit>
+</hits>
+</result>

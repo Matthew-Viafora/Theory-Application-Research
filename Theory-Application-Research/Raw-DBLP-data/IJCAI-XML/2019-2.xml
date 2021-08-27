@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="180980">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ais2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">135.39</time>
+<completions total="1" computed="1" sent="1">
+<c sc="22" dc="22" oc="22" id="18262893">:facetid:toc:db/conf/ijcai/ais2019.bht</c>
+</completions>
+<hits total="22" computed="22" sent="22" first="0">
+<hit score="1" id="815446">
+<info><authors><author pid="60/10113-2">Ramya Srinivasan 0002</author><author pid="06/5912">Ajay Chander</author></authors><title>Understanding Bias in Datasets using Topological Data Analysis.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/0002C19</key><ee>http://ceur-ws.org/Vol-2419/paper_9.pdf</ee><url>https://dblp.org/rec/conf/ijcai/0002C19</url></info>
+<url>URL#815446</url>
+</hit>
+<hit score="1" id="815474">
+<info><authors><author pid="218/7244">Hossein Aboutalebi</author><author pid="p/DoinaPrecup">Doina Precup</author><author pid="237/5472">Tibor Schuster</author></authors><title>Learning Modular Safe Policies in the Bandit Setting with Application to Adaptive Clinical Trials.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AboutalebiPS19</key><ee>http://ceur-ws.org/Vol-2419/paper_11.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AboutalebiPS19</url></info>
+<url>URL#815474</url>
+</hit>
+<hit score="1" id="815479">
+<info><authors><author pid="16/7560">Muhammad Aurangzeb Ahmad</author><author pid="218/7108">Carly Eckert</author><author pid="t/AnkurTeredesai">Ankur Teredesai</author></authors><title>The Challenge of Imputation in Explainable Artificial Intelligence Models.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AhmadET19</key><ee>http://ceur-ws.org/Vol-2419/paper_26.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AhmadET19</url></info>
+<url>URL#815479</url>
+</hit>
+<hit score="1" id="815485">
+<info><authors><author pid="204/2528">Nadisha-Marie Aliman</author><author pid="84/1201">Leon Kester</author></authors><title>Requisite Variety in Ethical Utility Functions for AI Value Alignment.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/AlimanK19</key><ee>http://ceur-ws.org/Vol-2419/paper_12.pdf</ee><url>https://dblp.org/rec/conf/ijcai/AlimanK19</url></info>
+<url>URL#815485</url>
+</hit>
+<hit score="1" id="815521">
+<info><authors><author pid="172/2715">Vahid Behzadan</author><author pid="22/6109">William Hsu</author></authors><title>Adversarial Exploitation of Policy Imitation.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BehzadanH19</key><ee>http://ceur-ws.org/Vol-2419/paper_40.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BehzadanH19</url></info>
+<url>URL#815521</url>
+</hit>
+<hit score="1" id="815522">
+<info><authors><author pid="172/2715">Vahid Behzadan</author><author pid="22/6109">William Hsu</author></authors><title>Watermarking of DRL Policies with Sequential Triggers.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BehzadanH19a</key><ee>http://ceur-ws.org/Vol-2419/paper_41.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BehzadanH19a</url></info>
+<url>URL#815522</url>
+</hit>
+<hit score="1" id="815560">
+<info><authors><author pid="235/1659">Bart Bussmann</author><author pid="157/1432">Jacqueline Heinerman</author><author pid="47/8285">Joel Lehman</author></authors><title>Towards Empathic Deep Q-Learning.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BussmannHL19</key><ee>http://ceur-ws.org/Vol-2419/paper_19.pdf</ee><url>https://dblp.org/rec/conf/ijcai/BussmannHL19</url></info>
+<url>URL#815560</url>
+</hit>
+<hit score="1" id="815680">
+<info><authors><author pid="151/4259">Tom Everitt</author><author pid="30/8321">Ramana Kumar</author><author pid="191/5983">Victoria Krakovna</author><author pid="36/5739">Shane Legg</author></authors><title>Modeling AGI Safety Frameworks with Causal Influence Diagrams.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Everitt0KL19</key><ee>http://ceur-ws.org/Vol-2419/paper_7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Everitt0KL19</url></info>
+<url>URL#815680</url>
+</hit>
+<hit score="1" id="815793">
+<info><authors><author pid="246/2158">Lukas Heinzmann</author><author pid="194/3403">Sina Shafaei</author><author pid="136/2050">Mohd Hafeez Osman</author><author pid="208/7195">Christoph Segler</author><author pid="k/AloisKnoll">Alois C. Knoll</author></authors><title>A Framework for Safety Violation Identification and Assessment in Autonomous Driving.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HeinzmannSOSK19</key><ee>http://ceur-ws.org/Vol-2419/paper_20.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HeinzmannSOSK19</url></info>
+<url>URL#815793</url>
+</hit>
+<hit score="1" id="815795">
+<info><authors><author pid="246/2285">Maximilian Henne</author><author pid="246/2212">Adrian Schwaiger</author><author pid="51/1748">Gereon Weiss</author></authors><title>Managing Uncertainty of AI-based Perception for Autonomous Systems.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HenneSW19</key><ee>http://ceur-ws.org/Vol-2419/paper_17.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HenneSW19</url></info>
+<url>URL#815795</url>
+</hit>
+<hit score="1" id="815888">
+<info><authors><author pid="191/5983">Victoria Krakovna</author><author pid="79/1040">Laurent Orseau</author><author pid="209/4885">Miljan Martic</author><author pid="36/5739">Shane Legg</author></authors><title>Penalizing Side Effects using Stepwise Relative Reachability.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/KrakovnaOML19</key><ee>http://ceur-ws.org/Vol-2419/paper_1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/KrakovnaOML19</url></info>
+<url>URL#815888</url>
+</hit>
+<hit score="1" id="816001">
+<info><authors><author pid="127/7332">Andrea Loreggia</author><author pid="54/7115">Nicholas Mattei</author><author pid="r/FrancescaRossi">Francesca Rossi</author><author pid="v/KristenBrentVenable">Kristen Brent Venable</author></authors><title>Metric Learning for Value Alignment.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LoreggiaMRV19</key><ee>http://ceur-ws.org/Vol-2419/paper_22.pdf</ee><url>https://dblp.org/rec/conf/ijcai/LoreggiaMRV19</url></info>
+<url>URL#816001</url>
+</hit>
+<hit score="1" id="816019">
+<info><authors><author pid="243/3368">Arushi Majha</author><author pid="243/3057">Sayan Sarkar</author><author pid="243/3056">Davide Zagami</author></authors><title>Categorizing Wireheading in Partially Embedded Agents.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MajhaSZ19</key><ee>http://ceur-ws.org/Vol-2419/paper_31.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MajhaSZ19</url></info>
+<url>URL#816019</url>
+</hit>
+<hit score="1" id="816020">
+<info><authors><author pid="228/7844">Jason Mancuso</author><author pid="244/2426">Tomasz Kisielewski</author><author pid="238/0981">David Lindner</author><author pid="244/2604">Alok Singh</author></authors><title>Detecting Spiky Corruption in Markov Decision Processes.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MancusoKLS19</key><ee>http://ceur-ws.org/Vol-2419/paper_28.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MancusoKLS19</url></info>
+<url>URL#816020</url>
+</hit>
+<hit score="1" id="816032">
+<info><authors><author pid="61/3573">John McDermid</author><author pid="230/3262">Yan Jia</author><author pid="98/575">Ibrahim Habli</author></authors><title>Towards a Framework for Safety Assurance of Autonomous Systems.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/McDermidJH19</key><ee>http://ceur-ws.org/Vol-2419/paper_2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/McDermidJH19</url></info>
+<url>URL#816032</url>
+</hit>
+<hit score="1" id="816063">
+<info><authors><author pid="246/2220">Mesut Ozdag</author><author pid="201/0826">Sunny Raj</author><author pid="198/7685">Steven Lawrence Fernandes</author><author pid="151/6275">Alvaro Velasquez</author><author pid="94/10801">Laura Pullum</author><author pid="05/5046-1">Sumit Kumar Jha 0001</author></authors><title>On the Susceptibility of Deep Neural Networks to Natural Perturbations.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/OzdagRFVPJ19</key><ee>http://ceur-ws.org/Vol-2419/paper_25.pdf</ee><url>https://dblp.org/rec/conf/ijcai/OzdagRFVPJ19</url></info>
+<url>URL#816063</url>
+</hit>
+<hit score="1" id="816228">
+<info><authors><author pid="198/1304">Andrea Aler Tubella</author><author pid="d/VDignum">Virginia Dignum</author></authors><title>The Glass Box Approach - Verifying Contextual Adherence to Values.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TubellaD19</key><ee>http://ceur-ws.org/Vol-2419/paper_18.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TubellaD19</url></info>
+<url>URL#816228</url>
+</hit>
+<hit score="1" id="816230">
+<info><authors><author pid="236/6253">Alexander Matt Turner</author><author pid="135/8332">Dylan Hadfield-Menell</author><author pid="42/4375">Prasad Tadepalli</author></authors><title>Conservative Agency.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TurnerHT19</key><ee>http://ceur-ws.org/Vol-2419/paper_13.pdf</ee><url>https://dblp.org/rec/conf/ijcai/TurnerHT19</url></info>
+<url>URL#816230</url>
+</hit>
+<hit score="1" id="816298">
+<info><authors><author pid="246/2149">Holly Wilson</author><author pid="201/9465">Andreas Theodorou</author></authors><title>Slam the Brakes - Perceptions of Moral Decisions in Driving Dilemmas.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/WilsonT19</key><ee>http://ceur-ws.org/Vol-2419/paper_14.pdf</ee><url>https://dblp.org/rec/conf/ijcai/WilsonT19</url></info>
+<url>URL#816298</url>
+</hit>
+<hit score="1" id="816301">
+<info><authors><author pid="w/FranzWotawa">Franz Wotawa</author></authors><title>On the Importance of System Testing for Assuring Safety of AI Systems.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Wotawa19</key><ee>http://ceur-ws.org/Vol-2419/paper_29.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Wotawa19</url></info>
+<url>URL#816301</url>
+</hit>
+<hit score="1" id="816420">
+<info><authors><author pid="52/323-38">Qi Zhang 0038</author><author pid="d/EHDurfee">Edmund H. Durfee</author><author pid="09/3058">Satinder P. Singh</author></authors><title>Computational Strategies for the Trustworthy Pursuit and the Safe Modeling of Probabilistic Maintenance Commitments.</title><venue>AISafety@IJCAI</venue><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhangDS19</key><ee>http://ceur-ws.org/Vol-2419/paper_8.pdf</ee><url>https://dblp.org/rec/conf/ijcai/ZhangDS19</url></info>
+<url>URL#816420</url>
+</hit>
+<hit score="1" id="890763">
+<info><authors><author pid="04/4931">Huáscar Espinoza</author><author pid="35/1096-1">Han Yu 0001</author><author pid="60/5414-1">Xiaowei Huang 0001</author><author pid="02/3657">Freddy Lécué</author><author pid="51/8242">Cynthia Chen</author><author pid="h/JoseHernandezOrallo">José Hernández-Orallo</author><author pid="148/7203">Seán Ó hÉigeartaigh</author><author pid="246/2111">Richard Mallah</author></authors><title>Proceedings of the Workshop on Artificial Intelligence Safety 2019 co-located with the 28th International Joint Conference on Artificial Intelligence, AISafety@IJCAI 2019, Macao, China, August 11-12, 2019.</title><venue>AISafety@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2419</volume><publisher>CEUR-WS.org</publisher><year>2019</year><type>Editorship</type><key>conf/ijcai/2019ais</key><ee>http://ceur-ws.org/Vol-2419</ee><url>https://dblp.org/rec/conf/ijcai/2019ais</url></info>
+<url>URL#890763</url>
+</hit>
+</hits>
+</result>

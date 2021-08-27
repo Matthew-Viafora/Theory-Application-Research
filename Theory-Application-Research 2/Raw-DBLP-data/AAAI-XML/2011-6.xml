@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="293105">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"cloud2011\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">112.28</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18217987">:facetid:toc:db/conf/aaai/cloud2011.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="3163620">
+<info><authors><author pid="03/3233">Paolo Cremonesi</author><author pid="43/8216">Andrea Sansottera</author><author pid="77/1801">Stefano Gualandi</author></authors><title>On the Cooling-Aware Workload Placement Problem.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/CremonesiSG11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3911</ee><url>https://dblp.org/rec/conf/aaai/CremonesiSG11</url></info>
+<url>URL#3163620</url>
+</hit>
+<hit score="1" id="3163671">
+<info><authors><author pid="30/3076">Ian P. Gent</author><author pid="42/7865">Lars Kotthoff</author></authors><title>Reliability of Computational Experiments on Virtualised Hardware.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/GentK11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3806</ee><url>https://dblp.org/rec/conf/aaai/GentK11</url></info>
+<url>URL#3163671</url>
+</hit>
+<hit score="1" id="3163707">
+<info><authors><author pid="50/174">Yuxiong He</author><author pid="18/1967">Sameh Elnikety</author></authors><title>Position Paper - Embracing Heterogeneity - Improving Energy Efficiency for Interactive Services on Heterogeneous Data Center Hardware.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/HeE11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3897</ee><url>https://dblp.org/rec/conf/aaai/HeE11</url></info>
+<url>URL#3163707</url>
+</hit>
+<hit score="1" id="3163817">
+<info><authors><author pid="93/448">Yannick Le Nir</author><author pid="43/1376">Florent Devin</author><author pid="77/10919">Peio Loubière</author></authors><title>Cloud Resource Management Using Constraints Acquisition and Planning.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/NirDL11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3879</ee><url>https://dblp.org/rec/conf/aaai/NirDL11</url></info>
+<url>URL#3163817</url>
+</hit>
+<hit score="1" id="3163860">
+<info><authors><author pid="20/6918">Jean-Charles Régin</author><author pid="80/10919">Mohamed Rezgui</author></authors><title>Discussion about Constraint Programming Bin Packing Models.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/ReginR11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3817</ee><url>https://dblp.org/rec/conf/aaai/ReginR11</url></info>
+<url>URL#3163860</url>
+</hit>
+<hit score="1" id="3163863">
+<info><authors><author pid="41/2610">Gordon Rios</author><author pid="82/10919">Doug Judd</author></authors><title>Load Balancing for Hypertable.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/RiosJ11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3802</ee><url>https://dblp.org/rec/conf/aaai/RiosJ11</url></info>
+<url>URL#3163863</url>
+</hit>
+<hit score="1" id="3163974">
+<info><authors><author pid="61/3906-3">Yang Xu 0003</author><author pid="68/5597">Lei Wu</author><author pid="77/7628">Liying Guo</author><author pid="33/2592">Zheng Chen</author><author pid="38/8379">Lai Yang</author><author pid="52/1213">Zhongzhi Shi</author></authors><title>An Intelligent Load Balancing Algorithm Towards Efficient Cloud Computing.</title><venue>AI for Data Center Management and Cloud Computing</venue><year>2011</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuWGCYS11</key><ee>http://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/view/3877</ee><url>https://dblp.org/rec/conf/aaai/XuWGCYS11</url></info>
+<url>URL#3163974</url>
+</hit>
+<hit score="1" id="3300569">
+<info><title>AI for Data Center Management and Cloud Computing, Papers from the 2011 AAAI Workshop, San Francisco, California, USA, August 7, 2011</title><venue>AI for Data Center Management and Cloud Computing</venue><venue>AAAI Workshops</venue><volume>WS-11-08</volume><publisher>AAAI</publisher><year>2011</year><type>Editorship</type><key>conf/aaai/2011cloud</key><ee>http://www.aaai.org/Library/Workshops/ws11-08.php</ee><url>https://dblp.org/rec/conf/aaai/2011cloud</url></info>
+<url>URL#3300569</url>
+</hit>
+</hits>
+</result>

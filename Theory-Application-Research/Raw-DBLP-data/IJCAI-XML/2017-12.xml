@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="8082">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"lacatoda2017\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">120.37</time>
+<completions total="1" computed="1" sent="1">
+<c sc="6" dc="6" oc="6" id="18262969">:facetid:toc:db/conf/ijcai/lacatoda2017.bht</c>
+</completions>
+<hits total="6" computed="6" sent="6" first="0">
+<hit score="1" id="1539860">
+<info><authors><author pid="02/3982">T. Mark Ellison</author></authors><title>Experimental Semiotics and Representation by Dialogue Systems.</title><venue>LaCATODA@IJCAI</venue><pages>1-2</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Ellison17</key><ee>http://ceur-ws.org/Vol-1926/invited.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Ellison17</url></info>
+<url>URL#1539860</url>
+</hit>
+<hit score="1" id="1539936">
+<info><authors><author pid="218/7146">Cheolho Han</author><author pid="31/5983">Sang-Woo Lee</author><author pid="215/3620">Yu-Jung Heo</author><author pid="213/8452">Woo-Young Kang</author><author pid="209/4843">Jaehyun Jun</author><author pid="09/5682">Byoung-Tak Zhang</author></authors><title>Criteria for Human-Compatible AI in Two-Player Vision-Language Tasks.</title><venue>LaCATODA@IJCAI</venue><pages>28-33</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HanLHKJZ17</key><ee>http://ceur-ws.org/Vol-1926/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/HanLHKJZ17</url></info>
+<url>URL#1539936</url>
+</hit>
+<hit score="1" id="1540206">
+<info><authors><author pid="173/6406">Andisheh Partovi</author><author pid="z/IngridZukerman">Ingrid Zukerman</author><author pid="151/8700">Quan Hung Tran</author></authors><title>Towards a Response Selection System for Spoken Requests in a Physical Domain.</title><venue>LaCATODA@IJCAI</venue><pages>20-27</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PartoviZT17</key><ee>http://ceur-ws.org/Vol-1926/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PartoviZT17</url></info>
+<url>URL#1540206</url>
+</hit>
+<hit score="1" id="1540223">
+<info><authors><author pid="77/3761">Michal Ptaszynski</author><author pid="261/0245">Juuso Kalevi Kristian Eronen</author><author pid="74/5800">Fumito Masui</author></authors><title>Learning Deep on Cyberbullying is Always Better Than Brute Force.</title><venue>LaCATODA@IJCAI</venue><pages>3-10</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PtaszynskiEM17</key><ee>http://ceur-ws.org/Vol-1926/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PtaszynskiEM17</url></info>
+<url>URL#1540223</url>
+</hit>
+<hit score="1" id="1540318">
+<info><authors><author pid="249/5064">Patrycja Swieczkowska</author><author pid="03/8162">Jolanta Bachan</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author></authors><title>Asystent - a Prototype of a Motivating Electronic Assistant.</title><venue>LaCATODA@IJCAI</venue><pages>11-19</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SwieczkowskaBRA17</key><ee>http://ceur-ws.org/Vol-1926/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/SwieczkowskaBRA17</url></info>
+<url>URL#1540318</url>
+</hit>
+<hit score="1" id="1609457">
+<info><authors><author pid="17/3493">Rafal Rzepka</author><author pid="56/2838">Jordi Vallverdú</author><author pid="226/5131">Andre Wlodarczyk</author></authors><title>Proceedings of the Linguistic and Cognitive Approaches To Dialog Agents Workshop co-located with the 26th International Joint Conference on Artificial Intelligence, LaCATODA@IJCAI 2017, Melbourne, Australia, August 21, 2017.</title><venue>LaCATODA@IJCAI</venue><venue>CEUR Workshop Proceedings</venue><volume>1926</volume><publisher>CEUR-WS.org</publisher><year>2017</year><type>Editorship</type><key>conf/ijcai/2017lacatoda</key><ee>http://ceur-ws.org/Vol-1926</ee><url>https://dblp.org/rec/conf/ijcai/2017lacatoda</url></info>
+<url>URL#1609457</url>
+</hit>
+</hits>
+</result>

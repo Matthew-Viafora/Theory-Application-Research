@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="306769">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"w3phi2015\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">107.66</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18218039">:facetid:toc:db/conf/aaai/w3phi2015.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="2066644">
+<info><authors><author pid="37/5126-1">Jie Xu 0001</author><author pid="90/4024">Daby M. Sow</author><author pid="t/DSTuraga">Deepak S. Turaga</author><author pid="s/MihaelavanderSchaar">Mihaela van der Schaar</author></authors><title>Online Transfer Learning for Differential Diagnosis Determination.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/0001STS15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10102</ee><url>https://dblp.org/rec/conf/aaai/0001STS15</url></info>
+<url>URL#2066644</url>
+</hit>
+<hit score="1" id="2066707">
+<info><authors><author pid="b/SabineBergler">Sabine Bergler</author><author pid="186/0190">Jahnavi Dhananjay</author></authors><title>Graphical View of Blog Content Using B2G.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/BerglerD15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10125</ee><url>https://dblp.org/rec/conf/aaai/BerglerD15</url></info>
+<url>URL#2066707</url>
+</hit>
+<hit score="1" id="2066806">
+<info><authors><author pid="82/7456">Alina Deshpande</author><author pid="186/8271">Esteban Abeyta</author><author pid="189/0470">Lauren Castro</author><author pid="186/8121">Ashlynn R. Daughton</author><author pid="146/0669">Geoffrey Fairchild</author><author pid="146/0581">Nicholas Generous</author><author pid="75/1280">Reid Priedhorsky</author><author pid="189/0472">Kirsten Taylor-McCabe</author><author pid="186/7751">Nileena Velappan</author></authors><title>The Surveillance Window Application (SWAP) - A Web-Hosted Tool to Facilitate Situational Awareness during Outbreaks.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/DeshpandeACDFGP15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10175</ee><url>https://dblp.org/rec/conf/aaai/DeshpandeACDFGP15</url></info>
+<url>URL#2066806</url>
+</hit>
+<hit score="1" id="2067160">
+<info><authors><author pid="00/9714">Michael J. Paul</author><author pid="31/5468">Mark Dredze</author><author pid="03/8878">David A. Broniatowski</author><author pid="146/0581">Nicholas Generous</author></authors><title>Worldwide Influenza Surveillance through Twitter.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/PaulDBG15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10161</ee><url>https://dblp.org/rec/conf/aaai/PaulDBG15</url></info>
+<url>URL#2067160</url>
+</hit>
+<hit score="1" id="2067304">
+<info><authors><author pid="00/8247">Byron C. Wallace</author><author pid="00/9714">Michael J. Paul</author><author pid="92/6201">Noémie Elhadad</author></authors><title>What Predicts Media Coverage of Health Science Articles?</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/WallacePE15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10166</ee><url>https://dblp.org/rec/conf/aaai/WallacePE15</url></info>
+<url>URL#2067304</url>
+</hit>
+<hit score="1" id="2067305">
+<info><authors><author pid="189/0474">David J. Wallach</author></authors><title>Effects of the Implementation of Electronic Medical Records in Small Internal Medicine Practices on Healthcare Objectives in the United States.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/Wallach15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10078</ee><url>https://dblp.org/rec/conf/aaai/Wallach15</url></info>
+<url>URL#2067305</url>
+</hit>
+<hit score="1" id="2067314">
+<info><authors><author pid="50/8499-2">Haoyu Wang 0002</author><author pid="47/2454">Eduard H. Hovy</author><author pid="31/5468">Mark Dredze</author></authors><title>The Hurricane Sandy Twitter Corpus.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><year>2015</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangHD15</key><ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10079</ee><url>https://dblp.org/rec/conf/aaai/WangHD15</url></info>
+<url>URL#2067314</url>
+</hit>
+<hit score="1" id="2223357">
+<info><authors><author pid="97/1397">Arash Shaban-Nejad</author><author pid="74/3031">David L. Buckeridge</author><author pid="97/8247">John S. Brownstein</author></authors><title>World Wide Web and Public Health Intelligence, Papers from the 2015 AAAI Workshop, Austin, Texas, USA, January, 2015.</title><venue>AAAI Workshop - WWW and Public Health Intelligence</venue><venue>AAAI Workshops</venue><volume>WS-15-15</volume><publisher>AAAI Press</publisher><year>2015</year><type>Editorship</type><key>conf/aaai/2015w3phi</key><ee>http://www.aaai.org/Library/Workshops/ws15-15.php</ee><url>https://dblp.org/rec/conf/aaai/2015w3phi</url></info>
+<url>URL#2223357</url>
+</hit>
+</hits>
+</result>

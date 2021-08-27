@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="308621">:facetid:toc:db\"/\"conf\"/\"aaai\"/\"aaai2018w\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">120.62</time>
+<completions total="1" computed="1" sent="1">
+<c sc="124" dc="124" oc="124" id="18217947">:facetid:toc:db/conf/aaai/aaai2018w.bht</c>
+</completions>
+<hits total="124" computed="124" sent="124" first="0">
+<hit score="1" id="1094546">
+<info><authors><author pid="27/4390-3">Yi Han 0003</author><author pid="90/1092">Benjamin I. P. Rubinstein</author></authors><title>Adequacy of the Gradient-Descent Method for Classifier Evasion Attacks.</title><venue>AAAI Workshops</venue><pages>237-244</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/0003R18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16298</ee><url>https://dblp.org/rec/conf/aaai/0003R18</url></info>
+<url>URL#1094546</url>
+</hit>
+<hit score="1" id="1094549">
+<info><authors><author pid="205/2845">Sathyanarayanan N. Aakur</author><author pid="151/8862">Fillipe D. M. de Souza</author><author pid="72/3470">Sudeep Sarkar</author></authors><title>An Inherently Explainable Model for Video Activity Interpretation.</title><venue>AAAI Workshops</venue><pages>688-694</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/AakurSS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16704</ee><url>https://dblp.org/rec/conf/aaai/AakurSS18</url></info>
+<url>URL#1094549</url>
+</hit>
+<hit score="1" id="1094554">
+<info><authors><author pid="223/2781">Eliot Abrams</author><author pid="223/2753">George Gui</author><author pid="58/9053">Ali Hortaçsu</author></authors><title>Finding Exogenous Variation in Data.</title><venue>AAAI Workshops</venue><pages>53-58</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/AbramsGH18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17277</ee><url>https://dblp.org/rec/conf/aaai/AbramsGH18</url></info>
+<url>URL#1094554</url>
+</hit>
+<hit score="1" id="1094558">
+<info><authors><author pid="11/11304">Rakshit Agrawal</author><author pid="211/6979">Anwar Habeeb</author><author pid="184/9460">Chih-Hsin Hsueh</author></authors><title>Learning User Intent from Action Sequences on Interactive Systems.</title><venue>AAAI Workshops</venue><pages>59-64</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/AgrawalHH18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17434</ee><url>https://dblp.org/rec/conf/aaai/AgrawalHH18</url></info>
+<url>URL#1094558</url>
+</hit>
+<hit score="1" id="1094562">
+<info><authors><author pid="223/2725">Ritesh Ajoodha</author><author pid="45/4591">Benjamin Rosman</author></authors><title>Learning the Influence Structure between Partially Observed Stochastic Processes Using IoT Sensor Data.</title><venue>AAAI Workshops</venue><pages>167-173</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/AjoodhaR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16840</ee><url>https://dblp.org/rec/conf/aaai/AjoodhaR18</url></info>
+<url>URL#1094562</url>
+</hit>
+<hit score="1" id="1094563">
+<info><authors><author pid="120/3465">Hend Al Tair</author><author pid="151/7811">Gonçalo S. Martins</author><author pid="23/5314-1">Luís Santos 0001</author><author pid="159/8105">Jorge Dias 0001</author></authors><title>POMDP - State-Based Decision Making for Personalized Assistive Robots.</title><venue>AAAI Workshops</venue><pages>122-125</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/AlTairMS018</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16884</ee><url>https://dblp.org/rec/conf/aaai/AlTairMS018</url></info>
+<url>URL#1094563</url>
+</hit>
+<hit score="1" id="1094594">
+<info><authors><author pid="04/5344">Roman Barták</author><author pid="149/1244">Adrien Maillard</author><author pid="131/5387">Rafael Cauê Cardoso</author></authors><title>Validation of Hierarchical Plans via Parsing of Attribute Grammars.</title><venue>AAAI Workshops</venue><pages>593-600</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BartakMC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17004</ee><url>https://dblp.org/rec/conf/aaai/BartakMC18</url></info>
+<url>URL#1094594</url>
+</hit>
+<hit score="1" id="1094598">
+<info><authors><author pid="148/4515">Tal Baumel</author><author pid="213/8459">Jumana Nassour-Kassis</author><author pid="46/9257">Raphael Cohen</author><author pid="69/1744">Michael Elhadad</author><author pid="92/6201">Noémie Elhadad</author></authors><title>Multi-Label Classification of Patient Notes - Case Study on ICD Code Assignment.</title><venue>AAAI Workshops</venue><pages>409-416</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BaumelNCEE18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16881</ee><url>https://dblp.org/rec/conf/aaai/BaumelNCEE18</url></info>
+<url>URL#1094598</url>
+</hit>
+<hit score="1" id="1094599">
+<info><authors><author pid="169/1736">Maíra Gatti de Bayser</author><author pid="218/0120">Melina Alberio Guerra</author><author pid="20/3269">Paulo R. Cavalin</author><author pid="53/154">Claudio S. Pinhanez</author></authors><title>Specifying and Implementing Multi-Party Conversation Rules with Finite-State-Automata.</title><venue>AAAI Workshops</venue><pages>713-719</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BayserGCP18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17428</ee><url>https://dblp.org/rec/conf/aaai/BayserGCP18</url></info>
+<url>URL#1094599</url>
+</hit>
+<hit score="1" id="1094600">
+<info><authors><author pid="207/0864">Anaël Beaugnon</author><author pid="189/1071">Pierre Chifflier</author><author pid="b/FrancisRBach">Francis R. Bach</author></authors><title>End-to-End Active Learning for Computer Security Experts.</title><venue>AAAI Workshops</venue><pages>217-224</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BeaugnonCB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16140</ee><url>https://dblp.org/rec/conf/aaai/BeaugnonCB18</url></info>
+<url>URL#1094600</url>
+</hit>
+<hit score="1" id="1094605">
+<info><authors><author pid="52/570">Vaishak Belle</author></authors><title>Probabilistic Planning by Probabilistic Programming.</title><venue>AAAI Workshops</venue><pages>654-657</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Belle18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16627</ee><url>https://dblp.org/rec/conf/aaai/Belle18</url></info>
+<url>URL#1094605</url>
+</hit>
+<hit score="1" id="1094634">
+<info><authors><author pid="136/0260">Timofey Bryksin</author><author pid="213/1764">Alexey Shpilman</author><author pid="46/2964">Daniel Kudenko</author></authors><title>Automated Refactoring of Object-Oriented Code Using Clustering Ensembles.</title><venue>AAAI Workshops</venue><pages>754-757</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BryksinSK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16783</ee><url>https://dblp.org/rec/conf/aaai/BryksinSK18</url></info>
+<url>URL#1094634</url>
+</hit>
+<hit score="1" id="1094636">
+<info><authors><author pid="207/7870">Nghi D. Q. Bui</author><author pid="82/3572">Lingxiao Jiang</author><author pid="74/6710">Yijun Yu</author></authors><title>Cross-Language Learning for Program Classification Using Bilateral Tree-Based Convolutional Neural Networks.</title><venue>AAAI Workshops</venue><pages>758-761</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/BuiJY18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17338</ee><url>https://dblp.org/rec/conf/aaai/BuiJY18</url></info>
+<url>URL#1094636</url>
+</hit>
+<hit score="1" id="1094661">
+<info><authors><author pid="139/8273">William E. Cheetham</author></authors><title>Personalized Healthcare for Patients Access to Price Transparency.</title><venue>AAAI Workshops</venue><pages>417-424</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Cheetham18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16966</ee><url>https://dblp.org/rec/conf/aaai/Cheetham18</url></info>
+<url>URL#1094661</url>
+</hit>
+<hit score="1" id="1094671">
+<info><authors><author pid="223/2751">Jingkai Chen</author><author pid="22/336">Cheng Fang</author><author pid="70/1862">Christian J. Muise</author><author pid="s/HowardEShrobe">Howard E. Shrobe</author><author pid="117/4893">Brian C. Williams</author><author pid="50/2599">Peng Yu</author></authors><title>RADMAX - Risk and Deadline Aware Planning for Maximum Utility.</title><venue>AAAI Workshops</venue><pages>225-230</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChenFMSWY18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17324</ee><url>https://dblp.org/rec/conf/aaai/ChenFMSWY18</url></info>
+<url>URL#1094671</url>
+</hit>
+<hit score="1" id="1094695">
+<info><authors><author pid="83/9923">Niyati Chhaya</author><author pid="62/8212">Kokil Jaidka</author><author pid="u/LyleHUngar">Lyle H. Ungar</author></authors><title>The AAAI-18 Workshop on Affective Content Analysis.</title><venue>AAAI Workshops</venue><pages>2-7</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChhayaJU18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17333</ee><url>https://dblp.org/rec/conf/aaai/ChhayaJU18</url></info>
+<url>URL#1094695</url>
+</hit>
+<hit score="1" id="1094698">
+<info><authors><author pid="217/2339">Merav Chkroun</author><author pid="18/9923">Amos Azaria</author></authors><title>Safebot - A Safe Collaborative Chatbot.</title><venue>AAAI Workshops</venue><pages>695-698</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ChkrounA18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16909</ee><url>https://dblp.org/rec/conf/aaai/ChkrounA18a</url></info>
+<url>URL#1094698</url>
+</hit>
+<hit score="1" id="1094718">
+<info><authors><author pid="98/75">Hao Cui</author><author pid="62/1789">Roni Khardon</author></authors><title>Lifted Stochastic Planning, Belief Propagation and Marginal MAP.</title><venue>AAAI Workshops</venue><pages>658-664</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/CuiK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16513</ee><url>https://dblp.org/rec/conf/aaai/CuiK18</url></info>
+<url>URL#1094718</url>
+</hit>
+<hit score="1" id="1094719">
+<info><authors><author pid="223/2761">Vishwanath D</author><author pid="16/4559">Lovekesh Vig</author><author pid="54/3265">Gautam Shroff</author><author pid="97/5792">Puneet Agarwal</author></authors><title>MEETING BOT - Reinforcement Learning for Dialogue Based Meeting Scheduling.</title><venue>AAAI Workshops</venue><pages>699-705</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/DVSA18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17336</ee><url>https://dblp.org/rec/conf/aaai/DVSA18</url></info>
+<url>URL#1094719</url>
+</hit>
+<hit score="1" id="1094732">
+<info><authors><author pid="162/8368">Haibo Ding</author><author pid="46/11004">Tianyu Jiang</author><author pid="r/ERiloff">Ellen Riloff</author></authors><title>Why Is an Event Affective? Classifying Affective Events Based on Human Needs.</title><venue>AAAI Workshops</venue><pages>8-15</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/DingJR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17125</ee><url>https://dblp.org/rec/conf/aaai/DingJR18</url></info>
+<url>URL#1094732</url>
+</hit>
+<hit score="1" id="1094749">
+<info><authors><author pid="148/9851">Sri Harsha Dumpala</author><author pid="09/8618">Rupayan Chakraborty</author><author pid="49/6239">Sunil Kumar Kopparapu</author></authors><title>Knowledge-Driven Feed-Forward Neural Network for Audio Affective Content Analysis.</title><venue>AAAI Workshops</venue><pages>16-20</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/DumpalaCK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16801</ee><url>https://dblp.org/rec/conf/aaai/DumpalaCK18</url></info>
+<url>URL#1094749</url>
+</hit>
+<hit score="1" id="1094750">
+<info><authors><author pid="205/2588">Venkatesh Duppada</author></authors><title>&quot;Attention&quot; for Detecting Unreliable News in the Information Age.</title><venue>AAAI Workshops</venue><pages>231-236</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Duppada18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17071</ee><url>https://dblp.org/rec/conf/aaai/Duppada18</url></info>
+<url>URL#1094750</url>
+</hit>
+<hit score="1" id="1094759">
+<info><authors><author pid="136/9231">Elif Eyigöz</author><author pid="206/7714">Pablo Polosecki</author><author pid="198/0073">Adolfo M. García</author><author pid="223/2707">Katharina Rogg</author><author pid="59/10369">Juan Rafael Orozco-Arroyave</author><author pid="140/2802">Sabine Skodda</author><author pid="216/9435">Eugenia Hesse</author><author pid="116/2039">Agustín Ibáñez</author><author pid="79/6762">Guillermo A. Cecchi</author></authors><title>Unsupervised Morphological Segmentation for Detecting Parkinson&apos;s Disease.</title><venue>AAAI Workshops</venue><pages>126-131</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/EyigozPGROSHIC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16992</ee><url>https://dblp.org/rec/conf/aaai/EyigozPGROSHIC18</url></info>
+<url>URL#1094759</url>
+</hit>
+<hit score="1" id="1094768">
+<info><authors><author pid="148/1397">Golnoosh Farnadi</author><author pid="145/1683">Behrouz Babaki</author><author pid="g/LiseGetoor">Lise Getoor</author></authors><title>Fairness-Aware Relational Learning and Inference.</title><venue>AAAI Workshops</venue><pages>333-335</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FarnadiBG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17000</ee><url>https://dblp.org/rec/conf/aaai/FarnadiBG18</url></info>
+<url>URL#1094768</url>
+</hit>
+<hit score="1" id="1094772">
+<info><authors><author pid="220/8743">Shichao Feng</author><author pid="29/5347">Keyuan Jiang</author><author pid="64/7421">Jiyun Li</author><author pid="61/9065">Ricardo A. Calix</author><author pid="204/6201">Matrika Gupta</author></authors><title>Detecting Personal Experience Tweets for Health Surveillance Using Unsupervised Feature Learning and Recurrent Neural Networks.</title><venue>AAAI Workshops</venue><pages>425-430</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FengJLCG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17178</ee><url>https://dblp.org/rec/conf/aaai/FengJLCG18</url></info>
+<url>URL#1094772</url>
+</hit>
+<hit score="1" id="1094776">
+<info><authors><author pid="223/2762">Libby Ferland</author><author pid="38/8987">Ziwei Li</author><author pid="223/2711">Shridhar Sukhani</author><author pid="223/2748">Joan Zheng</author><author pid="223/2783">Luyang Zhao</author><author pid="g/MariaLGini">Maria L. Gini</author></authors><title>Assistive AI for Coping with Memory Loss.</title><venue>AAAI Workshops</venue><pages>431-434</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FerlandLSZZG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17360</ee><url>https://dblp.org/rec/conf/aaai/FerlandLSZZG18</url></info>
+<url>URL#1094776</url>
+</hit>
+<hit score="1" id="1094785">
+<info><authors><author pid="149/1224">Richard G. Freedman</author><author pid="223/2782">Yi Ren Fung</author><author pid="223/2731">Roman Ganchin</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author></authors><title>Towards Quicker Probabilistic Recognition with Multiple Goal Heuristic Search.</title><venue>AAAI Workshops</venue><pages>601-606</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FreedmanFGZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17402</ee><url>https://dblp.org/rec/conf/aaai/FreedmanFGZ18</url></info>
+<url>URL#1094785</url>
+</hit>
+<hit score="1" id="1094786">
+<info><authors><author pid="149/1224">Richard Gabriel Freedman</author><author pid="z/ShlomoZilberstein">Shlomo Zilberstein</author></authors><title>Roles that Plan, Activity, and Intent Recognition with Planning Can Play in Games.</title><venue>AAAI Workshops</venue><pages>547-551</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FreedmanZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17424</ee><url>https://dblp.org/rec/conf/aaai/FreedmanZ18</url></info>
+<url>URL#1094786</url>
+</hit>
+<hit score="1" id="1094790">
+<info><authors><author pid="01/4545">Nancy Fulda</author><author pid="198/1523">Daniel Ricks</author><author pid="198/0867">Ben Murdoch</author><author pid="14/5737">David Wingate</author></authors><title>Threat, Explore, Barter, Puzzle - A Semantically-Informed Algorithm for Extracting Interaction Modes.</title><venue>AAAI Workshops</venue><pages>552-556</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/FuldaRMW18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17395</ee><url>https://dblp.org/rec/conf/aaai/FuldaRMW18</url></info>
+<url>URL#1094790</url>
+</hit>
+<hit score="1" id="1094794">
+<info><authors><author pid="137/3611">Boris A. Galitsky</author></authors><title>Building Dialogue Structure from Discourse Tree of a Question.</title><venue>AAAI Workshops</venue><pages>706-712</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Galitsky18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17169</ee><url>https://dblp.org/rec/conf/aaai/Galitsky18</url></info>
+<url>URL#1094794</url>
+</hit>
+<hit score="1" id="1094805">
+<info><authors><author pid="117/8486">Shabnam Ghaffarzadegan</author></authors><title>Deep Multiple Instance Feature Learning via Variational Autoencoder.</title><venue>AAAI Workshops</venue><pages>132-140</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Ghaffarzadegan18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16153</ee><url>https://dblp.org/rec/conf/aaai/Ghaffarzadegan18</url></info>
+<url>URL#1094805</url>
+</hit>
+<hit score="1" id="1094806">
+<info><authors><author pid="156/7322">Mohammad M. Ghassemi</author><author pid="207/8063">Tuka Al Hanai</author><author pid="61/6389">M. Brandon Westover</author><author pid="86/6416">Roger G. Mark</author><author pid="41/412">Shamim Nemati</author></authors><title>Personalized Medication Dosing Using Volatile Data Streams.</title><venue>AAAI Workshops</venue><pages>435-442</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/GhassemiHWMN18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17234</ee><url>https://dblp.org/rec/conf/aaai/GhassemiHWMN18</url></info>
+<url>URL#1094806</url>
+</hit>
+<hit score="1" id="1094809">
+<info><authors><author pid="180/1416">Shahrzad Gholami</author><author pid="58/8150">Benjamin J. Ford</author><author pid="24/4432">Debarun Kar</author><author pid="57/2878">Fei Fang</author><author pid="67/2667">Milind Tambe</author><author pid="170/5576">Andrew J. Plumptre</author><author pid="170/5674">Margaret Driciru</author><author pid="170/5591">Fred Wanyama</author><author pid="170/5632">Aggrey Rwetsiba</author><author pid="199/6786">Mustapha Nsubaga</author><author pid="199/6677">Joshua Mabonga</author></authors><title>Evaluation of Predictive Models for Wildlife Poaching Activity through Controlled Field Test in Uganda.</title><venue>AAAI Workshops</venue><pages>344-347</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/GholamiFKFTPDWR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16890</ee><url>https://dblp.org/rec/conf/aaai/GholamiFKFTPDWR18</url></info>
+<url>URL#1094809</url>
+</hit>
+<hit score="1" id="1094855">
+<info><authors><author pid="38/6099-2">Tarun Gupta 0002</author><author pid="73/193">Akshat Kumar</author><author pid="22/1006">Praveen Paruchuri</author></authors><title>Planning and Learning for Decentralized MDPs with Event Driven Rewards.</title><venue>AAAI Workshops</venue><pages>665</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuptaKP18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17288</ee><url>https://dblp.org/rec/conf/aaai/GuptaKP18a</url></info>
+<url>URL#1094855</url>
+</hit>
+<hit score="1" id="1094858">
+<info><authors><author pid="176/5400">Matthew J. Guzdial</author><author pid="r/MarkORiedl">Mark O. Riedl</author></authors><title>Combinatorial Creativity for Procedural Content Generation via Machine Learning.</title><venue>AAAI Workshops</venue><pages>557-564</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/GuzdialR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17120</ee><url>https://dblp.org/rec/conf/aaai/GuzdialR18</url></info>
+<url>URL#1094858</url>
+</hit>
+<hit score="1" id="1094860">
+<info><authors><author pid="201/7634">Prashnna K. Gyawali</author><author pid="06/3860">B. Milan Horácek</author><author pid="150/3232">John L. Sapp</author><author pid="02/6162">Linwei Wang</author></authors><title>Learning Disentangled Representation from 12-Lead Electrograms - Application in Localizing the Origin of Ventricular Tachycardia.</title><venue>AAAI Workshops</venue><pages>443-450</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/GyawaliHSW18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16954</ee><url>https://dblp.org/rec/conf/aaai/GyawaliHSW18</url></info>
+<url>URL#1094860</url>
+</hit>
+<hit score="1" id="1094862">
+<info><authors><author pid="186/7340">Nikita Haduong</author><author pid="223/2733">David Nester</author><author pid="143/2406">Preethi Vaidyanathan</author><author pid="27/7720">Emily Prud&apos;hommeaux</author><author pid="94/5210">Reynold Bailey</author><author pid="59/1175">Cecilia Ovesdotter Alm</author></authors><title>Multimodal Alignment for Affective Content.</title><venue>AAAI Workshops</venue><pages>21-28</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HaduongNVPBA18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17021</ee><url>https://dblp.org/rec/conf/aaai/HaduongNVPBA18</url></info>
+<url>URL#1094862</url>
+</hit>
+<hit score="1" id="1094868">
+<info><authors><author pid="207/4690">Yanlin Han</author><author pid="50/887">Piotr J. Gmytrasiewicz</author></authors><title>Learning Others&apos; Intentional Models in Multi-Agent Settings Using Interactive POMDPs.</title><venue>AAAI Workshops</venue><pages>666-673</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HanG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16727</ee><url>https://dblp.org/rec/conf/aaai/HanG18</url></info>
+<url>URL#1094868</url>
+</hit>
+<hit score="1" id="1094878">
+<info><authors><author pid="183/2604">Reihaneh H. Hariri</author><author pid="118/6447">Erik M. Fredericks</author></authors><title>Towards Traceability Link Recovery for Self-Adaptive Systems.</title><venue>AAAI Workshops</venue><pages>762-766</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HaririF18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16671</ee><url>https://dblp.org/rec/conf/aaai/HaririF18</url></info>
+<url>URL#1094878</url>
+</hit>
+<hit score="1" id="1094896">
+<info><authors><author pid="223/2770">Joris Heyse</author><author pid="62/738">Femke Ongenae</author><author pid="21/9870">Femke De Backere</author><author pid="30/888">Filip De Turck</author></authors><title>Personalisation of Exercises in VRET.</title><venue>AAAI Workshops</venue><pages>141-144</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HeyseOBT18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17212</ee><url>https://dblp.org/rec/conf/aaai/HeyseOBT18</url></info>
+<url>URL#1094896</url>
+</hit>
+<hit score="1" id="1094902">
+<info><authors><author pid="150/5955">Daniel Höller</author><author pid="69/6573">Pascal Bercher</author><author pid="150/5866">Gregor Behnke</author><author pid="37/5274">Susanne Biundo</author></authors><title>Plan and Goal Recognition as HTN Planning.</title><venue>AAAI Workshops</venue><pages>607-613</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HollerBBB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16811</ee><url>https://dblp.org/rec/conf/aaai/HollerBBB18</url></info>
+<url>URL#1094902</url>
+</hit>
+<hit score="1" id="1094908">
+<info><authors><author pid="179/8585">Mitra Bokaei Hosseini</author><author pid="31/10777">Xue Qin</author><author pid="25/4653-1">Jianwei Niu 0001</author></authors><title>Extracting Information Types from Android Layout Code Using Sequence to Sequence Learning.</title><venue>AAAI Workshops</venue><pages>767-770</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HosseiniQ018</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17431</ee><url>https://dblp.org/rec/conf/aaai/HosseiniQ018</url></info>
+<url>URL#1094908</url>
+</hit>
+<hit score="1" id="1094912">
+<info><authors><author pid="60/4106">Weiwei Hu</author><author pid="68/6102-2">Ying Tan 0002</author></authors><title>Black-Box Attacks against RNN Based Malware Detection Algorithms.</title><venue>AAAI Workshops</venue><pages>245-251</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Hu018</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16594</ee><url>https://dblp.org/rec/conf/aaai/Hu018</url></info>
+<url>URL#1094912</url>
+</hit>
+<hit score="1" id="1094933">
+<info><authors><author pid="151/4034">Inchul Hwang</author><author pid="176/0569">Heesik Jeon</author><author pid="00/3359">Hyung Rai Oh</author><author pid="84/4992">Donghyeon Lee</author><author pid="57/6110">Munjo Kim</author><author pid="08/427">Jihie Kim</author></authors><title>Chatti - A Conversational Chatbot Platform.</title><venue>AAAI Workshops</venue><pages>145-148</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/HwangJOLKK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16816</ee><url>https://dblp.org/rec/conf/aaai/HwangJOLKK18</url></info>
+<url>URL#1094933</url>
+</hit>
+<hit score="1" id="1094953">
+<info><authors><author pid="223/2763">Yu-Sian Jiang</author><author pid="173/5902">Garrett Warnell</author><author pid="s/PeterStone">Peter Stone</author></authors><title>DIPD - Gaze-Based Intention Inference in Dynamic Environments.</title><venue>AAAI Workshops</venue><pages>614-621</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/JiangWS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17353</ee><url>https://dblp.org/rec/conf/aaai/JiangWS18</url></info>
+<url>URL#1094953</url>
+</hit>
+<hit score="1" id="1094959">
+<info><authors><author pid="59/6222">Li Jing</author><author pid="125/2132">Çaglar Gülçehre</author><author pid="192/2104">John Peurifoy</author><author pid="192/1315">Yichen Shen</author><author pid="25/6578">Max Tegmark</author><author pid="131/2044">Marin Soljacic</author><author pid="56/953">Yoshua Bengio</author></authors><title>Gated Orthogonal Recurrent Units - On Learning to Forget.</title><venue>AAAI Workshops</venue><pages>720-726</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/JingGPSTSB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16901</ee><url>https://dblp.org/rec/conf/aaai/JingGPSTSB18</url></info>
+<url>URL#1094959</url>
+</hit>
+<hit score="1" id="1094976">
+<info><authors><author pid="01/10264">Takayuki Katsuki</author><author pid="119/6367">Masaki Ono</author><author pid="86/2676">Akira Koseki</author><author pid="58/3839">Michiharu Kudo</author><author pid="218/4212">Kyoichi Haida</author><author pid="203/5240">Jun Kuroda</author><author pid="218/4419">Masaki Makino</author><author pid="218/4224">Ryosuke Yanagiya</author><author pid="95/125">Atsushi Suzuki</author></authors><title>Feature Extraction from Electronic Health Records of Diabetic Nephropathy Patients with Convolutioinal Autoencoder.</title><venue>AAAI Workshops</venue><pages>451-454</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/KatsukiOKKHKMYS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16754</ee><url>https://dblp.org/rec/conf/aaai/KatsukiOKKHKMYS18</url></info>
+<url>URL#1094976</url>
+</hit>
+<hit score="1" id="1094989">
+<info><authors><author pid="46/960">Elham Khabiri</author><author pid="59/2423">Wesley M. Gifford</author><author pid="98/4341">Pietro Mazzoleni</author><author pid="223/2741">Dharmesh Vadgama</author></authors><title>Thematic Distillation and Point of View Extraction for Enterprise-Level Documents.</title><venue>AAAI Workshops</venue><pages>65-70</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/KhabiriGMV18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17231</ee><url>https://dblp.org/rec/conf/aaai/KhabiriGMV18</url></info>
+<url>URL#1094989</url>
+</hit>
+<hit score="1" id="1095003">
+<info><authors><author pid="124/2508">Nadin Kökciyan</author><author pid="151/3842">Isabel Sassoon</author><author pid="164/5681">Anthony P. Young</author><author pid="134/7646">Martin Chapman</author><author pid="80/3830">Talya Porat</author><author pid="152/7178">Mark Ashworth</author><author pid="76/3626">Vasa Curcin</author><author pid="08/1689">Sanjay Modgil</author><author pid="65/1416">Simon Parsons</author><author pid="s/ElizabethSklar">Elizabeth Sklar</author></authors><title>Towards an Argumentation System for Supporting Patients in Self-Managing Their Chronic Conditions.</title><venue>AAAI Workshops</venue><pages>455-462</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/KokciyanSYCPACM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16863</ee><url>https://dblp.org/rec/conf/aaai/KokciyanSYCPACM18</url></info>
+<url>URL#1095003</url>
+</hit>
+<hit score="1" id="1095008">
+<info><authors><author pid="17/10998">Pavitra Krishnaswamy</author><author pid="07/11214">Savitha Ramasamy</author><author pid="124/7164">Abdullah Al-Dujaili</author><author pid="72/5661">Srinath Sridharan</author><author pid="223/2759">Geraldine Goh</author><author pid="223/2743">Shao Chuen Tong</author><author pid="217/8479">Khin Chaw Yu Aung</author><author pid="223/2746">Gerard Leong Kui Toh</author><author pid="223/2780">Michael Ross Macdonald</author><author pid="223/2755">Sheldon Lee Shao Guang</author><author pid="33/3331">Yan Cao</author><author pid="63/7379">Suresh Sundaram</author><author pid="217/8386">Chow Wai Leng</author></authors><title>A Predictive Analytics Methodology to Assess and Optimize Readmission Risk in Heart Failure Patients.</title><venue>AAAI Workshops</venue><pages>463-464</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/KrishnaswamyRAS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17078</ee><url>https://dblp.org/rec/conf/aaai/KrishnaswamyRAS18</url></info>
+<url>URL#1095008</url>
+</hit>
+<hit score="1" id="1095010">
+<info><authors><author pid="64/10660">Christian Kroer</author><author pid="159/2090">Gabriele Farina</author><author pid="s/TuomasSandholm">Tuomas Sandholm</author></authors><title>Robust Stackelberg Equilibria in Extensive-Form Games and Extension to Limited Lookahead.</title><venue>AAAI Workshops</venue><pages>294-301</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/KroerFS18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17398</ee><url>https://dblp.org/rec/conf/aaai/KroerFS18a</url></info>
+<url>URL#1095010</url>
+</hit>
+<hit score="1" id="1095019">
+<info><authors><author pid="223/2758">Jeremy Lacomis</author><author pid="204/3702">Alan Jaffe</author><author pid="21/8302">Edward J. Schwartz</author><author pid="93/4573">Claire Le Goues</author><author pid="43/10504">Bogdan Vasilescu</author></authors><title>Statistical Machine Translation Is a Natural Fit for Automatic Identifier Renaming in Software Source Code.</title><venue>AAAI Workshops</venue><pages>771-774</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LacomisJSGV18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16409</ee><url>https://dblp.org/rec/conf/aaai/LacomisJSGV18</url></info>
+<url>URL#1095019</url>
+</hit>
+<hit score="1" id="1095023">
+<info><authors><author pid="177/3026">Hoa T. Le</author><author pid="53/6942">Christophe Cerisara</author><author pid="58/5391-2">Alexandre Denis 0002</author></authors><title>Do Convolutional Networks Need to Be Deep for Text Classification ?</title><venue>AAAI Workshops</venue><pages>29-36</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeCD18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16578</ee><url>https://dblp.org/rec/conf/aaai/LeCD18</url></info>
+<url>URL#1095023</url>
+</hit>
+<hit score="1" id="1095027">
+<info><authors><author pid="65/6241-1">Junkyu Lee 0001</author><author pid="39/1313">Alexander T. Ihler</author><author pid="d/RDechter">Rina Dechter</author></authors><title>Generalized Dual Decomposition for Bounding Maximum Expected Utility of Influence Diagrams with Perfect Recall.</title><venue>AAAI Workshops</venue><pages>674-681</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeeID18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17048</ee><url>https://dblp.org/rec/conf/aaai/LeeID18</url></info>
+<url>URL#1095027</url>
+</hit>
+<hit score="1" id="1095029">
+<info><authors><author pid="178/4414">Sunhwan Lee</author><author pid="67/1811">Robert J. Moore</author><author pid="78/9764">Guang-Jie Ren</author><author pid="199/2596">Raphael Arar</author><author pid="83/2041">Shun Jiang</author></authors><title>Making Personalized Recommendation through Conversation - Architecture Design and Recommendation Methods.</title><venue>AAAI Workshops</venue><pages>727-730</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LeeMRAJ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17221</ee><url>https://dblp.org/rec/conf/aaai/LeeMRAJ18</url></info>
+<url>URL#1095029</url>
+</hit>
+<hit score="1" id="1095058">
+<info><authors><author pid="32/6533">Xun Li</author><author pid="m/RistoMiikkulainen">Risto Miikkulainen</author></authors><title>Dynamic Adaptation and Opponent Exploitation in Computer Poker.</title><venue>AAAI Workshops</venue><pages>302-309</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17239</ee><url>https://dblp.org/rec/conf/aaai/LiM18</url></info>
+<url>URL#1095058</url>
+</hit>
+<hit score="1" id="1095086">
+<info><authors><author pid="140/7197">Elad Liebman</author><author pid="71/4993">Eric Zavesky</author><author pid="s/PeterStone">Peter Stone</author></authors><title>Autonomous Model Management via Reinforcement Learning.</title><venue>AAAI Workshops</venue><pages>348-355</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiebmanZS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17099</ee><url>https://dblp.org/rec/conf/aaai/LiebmanZS18</url></info>
+<url>URL#1095086</url>
+</hit>
+<hit score="1" id="1095091">
+<info><authors><author pid="190/4518">Bill Y. Lin</author><author pid="190/4519">Frank F. Xu</author><author pid="223/2737">Eve Q. Liao</author><author pid="z/KennyQiliZhu">Kenny Q. Zhu</author></authors><title>Transfer Learning for Traffic Speed Prediction - A Preliminary Study.</title><venue>AAAI Workshops</venue><pages>174-177</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LinXLZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16708</ee><url>https://dblp.org/rec/conf/aaai/LinXLZ18</url></info>
+<url>URL#1095091</url>
+</hit>
+<hit score="1" id="1095105">
+<info><authors><author pid="74/7037">Liu Liu</author><author pid="118/6406">Daria Dzyabura</author><author pid="35/7885">Natalie Mizik</author></authors><title>Visual Listening In - Extracting Brand Image Portrayed on Social Media.</title><venue>AAAI Workshops</venue><pages>71-77</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuDM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17094</ee><url>https://dblp.org/rec/conf/aaai/LiuDM18</url></info>
+<url>URL#1095105</url>
+</hit>
+<hit score="1" id="1095107">
+<info><authors><author pid="147/8363">Si Liu</author><author pid="222/9870">Risheek Garrepalli</author><author pid="49/6764">Alan Fern</author><author pid="d/TGDietterich">Thomas G. Dietterich</author></authors><title>Can We Achieve Open Category Detection with Guarantees?</title><venue>AAAI Workshops</venue><pages>356-363</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuGFD18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16940</ee><url>https://dblp.org/rec/conf/aaai/LiuGFD18</url></info>
+<url>URL#1095107</url>
+</hit>
+<hit score="1" id="1095112">
+<info><authors><author pid="20/7667">Tianlin Liu</author><author pid="43/8750">Arvid Kappas</author></authors><title>Predicting Engagement Breakdown in HRI Using Thin-Slices of Facial Expressions.</title><venue>AAAI Workshops</venue><pages>37-43</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16519</ee><url>https://dblp.org/rec/conf/aaai/LiuK18</url></info>
+<url>URL#1095112</url>
+</hit>
+<hit score="1" id="1095116">
+<info><authors><author pid="82/1364">Xiao Liu</author><author pid="149/8150">Dokyun Lee</author><author pid="73/1997">Kannan Srinivasan</author></authors><title>Large Scale Cross-Category Analysis of Consumer Review Content on Sales Conversion Leveraging Deep Learning.</title><venue>AAAI Workshops</venue><pages>78-84</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuLS18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16620</ee><url>https://dblp.org/rec/conf/aaai/LiuLS18a</url></info>
+<url>URL#1095116</url>
+</hit>
+<hit score="1" id="1095120">
+<info><authors><author pid="58/2670-6">Bo Liu 0006</author><author pid="51/4433">Ji Liu</author><author pid="223/2742">Kenan Xiao</author></authors><title>R2PG - Risk-Sensitive and Reliable Policy Gradient.</title><venue>AAAI Workshops</venue><pages>682-687</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuLX18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16516</ee><url>https://dblp.org/rec/conf/aaai/LiuLX18</url></info>
+<url>URL#1095120</url>
+</hit>
+<hit score="1" id="1095131">
+<info><authors><author pid="31/2088">Lu Liu</author><author pid="79/4462">Zhiguang Wang</author></authors><title>Encoding Temporal Markov Dynamics in Graph for Visualizing and Mining Time Series.</title><venue>AAAI Workshops</venue><pages>178-184</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/LiuW18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16651</ee><url>https://dblp.org/rec/conf/aaai/LiuW18a</url></info>
+<url>URL#1095131</url>
+</hit>
+<hit score="1" id="1095172">
+<info><authors><author pid="223/2769">Pankhuri Malhotra</author><author pid="22/3484">Siddhartha Bhattacharyya</author></authors><title>Large Scale Online Brand Networks to Study Brand Effects.</title><venue>AAAI Workshops</venue><pages>85-92</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MalhotraB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17321</ee><url>https://dblp.org/rec/conf/aaai/MalhotraB18</url></info>
+<url>URL#1095172</url>
+</hit>
+<hit score="1" id="1095174">
+<info><authors><author pid="161/1831">Hiroshi Mamiya</author><author pid="223/2756">Xing Han Lu</author><author pid="83/4950">Yu Ma</author><author pid="74/3031">David L. Buckeridge</author></authors><title>Using Digital Purchasing Data to Generate Public Health Evidence - Learning Unhealthy Beverage Demand from Grocery Transaction Data.</title><venue>AAAI Workshops</venue><pages>465-469</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MamiyaLMB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16399</ee><url>https://dblp.org/rec/conf/aaai/MamiyaLMB18</url></info>
+<url>URL#1095174</url>
+</hit>
+<hit score="1" id="1095179">
+<info><authors><author pid="126/1809">Marie Denise Manner</author><author pid="g/MariaLGini">Maria L. Gini</author><author pid="125/5080">Jed T. Elison</author></authors><title>Graphically Representing Child-Robot Interaction Proxemics.</title><venue>AAAI Workshops</venue><pages>470-478</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MannerGE18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16906</ee><url>https://dblp.org/rec/conf/aaai/MannerGE18</url></info>
+<url>URL#1095179</url>
+</hit>
+<hit score="1" id="1095185">
+<info><authors><author pid="223/2710">Mohammad Mehedy Masud</author><author pid="218/3848">Muhsin Cheratta</author></authors><title>A Framework for Utilizing Lab Test Results for Clinical Prediction of ICU Patients.</title><venue>AAAI Workshops</venue><pages>479-486</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MasudC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16622</ee><url>https://dblp.org/rec/conf/aaai/MasudC18</url></info>
+<url>URL#1095185</url>
+</hit>
+<hit score="1" id="1095192">
+<info><authors><author pid="195/6302">Duncan C. McElfresh</author><author pid="75/8479">John P. Dickerson</author></authors><title>Balancing Lexicographic Fairness and a Utilitarian Objective with Application to Kidney Exchange.</title><venue>AAAI Workshops</venue><pages>487-494</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/McElfreshD18b</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16193</ee><url>https://dblp.org/rec/conf/aaai/McElfreshD18b</url></info>
+<url>URL#1095192</url>
+</hit>
+<hit score="1" id="1095208">
+<info><authors><author pid="180/1401">Reuth Mirsky</author><author pid="223/2729">Ran Galun</author><author pid="65/3114">Ya&apos;akov Gal</author><author pid="28/5426">Gal A. Kaminka</author></authors><title>Comparing Plan Recognition Algorithms through Standard Libraries.</title><venue>AAAI Workshops</venue><pages>622-629</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MirskyGGK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16937</ee><url>https://dblp.org/rec/conf/aaai/MirskyGGK18</url></info>
+<url>URL#1095208</url>
+</hit>
+<hit score="1" id="1095212">
+<info><authors><author pid="213/7945">John Mitro</author><author pid="166/5510">Derek Bridge</author><author pid="56/661">Steve Prestwich</author></authors><title>Denoising Dictionary Learning Against Adversarial Perturbations.</title><venue>AAAI Workshops</venue><pages>364-371</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MitroBP18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17003</ee><url>https://dblp.org/rec/conf/aaai/MitroBP18</url></info>
+<url>URL#1095212</url>
+</hit>
+<hit score="1" id="1095216">
+<info><authors><author pid="98/1468">Matthew Molineaux</author><author pid="130/3658">Dustin Dannenhauer</author><author pid="25/557">David W. Aha</author></authors><title>Towards Explainable NPCs - A Relational Exploration Learning Agent.</title><venue>AAAI Workshops</venue><pages>565-569</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MolineauxDA18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17268</ee><url>https://dblp.org/rec/conf/aaai/MolineauxDA18</url></info>
+<url>URL#1095216</url>
+</hit>
+<hit score="1" id="1095219">
+<info><authors><author pid="63/1977">Ira S. Moskowitz</author><author pid="89/10678-1">Stephen Russell 0001</author><author pid="152/5378">Brian Jalaian</author></authors><title>Steganographic Internet of Things - Graph Topology Timing Channels.</title><venue>AAAI Workshops</venue><pages>252-259</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/MoskowitzRJ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16283</ee><url>https://dblp.org/rec/conf/aaai/MoskowitzRJ18</url></info>
+<url>URL#1095219</url>
+</hit>
+<hit score="1" id="1095240">
+<info><authors><author pid="117/4935">Thanh Hong Nguyen</author><author pid="w/MichaelPWellman">Michael P. Wellman</author><author pid="26/9089">Arunesh Sinha</author></authors><title>Deceitful Attacks in Security Games.</title><venue>AAAI Workshops</venue><pages>260-267</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/NguyenWS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17295</ee><url>https://dblp.org/rec/conf/aaai/NguyenWS18</url></info>
+<url>URL#1095240</url>
+</hit>
+<hit score="1" id="1095242">
+<info><authors><author pid="223/2712">Pengyu Nie</author><author pid="148/9553">Junyi Jessy Li</author><author pid="k/SarfrazKhurshid">Sarfraz Khurshid</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author><author pid="43/6015">Milos Gligoric</author></authors><title>Natural Language Processing and Program Analysis for Supporting Todo Comments as Software Evolves.</title><venue>AAAI Workshops</venue><pages>775-778</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/NieLKMG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17393</ee><url>https://dblp.org/rec/conf/aaai/NieLKMG18</url></info>
+<url>URL#1095242</url>
+</hit>
+<hit score="1" id="1095254">
+<info><authors><author pid="23/2350">Alessandro Oltramari</author><author pid="119/8872">Joseph Szurley</author><author pid="96/6697">Samarjit Das</author><author pid="39/9952">Jonathan Francis</author><author pid="182/7674-1">Juncheng Li 0001</author></authors><title>Towards Knowledge Oriented Intelligent Audio Analytics.</title><venue>AAAI Workshops</venue><pages>185-188</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/OltramariSDFL18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17271</ee><url>https://dblp.org/rec/conf/aaai/OltramariSDFL18</url></info>
+<url>URL#1095254</url>
+</hit>
+<hit score="1" id="1095265">
+<info><authors><author pid="05/9103">Rahul Pandita</author><author pid="69/16">Steven Bucuvalas</author><author pid="223/2745">Hugolin Bergier</author><author pid="61/7168">Aleksandar Chakarov</author><author pid="223/2714">Elizabeth Richards</author></authors><title>Towards J.A.R.V.I.S. for Software Engineering - Lessons Learned in Implementing a Natural Language Chat Interface.</title><venue>AAAI Workshops</venue><pages>779-782</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/PanditaBBCR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16653</ee><url>https://dblp.org/rec/conf/aaai/PanditaBBCR18</url></info>
+<url>URL#1095265</url>
+</hit>
+<hit score="1" id="1095271">
+<info><authors><author pid="223/2691">Alison Paredes</author><author pid="80/5790">Wheeler Ruml</author></authors><title>Real-Time Planning for Traffic Signal Control.</title><venue>AAAI Workshops</venue><pages>189-193</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ParedesR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17404</ee><url>https://dblp.org/rec/conf/aaai/ParedesR18</url></info>
+<url>URL#1095271</url>
+</hit>
+<hit score="1" id="1095272">
+<info><authors><author pid="148/6145">Enea Parimbelli</author><author pid="141/3280">Daniele Pala</author><author pid="27/3072">Riccardo Bellazzi</author><author pid="223/2765">Cecilia Vera-Mñnoz</author><author pid="164/0032">Vittorio Casella</author></authors><title>Integrating Environmental Data, Citizen Science and Personalized Predictive Modeling to Support Public Health in Cities - The PULSE WebGIS.</title><venue>AAAI Workshops</venue><pages>495-498</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ParimbelliPBVC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16154</ee><url>https://dblp.org/rec/conf/aaai/ParimbelliPBVC18</url></info>
+<url>URL#1095272</url>
+</hit>
+<hit score="1" id="1095283">
+<info><authors><author pid="178/8870">Ramon Fraga Pereira</author><author pid="10/985">Felipe Meneguzzi</author></authors><title>Goal Recognition in Incomplete STRIPS Domain Models.</title><venue>AAAI Workshops</venue><pages>630-637</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/PereiraM18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17183</ee><url>https://dblp.org/rec/conf/aaai/PereiraM18a</url></info>
+<url>URL#1095283</url>
+</hit>
+<hit score="1" id="1095285">
+<info><authors><author pid="123/7899">Sujan Perera</author><author pid="96/1878">Orna Raz</author><author pid="21/5885">Ramani Routray</author><author pid="31/529">Shenghua Bao</author><author pid="48/1257">Marcel Zalmanovici</author></authors><title>Optimizing Hierarchical Classification with Adaptive Node Collapses.</title><venue>AAAI Workshops</venue><pages>372-375</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/PereraRRBZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16515</ee><url>https://dblp.org/rec/conf/aaai/PereraRRBZ18</url></info>
+<url>URL#1095285</url>
+</hit>
+<hit score="1" id="1095288">
+<info><authors><author pid="180/3707">Gabriele Pergola</author><author pid="75/5430">Yulan He</author><author pid="135/1900">David Lowe</author></authors><title>Topical Phrase Extraction from Clinical Reports by Incorporating both Local and Global Context.</title><venue>AAAI Workshops</venue><pages>499-506</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/PergolaHL18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16612</ee><url>https://dblp.org/rec/conf/aaai/PergolaHL18</url></info>
+<url>URL#1095288</url>
+</hit>
+<hit score="1" id="1095291">
+<info><authors><author pid="147/5920">Alexander Peysakhovich</author><author pid="38/7583">Adam Lerer</author></authors><title>Consequentialist Conditional Cooperation in Social Dilemmas with Imperfect Information (Short Workshop Version).</title><venue>AAAI Workshops</venue><pages>310-316</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/PeysakhovichL18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17298</ee><url>https://dblp.org/rec/conf/aaai/PeysakhovichL18</url></info>
+<url>URL#1095291</url>
+</hit>
+<hit score="1" id="1095311">
+<info><authors><author pid="214/2488">Can Qin</author><author pid="80/3438">Maoguo Gong</author><author pid="41/5979-4">Yue Wu 0004</author><author pid="144/0030">Dayong Tian</author><author pid="187/0998">Puzhao Zhang</author></authors><title>Efficient Scene Labeling via Sparse Annotations.</title><venue>AAAI Workshops</venue><pages>194-201</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/QinG0TZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17020</ee><url>https://dblp.org/rec/conf/aaai/QinG0TZ18</url></info>
+<url>URL#1095311</url>
+</hit>
+<hit score="1" id="1095315">
+<info><authors><author pid="204/3369">Edward Raff</author><author pid="50/2212">Jon Barker</author><author pid="58/141">Jared Sylvester</author><author pid="167/7159">Robert Brandon</author><author pid="14/4826">Bryan Catanzaro</author><author pid="n/CharlesKNicholas">Charles K. Nicholas</author></authors><title>Malware Detection by Eating a Whole EXE.</title><venue>AAAI Workshops</venue><pages>268-276</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/RaffBSBCN18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16422</ee><url>https://dblp.org/rec/conf/aaai/RaffBSBCN18</url></info>
+<url>URL#1095315</url>
+</hit>
+<hit score="1" id="1095319">
+<info><authors><author pid="223/2689">Prashant Rajaram</author><author pid="53/7888">Puneet Manchanda</author><author pid="62/7340">Eric Schwartz</author></authors><title>Bingeability and Ad Tolerance - New Metrics for the Streaming Media Age.</title><venue>AAAI Workshops</venue><pages>93-99</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/RajaramMS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17018</ee><url>https://dblp.org/rec/conf/aaai/RajaramMS18</url></info>
+<url>URL#1095319</url>
+</hit>
+<hit score="1" id="1095333">
+<info><authors><author pid="95/10240">Soumali Roychowdhury</author><author pid="11/5691">Michelangelo Diligenti</author><author pid="g/MarcoGori">Marco Gori</author></authors><title>Image Classification Using Deep Learning and Prior Knowledge.</title><venue>AAAI Workshops</venue><pages>336-343</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/RoychowdhuryDG18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16575</ee><url>https://dblp.org/rec/conf/aaai/RoychowdhuryDG18</url></info>
+<url>URL#1095333</url>
+</hit>
+<hit score="1" id="1095348">
+<info><authors><author pid="97/8100">Amit Sangroya</author><author pid="30/5842">C. Anantaram</author><author pid="216/9153">Pratik Saini</author><author pid="222/7855">Mrinal Rawat</author></authors><title>Automatic Extraction of Domain Specific Latent Beliefs in Customer Complaints to Help Tailor Chatbots.</title><venue>AAAI Workshops</venue><pages>731-734</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SangroyaASR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17219</ee><url>https://dblp.org/rec/conf/aaai/SangroyaASR18</url></info>
+<url>URL#1095348</url>
+</hit>
+<hit score="1" id="1095363">
+<info><authors><author pid="139/7992">Sailik Sengupta</author><author pid="13/10605">Tathagata Chakraborti</author><author pid="k/SKambhampati">Subbarao Kambhampati</author></authors><title>MTDeep - Boosting the Security of Deep Neural Nets Against Adversarial Attacks with Moving Target Defense.</title><venue>AAAI Workshops</venue><pages>376-383</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SenguptaCK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16930</ee><url>https://dblp.org/rec/conf/aaai/SenguptaCK18</url></info>
+<url>URL#1095363</url>
+</hit>
+<hit score="1" id="1095373">
+<info><authors><author pid="223/2775">Amlaan Shakeel</author><author pid="223/2738">Peining Che</author><author pid="143/2145">Xien Liu</author><author pid="223/2715">Yamuna Rajesekhar</author><author pid="223/2749">John C. Femiani</author></authors><title>Automatic Sign Detection with Application to an Assistive Robot.</title><venue>AAAI Workshops</venue><pages>149-152</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShakeelCLRF18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16996</ee><url>https://dblp.org/rec/conf/aaai/ShakeelCLRF18</url></info>
+<url>URL#1095373</url>
+</hit>
+<hit score="1" id="1095394">
+<info><authors><author pid="223/2700">Amirreza Shirani</author><author pid="116/5350">Adrián Pastor López-Monroy</author><author pid="34/2403">Fabio A. González</author><author pid="79/3530">Thamar Solorio</author><author pid="36/3317">Mohammad Amin Alipour</author></authors><title>Evaluation of Type Inference with Textual Cues.</title><venue>AAAI Workshops</venue><pages>783-786</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ShiraniLGSA18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17001</ee><url>https://dblp.org/rec/conf/aaai/ShiraniLGSA18</url></info>
+<url>URL#1095394</url>
+</hit>
+<hit score="1" id="1095396">
+<info><authors><author pid="160/8545">Md Amran Siddiqui</author><author pid="49/6764">Alan Fern</author><author pid="00/10658">Ryan Wright</author><author pid="223/2709">Alec Theriault</author><author pid="64/4957">David W. Archer</author><author pid="223/2693">William Maxwell</author></authors><title>Detecting Cyberattack Entities from Audit Data via Multi-View Anomaly Detection with Feedback.</title><venue>AAAI Workshops</venue><pages>277-284</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SiddiquiFWTAM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16301</ee><url>https://dblp.org/rec/conf/aaai/SiddiquiFWTAM18</url></info>
+<url>URL#1095396</url>
+</hit>
+<hit score="1" id="1095425">
+<info><authors><author pid="148/1292">Siwakorn Srisakaokul</author><author pid="16/10161">Zhengkai Wu</author><author pid="223/2740">Angello Astorga</author><author pid="223/2690">Oreoluwa Alebiosu</author><author pid="x/TaoXie">Tao Xie 0001</author></authors><title>Multiple-Implementation Testing of Supervised Learning Software.</title><venue>AAAI Workshops</venue><pages>384-391</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SrisakaokulWAAX18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17301</ee><url>https://dblp.org/rec/conf/aaai/SrisakaokulWAAX18</url></info>
+<url>URL#1095425</url>
+</hit>
+<hit score="1" id="1095427">
+<info><authors><author pid="223/2717">Bram Steenwinckel</author><author pid="21/9870">Femke De Backere</author><author pid="76/9386">Jelle Nelis</author><author pid="62/738">Femke Ongenae</author><author pid="30/888">Filip De Turck</author></authors><title>Self-Learning Algorithms for the Personalised Interaction with People with Dementia.</title><venue>AAAI Workshops</venue><pages>153-158</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SteenwinckelBNO18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16772</ee><url>https://dblp.org/rec/conf/aaai/SteenwinckelBNO18</url></info>
+<url>URL#1095427</url>
+</hit>
+<hit score="1" id="1095428">
+<info><authors><author pid="99/7516">Svetlana Stoyanchev</author><author pid="77/2529">Michael Johnston</author></authors><title>Knowledge-Graph Driven Information State Approach to Dialog.</title><venue>AAAI Workshops</venue><pages>735-738</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/StoyanchevJ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17387</ee><url>https://dblp.org/rec/conf/aaai/StoyanchevJ18</url></info>
+<url>URL#1095428</url>
+</hit>
+<hit score="1" id="1095429">
+<info><authors><author pid="223/2702">Saavi Stubseid</author><author pid="98/5718">Ognjen Arandjelovic</author></authors><title>Machine Learning Based Prediction of Consumer Purchasing Decisions - The Evidence and Its Significance.</title><venue>AAAI Workshops</venue><pages>100-106</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/StubseidA18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16786</ee><url>https://dblp.org/rec/conf/aaai/StubseidA18</url></info>
+<url>URL#1095429</url>
+</hit>
+<hit score="1" id="1095438">
+<info><authors><author pid="177/8926">Adam Summerville</author></authors><title>Towards Inductive Logic Programming for Game Analysis - Leda.</title><venue>AAAI Workshops</venue><pages>570-573</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Summerville18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16968</ee><url>https://dblp.org/rec/conf/aaai/Summerville18</url></info>
+<url>URL#1095438</url>
+</hit>
+<hit score="1" id="1095444">
+<info><authors><author pid="192/2470">Susheel Suresh</author><author pid="218/7268">Guru Rajan T. S</author><author pid="218/6948">Vipin Gopinath</author></authors><title>VoC-DL - Revisiting Voice of Customer Using Deep Learning.</title><venue>AAAI Workshops</venue><pages>107-112</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/SureshSG18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17164</ee><url>https://dblp.org/rec/conf/aaai/SureshSG18a</url></info>
+<url>URL#1095444</url>
+</hit>
+<hit score="1" id="1095447">
+<info><authors><author pid="154/8160">Aniruddha Tammewar</author><author pid="188/6429">Monik Pamecha</author><author pid="25/5723">Chirag Jain</author><author pid="127/0241">Apurva Nagvenkar</author><author pid="210/2534">Krupal Modi</author></authors><title>Production Ready Chatbots - Generate if Not Retrieve.</title><venue>AAAI Workshops</venue><pages>739-745</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/TammewarPJNM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17357</ee><url>https://dblp.org/rec/conf/aaai/TammewarPJNM18</url></info>
+<url>URL#1095447</url>
+</hit>
+<hit score="1" id="1095466">
+<info><authors><author pid="181/4310">Alexandre Terrasa</author><author pid="82/742">Jean Privat</author><author pid="88/3584">Guy Tremblay</author></authors><title>Using Natural Language Processing for Documentation Assist.</title><venue>AAAI Workshops</venue><pages>787-790</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/TerrasaPT18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16821</ee><url>https://dblp.org/rec/conf/aaai/TerrasaPT18</url></info>
+<url>URL#1095466</url>
+</hit>
+<hit score="1" id="1095473">
+<info><authors><author pid="82/6958">Emmett Tomai</author></authors><title>Extraction of Interaction Events for Learning Reasonable Behavior in an Open-World Survival Game.</title><venue>AAAI Workshops</venue><pages>574-580</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Tomai18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17348</ee><url>https://dblp.org/rec/conf/aaai/Tomai18</url></info>
+<url>URL#1095473</url>
+</hit>
+<hit score="1" id="1095486">
+<info><authors><author pid="223/2776">William Tun</author><author pid="98/5718">Ognjen Arandjelovic</author><author pid="215/9851">Peter David Caie</author></authors><title>Using Machine Learning and Urine Cytology for Bladder Cancer Prescreening and Patient Stratification.</title><venue>AAAI Workshops</venue><pages>507-513</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/TunAC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16789</ee><url>https://dblp.org/rec/conf/aaai/TunAC18</url></info>
+<url>URL#1095486</url>
+</hit>
+<hit score="1" id="1095487">
+<info><authors><author pid="195/8161">Aaron Randall Tuor</author><author pid="211/6906">Ryan Baerwolf</author><author pid="211/7131">Nicolas Knowles</author><author pid="95/2527">Brian Hutchinson</author><author pid="195/1153">Nicole Nichols</author><author pid="77/2985">Robert Jasper</author></authors><title>Recurrent Neural Network Language Models for Open Vocabulary Event-Level Cyber Anomaly Detection.</title><venue>AAAI Workshops</venue><pages>285-293</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/TuorBKHNJ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17039</ee><url>https://dblp.org/rec/conf/aaai/TuorBKHNJ18</url></info>
+<url>URL#1095487</url>
+</hit>
+<hit score="1" id="1095493">
+<info><authors><author pid="138/5600">Mor Vered</author><author pid="178/8870">Ramon Fraga Pereira</author><author pid="156/7006">Mauricio Cecilio Magnaguagno</author><author pid="10/985">Felipe Meneguzzi</author><author pid="28/5426">Gal A. Kaminka</author></authors><title>Online Goal Recognition as Reasoning over Landmarks.</title><venue>AAAI Workshops</venue><pages>638-645</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/VeredPMMK18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17188</ee><url>https://dblp.org/rec/conf/aaai/VeredPMMK18</url></info>
+<url>URL#1095493</url>
+</hit>
+<hit score="1" id="1095506">
+<info><authors><author pid="21/2239">Xuguang Wang</author><author pid="206/6376">Xingyi Cheng</author><author pid="00/5012-25">Jie Zhou 0025</author><author pid="32/1213-17">Wei Xu 0017</author></authors><title>State Tracking Networks for Dialog State Tracking.</title><venue>AAAI Workshops</venue><pages>746-753</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangCZX18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17447</ee><url>https://dblp.org/rec/conf/aaai/WangCZX18</url></info>
+<url>URL#1095506</url>
+</hit>
+<hit score="1" id="1095539">
+<info><authors><author pid="79/4462">Zhiguang Wang</author><author pid="20/2427">Jianbo Yang</author></authors><title>Diabetic Retinopathy Detection via Deep Convolutional Networks for Discriminative Localization and Visual Explanation.</title><venue>AAAI Workshops</venue><pages>514-521</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/WangY18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16668</ee><url>https://dblp.org/rec/conf/aaai/WangY18</url></info>
+<url>URL#1095539</url>
+</hit>
+<hit score="1" id="1095557">
+<info><authors><author pid="17/2833">Jacob Whitehill</author></authors><title>Climbing the Kaggle Leaderboard by Exploiting the Log-Loss Oracle.</title><venue>AAAI Workshops</venue><pages>392-399</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Whitehill18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16161</ee><url>https://dblp.org/rec/conf/aaai/Whitehill18</url></info>
+<url>URL#1095557</url>
+</hit>
+<hit score="1" id="1095563">
+<info><authors><author pid="164/1648">Bryan Wilder</author><author pid="218/7394">Sze-Chuan Suen</author><author pid="67/2667">Milind Tambe</author></authors><title>Preventing Infectious Disease in Dynamic Populations Under Uncertainty.</title><venue>AAAI Workshops</venue><pages>522-529</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/WilderST18a</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17158</ee><url>https://dblp.org/rec/conf/aaai/WilderST18a</url></info>
+<url>URL#1095563</url>
+</hit>
+<hit score="1" id="1095564">
+<info><authors><author pid="223/2739">John Winder</author><author pid="97/1893">Marie desJardins</author></authors><title>Concept-Aware Feature Extraction for Knowledge Transfer in Reinforcement Learning.</title><venue>AAAI Workshops</venue><pages>581-585</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Winderd18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16910</ee><url>https://dblp.org/rec/conf/aaai/Winderd18</url></info>
+<url>URL#1095564</url>
+</hit>
+<hit score="1" id="1095569">
+<info><authors><author pid="135/0273">Mason Wright</author><author pid="w/MichaelPWellman">Michael P. Wellman</author></authors><title>Evaluating the Stability of Non-Adaptive Trading in Continuous Double Auctions - A Reinforcement Learning Approach.</title><venue>AAAI Workshops</venue><pages>317-324</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/WrightW18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16920</ee><url>https://dblp.org/rec/conf/aaai/WrightW18</url></info>
+<url>URL#1095569</url>
+</hit>
+<hit score="1" id="1095600">
+<info><authors><author pid="223/2726">Minghong Xu</author><author pid="22/3484">Siddhartha Bhattacharyya</author></authors><title>Inferring Brand Knowledge from Online Consumer Associative Brand Networks.</title><venue>AAAI Workshops</venue><pages>113-121</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/XuB18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17080</ee><url>https://dblp.org/rec/conf/aaai/XuB18</url></info>
+<url>URL#1095600</url>
+</hit>
+<hit score="1" id="1095612">
+<info><authors><author pid="126/4553">Yao Xue</author><author pid="19/6409">Nilanjan Ray</author></authors><title>Output Encoding by Compressed Sensing for Cell Detection with Deep Convnet.</title><venue>AAAI Workshops</venue><pages>159-166</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/XueR18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16188</ee><url>https://dblp.org/rec/conf/aaai/XueR18</url></info>
+<url>URL#1095612</url>
+</hit>
+<hit score="1" id="1095628">
+<info><authors><author pid="03/1094-13">Wei Yang 0013</author><author pid="181/2328">Tao Xie</author></authors><title>Telemade - A Testing Framework for Learning-Based Malware Detection Systems.</title><venue>AAAI Workshops</venue><pages>400-403</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/YangX18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16276</ee><url>https://dblp.org/rec/conf/aaai/YangX18</url></info>
+<url>URL#1095628</url>
+</hit>
+<hit score="1" id="1095641">
+<info><authors><author pid="32/1593-1">Tong Yu 0001</author><author pid="98/10484">Shijia Pan</author><author pid="188/9306">Susu Xu</author><author pid="41/9922">Xinlei Chen</author><author pid="161/9667">Mostafa Mirshekari</author><author pid="198/5383">Jonathon Fagert</author><author pid="151/7287">Hae Young Noh</author><author pid="78/5323-1">Pei Zhang 0001</author><author pid="58/2801">Ole J. Mengshoel</author></authors><title>ILPC - Iterative Learning Using Physical Constraints in Real-World Sensing Data.</title><venue>AAAI Workshops</venue><pages>202-208</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuPXCMFNZM18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16925</ee><url>https://dblp.org/rec/conf/aaai/YuPXCMFNZM18</url></info>
+<url>URL#1095641</url>
+</hit>
+<hit score="1" id="1095642">
+<info><authors><author pid="186/7892">Lantao Yu</author><author pid="44/3684">Yi Wu</author><author pid="177/9993">Rohit Singh</author><author pid="160/1079">Lucas Joppa</author><author pid="57/2878">Fei Fang</author></authors><title>Deep Reinforcement Learning for Green Security Game with Online Information.</title><venue>AAAI Workshops</venue><pages>325-333</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/YuWSJF18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17362</ee><url>https://dblp.org/rec/conf/aaai/YuWSJF18</url></info>
+<url>URL#1095642</url>
+</hit>
+<hit score="1" id="1095652">
+<info><authors><author pid="205/3142">Sayyed M. Zahiri</author><author pid="17/8156">Jinho D. Choi</author></authors><title>Emotion Detection on TV Show Transcripts with Sequence-Based Convolutional Neural Networks.</title><venue>AAAI Workshops</venue><pages>44-52</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZahiriC18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16434</ee><url>https://dblp.org/rec/conf/aaai/ZahiriC18</url></info>
+<url>URL#1095652</url>
+</hit>
+<hit score="1" id="1095657">
+<info><authors><author pid="223/2699">Yunxiu Zeng</author><author pid="30/495">Kai Xu</author><author pid="147/8406">Quanjun Yin</author><author pid="17/5251">Long Qin</author><author pid="36/2263">Yabing Zha</author><author pid="97/4283-1">William Yeoh 0001</author></authors><title>Inverse Reinforcement Learning Based Human Behavior Modeling for Goal Recognition in Dynamic Local Network Interdiction.</title><venue>AAAI Workshops</venue><pages>646-653</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZengXYQZY18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16162</ee><url>https://dblp.org/rec/conf/aaai/ZengXYQZY18</url></info>
+<url>URL#1095657</url>
+</hit>
+<hit score="1" id="1095660">
+<info><authors><author pid="223/2701">Zeping Zhan</author><author pid="88/2052">Adam M. Smith</author></authors><title>Retrieving Game States with Moment Vectors.</title><venue>AAAI Workshops</venue><pages>586-592</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhanS18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16986</ee><url>https://dblp.org/rec/conf/aaai/ZhanS18</url></info>
+<url>URL#1095660</url>
+</hit>
+<hit score="1" id="1095675">
+<info><authors><author pid="76/5416-2">Yiming Zhang 0002</author><author pid="169/7114">Yujie Fan</author><author pid="07/4509">Yanfang Ye</author><author pid="09/1365-5">Xin Li 0005</author><author pid="223/2744">Erin L. Winstanley</author></authors><title>Utilizing Social Media to Combat Opioid Addiction Epidemic - Automatic Detection of Opioid Users from Twitter.</title><venue>AAAI Workshops</venue><pages>538-546</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangFYLW18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16403</ee><url>https://dblp.org/rec/conf/aaai/ZhangFYLW18</url></info>
+<url>URL#1095675</url>
+</hit>
+<hit score="1" id="1095678">
+<info><authors><author pid="94/2606">Yikun Zhang</author><author pid="51/3710-7">Yang Liu 0007</author><author pid="l/JimingLiu-1">Jiming Liu 0001</author></authors><title>Learning Bayesian Network Structure by Self-Generating Prior Information - The Two-Step Clustering-Based Strategy.</title><venue>AAAI Workshops</venue><pages>530-537</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhangL018</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17111</ee><url>https://dblp.org/rec/conf/aaai/ZhangL018</url></info>
+<url>URL#1095678</url>
+</hit>
+<hit score="1" id="1095707">
+<info><authors><author pid="47/2026">Jun Zhao</author></authors><title>Distributed Deep Learning under Differential Privacy with the Teacher-Student Paradigm.</title><venue>AAAI Workshops</venue><pages>404-408</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/Zhao18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/16631</ee><url>https://dblp.org/rec/conf/aaai/Zhao18</url></info>
+<url>URL#1095707</url>
+</hit>
+<hit score="1" id="1095726">
+<info><authors><author pid="218/7257">Zexuan Zhong</author><author pid="173/0121">Jiaqi Guo</author><author pid="03/1094-13">Wei Yang 0013</author><author pid="x/TaoXie">Tao Xie 0001</author><author pid="37/1917">Jian-Guang Lou</author><author pid="52/5150">Ting Liu</author><author pid="87/461">Dongmei Zhang</author></authors><title>Generating Regular Expressions from Natural Language Specifications - Are We There Yet?</title><venue>AAAI Workshops</venue><pages>791-794</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhongGY0LLZ18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17262</ee><url>https://dblp.org/rec/conf/aaai/ZhongGY0LLZ18</url></info>
+<url>URL#1095726</url>
+</hit>
+<hit score="1" id="1095734">
+<info><authors><author pid="210/1044">Jingguang Zhou</author><author pid="210/0905">Zili Huang</author></authors><title>Recover Missing Sensor Data with Iterative Imputing Network.</title><venue>AAAI Workshops</venue><pages>209-216</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/aaai/ZhouH18</key><ee>https://aaai.org/ocs/index.php/WS/AAAIW18/paper/view/17154</ee><url>https://dblp.org/rec/conf/aaai/ZhouH18</url></info>
+<url>URL#1095734</url>
+</hit>
+<hit score="1" id="1263472">
+<info><title>The Workshops of the The Thirty-Second AAAI Conference on Artificial Intelligence, New Orleans, Louisiana, USA, February 2-7, 2018.</title><venue>AAAI Workshops</venue><venue>AAAI Workshops</venue><volume>WS-18</volume><publisher>AAAI Press</publisher><year>2018</year><type>Editorship</type><key>conf/aaai/2018w</key><ee>http://www.aaai.org/Library/Workshops/</ee><url>https://dblp.org/rec/conf/aaai/2018w</url></info>
+<url>URL#1263472</url>
+</hit>
+</hits>
+</result>

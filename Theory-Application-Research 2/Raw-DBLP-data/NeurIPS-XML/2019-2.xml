@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="283887">:facetid:toc:db\"/\"conf\"/\"nips\"/\"vigil2019\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">111.19</time>
+<completions total="1" computed="1" sent="1">
+<c sc="36" dc="36" oc="36" id="18251330">:facetid:toc:db/conf/nips/vigil2019.bht</c>
+</completions>
+<hits total="36" computed="36" sent="36" first="0">
+<hit score="1" id="889142">
+<info><title>Visually Grounded Interaction and Language (ViGIL), NeurIPS 2019 Workshop, Vancouver, Canada, December 13, 2019</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Editorship</type><key>conf/nips/2019vigil</key><url>https://dblp.org/rec/conf/nips/2019vigil</url></info>
+<url>URL#889142</url>
+</hit>
+<hit score="1" id="891366">
+<info><authors><author pid="206/6796">Catalina Cangea</author><author pid="42/11445">Eugene Belilovsky</author><author pid="l/PietroLio">Pietro Liò</author><author pid="56/1688">Aaron C. Courville</author></authors><title>VideoNavQA - Bridging the Gap between Visual and Embodied Question Answering.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/CangeaBLC19</key><ee>https://vigilworkshop.github.io/static/papers/9.pdf</ee><url>https://dblp.org/rec/conf/nips/CangeaBLC19</url></info>
+<url>URL#891366</url>
+</hit>
+<hit score="1" id="891367">
+<info><authors><author pid="03/10224">Guan-Lin Chao</author><author pid="11/1520">Abhinav Rastogi</author><author pid="129/1217">Semih Yavuz</author><author pid="h/DilekZHakkaniTur">Dilek Hakkani-Tür</author><author pid="07/5066">Jindong Chen</author><author pid="78/3616">Ian R. Lane</author></authors><title>Learning Question-Guided Video Representation for Multi-Turn Video Question Answering.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/ChaoRYHCL19</key><ee>https://vigilworkshop.github.io/static/papers/24.pdf</ee><url>https://dblp.org/rec/conf/nips/ChaoRYHCL19</url></info>
+<url>URL#891367</url>
+</hit>
+<hit score="1" id="891368">
+<info><authors><author pid="251/3128">Geoffrey Cideron</author><author pid="206/7388">Mathieu Seurin</author><author pid="177/9007">Florian Strub</author><author pid="58/6269">Olivier Pietquin</author></authors><title>Self-Educated Language Agent with Hindsight Experience Replay for Instruction Following.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/CideronSSP19</key><ee>https://vigilworkshop.github.io/static/papers/42.pdf</ee><url>https://dblp.org/rec/conf/nips/CideronSSP19</url></info>
+<url>URL#891368</url>
+</hit>
+<hit score="1" id="891369">
+<info><authors><author pid="248/8236">Shabnam Daghaghi</author><author pid="63/9828">Anshumali Shrivastava</author><author pid="228/8074">Tharun Medini</author></authors><title>Cross-Modal Mapping for Generalized Zero-Shot Learning by Soft-Labeling.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/DaghaghiSM19</key><ee>https://vigilworkshop.github.io/static/papers/47.pdf</ee><url>https://dblp.org/rec/conf/nips/DaghaghiSM19</url></info>
+<url>URL#891369</url>
+</hit>
+<hit score="1" id="891370">
+<info><authors><author pid="198/1432">Jean-Benoit Delbrouck</author></authors><title>Modulated Self-attention Convolutional Network for VQA.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/Delbrouck19</key><ee>https://vigilworkshop.github.io/static/papers/32.pdf</ee><url>https://dblp.org/rec/conf/nips/Delbrouck19</url></info>
+<url>URL#891370</url>
+</hit>
+<hit score="1" id="891371">
+<info><authors><author pid="198/1432">Jean-Benoit Delbrouck</author></authors><title>Can adversarial training learn image captioning ?</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/Delbrouck19a</key><ee>https://vigilworkshop.github.io/static/papers/38.pdf</ee><url>https://dblp.org/rec/conf/nips/Delbrouck19a</url></info>
+<url>URL#891371</url>
+</hit>
+<hit score="1" id="891372">
+<info><authors><author pid="218/5366">Tsu-Jui Fu</author><author pid="71/3718">Yuta Tsuboi</author><author pid="185/5523">Sosuke Kobayashi</author><author pid="144/6937">Yuta Kikuchi</author></authors><title>Learning from Observation-Only Demonstration for Task-Oriented Language Grounding via Self-Examination.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/FuTKK19</key><ee>https://vigilworkshop.github.io/static/papers/3.pdf</ee><url>https://dblp.org/rec/conf/nips/FuTKK19</url></info>
+<url>URL#891372</url>
+</hit>
+<hit score="1" id="891373">
+<info><authors><author pid="259/0489">Chihiro Fujiyama</author><author pid="38/2479">Ichiro Kobayashi</author></authors><title>A Comprehensive Analysis of Semantic Compositionality in Text-to-Image Generation.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/FujiyamaK19</key><ee>https://vigilworkshop.github.io/static/papers/29.pdf</ee><url>https://dblp.org/rec/conf/nips/FujiyamaK19</url></info>
+<url>URL#891373</url>
+</hit>
+<hit score="1" id="891374">
+<info><authors><author pid="259/0527">Alba Maria Hererra-Palacio</author><author pid="73/8277">Carles Ventura</author><author pid="13/8161">Carina Silberer</author><author pid="146/4340">Ionut-Teodor Sorodoc</author><author pid="43/2178">Gemma Boleda</author><author pid="12/7205">Xavier Giró-i-Nieto</author></authors><title>Recurrent Instance Segmentation using Sequences of Referring Expressions.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/Hererra-Palacio19</key><ee>https://vigilworkshop.github.io/static/papers/30.pdf</ee><url>https://dblp.org/rec/conf/nips/Hererra-Palacio19</url></info>
+<url>URL#891374</url>
+</hit>
+<hit score="1" id="891375">
+<info><authors><author pid="249/2616">Gabriel Ilharco</author><author pid="182/2002">Vihan Jain</author><author pid="215/4289">Alexander Ku</author><author pid="32/3393">Eugene Ie</author><author pid="90/6617">Jason Baldridge</author></authors><title>General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/IlharcoJKIB19</key><ee>https://vigilworkshop.github.io/static/papers/33.pdf</ee><url>https://dblp.org/rec/conf/nips/IlharcoJKIB19</url></info>
+<url>URL#891375</url>
+</hit>
+<hit score="1" id="891376">
+<info><authors><author pid="j/TSJayram">T. S. Jayram</author><author pid="230/4122">Vincent Albouy</author><author pid="50/8483">Tomasz Kornuta</author><author pid="254/2724">Emre Sevgen</author><author pid="227/2364">Ahmet S. Ozcan</author></authors><title>Visually Grounded Video Reasoning in Selective Attention Memory.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/JayramAKSO19</key><ee>https://vigilworkshop.github.io/static/papers/31.pdf</ee><url>https://dblp.org/rec/conf/nips/JayramAKSO19</url></info>
+<url>URL#891376</url>
+</hit>
+<hit score="1" id="891377">
+<info><authors><author pid="136/9140">Douwe Kiela</author><author pid="214/4094">Suvrat Bhooshan</author><author pid="248/8104">Hamed Firooz</author><author pid="248/8282">Davide Testuggine</author></authors><title>Supervised Multimodal Bitransformers for Classifying Images and Text.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KielaBFT19</key><ee>https://vigilworkshop.github.io/static/papers/40.pdf</ee><url>https://dblp.org/rec/conf/nips/KielaBFT19</url></info>
+<url>URL#891377</url>
+</hit>
+<hit score="1" id="891378">
+<info><authors><author pid="228/5668">Olga Kovaleva</author><author pid="134/2686">Chaitanya Shivade</author><author pid="43/9222">Satyananda Kashyap</author><author pid="259/0534">Karina Kanjaria</author><author pid="250/8448">Adam Coy</author><author pid="259/0514">Deddeh Ballah</author><author pid="40/9332">Yufan Guo</author><author pid="198/0657">Joy T. Wu</author><author pid="63/2729">Alexandros Karargyris</author><author pid="57/1253">David Beymer</author><author pid="63/873">Anna Rumshisky</author><author pid="239/0657">Vandana Mukherjee</author></authors><title>Visual Dialog for Radiology - Data Curation and FirstSteps.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KovalevaSKKCBGW19</key><ee>https://vigilworkshop.github.io/static/papers/15.pdf</ee><url>https://dblp.org/rec/conf/nips/KovalevaSKKCBGW19</url></info>
+<url>URL#891378</url>
+</hit>
+<hit score="1" id="891379">
+<info><authors><author pid="184/8937">Nikhil Krishnaswamy</author><author pid="75/534">James Pustejovsky</author></authors><title>Situated Grounding Facilitates Multimodal Concept Learning for AI.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KrishnaswamyP19</key><ee>https://vigilworkshop.github.io/static/papers/7.pdf</ee><url>https://dblp.org/rec/conf/nips/KrishnaswamyP19</url></info>
+<url>URL#891379</url>
+</hit>
+<hit score="1" id="891380">
+<info><authors><author pid="184/9014">Alexander Kuhnle</author><author pid="73/5801">Ann A. Copestake</author></authors><title>What is needed for simple spatial language capabilities in VQA?</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KuhnleC19</key><ee>https://vigilworkshop.github.io/static/papers/2.pdf</ee><url>https://dblp.org/rec/conf/nips/KuhnleC19</url></info>
+<url>URL#891380</url>
+</hit>
+<hit score="1" id="891381">
+<info><authors><author pid="164/7309">Shachi H. Kumar</author><author pid="184/2003">Eda Okur</author><author pid="18/4070">Saurav Sahay</author><author pid="55/2421">Jonathan Huang</author><author pid="65/3345">Lama Nachman</author></authors><title>Leveraging Topics and Audio Features with Multimodal Attention for Audio Visual Scene-Aware Dialog.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KumarOSHN19</key><ee>https://vigilworkshop.github.io/static/papers/39.pdf</ee><url>https://dblp.org/rec/conf/nips/KumarOSHN19</url></info>
+<url>URL#891381</url>
+</hit>
+<hit score="1" id="891382">
+<info><authors><author pid="120/3172">Yen-Ling Kuo</author><author pid="k/BorisKatz">Boris Katz</author><author pid="58/8365">Andrei Barbu</author></authors><title>Deep compositional robotic planners that follow natural language commands.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/KuoKB19</key><url>https://dblp.org/rec/conf/nips/KuoKB19</url></info>
+<url>URL#891382</url>
+</hit>
+<hit score="1" id="891383">
+<info><authors><author pid="135/8737">Farley Lai</author><author pid="198/4720">Ning Xie</author><author pid="46/4762">Derek Doran</author><author pid="42/4496">Asim Kadav</author></authors><title>Contextual Grounding of Natural Language Entities in Images.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/LaiXDK19</key><ee>https://vigilworkshop.github.io/static/papers/14.pdf</ee><url>https://dblp.org/rec/conf/nips/LaiXDK19</url></info>
+<url>URL#891383</url>
+</hit>
+<hit score="1" id="891384">
+<info><authors><author pid="252/5413">Nicolas Lair</author><author pid="215/3872">Cédric Colas</author><author pid="251/3113">Rémy Portelas</author><author pid="252/5188">Jean-Michel Dussoux</author><author pid="76/218">Peter F. Dominey</author><author pid="33/5513">Pierre-Yves Oudeyer</author></authors><title>Language Grounding through Social Interactions and Curiosity-Driven Multi-Goal Learning.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/LairCPDDO19</key><ee>https://vigilworkshop.github.io/static/papers/35.pdf</ee><url>https://dblp.org/rec/conf/nips/LairCPDDO19</url></info>
+<url>URL#891384</url>
+</hit>
+<hit score="1" id="891385">
+<info><authors><author pid="79/9656">Angeliki Lazaridou</author><author pid="127/1234">Anna Potapenko</author><author pid="232/4077">Olivier Tieleman</author></authors><title>Structural and functional learning for learning language use.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/LazaridouPT19</key><ee>https://vigilworkshop.github.io/static/papers/25.pdf</ee><url>https://dblp.org/rec/conf/nips/LazaridouPT19</url></info>
+<url>URL#891385</url>
+</hit>
+<hit score="1" id="891386">
+<info><authors><author pid="251/9608">Jingxiang Lin</author><author pid="199/2043">Unnat Jain</author><author pid="79/9775">Alexander G. Schwing</author></authors><title>A Simple Baseline for Visual Commonsense Reasoning.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/LinJS19a</key><ee>https://vigilworkshop.github.io/static/papers/34.pdf</ee><url>https://dblp.org/rec/conf/nips/LinJS19a</url></info>
+<url>URL#891386</url>
+</hit>
+<hit score="1" id="891387">
+<info><authors><author pid="82/670">Yassine Mrabet</author><author pid="59/2029">Dina Demner-Fushman</author></authors><title>On Agreements in Visual Understanding.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/MrabetD19</key><ee>https://vigilworkshop.github.io/static/papers/45.pdf</ee><url>https://dblp.org/rec/conf/nips/MrabetD19</url></info>
+<url>URL#891387</url>
+</hit>
+<hit score="1" id="891388">
+<info><authors><author pid="205/9022">Jesse Mu</author><author pid="04/1701">Percy Liang</author><author pid="96/1216">Noah D. Goodman</author></authors><title>Shaping Visual Representations with Language for Few-shot Classification.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/MuLG19</key><ee>https://vigilworkshop.github.io/static/papers/41.pdf</ee><url>https://dblp.org/rec/conf/nips/MuLG19</url></info>
+<url>URL#891388</url>
+</hit>
+<hit score="1" id="891389">
+<info><authors><author pid="53/6791">Khanh Nguyen</author><author pid="77/2856">Hal Daumé III</author></authors><title>Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/NguyenD19</key><ee>https://vigilworkshop.github.io/static/papers/1.pdf</ee><url>https://dblp.org/rec/conf/nips/NguyenD19</url></info>
+<url>URL#891389</url>
+</hit>
+<hit score="1" id="891390">
+<info><authors><author pid="228/5496">Candace Ross</author><author pid="259/0546">Cheahuychou Mao</author><author pid="k/BorisKatz">Boris Katz</author><author pid="58/8365">Andrei Barbu</author></authors><title>Learning Language from Vision.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/RossMKB19</key><ee>https://vigilworkshop.github.io/static/papers/48.pdf</ee><url>https://dblp.org/rec/conf/nips/RossMKB19</url></info>
+<url>URL#891390</url>
+</hit>
+<hit score="1" id="891391">
+<info><authors><author pid="233/7124">Homagni Saha</author><author pid="39/3312">Vijay Venkataraman</author><author pid="93/4814">Alberto Speranzon</author><author pid="33/7053">Soumik Sarkar</author></authors><title>A perspective on multi-agent communication for information fusion.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/SahaVSS19</key><ee>https://vigilworkshop.github.io/static/papers/46.pdf</ee><url>https://dblp.org/rec/conf/nips/SahaVSS19</url></info>
+<url>URL#891391</url>
+</hit>
+<hit score="1" id="891392">
+<info><authors><author pid="165/0762">Vasu Sharma</author><author pid="188/5878">Ankita Kalra</author><author pid="31/739">Louis-Philippe Morency</author></authors><title>Induced Attention Invariance - Defending VQA Models against Adversarial Attacks.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/SharmaKM19</key><ee>https://vigilworkshop.github.io/static/papers/11.pdf</ee><url>https://dblp.org/rec/conf/nips/SharmaKM19</url></info>
+<url>URL#891392</url>
+</hit>
+<hit score="1" id="891393">
+<info><authors><author pid="228/8258">Sanjay Subramanian</author><author pid="13/3568-1">Sameer Singh 0001</author><author pid="00/8046">Matt Gardner 0001</author></authors><title>Analyzing Compositionality in Visual Question Answering.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/SubramanianSG19</key><ee>https://vigilworkshop.github.io/static/papers/43.pdf</ee><url>https://dblp.org/rec/conf/nips/SubramanianSG19</url></info>
+<url>URL#891393</url>
+</hit>
+<hit score="1" id="891394">
+<info><authors><author pid="259/0609">Thomas M. Sutter</author><author pid="259/0541">Imant Daunhawer</author><author pid="13/8412">Julia E. Vogt</author></authors><title>Multimodal Generative Learning Utilizing Jensen-Shannon-Divergence.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/SutterDV19</key><ee>https://vigilworkshop.github.io/static/papers/16.pdf</ee><url>https://dblp.org/rec/conf/nips/SutterDV19</url></info>
+<url>URL#891394</url>
+</hit>
+<hit score="1" id="891395">
+<info><authors><author pid="232/4077">Olivier Tieleman</author><author pid="79/9656">Angeliki Lazaridou</author><author pid="230/4167">Shibl Mourad</author><author pid="35/8396">Charles Blundell</author><author pid="p/DoinaPrecup">Doina Precup</author></authors><title>Community size effect in artificial learning systems.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/TielemanLMBP19</key><ee>https://vigilworkshop.github.io/static/papers/26.pdf</ee><url>https://dblp.org/rec/conf/nips/TielemanLMBP19</url></info>
+<url>URL#891395</url>
+</hit>
+<hit score="1" id="891396">
+<info><authors><author pid="153/2672">Harm de Vries</author><author pid="151/6504">Dzmitry Bahdanau</author><author pid="202/2040">Shikhar Murty</author><author pid="56/1688">Aaron C. Courville</author><author pid="22/4">Philippe Beaudoin</author></authors><title>CLOSURE - Assessing Systematic Generalization of CLEVR Models.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/VriesBMCB19</key><ee>https://vigilworkshop.github.io/static/papers/28.pdf</ee><url>https://dblp.org/rec/conf/nips/VriesBMCB19</url></info>
+<url>URL#891396</url>
+</hit>
+<hit score="1" id="891397">
+<info><authors><author pid="10/5630-61">Xin Wang 0061</author><author pid="182/2002">Vihan Jain</author><author pid="32/3393">Eugene Ie</author><author pid="08/9282">William Yang Wang</author><author pid="63/5321">Zornitsa Kozareva</author><author pid="39/5111">Sujith Ravi</author></authors><title>Natural Language Grounded Multitask Navigation.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/WangJIWKR19</key><ee>https://vigilworkshop.github.io/static/papers/13.pdf</ee><url>https://dblp.org/rec/conf/nips/WangJIWKR19</url></info>
+<url>URL#891397</url>
+</hit>
+<hit score="1" id="891398">
+<info><authors><author pid="149/5889">Jialin Wu</author><author pid="m/RaymondJMooney">Raymond J. Mooney</author></authors><title>Hidden State Guidance - Improving Image Captioning Using an Image Conditioned Autoencoder.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/WuM19a</key><ee>https://vigilworkshop.github.io/static/papers/6.pdf</ee><url>https://dblp.org/rec/conf/nips/WuM19a</url></info>
+<url>URL#891398</url>
+</hit>
+<hit score="1" id="891399">
+<info><authors><author pid="230/3430">Jiannan Xiang</author><author pid="10/5630-61">Xin Wang 0061</author><author pid="08/9282">William Yang Wang</author></authors><title>Not All Actions Are Equal - Learning to Stop in Language-Grounded Urban Navigation.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/XiangWW19</key><ee>https://vigilworkshop.github.io/static/papers/5.pdf</ee><url>https://dblp.org/rec/conf/nips/XiangWW19</url></info>
+<url>URL#891399</url>
+</hit>
+<hit score="1" id="891400">
+<info><authors><author pid="136/8648">Dian Yu</author><author pid="173/9070">Chandra Khatri</author><author pid="95/8320">Alexandros Papangelis</author><author pid="174/2905">Andrea Madotto</author><author pid="97/4945">Mahdi Namazifar</author><author pid="148/1000">Joost Huizinga</author><author pid="234/9012">Adrien Ecoffet</author><author pid="40/86">Huaixiu Zheng</author><author pid="77/7837">Piero Molino</author><author pid="49/2799">Jeff Clune</author><author pid="83/3205">Zhou Yu</author><author pid="18/141">Kenji Sagae</author><author pid="24/4469">Gökhan Tür</author></authors><title>Commonsense and Semantic-Guided Navigation through Language in Embodied Environment.</title><venue>ViGIL@NeurIPS</venue><year>2019</year><type>Informal Publications</type><key>conf/nips/YuKPMNHEZMCYST19</key><url>https://dblp.org/rec/conf/nips/YuKPMNHEZMCYST19</url></info>
+<url>URL#891400</url>
+</hit>
+</hits>
+</result>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="181203">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"ijcai2019w\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">150.18</time>
+<completions total="1" computed="1" sent="1">
+<c sc="13" dc="13" oc="13" id="18262940">:facetid:toc:db/conf/ijcai/ijcai2019w.bht</c>
+</completions>
+<hits total="13" computed="13" sent="13" first="0">
+<hit score="1" id="472687">
+<info><authors><author pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</author><author pid="03/5237">David Sarne</author></authors><title>Artificial Intelligence. IJCAI 2019 International Workshops - Macao, China, August 10-12, 2019, Revised Selected Best Papers</title><venue>IJCAI</venue><venue>Lecture Notes in Computer Science</venue><volume>12158</volume><publisher>Springer</publisher><year>2020</year><type>Editorship</type><key>conf/ijcai/2019w</key><doi>10.1007/978-3-030-56150-5</doi><ee>https://doi.org/10.1007/978-3-030-56150-5</ee><url>https://dblp.org/rec/conf/ijcai/2019w</url></info>
+<url>URL#472687</url>
+</hit>
+<hit score="1" id="815497">
+<info><authors><author pid="117/5505">Ryuta Arisaka</author><author pid="24/1535">Takayuki Ito</author></authors><title>Numerical Abstract Persuasion Argumentation for Expressing Concurrent Multi-Agent Negotiations.</title><venue>IJCAI</venue><pages>131-149</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ArisakaI19</key><doi>10.1007/978-3-030-56150-5_7</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_7</ee><url>https://dblp.org/rec/conf/ijcai/ArisakaI19</url></info>
+<url>URL#815497</url>
+</hit>
+<hit score="1" id="815504">
+<info><authors><author pid="268/8736">Mateusz Babieno</author><author pid="17/3493">Rafal Rzepka</author><author pid="02/2443">Kenji Araki</author><author pid="54/3415">Pawel Dybala</author></authors><title>Comparing Conceptual Metaphor Theory-Related Features Using Classification Algorithms in Searching for Expressions Used Figuratively Within Japanese Texts.</title><venue>IJCAI</venue><pages>195-212</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/BabienoRAD19</key><doi>10.1007/978-3-030-56150-5_10</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_10</ee><url>https://dblp.org/rec/conf/ijcai/BabienoRAD19</url></info>
+<url>URL#815504</url>
+</hit>
+<hit score="1" id="815644">
+<info><authors><author pid="243/3384">Anirudh Dahiya</author><author pid="243/2878">Neeraj Battan</author><author pid="65/3881">Manish Shrivastava 0001</author><author pid="58/217">Dipti Misra Sharma</author></authors><title>Curriculum Learning Strategies for Hindi-English Code-Mixed Sentiment Analysis.</title><venue>IJCAI</venue><pages>177-189</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DahiyaBSS19</key><doi>10.1007/978-3-030-56150-5_9</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_9</ee><url>https://dblp.org/rec/conf/ijcai/DahiyaBSS19</url></info>
+<url>URL#815644</url>
+</hit>
+<hit score="1" id="815813">
+<info><authors><author pid="225/8547">Zhihang Hu</author><author pid="w/JasonTsongLiWang">Jason T. L. Wang</author></authors><title>Generative Adversarial Networks for Video Prediction with Action Control.</title><venue>IJCAI</venue><pages>87-105</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/HuW19</key><doi>10.1007/978-3-030-56150-5_5</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_5</ee><url>https://dblp.org/rec/conf/ijcai/HuW19</url></info>
+<url>URL#815813</url>
+</hit>
+<hit score="1" id="815835">
+<info><authors><author pid="10/3765">Kiyoshi Izumi</author><author pid="66/835">Hiroki Sakaji</author></authors><title>Economic Causal-Chain Search Using Text Mining Technology.</title><venue>IJCAI</venue><pages>23-35</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/IzumiS19</key><doi>10.1007/978-3-030-56150-5_2</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_2</ee><url>https://dblp.org/rec/conf/ijcai/IzumiS19</url></info>
+<url>URL#815835</url>
+</hit>
+<hit score="1" id="816002">
+<info><authors><author pid="127/7332">Andrea Loreggia</author><author pid="54/7115">Nicholas Mattei</author><author pid="r/FrancescaRossi">Francesca Rossi</author><author pid="v/KristenBrentVenable">Kristen Brent Venable</author></authors><title>CPMetric - Deep Siamese Networks for Metric Learning on Structured Preferences.</title><venue>IJCAI</venue><pages>217-234</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/LoreggiaMRV19a</key><doi>10.1007/978-3-030-56150-5_11</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_11</ee><url>https://dblp.org/rec/conf/ijcai/LoreggiaMRV19a</url></info>
+<url>URL#816002</url>
+</hit>
+<hit score="1" id="816130">
+<info><authors><author pid="11/864">Taisuke Sato</author><author pid="161/9289">Ryosuke Kojima</author></authors><title>Logical Inference as Cost Minimization in Vector Spaces.</title><venue>IJCAI</venue><pages>239-255</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SatoK19</key><doi>10.1007/978-3-030-56150-5_12</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_12</ee><url>https://dblp.org/rec/conf/ijcai/SatoK19</url></info>
+<url>URL#816130</url>
+</hit>
+<hit score="1" id="816138">
+<info><authors><author pid="132/8677">Dongxu Shao</author><author pid="273/4840">Rajanikanth Annam</author></authors><title>Translation Embeddings for Knowledge Graph Completion in Consumer Banking Sector.</title><venue>IJCAI</venue><pages>5-17</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ShaoA19</key><doi>10.1007/978-3-030-56150-5_1</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_1</ee><url>https://dblp.org/rec/conf/ijcai/ShaoA19</url></info>
+<url>URL#816138</url>
+</hit>
+<hit score="1" id="816167">
+<info><authors><author pid="03/498">Phillip Smith</author><author pid="07/4656">Asad Khan</author><author pid="61/7634">Aldeida Aleti</author><author pid="50/10222">Vincent C. S. Lee</author><author pid="143/5511">Robert A. Hunjet</author></authors><title>Data Communication Assistance via Swarm Robotic - A Behaviour Creation Comparison.</title><venue>IJCAI</venue><pages>111-126</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/SmithKALH19</key><doi>10.1007/978-3-030-56150-5_6</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_6</ee><url>https://dblp.org/rec/conf/ijcai/SmithKALH19</url></info>
+<url>URL#816167</url>
+</hit>
+<hit score="1" id="816215">
+<info><authors><author pid="62/5501">Tian Tian</author><author pid="48/6070">Richard S. Sutton</author></authors><title>Extending Sliding-Step Importance Weighting from Supervised Learning to Reinforcement Learning.</title><venue>IJCAI</venue><pages>67-82</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/TianS19</key><doi>10.1007/978-3-030-56150-5_4</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_4</ee><url>https://dblp.org/rec/conf/ijcai/TianS19</url></info>
+<url>URL#816215</url>
+</hit>
+<hit score="1" id="816426">
+<info><authors><author pid="21/1048-21">Peng Zhang 0021</author><author pid="133/1927">Xiaoyu Ge</author><author pid="21/1718">Jochen Renz</author></authors><title>Support Relation Analysis for Objects in Multiple View RGB-D Images.</title><venue>IJCAI</venue><pages>41-61</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhangGR19</key><doi>10.1007/978-3-030-56150-5_3</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_3</ee><url>https://dblp.org/rec/conf/ijcai/ZhangGR19</url></info>
+<url>URL#816426</url>
+</hit>
+<hit score="1" id="816445">
+<info><authors><author pid="03/4043-1">Le Zhang 0001</author><author pid="30/8937">Jagannadan Varadarajan</author><author pid="14/4846">Yong Pei</author></authors><title>Action Recognition Using Co-trained Deep Convolutional Neural Networks.</title><venue>IJCAI</venue><pages>155-172</pages><year>2019</year><type>Conference and Workshop Papers</type><key>conf/ijcai/ZhangVP19</key><doi>10.1007/978-3-030-56150-5_8</doi><ee>https://doi.org/10.1007/978-3-030-56150-5_8</ee><url>https://dblp.org/rec/conf/ijcai/ZhangVP19</url></info>
+<url>URL#816445</url>
+</hit>
+</hits>
+</result>

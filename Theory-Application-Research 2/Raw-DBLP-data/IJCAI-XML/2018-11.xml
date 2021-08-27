@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="179402">:facetid:toc:db\"/\"conf\"/\"ijcai\"/\"bridging2018\".\"bht</query>
+<status code="200">OK</status>
+<time unit="msecs">147.74</time>
+<completions total="1" computed="1" sent="1">
+<c sc="8" dc="8" oc="8" id="18262902">:facetid:toc:db/conf/ijcai/bridging2018.bht</c>
+</completions>
+<hits total="8" computed="8" sent="8" first="0">
+<hit score="1" id="1194550">
+<info><authors><author pid="c/StefaniaCostantini">Stefania Costantini</author><author pid="205/0103">Abeer Dyoub</author><author pid="208/2255">Valentina Pitoni</author></authors><title>Reflection and Introspection for Humanized Intelligent Agents.</title><venue>Bridging@IJCAI/ECAI</venue><pages>19-26</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CostantiniDP18</key><ee>http://ceur-ws.org/Vol-2261/paper4.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CostantiniDP18</url></info>
+<url>URL#1194550</url>
+</hit>
+<hit score="1" id="1194554">
+<info><authors><author pid="50/8336">Marcos Cramer</author><author pid="226/3415">Mathieu Guillaume</author></authors><title>Directionality of Attacks in Natural Language Argumentation.</title><venue>Bridging@IJCAI/ECAI</venue><pages>40-46</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/CramerG18</key><ee>http://ceur-ws.org/Vol-2261/paper7.pdf</ee><url>https://dblp.org/rec/conf/ijcai/CramerG18</url></info>
+<url>URL#1194554</url>
+</hit>
+<hit score="1" id="1194590">
+<info><authors><author pid="67/11251">Sjur K. Dyrkolbotn</author><author pid="61/11268">Truls Pedersen</author></authors><title>A Formal Analysis of Enthymematic Arguments.</title><venue>Bridging@IJCAI/ECAI</venue><pages>13-18</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/DyrkolbotnP18</key><ee>http://ceur-ws.org/Vol-2261/paper3.pdf</ee><url>https://dblp.org/rec/conf/ijcai/DyrkolbotnP18</url></info>
+<url>URL#1194590</url>
+</hit>
+<hit score="1" id="1194631">
+<info><authors><author pid="34/6741">Andrew Fish</author><author pid="73/6140">Alexei Lisitsa</author><author pid="93/1842">Alexei Vernitski</author></authors><title>Towards Human Readability of Automated Unknottedness Proofs.</title><venue>Bridging@IJCAI/ECAI</venue><pages>27-32</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/FishV18</key><ee>http://ceur-ws.org/Vol-2261/paper5.pdf</ee><url>https://dblp.org/rec/conf/ijcai/FishV18</url></info>
+<url>URL#1194631</url>
+</hit>
+<hit score="1" id="1194723">
+<info><authors><author pid="48/415">Steffen Hölldobler</author></authors><title>Ethical Decision Making under the Weak Completion Semantics.</title><venue>Bridging@IJCAI/ECAI</venue><pages>1</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/Holldobler18</key><ee>http://ceur-ws.org/Vol-2261/paper1.pdf</ee><url>https://dblp.org/rec/conf/ijcai/Holldobler18</url></info>
+<url>URL#1194723</url>
+</hit>
+<hit score="1" id="1194955">
+<info><authors><author pid="81/721">Lawrence S. Moss</author><author pid="233/4325">Charlotte Raty</author></authors><title>Reasoning About the Sizes of Sets - Progress, Problems, and Prospects.</title><venue>Bridging@IJCAI/ECAI</venue><pages>33-39</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/MossR18</key><ee>http://ceur-ws.org/Vol-2261/paper6.pdf</ee><url>https://dblp.org/rec/conf/ijcai/MossR18</url></info>
+<url>URL#1194955</url>
+</hit>
+<hit score="1" id="1194996">
+<info><authors><author pid="73/2447">Alison Pease</author><author pid="94/5444">Ursula Martin</author></authors><title>Automating &quot;Human-Like&quot; Example-Use in Mathematics.</title><venue>Bridging@IJCAI/ECAI</venue><pages>6-12</pages><year>2018</year><type>Conference and Workshop Papers</type><key>conf/ijcai/PeaseM18</key><ee>http://ceur-ws.org/Vol-2261/paper2.pdf</ee><url>https://dblp.org/rec/conf/ijcai/PeaseM18</url></info>
+<url>URL#1194996</url>
+</hit>
+<hit score="1" id="1267071">
+<info><authors><author pid="33/4876">Claudia Schon</author></authors><title>Proceedings of the fourth Workshop on Bridging the Gap between Human and Automated Reasoningco-located with the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018), Stockholm, Schweden, July 14, 2018.</title><venue>Bridging@IJCAI/ECAI</venue><venue>CEUR Workshop Proceedings</venue><volume>2261</volume><publisher>CEUR-WS.org</publisher><year>2018</year><type>Editorship</type><key>conf/ijcai/2018bridging</key><ee>http://ceur-ws.org/Vol-2261</ee><url>https://dblp.org/rec/conf/ijcai/2018bridging</url></info>
+<url>URL#1267071</url>
+</hit>
+</hits>
+</result>
